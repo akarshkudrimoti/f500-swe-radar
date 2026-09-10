@@ -48,5 +48,42 @@
   "crawl_allowed": false,
   "careers_url": "https://careers.walmart.com/technology",
   "checked": "NOT fetched: careers.walmart.com/robots.txt disallows /api and /results, which are the only endpoints that serve postings. Link-only, same as the 31 other companies that opt out."
+ },
+ {
+  "name": "Netflix",
+  "ats": "custom",
+  "board": "eightfold",
+  "crawl_allowed": true,
+  "host": "https://explore.jobs.netflix.net",
+  "domain": "netflix.com",
+  "careers_url": "https://explore.jobs.netflix.net/careers",
+  "checked": "Eightfold hub; robots.txt explicitly Allows /api/apply"
+ },
+ {
+  "name": "Dell Technologies",
+  "ats": "custom",
+  "board": "oracle_orc",
+  "crawl_allowed": true,
+  "host": "https://enterpriseplatform.dell.com",
+  "site": "CX_1",
+  "ui_site": "careers",
+  "careers_url": "https://jobs.dell.com",
+  "checked": "moved off Workday to Oracle Cloud Recruiting; that host serves no robots.txt, so nothing is disallowed. 165 reqs fetched, 0 are SWE internships today"
+ },
+ {
+  "name": "Comcast",
+  "ats": "custom",
+  "board": null,
+  "crawl_allowed": false,
+  "careers_url": "https://jobs.comcast.com",
+  "checked": "NOT fetched: their old Workday tenant is 410 Gone and jobs.comcast.com/robots.txt disallows /search-jobs/, the only path serving postings"
+ },
+ {
+  "name": "Qualcomm",
+  "ats": "custom",
+  "board": null,
+  "crawl_allowed": false,
+  "careers_url": "https://careers.qualcomm.com/careers",
+  "checked": "NOT fetched: Eightfold hub whose robots Allows /api/apply, but the endpoint answers 403 'Not authorized for PCSX' -- an authorization requirement, not a bot block. Their Workday tenant (wd12/External) is live but holds 0 postings"
  }
 ]

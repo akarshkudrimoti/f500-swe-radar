@@ -1,14 +1,20 @@
 {
- "generated_utc": "2026-09-10T20:33:21+00:00",
- "companies_queried": 283,
- "companies_failed": [
-  {
-   "company": "Anduril Industries",
-   "error": "HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Max retries exceeded with url: /v1/boards/andurilindustr"
-  }
- ],
- "count": 374,
+ "generated_utc": "2026-09-10T20:42:39+00:00",
+ "companies_queried": 285,
+ "companies_failed": [],
+ "count": 380,
  "listings": [
+  {
+   "company": "Cigna Group",
+   "rank": 14,
+   "sector": "Health Care",
+   "title": "The Cigna Group's Technology Development Program  - Software Engineering Track Summer Internship",
+   "location": "4 Locations",
+   "is_us": null,
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/The-Cigna-Group-s-Technology-Development-Program----Software-Engineering-Track-Summer-Internship_26009527",
+   "age_days": 0,
+   "ats": "workday"
+  },
   {
    "company": "Cigna Group",
    "rank": 14,
@@ -307,17 +313,6 @@
    "ats": "workday"
   },
   {
-   "company": "Cigna Group",
-   "rank": 14,
-   "sector": "Health Care",
-   "title": "The Cigna Group's Technology Development Program  - Software Engineering Track Summer Internship",
-   "location": "5 Locations",
-   "is_us": null,
-   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/The-Cigna-Group-s-Technology-Development-Program----Software-Engineering-Track-Summer-Internship_26009527",
-   "age_days": 1,
-   "ats": "workday"
-  },
-  {
    "company": "Nvidia",
    "rank": 16,
    "sector": "Technology",
@@ -483,17 +478,6 @@
    "ats": "workday"
   },
   {
-   "company": "Toast",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineering Intern",
-   "location": "Dublin, Ireland",
-   "is_us": false,
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8187654",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Samsara",
    "rank": null,
    "sector": "Internet of Things",
@@ -501,6 +485,17 @@
    "location": "San Francisco - SF9",
    "is_us": false,
    "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Toast",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineering Intern",
+   "location": "Dublin, Ireland",
+   "is_us": false,
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8187654",
    "age_days": 1,
    "ats": "greenhouse"
   },
@@ -545,6 +540,39 @@
    "location": "Littleton, CO",
    "is_us": true,
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989722003",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "2027 Quality & Test Engineer Intern",
+   "location": "Dublin, Dublin, Ireland",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "2027 Software Engineer Intern",
+   "location": "Dublin, Dublin, Ireland",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "2027 Software Quality Assurance Intern",
+   "location": "Dublin, Dublin, Ireland",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232025007?gh_jid=5232025007",
    "age_days": 1,
    "ats": "greenhouse"
   },
@@ -1493,6 +1521,17 @@
    "url": "https://jobs.smartrecruiters.com/westerndigital/744000146883869",
    "age_days": 8,
    "ats": "smartrecruiters"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "2027 Software Engineer Intern",
+   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+   "age_days": 8,
+   "ats": "greenhouse"
   },
   {
    "company": "Cadence Design Systems",
@@ -2571,6 +2610,28 @@
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/ESP---Madrid-Spain/Intern---Software-Engineering_JR2026522576-1",
    "age_days": 22,
    "ats": "workday"
+  },
+  {
+   "company": "Netflix",
+   "rank": 105,
+   "sector": "Media",
+   "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+   "location": "Los Gatos, California, United States of America",
+   "is_us": true,
+   "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+   "age_days": 22,
+   "ats": "custom"
+  },
+  {
+   "company": "Netflix",
+   "rank": 105,
+   "sector": "Media",
+   "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+   "location": "Los Gatos, California, United States of America",
+   "is_us": true,
+   "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+   "age_days": 22,
+   "ats": "custom"
   },
   {
    "company": "Zscaler",
