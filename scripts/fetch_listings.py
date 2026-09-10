@@ -167,6 +167,9 @@ FETCHERS = {"workday": from_workday, "greenhouse": from_greenhouse,
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--company", help="fetch a single company by name")
+    ap.add_argument("--companies",
+                    help="comma-separated names to refetch, merging the result "
+                         "into the existing listings rather than replacing them")
     ap.add_argument("--limit", type=int, help="stop after N companies (smoke test)")
     ap.add_argument("--workers", type=int, default=10)
     args = ap.parse_args()
@@ -175,6 +178,10 @@ def main():
     live = [c for c in ats if c.get("ats") in FETCHERS and c.get("crawl_allowed")]
     if args.company:
         live = [c for c in live if c["name"].lower() == args.company.lower()]
+    subset = None
+    if args.companies:
+        subset = {n.strip().lower() for n in args.companies.split(",") if n.strip()}
+        live = [c for c in live if c["name"].lower() in subset]
     if args.limit:
         live = live[:args.limit]
 
@@ -199,6 +206,19 @@ def main():
     # Newest first; unknown ages sink to the bottom rather than jumping the queue.
     rows.sort(key=lambda r: (r["age_days"] is None, r["age_days"] or 0,
                          r.get("rank") or 10 ** 6))
+
+    if subset is not None:
+        # Refreshing a few companies must not drop everyone else's rows: keep
+        # every existing row whose company was not queried, then add the new
+        # ones. Dropping the queried companies first is what lets a posting
+        # that has closed actually disappear.
+        prev = json.loads((DATA / "listings.json").read_text(encoding="utf-8"))
+        kept = [r for r in prev["listings"] if r["company"].lower() not in subset]
+        rows = kept + rows
+        rows.sort(key=lambda r: (r["age_days"] is None, r["age_days"] or 0,
+                                 r.get("rank") or 10 ** 6))
+        print(f"merged: {len(rows) - len(kept)} refreshed, {len(kept)} untouched",
+              file=sys.stderr)
 
     # A filtered run is a spot check. Writing its handful of rows over the file
     # would silently discard every other company's listings.

@@ -1,0 +1,91 @@
+name: Watch for changes
+
+# Cheap change detection. One request per board tells us whether it moved
+# (~60s for all of them); only the boards that actually moved get the
+# expensive paginated fetch. Most of the cost of "check more often" disappears.
+#
+# CADENCE AND COST. A run is ~1 min when nothing changed and ~3 min when
+# something did, plus ~40s of checkout/setup. Private repos meter Actions
+# minutes (2,000/month on the Free plan), which is what sets the interval:
+#
+#   every 2 hours   ~1,150 min/month   fits, with the daily sweep below
+#   every hour      ~2,300 min/month   over the free allowance
+#   every 15 min    ~9,000 min/month   only sensible on a public repo
+#
+# Public repositories get unlimited Actions minutes. If this repo is ever made
+# public, change the cron below to "*/15 * * * *" and delete this paragraph's
+# reason for existing.
+
+on:
+  schedule:
+    - cron: "23 */2 * * *"
+  workflow_dispatch:
+    inputs:
+      force_all:
+        description: "Refetch every board, ignoring the signatures"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-write        # shared with refresh.yml; these must not interleave
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests
+
+      - name: Probe every board for change
+        id: probe
+        run: |
+          set +e
+          changed=$(python scripts/watch.py --workers 16)
+          code=$?
+          set -e
+          if [ "${{ inputs.force_all }}" = "true" ]; then
+            changed="__ALL__"; code=0
+          fi
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          # Names can be long; pass them through a file, not an output.
+          printf '%s' "$changed" > /tmp/changed.txt
+          echo "count=$(tr ',' '\n' < /tmp/changed.txt | grep -c . || true)" >> "$GITHUB_OUTPUT"
+
+      - name: Refetch only what moved
+        if: steps.probe.outputs.code == '0'
+        run: |
+          changed=$(cat /tmp/changed.txt)
+          if [ "$changed" = "__ALL__" ]; then
+            echo "no baseline yet (or forced) - full fetch"
+            python scripts/fetch_listings.py --workers 8
+          else
+            echo "refetching: $changed"
+            python scripts/fetch_listings.py --companies "$changed" --workers 8
+          fi
+          python scripts/build_readme.py
+
+      - name: Commit if anything moved
+        if: steps.probe.outputs.code == '0'
+        run: |
+          git config user.name  "f500-swe-radar"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data README.md
+          if git diff --cached --quiet; then
+            echo "boards moved but no posting we track changed"
+          else
+            n=$(python -c "import json;print(json.load(open('data/listings.json'))['count'])")
+            git commit -m "watch: $n open postings (${{ steps.probe.outputs.count }} boards moved)"
+            git push
+          fi
+
+      - name: Nothing changed
+        if: steps.probe.outputs.code != '0'
+        run: echo "no board moved since the last check"

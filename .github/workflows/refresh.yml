@@ -1,8 +1,8 @@
-name: Refresh radar
+name: Full sweep
 
 on:
   schedule:
-    - cron: "17 */6 * * *"   # every 6 hours, off the hour to avoid the stampede
+    - cron: "17 4 * * *"   # daily; watch.yml handles the frequent path
   workflow_dispatch:
     inputs:
       rediscover:
@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: refresh
+  group: radar-write        # shared with watch.yml
   cancel-in-progress: false
 
 jobs:
