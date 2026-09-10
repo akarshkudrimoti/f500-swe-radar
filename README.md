@@ -2,7 +2,7 @@
 
 Software-engineering **internship** postings (Summer 2027 cycle), pulled straight from the applicant tracking systems of the companies on the [2026 Fortune 500](https://fortune.com/ranking/fortune500/2026/).
 
-**205 open postings** (39 in the US) across **34 companies** · last refreshed 2026-09-10 18:14:33 UTC
+**206 open postings** (39 in the US) across **34 companies** · last refreshed 2026-09-10 19:43:07 UTC
 
 Coverage: 175 of 500 companies have a machine-readable feed we query. 31 more were identified but their `robots.txt` disallows crawling, so they are listed as links only. 294 are still unresolved — see [Coverage](#coverage).
 
@@ -53,7 +53,7 @@ Coverage: 175 of 500 companies have a machine-readable feed we query. 31 more we
 | 476 | **Marvell Technology** | Applied Machine Learning Scientist Intern - PhD | Santa Clara, CA | 1mo | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1) |
 
 <details>
-<summary>International (125) and unstated location (41)</summary>
+<summary>International (124) and unstated location (43)</summary>
 
 ### International
 
@@ -90,7 +90,6 @@ Coverage: 175 of 500 companies have a machine-readable feed we query. 31 more we
 | 16 | **Nvidia** | Infrastructure Tool Development Intern - 2027 | China, Shanghai | 5d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Infrastructure-Tool-Development-Intern---2027_JR2025040) |
 | 16 | **Nvidia** | Compute System Arch AI Infra Intern - 2027 | China, Shanghai | 5d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-System-Arch-AI-Infra-Intern---2027_JR2023889) |
 | 88 | **Intel** | Intern System Software Development Engineer | Malaysia, Penang | 6d | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286937) |
-| 101 | **GE Aerospace** | Data Science Intern | Bengaluru | 7d | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Bengaluru/Data-Science-Intern_R5039463) |
 | 124 | **GE Vernova** | GE Vernova Software Engineering - Co-op -Summer - Fall | Rochester | 7d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rochester/GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-2) |
 | 124 | **GE Vernova** | GE Vernova Software Engineering - Co-op - Spring-Summer 2027 | Rochester | 7d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rochester/GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-2) |
 | 124 | **GE Vernova** | GE Vernova CIC Systems Engineer Co-op - Summer-Fall 2027 | Rochester | 7d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Summer-Fall-2027_R5051597-2) |
@@ -191,8 +190,11 @@ _Usually a multi-site requisition; open the posting to see where._
 
 | # | Company | Role | Location | Age | |
 |---|---------|------|----------|-----|-|
+| 23 | **General Motors** | 2027 Winter Co-op Data Engineering Software Developer | 2 Locations | today | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353) |
 | 88 | **Intel** | Operations Research Engineer Intern | 2 Locations | today | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945) |
+| 88 | **Intel** | AI Software Engineering PhD Intern | 2 Locations | today | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730) |
 | 125 | **Micron Technology** | Intern - AI Agentic Systems Engineer | 2 Locations | today | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474) |
+| 476 | **Marvell Technology** | Ph.D. Intern - AI/ML & Design Automation | 9 Locations | today | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412) |
 | 14 | **Cigna Group** | The Cigna Group's Technology Development Program  - Software Engineering Track Summer Internship | 5 Locations | 1d | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/The-Cigna-Group-s-Technology-Development-Program----Software-Engineering-Track-Summer-Internship_26009527) |
 | 159 | **Medline** | RPA & Agentic AI Software Technologies Intern - Summer 2027 | 2 Locations | 1d | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378) |
 | 476 | **Marvell Technology** | Optical Module Software/Firmware Intern | 2 Locations | 1d | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Shanghai/Optical-Module-Software-Firmware-Intern_2604216) |
@@ -217,7 +219,6 @@ _Usually a multi-site requisition; open the posting to see where._
 | 159 | **Medline** | Software Development Intern - Summer 2027 | 2 Locations | 9d | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Mundelein-Illinois/Software-Development-Intern---Summer-2027_R2617613) |
 | 159 | **Medline** | Software Engineering Intern - Summer 2027 | 2 Locations | 9d | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/Software-Engineering-Intern---Summer-2027_R2617623) |
 | 16 | **Nvidia** | AI Developer Technology Engineer Intern, AI - 2027 | 2 Locations | 10d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002) |
-| 23 | **General Motors** | 2027 Winter Co-op Data Engineering Software Developer | 2 Locations | 10d | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353) |
 | 101 | **GE Aerospace** | Applied AI Engineer Co-op – Spring 2027 (January Start) | 53 Locations | 10d | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Co-op---Spring-2027--January-Start-_R5039041-1) |
 | 101 | **GE Aerospace** | Applied AI Engineer Intern – Summer 2027 (May/June Start) | 53 Locations | 10d | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | 114 | **Salesforce** | Summer 2027 Intern - Software Engineer | 8 Locations | 10d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |

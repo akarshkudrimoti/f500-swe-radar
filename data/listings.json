@@ -1,8 +1,8 @@
 {
- "generated_utc": "2026-09-10T18:14:33+00:00",
+ "generated_utc": "2026-09-10T19:43:07+00:00",
  "companies_queried": 175,
  "companies_failed": [],
- "count": 205,
+ "count": 206,
  "listings": [
   {
    "company": "Cigna Group",
@@ -16,6 +16,17 @@
    "ats": "workday"
   },
   {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Winter Co-op Data Engineering Software Developer",
+   "location": "2 Locations",
+   "is_us": null,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353",
+   "age_days": 0,
+   "ats": "workday"
+  },
+  {
    "company": "Intel",
    "rank": 88,
    "sector": "Technology",
@@ -23,6 +34,17 @@
    "location": "2 Locations",
    "is_us": null,
    "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945",
+   "age_days": 0,
+   "ats": "workday"
+  },
+  {
+   "company": "Intel",
+   "rank": 88,
+   "sector": "Technology",
+   "title": "AI Software Engineering PhD Intern",
+   "location": "2 Locations",
+   "is_us": null,
+   "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730",
    "age_days": 0,
    "ats": "workday"
   },
@@ -78,6 +100,17 @@
    "location": "Krakow, Poland",
    "is_us": false,
    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--Java-_R68285",
+   "age_days": 0,
+   "ats": "workday"
+  },
+  {
+   "company": "Marvell Technology",
+   "rank": 476,
+   "sector": "Technology",
+   "title": "Ph.D. Intern - AI/ML & Design Automation",
+   "location": "9 Locations",
+   "is_us": null,
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412",
    "age_days": 0,
    "ats": "workday"
   },
@@ -720,17 +753,6 @@
    "ats": "workday"
   },
   {
-   "company": "GE Aerospace",
-   "rank": 101,
-   "sector": "Aerospace & Defense",
-   "title": "Data Science Intern",
-   "location": "Bengaluru",
-   "is_us": false,
-   "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Bengaluru/Data-Science-Intern_R5039463",
-   "age_days": 7,
-   "ats": "workday"
-  },
-  {
    "company": "GE Vernova",
    "rank": 124,
    "sector": "Energy",
@@ -1024,17 +1046,6 @@
    "location": "2 Locations",
    "is_us": null,
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002",
-   "age_days": 10,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Winter Co-op Data Engineering Software Developer",
-   "location": "2 Locations",
-   "is_us": null,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353",
    "age_days": 10,
    "ats": "workday"
   },
