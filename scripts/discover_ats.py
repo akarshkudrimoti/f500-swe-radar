@@ -17,7 +17,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import re
 
-from common import normalize, session, tokens
+from common import load_companies, normalize, rank_key, session, tokens
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -225,7 +225,7 @@ def main():
     ap.add_argument("--workers", type=int, default=6)
     args = ap.parse_args()
 
-    companies = json.loads((DATA / "companies.json").read_text(encoding="utf-8"))
+    companies = load_companies(DATA)
     cache_path = DATA / "ats.json"
     cache = {}
     if cache_path.exists():
@@ -260,7 +260,7 @@ def main():
             done += 1
             if done % 10 == 0:  # checkpoint: a killed run keeps what it found
                 cache_path.write_text(encoding="utf-8", data=json.dumps(
-                    sorted(cache.values(), key=lambda c: c.get("rank", 10**6)), indent=1))
+                    sorted(cache.values(), key=rank_key), indent=1))
             if res["ats"] != "unknown":
                 print(f"  [{done}/{len(todo)}] {res['name']}: {res['ats']} "
                       f"({res.get('total_open')} open)", file=sys.stderr, flush=True)
@@ -270,7 +270,7 @@ def main():
     for name, o in overrides.items():
         cache[name] = {**cache.get(name, {}), **o}
 
-    rows = sorted(cache.values(), key=lambda c: c.get("rank", 10**6))
+    rows = sorted(cache.values(), key=rank_key)
     cache_path.write_text(encoding="utf-8", data=json.dumps(rows, indent=1))
 
     resolved = sum(1 for r in rows if r.get("ats") != "unknown")

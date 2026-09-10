@@ -2,9 +2,9 @@
 
 Software-engineering **internship** postings (Summer 2027 cycle), pulled straight from the applicant tracking systems of the companies on the [2026 Fortune 500](https://fortune.com/ranking/fortune500/2026/).
 
-**206 open postings** (39 in the US) across **34 companies** · last refreshed 2026-09-10 19:43:07 UTC
+**218 open postings** (45 in the US) across **35 companies** · last refreshed 2026-09-10 20:03:01 UTC
 
-Coverage: 175 of 500 companies have a machine-readable feed we query. 31 more were identified but their `robots.txt` disallows crawling, so they are listed as links only. 294 are still unresolved — see [Coverage](#coverage).
+Coverage: 178 of 500 companies have a machine-readable feed we query. 32 more were identified but their `robots.txt` disallows crawling, so they are listed as links only. 290 are still unresolved — see [Coverage](#coverage).
 
 ---
 
@@ -51,21 +51,27 @@ Coverage: 175 of 500 companies have a machine-readable feed we query. 31 more we
 | 16 | **Nvidia** | NVIDIA 2027 Internships: Software Engineering | US, CA, Santa Clara | 22d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
 | 16 | **Nvidia** | NVIDIA Spring 2027 Internships: Developer and Performance Technology | US, CA, Santa Clara | 22d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) |
 | 476 | **Marvell Technology** | Applied Machine Learning Scientist Intern - PhD | Santa Clara, CA | 1mo | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1) |
+| 4 | **Apple** | Machine Learning and Artificial Intelligence Masters Internships | United States of America | 3mo | [Apply](https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships) |
+| 4 | **Apple** | Machine Learning and Artificial Intelligence PhD Internships | United States of America | 3mo | [Apply](https://jobs.apple.com/en-us/details/200664223/machine-learning-and-artificial-intelligence-phd-internships) |
+| 4 | **Apple** | Machine Learning and Artificial Intelligence Undergrad Internships | United States of America | 3mo | [Apply](https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships) |
+| 4 | **Apple** | Software PhD Internships | United States of America | 3mo | [Apply](https://jobs.apple.com/en-us/details/200664323/software-phd-internships) |
+| 4 | **Apple** | Software Engineering Masters Internships | United States of America | 3mo | [Apply](https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships) |
+| 4 | **Apple** | Software Undergrad Engineering Internships | United States of America | 3mo | [Apply](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships) |
 
 <details>
-<summary>International (124) and unstated location (43)</summary>
+<summary>International (130) and unstated location (43)</summary>
 
 ### International
 
 | # | Company | Role | Location | Age | |
 |---|---------|------|----------|-----|-|
+| 23 | **General Motors** | 2027 Winter Co-op Mechatronic Infrastructure Diagnostic Systems | Markham, Ontario, Canada | today | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Mechatronic-Infrastructure-Diagnostic-Systems_JR-202618915) |
 | 326 | **Labcorp Holdings** | Intern - Data Science - Oncology | Baltimore MD | today | [Apply](https://labcorp.wd1.myworkdayjobs.com/External/job/Baltimore-MD/Intern---Data-Science---Oncology_2630590) |
 | 378 | **Motorola Solutions** | Intern Software Developer (C#) | Krakow, Poland | today | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C--_R67818) |
 | 378 | **Motorola Solutions** | Intern Software Developer (Java) | Krakow, Poland | today | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--Java-_R68285) |
 | 1 | **Amazon** | Software Development Engineer Intern, ROBOTICS - 2027 | Toronto, Ontario, CAN | 1d | [Apply](https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027) |
 | 16 | **Nvidia** | Software Engineering Intern — Replay Tooling & Test Automation, Autonomous Driving | Germany, Munich | 1d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) |
 | 16 | **Nvidia** | System Software Intern, Video Chips - Summer 2027 | China, Shanghai | 1d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Intern--Video-Chips---Summer-2027_JR2025179) |
-| 23 | **General Motors** | 2027 Winter Co-op Mechatronic Infrastructure Diagnostic Systems | Markham, Ontario, Canada | 1d | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Mechatronic-Infrastructure-Diagnostic-Systems_JR-202618915) |
 | 84 | **HP** | AI Transformation & Automation Intern | Sofia, Sofia, Bulgaria | 1d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sofia-Sofia-Bulgaria/AI-Transformation---Automation-Intern_3168543-1) |
 | 88 | **Intel** | System Software Engineering Intern | Malaysia, Kulim | 1d | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/System-Software-Engineering-Intern_JR0286933) |
 | 88 | **Intel** | AI and Compiler Engineering Graduate Intern | Virtual Canada | 1d | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850) |
@@ -73,6 +79,7 @@ Coverage: 175 of 500 companies have a machine-readable feed we query. 31 more we
 | 124 | **GE Vernova** | Grid Automation & Software Intern | Remote | 1d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Grid-Automation---Software-Intern_R5052362-1) |
 | 124 | **GE Vernova** | Quality Engineer Intern | Singapore | 1d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Singapore/Quality-Engineer-Intern_R5051500-2) |
 | 476 | **Marvell Technology** | AI Infrastructure Engineer Intern | Petah-Tikva | 1d | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/AI-Infrastructure-Engineer-Intern_2604499) |
+| 4 | **Apple** | GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture | United Kingdom | 2d | [Apply](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) |
 | 63 | **Capital One Financial** | Intern, Backend Software Engineer - Team Interstellar - Winter 2027 | Toronto, ON | 2d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022) |
 | 63 | **Capital One Financial** | Intern, Mobile Software Engineer - Team Gringotts North - Winter 2027 | Toronto, ON | 2d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015) |
 | 63 | **Capital One Financial** | Intern, Full Stack Software Engineer - Team Pickle - Winter 2027 | Toronto, ON | 2d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013) |
@@ -83,6 +90,7 @@ Coverage: 175 of 500 companies have a machine-readable feed we query. 31 more we
 | 125 | **Micron Technology** | Intern - Software Engineer | Boise, ID - Main Site | 2d | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550) |
 | 125 | **Micron Technology** | Intern - STPG PE Firmware | MSB, Singapore | 2d | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318) |
 | 258 | **Dick's Sporting Goods** | Software Engineering - Summer 2027 Corporate Internship | Customer Support Center | 2d | [Apply](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2027-Corporate-Internship_202608792-1) |
+| 4 | **Apple** | PHY Cellular Firmware Engineer Internship | Germany | 3d | [Apply](https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship) |
 | 88 | **Intel** | Intern System Software Development Engineer | Malaysia, Kulim | 3d | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935) |
 | 88 | **Intel** | Intern System Software Development Engineer | Malaysia, Penang | 3d | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955) |
 | 88 | **Intel** | AI/ML Software App Development Intern | PRC, Chengdu | 3d | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Chengdu/AI-ML-Software-App-Development-Intern_JR0286946) |
@@ -169,7 +177,9 @@ Coverage: 175 of 500 companies have a machine-readable feed we query. 31 more we
 | 432 | **Western Digital** | Intern - Data Science | Bayan Lepas, my | 1mo | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000141229015) |
 | 432 | **Western Digital** | Intern- Firmware Engineering | Petaling Jaya, my | 1mo | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000141229499) |
 | 432 | **Western Digital** | Intern Firmware Engineering | Petaling Jaya, my | 1mo | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000141227773) |
+| 4 | **Apple** | Software Engineer Intern(Core OS)-Shanghai | China | 1mo | [Apply](https://jobs.apple.com/en-us/details/200494844/software-engineer-intern-core-os-shanghai) |
 | 432 | **Western Digital** | Intern- Firmware Engineering | Petaling Jaya, my | 2mo | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000136953840) |
+| 4 | **Apple** | Machine Learning Engineer Intern - Shanghai | China | 2mo | [Apply](https://jobs.apple.com/en-us/details/200609538/machine-learning-engineer-intern-shanghai) |
 | 432 | **Western Digital** | Intern - Software Developer (Studying Bachelor Degree) - Start in January 2027 | Amphoe Si Maha Phot, th | 2mo | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000134646158) |
 | 1 | **Amazon** | 2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning | Melbourne, Victoria, AUS | 2mo | [Apply](https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning) |
 | 432 | **Western Digital** | Internship - Software Development (Embedded) | Petaling Jaya, my | 2mo | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000134410659) |
@@ -182,6 +192,8 @@ Coverage: 175 of 500 companies have a machine-readable feed we query. 31 more we
 | 1 | **Amazon** | Software Development Engineer Internship, Guadalajara | Zapopan, Jalisco, MEX | 10mo | [Apply](https://www.amazon.jobs/en/jobs/3123243/software-development-engineer-internship-guadalajara) |
 | 1 | **Amazon** | Software Development Engineer Internship, Mexico City | Mexico City, Mexico City, MEX | 10mo | [Apply](https://www.amazon.jobs/en/jobs/3123246/software-development-engineer-internship-mexico-city) |
 | 1 | **Amazon** | Software Development Intern, Intech | BRA | 10mo | [Apply](https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech) |
+| 4 | **Apple** | SoC Performance Modeling Internship - Platform Architecture | United Kingdom | 10mo | [Apply](https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture) |
+| 4 | **Apple** | SoC Performance Modeling Internship - Platform Architecture (m/f/d) | Germany | 11mo | [Apply](https://jobs.apple.com/en-us/details/200622296/soc-performance-modeling-internship-platform-architecture-m-f-d) |
 | 1 | **Amazon** | Software Development Engineer Intern, Amazon University Talent Acquisition | Sao Paulo, Sao Paulo, BRA | 12mo | [Apply](https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition) |
 
 ### Location not stated
@@ -240,12 +252,12 @@ _Usually a multi-site requisition; open the posting to see where._
 
 | Source | Companies |
 |--------|-----------|
-| — | 294 |
-| Workday | 168 |
+| — | 290 |
+| Workday | 170 |
 | SmartRecruiters | 18 |
 | Greenhouse | 11 |
 | Ashby | 7 |
-| Own site | 1 |
+| Own site | 3 |
 | Lever | 1 |
 
 <details>
@@ -254,9 +266,9 @@ _Usually a multi-site requisition; open the posting to see where._
 | # | Company | Sector | ATS | Careers |
 |---|---------|--------|-----|---------|
 | 1 | Amazon | Retailing | Own site | [open](https://www.amazon.jobs/en/search?base_query=intern) |
-| 2 | Walmart | Retailing | — | [search](https://www.google.com/search?q=Walmart+software+engineering+internship+careers) |
+| 2 | Walmart | Retailing | Own site ¹ | [open](https://careers.walmart.com/technology) |
 | 3 | UnitedHealth Group | Health Care | — | [search](https://www.google.com/search?q=UnitedHealth+Group+software+engineering+internship+careers) |
-| 4 | Apple | Technology | — | [search](https://www.google.com/search?q=Apple+software+engineering+internship+careers) |
+| 4 | Apple | Technology | Own site | [open](https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN&sort=newest) |
 | 5 | Alphabet | Technology | — | [search](https://www.google.com/search?q=Alphabet+software+engineering+internship+careers) |
 | 6 | CVS Health | Health Care | Workday | [open](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers) |
 | 7 | Berkshire Hathaway | Financials | — | [search](https://www.google.com/search?q=Berkshire+Hathaway+software+engineering+internship+careers) |
@@ -291,7 +303,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | 36 | Goldman Sachs Group | Financials | — | [search](https://www.google.com/search?q=Goldman+Sachs+Group+software+engineering+internship+careers) |
 | 37 | Comcast | Telecommunications | — | [search](https://www.google.com/search?q=Comcast+software+engineering+internship+careers) |
 | 38 | Wells Fargo | Financials | Workday | [open](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs) |
-| 39 | Morgan Stanley | Financials | — | [search](https://www.google.com/search?q=Morgan+Stanley+software+engineering+internship+careers) |
+| 39 | Morgan Stanley | Financials | Workday | [open](https://ms.wd5.myworkdayjobs.com/External) |
 | 40 | Valero Energy | Energy | — | [search](https://www.google.com/search?q=Valero+Energy+software+engineering+internship+careers) |
 | 41 | Dell Technologies | Technology | — | [search](https://www.google.com/search?q=Dell+Technologies+software+engineering+internship+careers) |
 | 42 | Target | Retailing | Workday ¹ | [open](https://target.wd5.myworkdayjobs.com/targetcareers) |
@@ -388,7 +400,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | 133 | Hewlett Packard Enterprise | Technology | — | [search](https://www.google.com/search?q=Hewlett+Packard+Enterprise+software+engineering+internship+careers) |
 | 134 | D.R. Horton | Engineering & Construction | — | [search](https://www.google.com/search?q=D.R.+Horton+software+engineering+internship+careers) |
 | 135 | Lennar | Engineering & Construction | Workday | [open](https://lennar.wd1.myworkdayjobs.com/Early_Careers) |
-| 136 | PNC Financial Services Group | Financials | — | [search](https://www.google.com/search?q=PNC+Financial+Services+Group+software+engineering+internship+careers) |
+| 136 | PNC Financial Services Group | Financials | Workday | [open](https://pnc.wd5.myworkdayjobs.com/External) |
 | 137 | Cummins | Industrials | — | [search](https://www.google.com/search?q=Cummins+software+engineering+internship+careers) |
 | 138 | Oneok | Energy | Workday ¹ | [open](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers) |
 | 139 | PayPal Holdings | Business Services | Workday | [open](https://paypal.wd1.myworkdayjobs.com/jobs) |

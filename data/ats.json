@@ -12,7 +12,8 @@
   "board": "amazon",
   "crawl_allowed": true,
   "careers_url": "https://www.amazon.jobs/en/search?base_query=intern",
-  "note": "runs its own board; amazon.jobs/robots.txt only disallows /internal"
+  "note": "runs its own board; amazon.jobs/robots.txt only disallows /internal",
+  "checked": "runs its own board; amazon.jobs/robots.txt disallows only /internal"
  },
  {
   "rank": 2,
@@ -23,7 +24,11 @@
   "city": "Bentonville",
   "state": "Arkansas",
   "employees": 2100000.0,
-  "ats": "unknown"
+  "ats": "custom",
+  "board": null,
+  "crawl_allowed": false,
+  "careers_url": "https://careers.walmart.com/technology",
+  "checked": "NOT fetched: careers.walmart.com/robots.txt disallows /api and /results, which are the only endpoints that serve postings. Link-only, same as the 31 other companies that opt out."
  },
  {
   "rank": 3,
@@ -45,7 +50,11 @@
   "city": "Cupertino",
   "state": "California",
   "employees": 166000.0,
-  "ats": "unknown"
+  "ats": "custom",
+  "board": "apple",
+  "crawl_allowed": true,
+  "careers_url": "https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN&sort=newest",
+  "checked": "runs its own board; jobs.apple.com serves no robots.txt, results are server-rendered and public"
  },
  {
   "rank": 5,
@@ -557,7 +566,16 @@
   "city": "New York",
   "state": "New York",
   "employees": 82992.0,
-  "ats": "unknown"
+  "ats": "workday",
+  "tenant": "ms",
+  "pod": 5,
+  "site": "External",
+  "slug": "ms",
+  "match": "manual",
+  "crawl_allowed": true,
+  "api": "https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs",
+  "careers_url": "https://ms.wd5.myworkdayjobs.com/External",
+  "checked": "job descriptions on this board name Morgan Stanley; robots Allow: /External/"
  },
  {
   "rank": 40,
@@ -1948,7 +1966,16 @@
   "city": "Pittsburgh",
   "state": "Pennsylvania",
   "employees": 54596.0,
-  "ats": "unknown"
+  "ats": "workday",
+  "tenant": "pnc",
+  "pod": 5,
+  "site": "External",
+  "slug": "pnc",
+  "match": "manual",
+  "crawl_allowed": true,
+  "api": "https://pnc.wd5.myworkdayjobs.com/wday/cxs/pnc/External/jobs",
+  "careers_url": "https://pnc.wd5.myworkdayjobs.com/External",
+  "checked": "postings titled 'PNC Wealth Management'; sitemap lists HarrisWilliams (PNC subsidiary)"
  },
  {
   "rank": 137,

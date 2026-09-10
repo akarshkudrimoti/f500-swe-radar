@@ -1,4 +1,5 @@
 """Shared helpers: slug generation and a polite HTTP session."""
+import json
 import re
 import threading
 
@@ -98,3 +99,20 @@ def normalize(name: str) -> list[tuple[str, bool]]:
         add("".join(core[:2]), False)
         add("".join(w[0] for w in core), False)  # initialisms: 'ibm', 'ups'
     return out
+
+
+def load_companies(data_dir):
+    """The Fortune 500 plus the curated non-F500 list in extra_companies.json.
+
+    Extras carry no rank, so anything that orders companies must treat a
+    missing rank as "sorts last" rather than assuming the key is there.
+    """
+    rows = json.loads((data_dir / "companies.json").read_text(encoding="utf-8"))
+    extra = data_dir / "extra_companies.json"
+    if extra.exists():
+        rows += json.loads(extra.read_text(encoding="utf-8"))
+    return rows
+
+
+def rank_key(c):
+    return c.get("rank") or 10 ** 6

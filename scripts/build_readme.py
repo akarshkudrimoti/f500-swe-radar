@@ -12,6 +12,11 @@ ATS_LABEL = {"workday": "Workday", "greenhouse": "Greenhouse", "lever": "Lever",
              "custom": "Own site", "unknown": "—"}
 
 
+def rk(c):
+    """Fortune rank, or an em dash for the non-F500 companies."""
+    return str(c.get("rank")) if c.get("rank") else "—"
+
+
 def esc(s):
     return str(s).replace("|", "\\|").replace("\n", " ").strip()
 
@@ -68,7 +73,7 @@ def main():
         A("| # | Company | Role | Location | Age | |")
         A("|---|---------|------|----------|-----|-|")
         for r in section:
-            A(f"| {r['rank']} | **{esc(r['company'])}** | {esc(r['title'])} "
+            A(f"| {rk(r)} | **{esc(r['company'])}** | {esc(r['title'])} "
               f"| {esc(r['location'])} | {age(r['age_days'])} "
               f"| [Apply]({r['url']}) |")
 
@@ -120,7 +125,7 @@ def main():
             q = quote_plus(f"{c['name']} software engineering internship careers")
             link = f"[search](https://www.google.com/search?q={q})"
         flag = "" if c.get("crawl_allowed") or c.get("ats") == "unknown" else " ¹"
-        A(f"| {c['rank']} | {esc(c['name'])} | {esc(c['sector'])} "
+        A(f"| {rk(c)} | {esc(c['name'])} | {esc(c['sector'])} "
           f"| {ATS_LABEL.get(c.get('ats', 'unknown'), c.get('ats'))}{flag} | {link} |")
     A("")
     A("</details>")

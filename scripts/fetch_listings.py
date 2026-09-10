@@ -62,7 +62,7 @@ def _age_days(value):
 
 def _row(company, title, location, url, posted):
     loc = (location or "").strip()
-    return {"company": company["name"], "rank": company["rank"],
+    return {"company": company["name"], "rank": company.get("rank"),
             "sector": company["sector"], "title": title.strip(),
             "location": loc or "Not stated", "is_us": is_us(loc),
             "url": url, "age_days": _age_days(posted), "ats": company["ats"]}
@@ -197,7 +197,18 @@ def main():
                       file=sys.stderr, flush=True)
 
     # Newest first; unknown ages sink to the bottom rather than jumping the queue.
-    rows.sort(key=lambda r: (r["age_days"] is None, r["age_days"] or 0, r["rank"]))
+    rows.sort(key=lambda r: (r["age_days"] is None, r["age_days"] or 0,
+                         r.get("rank") or 10 ** 6))
+
+    # A filtered run is a spot check. Writing its handful of rows over the file
+    # would silently discard every other company's listings.
+    if args.company or args.limit:
+        for r in rows:
+            print(f"  {r['age_days']}d | {r['title'][:70]} | {r['location']}",
+                  file=sys.stderr)
+        print(f"\n{len(rows)} postings (spot check -- data/listings.json not written)",
+              file=sys.stderr)
+        return
 
     (DATA / "listings.json").write_text(encoding="utf-8", data=json.dumps(
         {"generated_utc": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),

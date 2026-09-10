@@ -1,8 +1,8 @@
 {
- "generated_utc": "2026-09-10T19:43:07+00:00",
- "companies_queried": 175,
+ "generated_utc": "2026-09-10T20:03:01+00:00",
+ "companies_queried": 178,
  "companies_failed": [],
- "count": 206,
+ "count": 218,
  "listings": [
   {
    "company": "Cigna Group",
@@ -23,6 +23,17 @@
    "location": "2 Locations",
    "is_us": null,
    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353",
+   "age_days": 0,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Winter Co-op Mechatronic Infrastructure Diagnostic Systems",
+   "location": "Markham, Ontario, Canada",
+   "is_us": false,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Mechatronic-Infrastructure-Diagnostic-Systems_JR-202618915",
    "age_days": 0,
    "ats": "workday"
   },
@@ -170,17 +181,6 @@
    "ats": "workday"
   },
   {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Winter Co-op Mechatronic Infrastructure Diagnostic Systems",
-   "location": "Markham, Ontario, Canada",
-   "is_us": false,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Mechatronic-Infrastructure-Diagnostic-Systems_JR-202618915",
-   "age_days": 1,
-   "ats": "workday"
-  },
-  {
    "company": "HP",
    "rank": 84,
    "sector": "Technology",
@@ -298,6 +298,17 @@
    "location": "Austin, Texas, USA",
    "is_us": true,
    "url": "https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security",
+   "age_days": 2,
+   "ats": "custom"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture",
+   "location": "United Kingdom",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture",
    "age_days": 2,
    "ats": "custom"
   },
@@ -531,6 +542,17 @@
    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388",
    "age_days": 2,
    "ats": "workday"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "PHY Cellular Firmware Engineer Internship",
+   "location": "Germany",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship",
+   "age_days": 3,
+   "ats": "custom"
   },
   {
    "company": "HP",
@@ -2106,6 +2128,17 @@
    "ats": "smartrecruiters"
   },
   {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Software Engineer Intern(Core OS)-Shanghai",
+   "location": "China",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200494844/software-engineer-intern-core-os-shanghai",
+   "age_days": 51,
+   "ats": "custom"
+  },
+  {
    "company": "Western Digital",
    "rank": 432,
    "sector": "Technology",
@@ -2115,6 +2148,17 @@
    "url": "https://jobs.smartrecruiters.com/westerndigital/744000136953840",
    "age_days": 62,
    "ats": "smartrecruiters"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Machine Learning Engineer Intern - Shanghai",
+   "location": "China",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200609538/machine-learning-engineer-intern-shanghai",
+   "age_days": 73,
+   "ats": "custom"
   },
   {
    "company": "Western Digital",
@@ -2158,6 +2202,72 @@
    "is_us": false,
    "url": "https://www.amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning",
    "age_days": 79,
+   "ats": "custom"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Machine Learning and Artificial Intelligence Masters Internships",
+   "location": "United States of America",
+   "is_us": true,
+   "url": "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
+   "age_days": 111,
+   "ats": "custom"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Machine Learning and Artificial Intelligence PhD Internships",
+   "location": "United States of America",
+   "is_us": true,
+   "url": "https://jobs.apple.com/en-us/details/200664223/machine-learning-and-artificial-intelligence-phd-internships",
+   "age_days": 111,
+   "ats": "custom"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Machine Learning and Artificial Intelligence Undergrad Internships",
+   "location": "United States of America",
+   "is_us": true,
+   "url": "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
+   "age_days": 112,
+   "ats": "custom"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Software PhD Internships",
+   "location": "United States of America",
+   "is_us": true,
+   "url": "https://jobs.apple.com/en-us/details/200664323/software-phd-internships",
+   "age_days": 112,
+   "ats": "custom"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Software Engineering Masters Internships",
+   "location": "United States of America",
+   "is_us": true,
+   "url": "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
+   "age_days": 112,
+   "ats": "custom"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Software Undergrad Engineering Internships",
+   "location": "United States of America",
+   "is_us": true,
+   "url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships",
+   "age_days": 112,
    "ats": "custom"
   },
   {
@@ -2246,6 +2356,28 @@
    "is_us": false,
    "url": "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech",
    "age_days": 310,
+   "ats": "custom"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "SoC Performance Modeling Internship - Platform Architecture",
+   "location": "United Kingdom",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture",
+   "age_days": 310,
+   "ats": "custom"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "SoC Performance Modeling Internship - Platform Architecture (m/f/d)",
+   "location": "Germany",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200622296/soc-performance-modeling-internship-platform-architecture-m-f-d",
+   "age_days": 353,
    "ats": "custom"
   },
   {
