@@ -160,6 +160,11 @@ def main():
       "software signals. That also drops genuine \"Information Technology Intern\" "
       "roles — widen `SOFTWARE` in `classify.py` if you want them.")
     A("")
+    A("**Refresh.** A GitHub Action probes every board every 15 minutes, one "
+      "request each, and refetches only the boards whose posting count moved -- "
+      "about a minute when nothing changed. A full sweep runs daily to re-probe "
+      "companies with no board resolved yet.")
+    A("")
     A("**Manners.** Career sites that disallow crawling are never fetched. Requests "
       "are pooled, retried only on transient errors, and identify themselves.")
     A("")

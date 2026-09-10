@@ -1078,6 +1078,8 @@ scripts/build_readme.py   render this file
 
 It is tuned for precision over recall, because the company list is mostly industrial: a bare "Engineering Intern" is petroleum or mechanical far more often than software, so bare `engineering` and `technology` are not treated as software signals. That also drops genuine "Information Technology Intern" roles — widen `SOFTWARE` in `classify.py` if you want them.
 
+**Refresh.** A GitHub Action probes every board every 15 minutes, one request each, and refetches only the boards whose posting count moved -- about a minute when nothing changed. A full sweep runs daily to re-probe companies with no board resolved yet.
+
 **Manners.** Career sites that disallow crawling are never fetched. Requests are pooled, retried only on transient errors, and identify themselves.
 
 **Corrections.** A company probed to the wrong board, or one that needs a hand-written entry, goes in `data/overrides.json` — those always win over discovery.

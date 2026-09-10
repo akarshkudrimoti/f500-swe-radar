@@ -4,21 +4,17 @@ name: Watch for changes
 # (~60s for all of them); only the boards that actually moved get the
 # expensive paginated fetch. Most of the cost of "check more often" disappears.
 #
-# CADENCE AND COST. A run is ~1 min when nothing changed and ~3 min when
-# something did, plus ~40s of checkout/setup. Private repos meter Actions
-# minutes (2,000/month on the Free plan), which is what sets the interval:
+# CADENCE. A run is ~1 min when nothing changed and ~3 min when something did.
+# This repository is public, so Actions minutes are unmetered and the interval
+# is set by what is polite and useful rather than by billing.
 #
-#   every 2 hours   ~1,150 min/month   fits, with the daily sweep below
-#   every hour      ~2,300 min/month   over the free allowance
-#   every 15 min    ~9,000 min/month   only sensible on a public repo
-#
-# Public repositories get unlimited Actions minutes. If this repo is ever made
-# public, change the cron below to "*/15 * * * *" and delete this paragraph's
-# reason for existing.
+# Fifteen minutes is the floor worth having: GitHub's own cron minimum is five,
+# schedules fire late under load, and job boards report posting age in days --
+# so probing faster would add load without surfacing anything sooner.
 
 on:
   schedule:
-    - cron: "23 */2 * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
     inputs:
       force_all:
