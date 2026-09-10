@@ -2,9 +2,9 @@
 
 Software-engineering **internship** postings (Summer 2027 cycle), pulled straight from the applicant tracking systems of the [2026 Fortune 500](https://fortune.com/ranking/fortune500/2026/) plus a curated list of technology companies outside it.
 
-**357 open postings** (117 in the US) across **64 companies** · last refreshed 2026-09-10 20:20:00 UTC
+**374 open postings** (127 in the US) across **70 companies** · last refreshed 2026-09-10 20:33:21 UTC
 
-Coverage: 265 of 632 companies have a machine-readable feed we query. 33 more were identified but their `robots.txt` disallows crawling, so they are listed as links only. 334 are still unresolved — see [Coverage](#coverage).
+Coverage: 283 of 632 companies have a machine-readable feed we query. 33 more were identified but their `robots.txt` disallows crawling, so they are listed as links only. 316 are still unresolved — see [Coverage](#coverage).
 
 ---
 
@@ -13,6 +13,7 @@ Coverage: 265 of 632 companies have a machine-readable feed we query. 33 more we
 | # | Company | Role | Location | Age | |
 |---|---------|------|----------|-----|-|
 | 14 | **Cigna Group** | The Cigna Group's Technology Development Program  -  Infrastructure & Cloud Engineering Track Summer Internship | CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg | today | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529) |
+| 112 | **Northrop Grumman** | 2027 Spring Co-op Cyber Software Engineer Intern - Cincinnati OH | United States-Ohio-Cincinnati | today | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1) |
 | 230 | **Ameriprise Financial** | Data Analytics & AI Intern - RiverSource | Minneapolis, Minnesota | today | [Apply](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Data-Analytics---AI-Intern---RiverSource_R26_3595) |
 | — | **Datadog** | Software Engineering Intern (Summer) | Boston, Massachusetts, USA; New York, New York, USA | today | [Apply](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) |
 | — | **Datadog** | Software Engineering Intern (Winter) | Boston, Massachusetts, USA; New York, New York, USA | today | [Apply](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095) |
@@ -28,6 +29,8 @@ Coverage: 265 of 632 companies have a machine-readable feed we query. 33 more we
 | 1 | **Amazon** | System Dev Engineer I Co-op (Robotics), Autonomous AI Security | Austin, Texas, USA | 2d | [Apply](https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security) |
 | 47 | **Boeing** | Boeing Engineering & Technology Innovation Graduate Researcher Program, Software Engineering Artificial Intelligence Intern | USA - Tukwila, WA | 2d | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687) |
 | 84 | **HP** | Business Intelligence and Infrastructure Analysts  Intern | Vancouver, Washington, United States of America | 2d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1) |
+| 112 | **Northrop Grumman** | 2027 Software Engineering Intern - Roy UT | United States-Utah-Roy | 2d | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842) |
+| 112 | **Northrop Grumman** | 2027  Systems Engineer Intern - Colorado Springs CO | United States-Colorado-Colorado Springs | 2d | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777) |
 | 181 | **Stryker** | Summer 2027 Internship - Data Science - Remote | Florida, Virtual Address | 2d | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731) |
 | 181 | **Stryker** | Summer 2027 Internship -  Software Engineering, Commercial Operations - Texas | Flower Mound, Texas | 2d | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941) |
 | 186 | **Danaher** | Software Engineering Intern | Chaska, Minnesota, United States | 2d | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Chaska-Minnesota-United-States/Software-Engineering-Intern_R1316911) |
@@ -45,6 +48,7 @@ Coverage: 265 of 632 companies have a machine-readable feed we query. 33 more we
 | 84 | **HP** | Software Product Security Engineer Intern | Spring, Texas, United States of America | 3d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1) |
 | 306 | **Xcel Energy** | AI & Automation Intern- CO | Denver, CO, 80205 | 3d | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1) |
 | 1 | **Amazon** | Software Development Engineer Intern/Co-Op, ROBOTICS -  2027 | North Reading, Massachusetts, USA | 6d | [Apply](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027) |
+| 44 | **Walt Disney** | Commercial Data Science Intern, Spring 2027 | Celebration, FL, USA | 6d | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063) |
 | 476 | **Marvell Technology** | Firmware Engineer Intern, MS - Summer 2027 | Santa Clara, CA | 6d | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513) |
 | — | **Scale AI** | Software Engineering Intern (Summer 2027) | San Francisco, CA | 6d | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) |
 | 14 | **Cigna Group** | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship | NC, Raleigh, 701 Corporate Center Dr STE 200 | 7d | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712) |
@@ -53,13 +57,17 @@ Coverage: 265 of 632 companies have a machine-readable feed we query. 33 more we
 | — | **Waymo** | 2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing | San Francisco, California, United States | 7d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8167323) |
 | — | **Waymo** | 2027 Summer Intern, MS, Software Engineering, Behavior Test | San Francisco, California, USA | 7d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8174504) |
 | 84 | **HP** | Software Product Security Engineer Intern | Spring, Texas, United States of America | 8d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1) |
-| — | **Anduril Industries** | 2027 Software Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 8d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
 | 181 | **Stryker** | Summer 2027 Internship - Statistical Programming - California | Irvine, California | 9d | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Irvine-California/Summer-2027-Internship---Statistical-Programming---California_R572769) |
+| 298 | **Stanley Black & Decker** | Embedded Engineering Summer Intern 2027 | Towson, MD, United States | 9d | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019) |
+| 317 | **Northern Trust** | Technology Intern – Software Engineering | Chicago, IL | 9d | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1) |
+| 317 | **Northern Trust** | Technology Intern – Infrastructure and IT Management | Chicago, IL | 9d | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1) |
+| 317 | **Northern Trust** | Technology Intern – Data Science and Analytics | Chicago, IL | 9d | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1) |
 | 467 | **Rockwell Automation** | Intern, Content IDE Software Development (LCS) | Mayfield Heights, Ohio, United States | 9d | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-1) |
 | 125 | **Micron Technology** | Intern - AI Systems and Infrastructure Engineering | Austin, TX | 10d | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Austin-TX/Intern---AI-Systems-and-Infrastructure-Engineering_JR109990) |
 | 181 | **Stryker** | Summer 2027 Internship - Software Engineering - Florida | Fort Lauderdale, Florida | 10d | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1) |
 | 181 | **Stryker** | Summer 2027 Internship - Software Engineering - Michigan | Portage, Michigan | 10d | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1) |
 | 181 | **Stryker** | Summer 2027 Internship - Software Engineering - Indiana | Fort Wayne, Indiana | 10d | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631) |
+| 411 | **Oshkosh** | Engineer Intern - Software (Summer 2027) | Dodge Center, Minnesota, United States | 10d | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786) |
 | — | **Epic Games** | Frontend Programmer Intern | Cary,North Carolina,United States | 10d | [Apply](https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004) |
 | — | **Point72** | Quantitative Developer Intern | New York | 10d | [Apply](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) |
 | 84 | **HP** | Software and Engineering Intern Roles - Imaging and Print | Corvallis, Oregon, United States of America | 13d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142-1) |
@@ -92,6 +100,8 @@ Coverage: 265 of 632 companies have a machine-readable feed we query. 33 more we
 | — | **Epic Games** | Gameplay Programmer Intern | Cary,North Carolina,United States | 28d | [Apply](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004) |
 | 476 | **Marvell Technology** | Applied Machine Learning Scientist Intern - PhD | Santa Clara, CA | 1mo | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1) |
 | — | **Belvedere Trading** | Software Engineer Intern - Summer 2027 | Chicago, Illinois | 1mo | [Apply](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) |
+| — | **Optiver** | Software Engineer Intern (Summer 2027 - Austin) | Austin, Texas, United States | 1mo | [Apply](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) |
+| — | **Optiver** | Software Engineer Intern (Summer 2027 - Chicago) | Chicago, Illinois, United States | 1mo | [Apply](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) |
 | — | **Akuna Capital** | Platform Engineer Intern, Summer 2027 | Chicago, IL | 1mo | [Apply](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
 | — | **Akuna Capital** | Software Engineer Intern - C# .NET Desktop, Summer 2027 | Chicago, IL | 1mo | [Apply](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) |
 | — | **Akuna Capital** | Software Engineer Intern - C++, Summer 2027 | Chicago, IL | 1mo | [Apply](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) |
@@ -131,7 +141,7 @@ Coverage: 265 of 632 companies have a machine-readable feed we query. 33 more we
 | — | **Palantir Technologies** | Forward Deployed Software Engineer, Internship - Commercial | New York, NY | 128mo | [Apply](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) |
 
 <details>
-<summary>International (191) and unstated location (49)</summary>
+<summary>International (196) and unstated location (51)</summary>
 
 ### International
 
@@ -159,12 +169,13 @@ Coverage: 265 of 632 companies have a machine-readable feed we query. 33 more we
 | 124 | **GE Vernova** | GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027 | Bellevue | 1d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-2) |
 | 124 | **GE Vernova** | Grid Automation & Software Intern | Remote | 1d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Grid-Automation---Software-Intern_R5052362-1) |
 | 124 | **GE Vernova** | Quality Engineer Intern | Singapore | 1d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Singapore/Quality-Engineer-Intern_R5051500-2) |
+| 313 | **Amentum Holdings** | Software Programmer Intern | US-TN-Tullahoma | 1d | [Apply](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775) |
+| 313 | **Amentum Holdings** | Software Programmer Intern | US-MI-Detroit | 1d | [Apply](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-MI-Detroit/Software-Programmer-Intern_R0169773) |
 | 476 | **Marvell Technology** | AI Infrastructure Engineer Intern | Petah-Tikva | 1d | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/AI-Infrastructure-Engineer-Intern_2604499) |
 | — | **Toast** | Software Engineering Intern | Dublin, Ireland | 1d | [Apply](https://careers.toasttab.com/jobs?gh_jid=8187654) |
 | — | **Samsara** | Software Engineering Internship - San Francisco | San Francisco - SF9 | 1d | [Apply](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) |
-| — | **Anduril Industries** | 2027 Quality & Test Engineer Intern | Dublin, Dublin, Ireland | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007) |
-| — | **Anduril Industries** | 2027 Software Engineer Intern | Dublin, Dublin, Ireland | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007) |
-| — | **Anduril Industries** | 2027 Software Quality Assurance Intern | Dublin, Dublin, Ireland | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5232025007?gh_jid=5232025007) |
+| — | **Optiver** | Software Engineer Internship (2027 Start) | London, England, United Kingdom | 1d | [Apply](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) |
+| — | **Optiver** | Software Engineer Internship (2027 Start) | Amsterdam, North Holland, Netherlands | 1d | [Apply](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) |
 | 4 | **Apple** | GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture | United Kingdom | 2d | [Apply](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) |
 | 63 | **Capital One Financial** | Intern, Backend Software Engineer - Team Interstellar - Winter 2027 | Toronto, ON | 2d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022) |
 | 63 | **Capital One Financial** | Intern, Mobile Software Engineer - Team Gringotts North - Winter 2027 | Toronto, ON | 2d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015) |
@@ -209,6 +220,7 @@ Coverage: 265 of 632 companies have a machine-readable feed we query. 33 more we
 | 16 | **Nvidia** | System Software Engineer (RDSS Intern) | Taiwan, Taipei | 10d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer--RDSS-Intern-_JR2024500) |
 | 16 | **Nvidia** | Software Engineering Intern, Test Development - 2027 | China, Shanghai | 10d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023652) |
 | 16 | **Nvidia** | Software Engineering Intern, Test Development - 2027 | China, Shanghai | 10d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023648) |
+| 44 | **Walt Disney** | Programming Intern - TV Channels | Lisbon, Portugal | 10d | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lisbon-Portugal/Programming-Intern---TV-Channels_10157653-1) |
 | 84 | **HP** | College Intern - Data Science | Singapore, South West, Singapore | 10d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4035-1) |
 | 181 | **Stryker** | Internship Cloud Applications & Software Engineering – 6 months \| Start Spring 2027 | Freiburg, Germany | 10d | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Freiburg-Germany/Internship-Cloud-Applications---Software-Engineering---6-months---Start-Spring-2027_R572269) |
 | 181 | **Stryker** | Internship Software Test Engineering & Medical Technology – 6 Months \| Start Spring 2027 | Freiburg, Germany | 10d | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Freiburg-Germany/Internship-Software-Test-Engineering---Medical-Technology---6-Months---Start-Spring-2027_R572140) |
@@ -264,12 +276,15 @@ Coverage: 265 of 632 companies have a machine-readable feed we query. 33 more we
 | 55 | **Sysco** | Intern - Software Engineering | Sysco LABS  -  Sri Lanka | 27d | [Apply](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Software-Engineering_R263032) |
 | — | **Jump Trading** | Campus Data Engineer (Intern) | Chicago | 27d | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8002998) |
 | — | **Jump Trading** | Campus UI Software Engineer (Intern) | Chicago | 27d | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003019) |
-| — | **Epic Games** | Machine Learning Intern | Montreal,Quebec,Canada | 28d | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
 | — | **Epic Games** | Machine Learning Intern | BLANK,BLANK,Multiple Locations | 28d | [Apply](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) |
 | — | **Epic Games** | Machine Learning Intern | London,England,United Kingdom | 28d | [Apply](https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004) |
+| — | **Epic Games** | Machine Learning Intern | Montreal,Quebec,Canada | 28d | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
 | 84 | **HP** | College Intern - Machine Learning and Artificial Intelligence | Singapore, South West, Singapore | 29d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Machine-Learning-and-Artificial-Intelligence_UNI4651-1) |
 | 101 | **GE Aerospace** | Embedded Systems Engineer Co-op (Bohemia, NY) – Spring 2027 | Bohemia | 29d | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Bohemia/Embedded-Systems-Engineer-Co-op--Bohemia--NY----Spring-2027_R5035583-1) |
 | 432 | **Western Digital** | Summer 2027 Intern - Software Engineering | San Jose, us | 29d | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000143171017) |
+| — | **Optiver** | 2027 Shanghai FPGA Developer Summer Internship | Shanghai, China | 29d | [Apply](https://www.optiver.com/join-us/jobs/8644364002/?gh_jid=8644364002) |
+| — | **Optiver** | 2027 Shanghai Machine Learning Engineer Summer Internship | Shanghai, China | 29d | [Apply](https://www.optiver.com/join-us/jobs/8633966002/?gh_jid=8633966002) |
+| — | **Optiver** | 2027 Shanghai Software Developer Summer Internship | Shanghai, China | 29d | [Apply](https://www.optiver.com/join-us/jobs/8623927002/?gh_jid=8623927002) |
 | 55 | **Sysco** | Intern - Cloud Services | Sysco LABS  -  Sri Lanka | 1mo | [Apply](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Cloud-Services_R261548) |
 | 55 | **Sysco** | Intern - Software Engineering | Sysco LABS  -  Sri Lanka | 1mo | [Apply](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Software-Engineering_R259243) |
 | 55 | **Sysco** | Intern - Software Engineering | Sysco LABS  -  Sri Lanka | 1mo | [Apply](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Software-Engineering_R258865) |
@@ -341,6 +356,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | 88 | **Intel** | AI Software Engineering PhD Intern | 2 Locations | today | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730) |
 | 476 | **Marvell Technology** | Ph.D. Intern - AI/ML & Design Automation | 9 Locations | today | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412) |
 | 14 | **Cigna Group** | The Cigna Group's Technology Development Program  - Software Engineering Track Summer Internship | 5 Locations | 1d | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/The-Cigna-Group-s-Technology-Development-Program----Software-Engineering-Track-Summer-Internship_26009527) |
+| 112 | **Northrop Grumman** | 2027 Intern Software Engineer | 6 Locations | 1d | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250150) |
 | 159 | **Medline** | RPA & Agentic AI Software Technologies Intern - Summer 2027 | 2 Locations | 1d | [Apply](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378) |
 | 476 | **Marvell Technology** | Optical Module Software/Firmware Intern | 2 Locations | 1d | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Shanghai/Optical-Module-Software-Firmware-Intern_2604216) |
 | 63 | **Capital One Financial** | Current PhD, AI Engineering Internship Program - Summer 2027 | 3 Locations | 2d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1) |
@@ -373,6 +389,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | 114 | **Salesforce** | Summer 2027 Intern - Software Engineer | 8 Locations | 10d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |
 | 181 | **Stryker** | Summer 2027 Internship - Software Engineering - California | 2 Locations | 10d | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624) |
 | 192 | **Adobe** | 2027 Intern - Machine Learning Engineer | 6 Locations | 10d | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) |
+| 411 | **Oshkosh** | Engineer Intern - Software (Summer 2027) | 2 Locations | 10d | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Engineer-Intern---Software--Summer-2027-_R49745) |
 | 16 | **Nvidia** | Developer Technology Engineering Intern - 2027 | 2 Locations | 14d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122) |
 | 16 | **Nvidia** | AI Developer Technology Intern, Robotics - 2027 | 2 Locations | 15d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1) |
 | 16 | **Nvidia** | Developer Technology Engineering Intern, AI - 2027 | 2 Locations | 15d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258) |
@@ -391,10 +408,10 @@ _Usually a multi-site requisition; open the posting to see where._
 
 | Source | Companies |
 |--------|-----------|
-| — | 334 |
-| Workday | 182 |
-| Greenhouse | 71 |
-| SmartRecruiters | 18 |
+| — | 316 |
+| Workday | 196 |
+| Greenhouse | 74 |
+| SmartRecruiters | 19 |
 | Ashby | 17 |
 | Lever | 7 |
 | Own site | 3 |
@@ -447,7 +464,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | 41 | Dell Technologies | Technology | — | [search](https://www.google.com/search?q=Dell+Technologies+software+engineering+internship+careers) |
 | 42 | Target | Retailing | Workday ¹ | [open](https://target.wd5.myworkdayjobs.com/targetcareers) |
 | 43 | Tesla | Motor Vehicles & Parts | — | [search](https://www.google.com/search?q=Tesla+software+engineering+internship+careers) |
-| 44 | Walt Disney | Media | — | [search](https://www.google.com/search?q=Walt+Disney+software+engineering+internship+careers) |
+| 44 | Walt Disney | Media | Workday | [open](https://disney.wd5.myworkdayjobs.com/disneycareer) |
 | 45 | Johnson & Johnson | Health Care | — | [search](https://www.google.com/search?q=Johnson+%26+Johnson+software+engineering+internship+careers) |
 | 46 | PepsiCo | Food, Beverages & Tobacco | — | [search](https://www.google.com/search?q=PepsiCo+software+engineering+internship+careers) |
 | 47 | Boeing | Aerospace & Defense | Workday | [open](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS) |
@@ -468,7 +485,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | 62 | New York Life Insurance | Financials | — | [search](https://www.google.com/search?q=New+York+Life+Insurance+software+engineering+internship+careers) |
 | 63 | Capital One Financial | Financials | Workday | [open](https://capitalone.wd12.myworkdayjobs.com/Capital_One) |
 | 64 | Allstate | Financials | Workday | [open](https://allstate.wd5.myworkdayjobs.com/allstate_careers) |
-| 65 | Caterpillar | Industrials | — | [search](https://www.google.com/search?q=Caterpillar+software+engineering+internship+careers) |
+| 65 | Caterpillar | Industrials | Workday | [open](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers) |
 | 66 | International Business Machines | Technology | — | [search](https://www.google.com/search?q=International+Business+Machines+software+engineering+internship+careers) |
 | 67 | Eli Lilly | Health Care | — | [search](https://www.google.com/search?q=Eli+Lilly+software+engineering+internship+careers) |
 | 68 | Merck | Health Care | — | [search](https://www.google.com/search?q=Merck+software+engineering+internship+careers) |
@@ -477,7 +494,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | 71 | Delta Air Lines | Transportation | — | [search](https://www.google.com/search?q=Delta+Air+Lines+software+engineering+internship+careers) |
 | 72 | Publix Super Markets | Food & Drug Stores | — | [search](https://www.google.com/search?q=Publix+Super+Markets+software+engineering+internship+careers) |
 | 73 | Pfizer | Health Care | Workday | [open](https://pfizer.wd1.myworkdayjobs.com/Canada_Only_External) |
-| 74 | TD Synnex | Wholesalers | — | [search](https://www.google.com/search?q=TD+Synnex+software+engineering+internship+careers) |
+| 74 | TD Synnex | Wholesalers | Workday | [open](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers) |
 | 75 | ConocoPhillips | Energy | Workday ¹ | [open](https://conocophillips.wd1.myworkdayjobs.com/External) |
 | 76 | Galaxy Digital | Financials | Greenhouse | [open](https://boards.greenhouse.io/galaxy) |
 | 77 | AbbVie | Health Care | SmartRecruiters | [open](https://jobs.smartrecruiters.com/abbvie) |
@@ -501,7 +518,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | 95 | Liberty Mutual Insurance Group | Financials | — | [search](https://www.google.com/search?q=Liberty+Mutual+Insurance+Group+software+engineering+internship+careers) |
 | 96 | Travelers | Financials | Workday | [open](https://travelers.wd5.myworkdayjobs.com/SimplyBusinesssExternal) |
 | 97 | Bristol-Myers Squibb | Health Care | Workday | [open](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS_Events) |
-| 98 | Coca-Cola | Food, Beverages & Tobacco | — | [search](https://www.google.com/search?q=Coca-Cola+software+engineering+internship+careers) |
+| 98 | Coca-Cola | Food, Beverages & Tobacco | Workday | [open](https://coke.wd1.myworkdayjobs.com/coca-cola-careers) |
 | 99 | Nike | Apparel | Workday ¹ | [open](https://nike.wd1.myworkdayjobs.com/nke2) |
 | 100 | Massachusetts Mutual Life Insurance | Financials | — | [search](https://www.google.com/search?q=Massachusetts+Mutual+Life+Insurance+software+engineering+internship+careers) |
 | 101 | GE Aerospace | Aerospace & Defense | Workday | [open](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite) |
@@ -515,7 +532,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | 109 | Northwestern Mutual | Financials | Workday | [open](https://northwesternmutual.wd5.myworkdayjobs.com/CORPORATE-CAREERS) |
 | 110 | U.S. Bancorp | Financials | — | [search](https://www.google.com/search?q=U.S.+Bancorp+software+engineering+internship+careers) |
 | 111 | Dollar General | Retailing | — | [search](https://www.google.com/search?q=Dollar+General+software+engineering+internship+careers) |
-| 112 | Northrop Grumman | Aerospace & Defense | — | [search](https://www.google.com/search?q=Northrop+Grumman+software+engineering+internship+careers) |
+| 112 | Northrop Grumman | Aerospace & Defense | Workday | [open](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site) |
 | 113 | Best Buy | Retailing | — | [search](https://www.google.com/search?q=Best+Buy+software+engineering+internship+careers) |
 | 114 | Salesforce | Technology | Workday | [open](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site) |
 | 115 | Bank of New York (BNY) | Financials | — | [search](https://www.google.com/search?q=Bank+of+New+York+%28BNY%29+software+engineering+internship+careers) |
@@ -572,7 +589,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | 166 | AutoNation | Retailing | Workday ¹ | [open](https://autonation.wd5.myworkdayjobs.com/Careers) |
 | 167 | NextEra Energy | Energy | — | [search](https://www.google.com/search?q=NextEra+Energy+software+engineering+internship+careers) |
 | 168 | Marsh & McLennan | Financials | — | [search](https://www.google.com/search?q=Marsh+%26+McLennan+software+engineering+internship+careers) |
-| 169 | Booking Holdings | Technology | — | [search](https://www.google.com/search?q=Booking+Holdings+software+engineering+internship+careers) |
+| 169 | Booking Holdings | Technology | Workday | [open](https://priceline.wd1.myworkdayjobs.com/BookingHoldings) |
 | 170 | McDonald's | Hotels, Restaurants & Leisure | — | [search](https://www.google.com/search?q=McDonald%27s+software+engineering+internship+careers) |
 | 171 | HF Sinclair | Energy | — | [search](https://www.google.com/search?q=HF+Sinclair+software+engineering+internship+careers) |
 | 172 | AIG | Financials | Workday | [open](https://aig.wd1.myworkdayjobs.com/early_careers) |
@@ -587,7 +604,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | 181 | Stryker | Health Care | Workday | [open](https://stryker.wd1.myworkdayjobs.com/StrykerCareers) |
 | 182 | Dollar Tree | Retailing | Workday | [open](https://dollartree.wd5.myworkdayjobs.com/dollartreeus) |
 | 183 | 3M | Chemicals | Workday ¹ | [open](https://3m.wd1.myworkdayjobs.com/private) |
-| 184 | Kraft Heinz | Food, Beverages & Tobacco | — | [search](https://www.google.com/search?q=Kraft+Heinz+software+engineering+internship+careers) |
+| 184 | Kraft Heinz | Food, Beverages & Tobacco | Workday | [open](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers) |
 | 185 | PG&E | Energy | — | [search](https://www.google.com/search?q=PG%26E+software+engineering+internship+careers) |
 | 186 | Danaher | Health Care | Workday | [open](https://danaher.wd1.myworkdayjobs.com/DanaherJobs) |
 | 187 | Union Pacific | Transportation | — | [search](https://www.google.com/search?q=Union+Pacific+software+engineering+internship+careers) |
@@ -679,10 +696,10 @@ _Usually a multi-site requisition; open the posting to see where._
 | 273 | Land O'Lakes | Food, Beverages & Tobacco | Workday | [open](https://landolakes.wd1.myworkdayjobs.com/LandOLakes) |
 | 274 | IQVIA Holdings | Health Care | Workday | [open](https://iqvia.wd1.myworkdayjobs.com/IQVIA) |
 | 275 | Fox | Media | Workday | [open](https://fox.wd1.myworkdayjobs.com/FOXTVST_WEST) |
-| 276 | AECOM | Engineering & Construction | — | [search](https://www.google.com/search?q=AECOM+software+engineering+internship+careers) |
+| 276 | AECOM | Engineering & Construction | SmartRecruiters | [open](https://jobs.smartrecruiters.com/AECOM2) |
 | 277 | C.H. Robinson Worldwide | Transportation | — | [search](https://www.google.com/search?q=C.H.+Robinson+Worldwide+software+engineering+internship+careers) |
 | 278 | Bitgo Holdings | Financials | Greenhouse | [open](https://boards.greenhouse.io/bitgo) |
-| 279 | United Rentals | Retailing | — | [search](https://www.google.com/search?q=United+Rentals+software+engineering+internship+careers) |
+| 279 | United Rentals | Retailing | Workday | [open](https://ur.wd1.myworkdayjobs.com/UnitedRentals-UK) |
 | 280 | Ecolab | Chemicals | Workday ¹ | [open](https://ecolab.wd1.myworkdayjobs.com/Ecolab_External) |
 | 281 | Illinois Tool Works | Industrials | — | [search](https://www.google.com/search?q=Illinois+Tool+Works+software+engineering+internship+careers) |
 | 282 | Casey's General Stores | Retailing | — | [search](https://www.google.com/search?q=Casey%27s+General+Stores+software+engineering+internship+careers) |
@@ -701,7 +718,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | 295 | Ally Financial | Financials | Workday | [open](https://ally.wd1.myworkdayjobs.com/Ally) |
 | 296 | Builders FirstSource | Materials | SmartRecruiters | [open](https://jobs.smartrecruiters.com/buildersfirstsource) |
 | 297 | Sonic Automotive | Retailing | SmartRecruiters | [open](https://jobs.smartrecruiters.com/sonicautomotive) |
-| 298 | Stanley Black & Decker | Industrials | — | [search](https://www.google.com/search?q=Stanley+Black+%26+Decker+software+engineering+internship+careers) |
+| 298 | Stanley Black & Decker | Industrials | Workday | [open](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site) |
 | 299 | Kenvue | Household Products | Workday ¹ | [open](https://kenvue.wd5.myworkdayjobs.com/kenvue) |
 | 300 | Kyndryl Holdings | Technology | Workday | [open](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers) |
 | 301 | Diamondback Energy | Energy | Workday | [open](https://diamondbackenergy.wd12.myworkdayjobs.com/DBE) |
@@ -716,11 +733,11 @@ _Usually a multi-site requisition; open the posting to see where._
 | 310 | Blackstone | Financials | Workday | [open](https://blackstone.wd1.myworkdayjobs.com/BX_External_Site) |
 | 311 | Fidelity National Financial | Financials | — | [search](https://www.google.com/search?q=Fidelity+National+Financial+software+engineering+internship+careers) |
 | 312 | Otis Worldwide | Industrials | — | [search](https://www.google.com/search?q=Otis+Worldwide+software+engineering+internship+careers) |
-| 313 | Amentum Holdings | Technology | — | [search](https://www.google.com/search?q=Amentum+Holdings+software+engineering+internship+careers) |
+| 313 | Amentum Holdings | Technology | Workday | [open](https://pae.wd1.myworkdayjobs.com/Amentum_Careers) |
 | 314 | Regeneron Pharmaceuticals | Health Care | Workday | [open](https://regeneron.wd1.myworkdayjobs.com/Careers) |
 | 315 | Estée Lauder | Household Products | — | [search](https://www.google.com/search?q=Est%C3%A9e+Lauder+software+engineering+internship+careers) |
 | 316 | BorgWarner | Motor Vehicles & Parts | Workday | [open](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers) |
-| 317 | Northern Trust | Financials | — | [search](https://www.google.com/search?q=Northern+Trust+software+engineering+internship+careers) |
+| 317 | Northern Trust | Financials | Workday | [open](https://ntrs.wd1.myworkdayjobs.com/northerntrust) |
 | 318 | Viatris | Health Care | Workday | [open](https://viatris.wd5.myworkdayjobs.com/External) |
 | 319 | MasTec | Engineering & Construction | — | [search](https://www.google.com/search?q=MasTec+software+engineering+internship+careers) |
 | 320 | Reliance | Materials | — | [search](https://www.google.com/search?q=Reliance+software+engineering+internship+careers) |
@@ -732,7 +749,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | 326 | Labcorp Holdings | Health Care | Workday | [open](https://labcorp.wd1.myworkdayjobs.com/External) |
 | 327 | Arthur J. Gallagher | Financials | Ashby | [open](https://jobs.ashbyhq.com/arthur) |
 | 328 | Venture Global | Energy | — | [search](https://www.google.com/search?q=Venture+Global+software+engineering+internship+careers) |
-| 329 | DoorDash | Technology | — | [search](https://www.google.com/search?q=DoorDash+software+engineering+internship+careers) |
+| 329 | DoorDash | Technology | Greenhouse | [open](https://boards.greenhouse.io/doordashusa) |
 | 330 | Sempra | Energy | — | [search](https://www.google.com/search?q=Sempra+software+engineering+internship+careers) |
 | 331 | DaVita | Health Care | Workday | [open](https://davita.wd1.myworkdayjobs.com/GE_External) |
 | 332 | Eversource Energy | Energy | Workday | [open](https://eversource.wd1.myworkdayjobs.com/ExternalSite) |
@@ -742,7 +759,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | 336 | GXO Logistics | Transportation | — | [search](https://www.google.com/search?q=GXO+Logistics+software+engineering+internship+careers) |
 | 337 | Ball | Materials | — | [search](https://www.google.com/search?q=Ball+software+engineering+internship+careers) |
 | 338 | Unum Group | Financials | Workday | [open](https://unum.wd1.myworkdayjobs.com/External) |
-| 339 | Las Vegas Sands | Hotels, Restaurants & Leisure | — | [search](https://www.google.com/search?q=Las+Vegas+Sands+software+engineering+internship+careers) |
+| 339 | Las Vegas Sands | Hotels, Restaurants & Leisure | Workday | [open](https://sands.wd1.myworkdayjobs.com/sands_careers) |
 | 340 | Entergy | Energy | — | [search](https://www.google.com/search?q=Entergy+software+engineering+internship+careers) |
 | 341 | Fifth Third Bancorp | Financials | — | [search](https://www.google.com/search?q=Fifth+Third+Bancorp+software+engineering+internship+careers) |
 | 342 | Graybar Electric | Wholesalers | Workday | [open](https://graybar.wd1.myworkdayjobs.com/Connexion_Careers) |
@@ -814,7 +831,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | 408 | American Tower | Financials | — | [search](https://www.google.com/search?q=American+Tower+software+engineering+internship+careers) |
 | 409 | NVR | Engineering & Construction | — | [search](https://www.google.com/search?q=NVR+software+engineering+internship+careers) |
 | 410 | Interactive Brokers Group | Financials | — | [search](https://www.google.com/search?q=Interactive+Brokers+Group+software+engineering+internship+careers) |
-| 411 | Oshkosh | Industrials | — | [search](https://www.google.com/search?q=Oshkosh+software+engineering+internship+careers) |
+| 411 | Oshkosh | Industrials | Workday | [open](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh) |
 | 412 | Cintas | Business Services | — | [search](https://www.google.com/search?q=Cintas+software+engineering+internship+careers) |
 | 413 | Campbell's | Food, Beverages & Tobacco | — | [search](https://www.google.com/search?q=Campbell%27s+software+engineering+internship+careers) |
 | 414 | Vertiv Holdings | Industrials | — | [search](https://www.google.com/search?q=Vertiv+Holdings+software+engineering+internship+careers) |
@@ -873,7 +890,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | 467 | Rockwell Automation | Industrials | Workday | [open](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers) |
 | 468 | Solventum | Health Care | — | [search](https://www.google.com/search?q=Solventum+software+engineering+internship+careers) |
 | 469 | Monster Beverage | Food, Beverages & Tobacco | — | [search](https://www.google.com/search?q=Monster+Beverage+software+engineering+internship+careers) |
-| 470 | Nasdaq | Financials | — | [search](https://www.google.com/search?q=Nasdaq+software+engineering+internship+careers) |
+| 470 | Nasdaq | Financials | Workday | [open](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site) |
 | 471 | Howmet Aerospace | Aerospace & Defense | — | [search](https://www.google.com/search?q=Howmet+Aerospace+software+engineering+internship+careers) |
 | 472 | Insight Enterprises | Technology | — | [search](https://www.google.com/search?q=Insight+Enterprises+software+engineering+internship+careers) |
 | 473 | Zimmer Biomet Holdings | Health Care | — | [search](https://www.google.com/search?q=Zimmer+Biomet+Holdings+software+engineering+internship+careers) |
@@ -925,7 +942,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | — | NCR Voyix | Enterprise Software | — | [search](https://www.google.com/search?q=NCR+Voyix+software+engineering+internship+careers) |
 | — | Fortinet | Security | — | [search](https://www.google.com/search?q=Fortinet+software+engineering+internship+careers) |
 | — | Rapid7 | Security | — | [search](https://www.google.com/search?q=Rapid7+software+engineering+internship+careers) |
-| — | Tenable | Security | — | [search](https://www.google.com/search?q=Tenable+software+engineering+internship+careers) |
+| — | Tenable | Security | Greenhouse | [open](https://boards.greenhouse.io/tenableinc) |
 | — | SentinelOne | Security | — | [search](https://www.google.com/search?q=SentinelOne+software+engineering+internship+careers) |
 | — | Splunk | Data Infrastructure | — | [search](https://www.google.com/search?q=Splunk+software+engineering+internship+careers) |
 | — | Cloudera | Data Infrastructure | Workday | [open](https://cloudera.wd5.myworkdayjobs.com/External_Career) |
@@ -1026,7 +1043,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | — | Jump Trading | Quantitative Finance | Greenhouse | [open](https://boards.greenhouse.io/jumptrading) |
 | — | Veeva Systems | Health Technology | Lever | [open](https://jobs.lever.co/veeva) |
 | — | Tempus AI | Health Technology | Workday | [open](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers) |
-| — | Optiver | Quantitative Finance | — | [search](https://www.google.com/search?q=Optiver+software+engineering+internship+careers) |
+| — | Optiver | Quantitative Finance | Greenhouse | [open](https://boards.greenhouse.io/optiverus) |
 | — | Two Sigma | Quantitative Finance | — | [search](https://www.google.com/search?q=Two+Sigma+software+engineering+internship+careers) |
 | — | Citadel Securities | Quantitative Finance | — | [search](https://www.google.com/search?q=Citadel+Securities+software+engineering+internship+careers) |
 | — | DRW | Quantitative Finance | — | [search](https://www.google.com/search?q=DRW+software+engineering+internship+careers) |

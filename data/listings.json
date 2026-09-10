@@ -1,8 +1,13 @@
 {
- "generated_utc": "2026-09-10T20:20:00+00:00",
- "companies_queried": 265,
- "companies_failed": [],
- "count": 357,
+ "generated_utc": "2026-09-10T20:33:21+00:00",
+ "companies_queried": 283,
+ "companies_failed": [
+  {
+   "company": "Anduril Industries",
+   "error": "HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Max retries exceeded with url: /v1/boards/andurilindustr"
+  }
+ ],
+ "count": 374,
  "listings": [
   {
    "company": "Cigna Group",
@@ -67,6 +72,17 @@
    "location": "2 Locations",
    "is_us": null,
    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730",
+   "age_days": 0,
+   "ats": "workday"
+  },
+  {
+   "company": "Northrop Grumman",
+   "rank": 112,
+   "sector": "Aerospace & Defense",
+   "title": "2027 Spring Co-op Cyber Software Engineer\u00a0Intern - Cincinnati OH",
+   "location": "United States-Ohio-Cincinnati",
+   "is_us": true,
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1",
    "age_days": 0,
    "ats": "workday"
   },
@@ -368,6 +384,17 @@
    "ats": "workday"
   },
   {
+   "company": "Northrop Grumman",
+   "rank": 112,
+   "sector": "Aerospace & Defense",
+   "title": "2027 Intern Software Engineer",
+   "location": "6 Locations",
+   "is_us": null,
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250150",
+   "age_days": 1,
+   "ats": "workday"
+  },
+  {
    "company": "GE Vernova",
    "rank": 124,
    "sector": "Energy",
@@ -408,6 +435,28 @@
    "location": "2 Locations",
    "is_us": null,
    "url": "https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378",
+   "age_days": 1,
+   "ats": "workday"
+  },
+  {
+   "company": "Amentum Holdings",
+   "rank": 313,
+   "sector": "Technology",
+   "title": "Software Programmer Intern",
+   "location": "US-TN-Tullahoma",
+   "is_us": false,
+   "url": "https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775",
+   "age_days": 1,
+   "ats": "workday"
+  },
+  {
+   "company": "Amentum Holdings",
+   "rank": 313,
+   "sector": "Technology",
+   "title": "Software Programmer Intern",
+   "location": "US-MI-Detroit",
+   "is_us": false,
+   "url": "https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-MI-Detroit/Software-Programmer-Intern_R0169773",
    "age_days": 1,
    "ats": "workday"
   },
@@ -500,35 +549,24 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Anduril Industries",
+   "company": "Optiver",
    "rank": null,
-   "sector": "Defense Technology",
-   "title": "2027 Quality & Test Engineer Intern",
-   "location": "Dublin, Dublin, Ireland",
+   "sector": "Quantitative Finance",
+   "title": "Software Engineer Internship (2027 Start)",
+   "location": "London, England, United Kingdom",
    "is_us": false,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007",
+   "url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
    "age_days": 1,
    "ats": "greenhouse"
   },
   {
-   "company": "Anduril Industries",
+   "company": "Optiver",
    "rank": null,
-   "sector": "Defense Technology",
-   "title": "2027 Software Engineer Intern",
-   "location": "Dublin, Dublin, Ireland",
+   "sector": "Quantitative Finance",
+   "title": "Software Engineer Internship (2027 Start)",
+   "location": "Amsterdam, North Holland, Netherlands",
    "is_us": false,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "2027 Software Quality Assurance Intern",
-   "location": "Dublin, Dublin, Ireland",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232025007?gh_jid=5232025007",
+   "url": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
    "age_days": 1,
    "ats": "greenhouse"
   },
@@ -683,6 +721,28 @@
    "location": "Malaysia, Kulim",
    "is_us": false,
    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934",
+   "age_days": 2,
+   "ats": "workday"
+  },
+  {
+   "company": "Northrop Grumman",
+   "rank": 112,
+   "sector": "Aerospace & Defense",
+   "title": "2027 Software Engineering Intern - Roy UT",
+   "location": "United States-Utah-Roy",
+   "is_us": true,
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
+   "age_days": 2,
+   "ats": "workday"
+  },
+  {
+   "company": "Northrop Grumman",
+   "rank": 112,
+   "sector": "Aerospace & Defense",
+   "title": "2027  Systems Engineer Intern - Colorado Springs CO",
+   "location": "United States-Colorado-Colorado Springs",
+   "is_us": true,
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027--Systems-Engineer-Intern---Colorado-Springs-CO_R10249777",
    "age_days": 2,
    "ats": "workday"
   },
@@ -1083,6 +1143,17 @@
    "ats": "workday"
   },
   {
+   "company": "Walt Disney",
+   "rank": 44,
+   "sector": "Media",
+   "title": "Commercial Data Science Intern, Spring 2027",
+   "location": "Celebration, FL, USA",
+   "is_us": true,
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063",
+   "age_days": 6,
+   "ats": "workday"
+  },
+  {
    "company": "Intel",
    "rank": 88,
    "sector": "Technology",
@@ -1424,17 +1495,6 @@
    "ats": "smartrecruiters"
   },
   {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "2027 Software Engineer Intern",
-   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-   "age_days": 8,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Cadence Design Systems",
    "rank": null,
    "sector": "Semiconductors",
@@ -1519,6 +1579,50 @@
    "location": "Carrigtwohill, Ireland",
    "is_us": false,
    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Carrigtwohill-Ireland/Embedded-Software-Engineering-Co-Op-Student_R572136",
+   "age_days": 9,
+   "ats": "workday"
+  },
+  {
+   "company": "Stanley Black & Decker",
+   "rank": 298,
+   "sector": "Industrials",
+   "title": "Embedded Engineering Summer Intern 2027",
+   "location": "Towson, MD, United States",
+   "is_us": true,
+   "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019",
+   "age_days": 9,
+   "ats": "workday"
+  },
+  {
+   "company": "Northern Trust",
+   "rank": 317,
+   "sector": "Financials",
+   "title": "Technology Intern \u2013 Software Engineering",
+   "location": "Chicago, IL",
+   "is_us": true,
+   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1",
+   "age_days": 9,
+   "ats": "workday"
+  },
+  {
+   "company": "Northern Trust",
+   "rank": 317,
+   "sector": "Financials",
+   "title": "Technology Intern \u2013 Infrastructure and IT Management",
+   "location": "Chicago, IL",
+   "is_us": true,
+   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1",
+   "age_days": 9,
+   "ats": "workday"
+  },
+  {
+   "company": "Northern Trust",
+   "rank": 317,
+   "sector": "Financials",
+   "title": "Technology Intern \u2013 Data Science and Analytics",
+   "location": "Chicago, IL",
+   "is_us": true,
+   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1",
    "age_days": 9,
    "ats": "workday"
   },
@@ -1640,6 +1744,17 @@
    "location": "2 Locations",
    "is_us": null,
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002",
+   "age_days": 10,
+   "ats": "workday"
+  },
+  {
+   "company": "Walt Disney",
+   "rank": 44,
+   "sector": "Media",
+   "title": "Programming Intern - TV Channels",
+   "location": "Lisbon, Portugal",
+   "is_us": false,
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lisbon-Portugal/Programming-Intern---TV-Channels_10157653-1",
    "age_days": 10,
    "ats": "workday"
   },
@@ -1805,6 +1920,28 @@
    "location": "6 Locations",
    "is_us": null,
    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+   "age_days": 10,
+   "ats": "workday"
+  },
+  {
+   "company": "Oshkosh",
+   "rank": 411,
+   "sector": "Industrials",
+   "title": "Engineer Intern - Software (Summer 2027)",
+   "location": "Dodge Center, Minnesota, United States",
+   "is_us": true,
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786",
+   "age_days": 10,
+   "ats": "workday"
+  },
+  {
+   "company": "Oshkosh",
+   "rank": 411,
+   "sector": "Industrials",
+   "title": "Engineer Intern - Software (Summer 2027)",
+   "location": "2 Locations",
+   "is_us": null,
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Engineer-Intern---Software--Summer-2027-_R49745",
    "age_days": 10,
    "ats": "workday"
   },
@@ -2748,17 +2885,6 @@
    "rank": null,
    "sector": "Gaming",
    "title": "Machine Learning Intern",
-   "location": "Montreal,Quebec,Canada",
-   "is_us": false,
-   "url": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
-   "age_days": 28,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Epic Games",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Machine Learning Intern",
    "location": "BLANK,BLANK,Multiple Locations",
    "is_us": false,
    "url": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004",
@@ -2773,6 +2899,17 @@
    "location": "London,England,United Kingdom",
    "is_us": false,
    "url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004",
+   "age_days": 28,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Machine Learning Intern",
+   "location": "Montreal,Quebec,Canada",
+   "is_us": false,
+   "url": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
    "age_days": 28,
    "ats": "greenhouse"
   },
@@ -2808,6 +2945,39 @@
    "url": "https://jobs.smartrecruiters.com/westerndigital/744000143171017",
    "age_days": 29,
    "ats": "smartrecruiters"
+  },
+  {
+   "company": "Optiver",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 Shanghai FPGA Developer Summer Internship",
+   "location": "Shanghai, China",
+   "is_us": false,
+   "url": "https://www.optiver.com/join-us/jobs/8644364002/?gh_jid=8644364002",
+   "age_days": 29,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Optiver",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 Shanghai Machine Learning Engineer Summer Internship",
+   "location": "Shanghai, China",
+   "is_us": false,
+   "url": "https://www.optiver.com/join-us/jobs/8633966002/?gh_jid=8633966002",
+   "age_days": 29,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Optiver",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 Shanghai Software Developer Summer Internship",
+   "location": "Shanghai, China",
+   "is_us": false,
+   "url": "https://www.optiver.com/join-us/jobs/8623927002/?gh_jid=8623927002",
+   "age_days": 29,
+   "ats": "greenhouse"
   },
   {
    "company": "Sysco",
@@ -3203,6 +3373,28 @@
    "is_us": false,
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819101003",
    "age_days": 39,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Optiver",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Software Engineer Intern (Summer 2027 - Austin)",
+   "location": "Austin, Texas, United States",
+   "is_us": true,
+   "url": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002",
+   "age_days": 43,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Optiver",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Software Engineer Intern (Summer 2027 - Chicago)",
+   "location": "Chicago, Illinois, United States",
+   "is_us": true,
+   "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
+   "age_days": 43,
    "ats": "greenhouse"
   },
   {

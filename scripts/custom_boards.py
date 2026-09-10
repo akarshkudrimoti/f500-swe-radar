@@ -20,6 +20,18 @@ from common import session
 TIMEOUT = 25
 APPLE_MAX_PAGES = 15                        # 20 per page; the team holds ~70
 APPLE_INTERN_TEAM = "internships-STDNT-INTRN"  # Apple's own internships team
+EIGHTFOLD_MAX = 500
+ORACLE_MAX = 500
+
+
+def _epoch_date(v):
+    """Eightfold stamps t_create in epoch seconds."""
+    if not v:
+        return None
+    try:
+        return dt.datetime.utcfromtimestamp(float(v)).date().isoformat()
+    except (ValueError, OSError, OverflowError):
+        return None
 
 
 def _amazon_date(s):
@@ -131,4 +143,71 @@ def apple(c, row):
     return out
 
 
-BOARDS = {"amazon": amazon, "apple": apple}
+def eightfold(c, row):
+    """Eightfold career hubs ({host}/api/apply/v2/jobs).
+
+    Netflix's robots.txt names `/api/apply` in its Allow list, so this endpoint
+    is explicitly sanctioned rather than merely undefended. Check the same
+    before pointing a new company here -- Qualcomm runs the identical template
+    but answers "Not authorized for PCSX", and is link-only for that reason.
+    """
+    s, out, start = session(), [], 0
+    host, domain = c["host"], c["domain"]
+    while start < EIGHTFOLD_MAX:
+        r = s.get(f"{host}/api/apply/v2/jobs",
+                  params={"domain": domain, "query": "intern",
+                          "start": start, "num": 50}, timeout=TIMEOUT)
+        if r.status_code != 200:
+            break
+        body = r.json()
+        positions = body.get("positions") or []
+        for p in positions:
+            title = p.get("name") or ""
+            if not classify(title)["keep"]:
+                continue
+            loc = (p.get("location") or "").replace(",", ", ")
+            out.append(row(c, title, loc,
+                           p.get("canonicalPositionUrl")
+                           or f"{host}/careers/job/{p.get('id')}",
+                           _epoch_date(p.get("t_create"))))
+        start += 50
+        if len(positions) < 50 or start >= body.get("count", 0):
+            break
+    return out
+
+
+def oracle_orc(c, row):
+    """Oracle Cloud Recruiting (`/hcmRestApi/.../recruitingCEJobRequisitions`).
+
+    The requisition list only comes back when `expand` is supplied; without it
+    the response carries facets and no jobs at all.
+    """
+    s, out, offset = session(), [], 0
+    host, site = c["host"], c.get("site", "CX_1")
+    while offset < ORACLE_MAX:
+        r = s.get(f"{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions",
+                  params={"onlyData": "true",
+                          "expand": "requisitionList.secondaryLocations",
+                          "finder": f"findReqs;siteNumber={site},limit=50,"
+                                    f"offset={offset},keyword=intern"},
+                  headers={"Accept": "application/json"}, timeout=TIMEOUT)
+        if r.status_code != 200:
+            break
+        item = (r.json().get("items") or [{}])[0]
+        reqs = item.get("requisitionList") or []
+        for q in reqs:
+            title = q.get("Title") or ""
+            if not classify(title)["keep"]:
+                continue
+            out.append(row(c, title, q.get("PrimaryLocation"),
+                           f"{host}/hcmUI/CandidateExperience/en/sites/"
+                           f"{c.get('ui_site', 'careers')}/job/{q.get('Id')}",
+                           q.get("PostedDate")))
+        offset += 50
+        if len(reqs) < 50 or offset >= item.get("TotalJobsCount", 0):
+            break
+    return out
+
+
+BOARDS = {"amazon": amazon, "apple": apple, "eightfold": eightfold,
+          "oracle_orc": oracle_orc}

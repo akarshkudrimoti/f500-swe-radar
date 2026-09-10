@@ -22,7 +22,8 @@ import re
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from common import GENERIC_FIRST, load_companies, normalize, rank_key, tokens
+from common import (GENERIC_FIRST, SUFFIXES, load_companies, normalize,
+                    rank_key)
 from discover_ats import (try_ashby, try_greenhouse, try_lever,
                           try_smartrecruiters, _json, session, TIMEOUT)
 
@@ -33,15 +34,74 @@ SIMPLE = {"greenhouse": try_greenhouse, "lever": try_lever, "ashby": try_ashby,
           "smartrecruiters": try_smartrecruiters}
 
 
+# Words that name an industry, not a company. Matching on these is what
+# proposed FormEnergy for Valero and check-technologies for Dell.
+INDUSTRY = {
+    "energy", "technology", "technologies", "insurance", "market", "markets",
+    "machine", "machines", "food", "foods", "system", "systems", "solution",
+    "solutions", "service", "services", "holding", "holdings", "industries",
+    "express", "line", "lines", "motor", "motors", "electric", "electronics",
+    "health", "healthcare", "financial", "finance", "bank", "banking",
+    "capital", "partner", "partners", "brand", "brands", "store", "stores",
+    "farm", "performance", "dynamics", "labs", "digital", "media", "network",
+    "networks", "communications", "resources", "materials", "products",
+    "enterprises", "company", "corporation", "science", "sciences",
+    "pharmaceutical", "pharmaceuticals", "petroleum", "airline", "airlines",
+    "auto", "automotive", "retail", "restaurant", "hotels", "resorts",
+    "entertainment", "studios", "telecom", "mobile", "wireless", "data",
+    "cloud", "software", "hardware", "semiconductor", "semiconductors",
+    "engineering", "construction", "transport", "transportation", "logistics",
+    "freight", "shipping", "supply", "management", "consulting", "advisors",
+    "advisory", "trust", "mutual", "life", "group", "worldwide", "global",
+}
+
+# What may legitimately trail a company name in a board address.
+CAREER_TAIL = re.compile(
+    r"^(careers?|jobs?|hiring|talent|external|externalcareersite|careersite|"
+    r"recruiting|opportunities|joinus|work|workday|corporate|global|inc|llc|"
+    r"ltd|group|holdings?|inc|us|usa|uk|com|site|portal|main|new|v2|\d+)*$")
+
+
 def norm(s):
     return re.sub(r"[^a-z0-9]", "", (s or "").lower())
+
+
+def name_words(company_name):
+    """-> (full_name, [distinctive single words]).
+
+    The full concatenated name is self-evidently this company. A single word
+    is not: 'charter' is also Charter Manufacturing, 'fidelity' is also
+    Fidelity Investments, 'berkshire' is also Berkshire Group. Single words are
+    returned separately so the caller can demand extra evidence for them.
+    """
+    # Derived here rather than from tokens(), which already appends the
+    # concatenated name -- joining its output produced 'kraftheinzkraftheinz'.
+    n = re.sub(r"[^a-z0-9]+", " ", company_name.lower().replace("&", "and"))
+    core = [w for w in n.split() if w and w not in SUFFIXES]
+    full = "".join(core)
+    singles = [w for w in core
+               if len(w) >= 5 and w not in INDUSTRY and w not in GENERIC_FIRST]
+    return (full if len(full) >= 5 else None), singles
+
+
+def owns(hay, words):
+    """True when `hay` is a company word plus, at most, careers-page furniture.
+
+    Prefix-anchored and tail-constrained on purpose: 'disneycareer' is Disney,
+    'LillyPulitzer' is not Eli Lilly, and 'advocateslawcareers' is not Tesla
+    even though it contains the letters.
+    """
+    for w in words:
+        if hay.startswith(w) and CAREER_TAIL.match(hay[len(w):]):
+            return w
+    return None
 
 
 def candidates(company, store):
     """-> [(platform, token_key, why)] worth verifying for this company."""
     name = company["name"]
-    toks = [t for t in tokens(name) if len(t) >= 4]
-    if not toks:
+    full, singles = name_words(name)
+    if not full:
         return []
     strong = {norm(s) for s, is_strong in normalize(name) if is_strong}
     out = []
@@ -50,19 +110,25 @@ def candidates(company, store):
         for key in entries:
             if platform == "workday":
                 tenant, pod, site = key.split("|")
-                hay_tenant, hay_site = norm(tenant), norm(site)
-                # The site name is the independent evidence; the tenant alone
-                # is the same guess discovery already makes.
-                if any(t in hay_site for t in toks):
-                    out.append((platform, key, f"site '{site}' contains company name"))
-                elif hay_tenant in strong:
+                hay, ten = norm(site), norm(tenant)
+                if owns(hay, [full]):
+                    out.append((platform, key, f"site '{site}' is the full name"))
+                elif ten in strong:
                     out.append((platform, key, f"tenant '{tenant}' is the full name"))
-            else:
-                h = norm(key)
-                if h in strong:
-                    out.append((platform, key, f"token '{key}' is the full name"))
-                elif len(h) >= 6 and any(t in h for t in toks) and h not in GENERIC_FIRST:
-                    out.append((platform, key, f"token '{key}' contains company name"))
+                elif (w := owns(hay, singles)) and ten == w:
+                    # A single word only counts when the tenant is exactly that
+                    # word too: 'disney' hosting 'disneycareer' is Disney,
+                    # 'chartermfg' hosting 'Charter_Careers' is not Charter
+                    # Communications.
+                    out.append((platform, key, f"site and tenant both '{w}'"))
+            elif owns(norm(key), [full]):
+                # Off-Workday boards are addressed by the token alone, so there
+                # is no second signal -- only a full-name match is safe.
+                out.append((platform, key, f"token '{key}' is the full name"))
+
+    # Longest evidence first, so a full-name match is verified before a
+    # single-word one.
+    out.sort(key=lambda c: -len(c[2]))
     return out
 
 
