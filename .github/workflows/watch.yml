@@ -79,7 +79,18 @@ jobs:
           else
             n=$(python -c "import json;print(json.load(open('data/listings.json'))['count'])")
             git commit -m "watch: $n open postings (${{ steps.probe.outputs.count }} boards moved)"
-            git push
+            # A run holds its checkout for minutes while it fetches, so anything
+            # pushed meanwhile -- another workflow, or a laptop -- makes this
+            # push a non-fast-forward. Replay onto whatever landed and retry.
+            # These files are regenerated artifacts, so on conflict this run's
+            # freshly fetched version wins.
+            for attempt in 1 2 3; do
+              git fetch -q origin main
+              git rebase -X theirs origin/main >/dev/null 2>&1 || { git rebase --abort >/dev/null 2>&1; }
+              if git push -q; then echo "pushed on attempt $attempt"; break; fi
+              [ "$attempt" = 3 ] && { echo "could not push after 3 attempts"; exit 1; }
+              sleep 5
+            done
           fi
 
       - name: Nothing changed
