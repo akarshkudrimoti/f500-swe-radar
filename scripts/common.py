@@ -110,7 +110,11 @@ def load_companies(data_dir):
     rows = json.loads((data_dir / "companies.json").read_text(encoding="utf-8"))
     extra = data_dir / "extra_companies.json"
     if extra.exists():
-        rows += json.loads(extra.read_text(encoding="utf-8"))
+        # Several "extras" turn out to be on the Fortune 500 already; the ranked
+        # entry wins so they don't show up twice with different sectors.
+        have = {r["name"].lower() for r in rows}
+        rows += [r for r in json.loads(extra.read_text(encoding="utf-8"))
+                 if r["name"].lower() not in have]
     return rows
 
 

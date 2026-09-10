@@ -44,22 +44,24 @@ def main():
         by_ats[k] = by_ats.get(k, 0) + 1
     live = sum(1 for c in ats if c.get("ats") != "unknown" and c.get("crawl_allowed"))
     optout = sum(1 for c in ats if c.get("ats") != "unknown" and not c.get("crawl_allowed"))
+    extras = sum(1 for c in ats if not c.get("rank"))
     gen = blob["generated_utc"].replace("T", " ").replace("+00:00", " UTC")
 
     L = []
     A = L.append
-    A("# Fortune 500 SWE Internship Radar")
+    A("# SWE Internship Radar")
     A("")
     A("Software-engineering **internship** postings (Summer 2027 cycle), pulled "
-      "straight from the applicant tracking systems of the companies on the "
-      "[2026 Fortune 500](https://fortune.com/ranking/fortune500/2026/).")
+      "straight from the applicant tracking systems of the "
+      "[2026 Fortune 500](https://fortune.com/ranking/fortune500/2026/) plus a "
+      "curated list of technology companies outside it.")
     A("")
     n_us = sum(1 for r in rows if r.get("is_us") is True)
     A(f"**{len(rows)} open postings** ({n_us} in the US) across "
       f"**{len({r['company'] for r in rows})} companies** · "
       f"last refreshed {gen}")
     A("")
-    A(f"Coverage: {live} of 500 companies have a machine-readable feed we query. "
+    A(f"Coverage: {live} of {len(ats)} companies have a machine-readable feed we query. "
       f"{optout} more were identified but their `robots.txt` disallows crawling, so "
       f"they are listed as links only. {by_ats.get('unknown', 0)} are still unresolved "
       "— see [Coverage](#coverage).")
@@ -111,7 +113,7 @@ def main():
         A(f"| {ATS_LABEL.get(k, k)} | {v} |")
     A("")
     A("<details>")
-    A("<summary>All 500 companies and where their jobs live</summary>")
+    A(f"<summary>All {len(ats)} companies and where their jobs live</summary>")
     A("")
     A("| # | Company | Sector | ATS | Careers |")
     A("|---|---------|--------|-----|---------|")
@@ -167,7 +169,8 @@ def main():
     A("")
     A("---")
     A("")
-    A(f"Company list: Fortune 500, 2026 edition. Generated {dt.date.today()}.")
+    A(f"Company list: Fortune 500 (2026 edition) plus {extras} technology companies "
+      f"from `data/extra_companies.json`. Generated {dt.date.today()}.")
 
     (ROOT / "README.md").write_text("\n".join(L), encoding="utf-8")
     print(f"README.md: {len(rows)} postings, {len(ats)} companies")
