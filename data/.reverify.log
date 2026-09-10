@@ -1,0 +1,18 @@
+48 to probe, 500 cached, 1 overridden
+  [2/48] Wells Fargo: workday (78 open)
+  [4/48] Capital One Financial: workday (1907 open)
+  [13/48] Thermo Fisher Scientific: workday (2928 open)
+  [25/48] ...
+  [27/48] Global Partners: workday (1817 open)
+  [33/48] Raymond James Financial: workday (332 open)
+  [39/48] Global Payments: workday (1817 open)
+  [46/48] Advance Auto Parts: workday (2000 open)
+
+resolved 207/500
+  unknown          293
+  workday          169
+  smartrecruiters  18
+  greenhouse       11
+  ashby            7
+  custom           1
+  lever            1

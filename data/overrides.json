@@ -1,0 +1,10 @@
+[
+ {
+  "name": "Amazon",
+  "ats": "custom",
+  "board": "amazon",
+  "crawl_allowed": true,
+  "careers_url": "https://www.amazon.jobs/en/search?base_query=intern",
+  "note": "runs its own board; amazon.jobs/robots.txt only disallows /internal"
+ }
+]

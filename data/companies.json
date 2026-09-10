@@ -1,0 +1,5002 @@
+[
+ {
+  "rank": 1,
+  "name": "Amazon",
+  "revenue_musd": 716924.0,
+  "sector": "Retailing",
+  "industry": "Internet Services and Retailing",
+  "city": "Seattle",
+  "state": "Washington",
+  "employees": 1576000.0
+ },
+ {
+  "rank": 2,
+  "name": "Walmart",
+  "revenue_musd": 713163.0,
+  "sector": "Retailing",
+  "industry": "General Merchandisers",
+  "city": "Bentonville",
+  "state": "Arkansas",
+  "employees": 2100000.0
+ },
+ {
+  "rank": 3,
+  "name": "UnitedHealth Group",
+  "revenue_musd": 447567.0,
+  "sector": "Health Care",
+  "industry": "Health Care: Insurance and Managed Care",
+  "city": "Eden Prairie",
+  "state": "Minnesota",
+  "employees": 390000.0
+ },
+ {
+  "rank": 4,
+  "name": "Apple",
+  "revenue_musd": 416161.0,
+  "sector": "Technology",
+  "industry": "Computers, Office Equipment",
+  "city": "Cupertino",
+  "state": "California",
+  "employees": 166000.0
+ },
+ {
+  "rank": 5,
+  "name": "Alphabet",
+  "revenue_musd": 402836.0,
+  "sector": "Technology",
+  "industry": "Internet Services and Retailing",
+  "city": "Mountain View",
+  "state": "California",
+  "employees": 190820.0
+ },
+ {
+  "rank": 6,
+  "name": "CVS Health",
+  "revenue_musd": 402067.0,
+  "sector": "Health Care",
+  "industry": "Health Care: Pharmacy and Other Services",
+  "city": "Woonsocket",
+  "state": "Rhode Island",
+  "employees": 259500.0
+ },
+ {
+  "rank": 7,
+  "name": "Berkshire Hathaway",
+  "revenue_musd": 371444.0,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "Omaha",
+  "state": "Nebraska",
+  "employees": 387800.0
+ },
+ {
+  "rank": 8,
+  "name": "McKesson",
+  "revenue_musd": 359051.0,
+  "sector": "Health Care",
+  "industry": "Wholesalers: Health Care",
+  "city": "Irving",
+  "state": "Texas",
+  "employees": 44000.0
+ },
+ {
+  "rank": 9,
+  "name": "ExxonMobil Holdings",
+  "revenue_musd": 332238.0,
+  "sector": "Energy",
+  "industry": "Petroleum Refining",
+  "city": "Spring",
+  "state": "Texas",
+  "employees": 57900.0
+ },
+ {
+  "rank": 10,
+  "name": "Cencora",
+  "revenue_musd": 321332.8,
+  "sector": "Health Care",
+  "industry": "Wholesalers: Health Care",
+  "city": "Conshohocken",
+  "state": "Pennsylvania",
+  "employees": 49000.0
+ },
+ {
+  "rank": 11,
+  "name": "Microsoft",
+  "revenue_musd": 281724.0,
+  "sector": "Technology",
+  "industry": "Computer Software",
+  "city": "Redmond",
+  "state": "Washington",
+  "employees": 228000.0
+ },
+ {
+  "rank": 12,
+  "name": "JPMorgan Chase",
+  "revenue_musd": 280345.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "New York",
+  "state": "New York",
+  "employees": 318512.0
+ },
+ {
+  "rank": 13,
+  "name": "Costco Wholesale",
+  "revenue_musd": 275235.0,
+  "sector": "Retailing",
+  "industry": "General Merchandisers",
+  "city": "Issaquah",
+  "state": "Washington",
+  "employees": 341000.0
+ },
+ {
+  "rank": 14,
+  "name": "Cigna Group",
+  "revenue_musd": 274900.0,
+  "sector": "Health Care",
+  "industry": "Health Care: Pharmacy and Other Services",
+  "city": "Bloomfield",
+  "state": "Connecticut",
+  "employees": 66685.0
+ },
+ {
+  "rank": 15,
+  "name": "Cardinal Health",
+  "revenue_musd": 222578.0,
+  "sector": "Health Care",
+  "industry": "Wholesalers: Health Care",
+  "city": "Dublin",
+  "state": "Ohio",
+  "employees": 55392.0
+ },
+ {
+  "rank": 16,
+  "name": "Nvidia",
+  "revenue_musd": 215938.0,
+  "sector": "Technology",
+  "industry": "Semiconductors and Other Electronic Components",
+  "city": "Santa Clara",
+  "state": "California",
+  "employees": 42000.0
+ },
+ {
+  "rank": 17,
+  "name": "Meta Platforms",
+  "revenue_musd": 200966.0,
+  "sector": "Technology",
+  "industry": "Internet Services and Retailing",
+  "city": "Menlo Park",
+  "state": "California",
+  "employees": 78865.0
+ },
+ {
+  "rank": 18,
+  "name": "Elevance Health",
+  "revenue_musd": 199125.0,
+  "sector": "Health Care",
+  "industry": "Health Care: Insurance and Managed Care",
+  "city": "Indianapolis",
+  "state": "Indiana",
+  "employees": 96615.0
+ },
+ {
+  "rank": 19,
+  "name": "Centene",
+  "revenue_musd": 194777.0,
+  "sector": "Health Care",
+  "industry": "Health Care: Insurance and Managed Care",
+  "city": "St. Louis",
+  "state": "Missouri",
+  "employees": 61100.0
+ },
+ {
+  "rank": 20,
+  "name": "Bank of America",
+  "revenue_musd": 191567.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "Charlotte",
+  "state": "North Carolina",
+  "employees": 213207.0
+ },
+ {
+  "rank": 21,
+  "name": "Chevron",
+  "revenue_musd": 189031.0,
+  "sector": "Energy",
+  "industry": "Petroleum Refining",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 43039.0
+ },
+ {
+  "rank": 22,
+  "name": "Ford Motor",
+  "revenue_musd": 187267.0,
+  "sector": "Motor Vehicles & Parts",
+  "industry": "Motor Vehicles & Parts",
+  "city": "Dearborn",
+  "state": "Michigan",
+  "employees": 169000.0
+ },
+ {
+  "rank": 23,
+  "name": "General Motors",
+  "revenue_musd": 185019.0,
+  "sector": "Motor Vehicles & Parts",
+  "industry": "Motor Vehicles & Parts",
+  "city": "Detroit",
+  "state": "Michigan",
+  "employees": 156000.0
+ },
+ {
+  "rank": 24,
+  "name": "Citigroup",
+  "revenue_musd": 168297.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "New York",
+  "state": "New York",
+  "employees": 226000.0
+ },
+ {
+  "rank": 25,
+  "name": "Home Depot",
+  "revenue_musd": 164683.0,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Other",
+  "city": "Atlanta",
+  "state": "Georgia",
+  "employees": 472400.0
+ },
+ {
+  "rank": 26,
+  "name": "Fannie Mae",
+  "revenue_musd": 159169.0,
+  "sector": "Financials",
+  "industry": "Diversified Financials",
+  "city": "Washington, D.C.",
+  "state": "District Of Columbia",
+  "employees": 7000.0
+ },
+ {
+  "rank": 27,
+  "name": "Kroger",
+  "revenue_musd": 147642.0,
+  "sector": "Food & Drug Stores",
+  "industry": "Food and Drug Stores",
+  "city": "Cincinnati",
+  "state": "Ohio",
+  "employees": 403000.0
+ },
+ {
+  "rank": 28,
+  "name": "Verizon Communications",
+  "revenue_musd": 138191.0,
+  "sector": "Telecommunications",
+  "industry": "Telecommunications",
+  "city": "New York",
+  "state": "New York",
+  "employees": 89900.0
+ },
+ {
+  "rank": 29,
+  "name": "Phillips 66",
+  "revenue_musd": 136560.0,
+  "sector": "Energy",
+  "industry": "Petroleum Refining",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 12600.0
+ },
+ {
+  "rank": 30,
+  "name": "Marathon Petroleum",
+  "revenue_musd": 135222.0,
+  "sector": "Energy",
+  "industry": "Petroleum Refining",
+  "city": "Findlay",
+  "state": "Ohio",
+  "employees": 18500.0
+ },
+ {
+  "rank": 31,
+  "name": "StoneX Group",
+  "revenue_musd": 132378.2,
+  "sector": "Financials",
+  "industry": "Diversified Financials",
+  "city": "New York",
+  "state": "New York",
+  "employees": 5430.0
+ },
+ {
+  "rank": 32,
+  "name": "State Farm Insurance",
+  "revenue_musd": 132311.6,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Mutual)",
+  "city": "Bloomington",
+  "state": "Illinois",
+  "employees": 64273.0
+ },
+ {
+  "rank": 33,
+  "name": "Freddie Mac",
+  "revenue_musd": 131688.0,
+  "sector": "Financials",
+  "industry": "Diversified Financials",
+  "city": "McLean",
+  "state": "Virginia",
+  "employees": 7345.0
+ },
+ {
+  "rank": 34,
+  "name": "Humana",
+  "revenue_musd": 129664.0,
+  "sector": "Health Care",
+  "industry": "Health Care: Insurance and Managed Care",
+  "city": "Louisville",
+  "state": "Kentucky",
+  "employees": 67060.0
+ },
+ {
+  "rank": 35,
+  "name": "AT&T",
+  "revenue_musd": 125648.0,
+  "sector": "Telecommunications",
+  "industry": "Telecommunications",
+  "city": "Dallas",
+  "state": "Texas",
+  "employees": 133030.0
+ },
+ {
+  "rank": 36,
+  "name": "Goldman Sachs Group",
+  "revenue_musd": 125097.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "New York",
+  "state": "New York",
+  "employees": 47400.0
+ },
+ {
+  "rank": 37,
+  "name": "Comcast",
+  "revenue_musd": 123707.0,
+  "sector": "Telecommunications",
+  "industry": "Telecommunications",
+  "city": "Philadelphia",
+  "state": "Pennsylvania",
+  "employees": 179000.0
+ },
+ {
+  "rank": 38,
+  "name": "Wells Fargo",
+  "revenue_musd": 123529.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "San Francisco",
+  "state": "California",
+  "employees": 205198.0
+ },
+ {
+  "rank": 39,
+  "name": "Morgan Stanley",
+  "revenue_musd": 119662.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "New York",
+  "state": "New York",
+  "employees": 82992.0
+ },
+ {
+  "rank": 40,
+  "name": "Valero Energy",
+  "revenue_musd": 115939.0,
+  "sector": "Energy",
+  "industry": "Petroleum Refining",
+  "city": "San Antonio",
+  "state": "Texas",
+  "employees": 9798.0
+ },
+ {
+  "rank": 41,
+  "name": "Dell Technologies",
+  "revenue_musd": 113538.0,
+  "sector": "Technology",
+  "industry": "Computers, Office Equipment",
+  "city": "Round Rock",
+  "state": "Texas",
+  "employees": 97000.0
+ },
+ {
+  "rank": 42,
+  "name": "Target",
+  "revenue_musd": 104780.0,
+  "sector": "Retailing",
+  "industry": "General Merchandisers",
+  "city": "Minneapolis",
+  "state": "Minnesota",
+  "employees": 415000.0
+ },
+ {
+  "rank": 43,
+  "name": "Tesla",
+  "revenue_musd": 94827.0,
+  "sector": "Motor Vehicles & Parts",
+  "industry": "Motor Vehicles & Parts",
+  "city": "Austin",
+  "state": "Texas",
+  "employees": 134785.0
+ },
+ {
+  "rank": 44,
+  "name": "Walt Disney",
+  "revenue_musd": 94425.0,
+  "sector": "Media",
+  "industry": "Entertainment",
+  "city": "Burbank",
+  "state": "California",
+  "employees": 203280.0
+ },
+ {
+  "rank": 45,
+  "name": "Johnson & Johnson",
+  "revenue_musd": 94193.0,
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "city": "New Brunswick",
+  "state": "New Jersey",
+  "employees": 138200.0
+ },
+ {
+  "rank": 46,
+  "name": "PepsiCo",
+  "revenue_musd": 93925.0,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Consumer Products",
+  "city": "Purchase",
+  "state": "New York",
+  "employees": 306000.0
+ },
+ {
+  "rank": 47,
+  "name": "Boeing",
+  "revenue_musd": 89463.0,
+  "sector": "Aerospace & Defense",
+  "industry": "Aerospace & Defense",
+  "city": "Arlington",
+  "state": "Virginia",
+  "employees": 182000.0
+ },
+ {
+  "rank": 48,
+  "name": "United Parcel Service",
+  "revenue_musd": 88661.0,
+  "sector": "Transportation",
+  "industry": "Mail, Package, and Freight Delivery",
+  "city": "Atlanta",
+  "state": "Georgia",
+  "employees": 350625.0
+ },
+ {
+  "rank": 49,
+  "name": "RTX",
+  "revenue_musd": 88603.0,
+  "sector": "Aerospace & Defense",
+  "industry": "Aerospace & Defense",
+  "city": "Arlington",
+  "state": "Virginia",
+  "employees": 180000.0
+ },
+ {
+  "rank": 50,
+  "name": "FedEx",
+  "revenue_musd": 87926.0,
+  "sector": "Transportation",
+  "industry": "Mail, Package, and Freight Delivery",
+  "city": "Memphis",
+  "state": "Tennessee",
+  "employees": 408200.0
+ },
+ {
+  "rank": 51,
+  "name": "Progressive",
+  "revenue_musd": 87671.0,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "Mayfield Village",
+  "state": "Ohio",
+  "employees": 70053.0
+ },
+ {
+  "rank": 52,
+  "name": "Lowe's",
+  "revenue_musd": 86286.0,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Other",
+  "city": "Mooresville",
+  "state": "North Carolina",
+  "employees": 221500.0
+ },
+ {
+  "rank": 53,
+  "name": "Energy Transfer",
+  "revenue_musd": 85536.0,
+  "sector": "Energy",
+  "industry": "Pipelines",
+  "city": "Dallas",
+  "state": "Texas",
+  "employees": 22311.0
+ },
+ {
+  "rank": 54,
+  "name": "Procter & Gamble",
+  "revenue_musd": 84284.0,
+  "sector": "Household Products",
+  "industry": "Household and Personal Products",
+  "city": "Cincinnati",
+  "state": "Ohio",
+  "employees": 109000.0
+ },
+ {
+  "rank": 55,
+  "name": "Sysco",
+  "revenue_musd": 81370.0,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Food and Grocery",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 75000.0
+ },
+ {
+  "rank": 56,
+  "name": "American Express",
+  "revenue_musd": 80463.0,
+  "sector": "Financials",
+  "industry": "Diversified Financials",
+  "city": "New York",
+  "state": "New York",
+  "employees": 76800.0
+ },
+ {
+  "rank": 57,
+  "name": "Albertsons",
+  "revenue_musd": 80390.9,
+  "sector": "Food & Drug Stores",
+  "industry": "Food and Drug Stores",
+  "city": "Boise",
+  "state": "Idaho",
+  "employees": 196650.0
+ },
+ {
+  "rank": 58,
+  "name": "Archer Daniels Midland",
+  "revenue_musd": 80269.0,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Production",
+  "city": "Chicago",
+  "state": "Illinois",
+  "employees": 41147.0
+ },
+ {
+  "rank": 59,
+  "name": "MetLife",
+  "revenue_musd": 77084.0,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (stock)",
+  "city": "New York",
+  "state": "New York",
+  "employees": 46000.0
+ },
+ {
+  "rank": 60,
+  "name": "HCA Healthcare",
+  "revenue_musd": 75600.0,
+  "sector": "Health Care",
+  "industry": "Health Care: Medical Facilities",
+  "city": "Nashville",
+  "state": "Tennessee",
+  "employees": 275000.0
+ },
+ {
+  "rank": 61,
+  "name": "Lockheed Martin",
+  "revenue_musd": 75048.0,
+  "sector": "Aerospace & Defense",
+  "industry": "Aerospace & Defense",
+  "city": "Bethesda",
+  "state": "Maryland",
+  "employees": 123000.0
+ },
+ {
+  "rank": 62,
+  "name": "New York Life Insurance",
+  "revenue_musd": 73145.5,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (Mutual)",
+  "city": "New York",
+  "state": "New York",
+  "employees": 14713.0
+ },
+ {
+  "rank": 63,
+  "name": "Capital One Financial",
+  "revenue_musd": 69252.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "McLean",
+  "state": "Virginia",
+  "employees": 76300.0
+ },
+ {
+  "rank": 64,
+  "name": "Allstate",
+  "revenue_musd": 67685.0,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "Northbrook",
+  "state": "Illinois",
+  "employees": 53150.0
+ },
+ {
+  "rank": 65,
+  "name": "Caterpillar",
+  "revenue_musd": 67589.0,
+  "sector": "Industrials",
+  "industry": "Construction and Farm Machinery",
+  "city": "Irving",
+  "state": "Texas",
+  "employees": 118000.0
+ },
+ {
+  "rank": 66,
+  "name": "International Business Machines",
+  "revenue_musd": 67535.0,
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "city": "Armonk",
+  "state": "New York",
+  "employees": 278100.0
+ },
+ {
+  "rank": 67,
+  "name": "Eli Lilly",
+  "revenue_musd": 65179.0,
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "city": "Indianapolis",
+  "state": "Indiana",
+  "employees": 50000.0
+ },
+ {
+  "rank": 68,
+  "name": "Merck",
+  "revenue_musd": 65011.0,
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "city": "Rahway",
+  "state": "New Jersey",
+  "employees": 74000.0
+ },
+ {
+  "rank": 69,
+  "name": "Nationwide",
+  "revenue_musd": 64929.8,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Mutual)",
+  "city": "Columbus",
+  "state": "Ohio",
+  "employees": 21716.0
+ },
+ {
+  "rank": 70,
+  "name": "Broadcom",
+  "revenue_musd": 63887.0,
+  "sector": "Technology",
+  "industry": "Semiconductors and Other Electronic Components",
+  "city": "Palo Alto",
+  "state": "California",
+  "employees": 33000.0
+ },
+ {
+  "rank": 71,
+  "name": "Delta Air Lines",
+  "revenue_musd": 63364.0,
+  "sector": "Transportation",
+  "industry": "Airlines",
+  "city": "Atlanta",
+  "state": "Georgia",
+  "employees": 103000.0
+ },
+ {
+  "rank": 72,
+  "name": "Publix Super Markets",
+  "revenue_musd": 63209.0,
+  "sector": "Food & Drug Stores",
+  "industry": "Food and Drug Stores",
+  "city": "Lakeland",
+  "state": "Florida",
+  "employees": 260000.0
+ },
+ {
+  "rank": 73,
+  "name": "Pfizer",
+  "revenue_musd": 62579.0,
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "city": "New York",
+  "state": "New York",
+  "employees": 75000.0
+ },
+ {
+  "rank": 74,
+  "name": "TD Synnex",
+  "revenue_musd": 62508.1,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Electronics and Office Equipment",
+  "city": "Fremont",
+  "state": "California",
+  "employees": 27000.0
+ },
+ {
+  "rank": 75,
+  "name": "ConocoPhillips",
+  "revenue_musd": 61548.0,
+  "sector": "Energy",
+  "industry": "Mining, Crude-Oil Production",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 9900.0
+ },
+ {
+  "rank": 76,
+  "name": "Galaxy Digital",
+  "revenue_musd": 61355.7,
+  "sector": "Financials",
+  "industry": "Securities",
+  "city": "New York",
+  "state": "New York",
+  "employees": 700.0
+ },
+ {
+  "rank": 77,
+  "name": "AbbVie",
+  "revenue_musd": 61160.0,
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "city": "North Chicago",
+  "state": "Illinois",
+  "employees": 57000.0
+ },
+ {
+  "rank": 78,
+  "name": "Prudential Financial",
+  "revenue_musd": 60774.0,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (stock)",
+  "city": "Newark",
+  "state": "New Jersey",
+  "employees": 36607.0
+ },
+ {
+  "rank": 79,
+  "name": "TJX",
+  "revenue_musd": 60372.0,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Apparel",
+  "city": "Framingham",
+  "state": "Massachusetts",
+  "employees": 377000.0
+ },
+ {
+  "rank": 80,
+  "name": "Performance Food Group",
+  "revenue_musd": 59898.9,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Food and Grocery",
+  "city": "Richmond",
+  "state": "Virginia",
+  "employees": 42785.0
+ },
+ {
+  "rank": 81,
+  "name": "United Airlines Holdings",
+  "revenue_musd": 59070.0,
+  "sector": "Transportation",
+  "industry": "Airlines",
+  "city": "Chicago",
+  "state": "Illinois",
+  "employees": 113200.0
+ },
+ {
+  "rank": 82,
+  "name": "Oracle",
+  "revenue_musd": 57399.0,
+  "sector": "Technology",
+  "industry": "Computer Software",
+  "city": "Austin",
+  "state": "Texas",
+  "employees": 162000.0
+ },
+ {
+  "rank": 83,
+  "name": "Cisco Systems",
+  "revenue_musd": 56654.0,
+  "sector": "Technology",
+  "industry": "Network and Other Communications Equipment",
+  "city": "San Jose",
+  "state": "California",
+  "employees": 86200.0
+ },
+ {
+  "rank": 84,
+  "name": "HP",
+  "revenue_musd": 55295.0,
+  "sector": "Technology",
+  "industry": "Computers, Office Equipment",
+  "city": "Palo Alto",
+  "state": "California",
+  "employees": 55000.0
+ },
+ {
+  "rank": 85,
+  "name": "Charter Communications",
+  "revenue_musd": 54774.0,
+  "sector": "Telecommunications",
+  "industry": "Telecommunications",
+  "city": "Stamford",
+  "state": "Connecticut",
+  "employees": 91900.0
+ },
+ {
+  "rank": 86,
+  "name": "American Airlines Group",
+  "revenue_musd": 54633.0,
+  "sector": "Transportation",
+  "industry": "Airlines",
+  "city": "Fort Worth",
+  "state": "Texas",
+  "employees": 139100.0
+ },
+ {
+  "rank": 87,
+  "name": "Tyson Foods",
+  "revenue_musd": 54441.0,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Production",
+  "city": "Springdale",
+  "state": "Arkansas",
+  "employees": 133000.0
+ },
+ {
+  "rank": 88,
+  "name": "Intel",
+  "revenue_musd": 52853.0,
+  "sector": "Technology",
+  "industry": "Semiconductors and Other Electronic Components",
+  "city": "Santa Clara",
+  "state": "California",
+  "employees": 85100.0
+ },
+ {
+  "rank": 89,
+  "name": "Enterprise Products Partners",
+  "revenue_musd": 52596.0,
+  "sector": "Energy",
+  "industry": "Pipelines",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 8000.0
+ },
+ {
+  "rank": 90,
+  "name": "Ingram Micro Holding",
+  "revenue_musd": 52556.3,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Electronics and Office Equipment",
+  "city": "Irvine",
+  "state": "California",
+  "employees": 25100.0
+ },
+ {
+  "rank": 91,
+  "name": "General Dynamics",
+  "revenue_musd": 52550.0,
+  "sector": "Aerospace & Defense",
+  "industry": "Aerospace & Defense",
+  "city": "Reston",
+  "state": "Virginia",
+  "employees": 117000.0
+ },
+ {
+  "rank": 92,
+  "name": "Uber Technologies",
+  "revenue_musd": 52017.0,
+  "sector": "Technology",
+  "industry": "Internet Services and Retailing",
+  "city": "San Francisco",
+  "state": "California",
+  "employees": 34000.0
+ },
+ {
+  "rank": 93,
+  "name": "United Services Automobile Assn.",
+  "revenue_musd": 51499.2,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "San Antonio",
+  "state": "Texas",
+  "employees": 37380.0
+ },
+ {
+  "rank": 94,
+  "name": "TIAA",
+  "revenue_musd": 50604.7,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (Mutual)",
+  "city": "New York",
+  "state": "New York",
+  "employees": 13676.0
+ },
+ {
+  "rank": 95,
+  "name": "Liberty Mutual Insurance Group",
+  "revenue_musd": 50465.0,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "Boston",
+  "state": "Massachusetts",
+  "employees": 40000.0
+ },
+ {
+  "rank": 96,
+  "name": "Travelers",
+  "revenue_musd": 48828.0,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "New York",
+  "state": "New York",
+  "employees": 34000.0
+ },
+ {
+  "rank": 97,
+  "name": "Bristol-Myers Squibb",
+  "revenue_musd": 48194.0,
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "city": "Princeton",
+  "state": "New Jersey",
+  "employees": 32500.0
+ },
+ {
+  "rank": 98,
+  "name": "Coca-Cola",
+  "revenue_musd": 47941.0,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Beverages",
+  "city": "Atlanta",
+  "state": "Georgia",
+  "employees": 65900.0
+ },
+ {
+  "rank": 99,
+  "name": "Nike",
+  "revenue_musd": 46309.0,
+  "sector": "Apparel",
+  "industry": "Apparel",
+  "city": "Beaverton",
+  "state": "Oregon",
+  "employees": 77800.0
+ },
+ {
+  "rank": 100,
+  "name": "Massachusetts Mutual Life Insurance",
+  "revenue_musd": 46053.7,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (Mutual)",
+  "city": "Springfield",
+  "state": "Massachusetts",
+  "employees": 11329.0
+ },
+ {
+  "rank": 101,
+  "name": "GE Aerospace",
+  "revenue_musd": 45855.0,
+  "sector": "Aerospace & Defense",
+  "industry": "Aerospace & Defense",
+  "city": "Evendale",
+  "state": "Ohio",
+  "employees": 57000.0
+ },
+ {
+  "rank": 102,
+  "name": "Deere",
+  "revenue_musd": 45684.0,
+  "sector": "Industrials",
+  "industry": "Construction and Farm Machinery",
+  "city": "Moline",
+  "state": "Illinois",
+  "employees": 52800.0
+ },
+ {
+  "rank": 103,
+  "name": "Plains GP Holdings",
+  "revenue_musd": 45579.0,
+  "sector": "Energy",
+  "industry": "Pipelines",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 3900.0
+ },
+ {
+  "rank": 104,
+  "name": "Molina Healthcare",
+  "revenue_musd": 45426.0,
+  "sector": "Health Care",
+  "industry": "Health Care: Insurance and Managed Care",
+  "city": "Long Beach",
+  "state": "California",
+  "employees": 19000.0
+ },
+ {
+  "rank": 105,
+  "name": "Netflix",
+  "revenue_musd": 45183.0,
+  "sector": "Media",
+  "industry": "Entertainment",
+  "city": "Los Gatos",
+  "state": "California",
+  "employees": 16000.0
+ },
+ {
+  "rank": 106,
+  "name": "Thermo Fisher Scientific",
+  "revenue_musd": 44556.0,
+  "sector": "Health Care",
+  "industry": "Medical Products and Equipment",
+  "city": "Waltham",
+  "state": "Massachusetts",
+  "employees": 125000.0
+ },
+ {
+  "rank": 107,
+  "name": "Abbott Laboratories",
+  "revenue_musd": 44328.0,
+  "sector": "Health Care",
+  "industry": "Medical Products and Equipment",
+  "city": "Abbott Park",
+  "state": "Illinois",
+  "employees": 115000.0
+ },
+ {
+  "rank": 108,
+  "name": "Qualcomm",
+  "revenue_musd": 44284.0,
+  "sector": "Technology",
+  "industry": "Semiconductors and Other Electronic Components",
+  "city": "San Diego",
+  "state": "California",
+  "employees": 52000.0
+ },
+ {
+  "rank": 109,
+  "name": "Northwestern Mutual",
+  "revenue_musd": 43676.2,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (Mutual)",
+  "city": "Milwaukee",
+  "state": "Wisconsin",
+  "employees": 8311.0
+ },
+ {
+  "rank": 110,
+  "name": "U.S. Bancorp",
+  "revenue_musd": 42861.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "Minneapolis",
+  "state": "Minnesota",
+  "employees": 68520.0
+ },
+ {
+  "rank": 111,
+  "name": "Dollar General",
+  "revenue_musd": 42724.4,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Other",
+  "city": "Goodlettsville",
+  "state": "Tennessee",
+  "employees": 194000.0
+ },
+ {
+  "rank": 112,
+  "name": "Northrop Grumman",
+  "revenue_musd": 41954.0,
+  "sector": "Aerospace & Defense",
+  "industry": "Aerospace & Defense",
+  "city": "Falls Church",
+  "state": "Virginia",
+  "employees": 95000.0
+ },
+ {
+  "rank": 113,
+  "name": "Best Buy",
+  "revenue_musd": 41691.0,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Other",
+  "city": "Richfield",
+  "state": "Minnesota",
+  "employees": 82000.0
+ },
+ {
+  "rank": 114,
+  "name": "Salesforce",
+  "revenue_musd": 41525.0,
+  "sector": "Technology",
+  "industry": "Computer Software",
+  "city": "San Francisco",
+  "state": "California",
+  "employees": 83334.0
+ },
+ {
+  "rank": 115,
+  "name": "Bank of New York (BNY)",
+  "revenue_musd": 40762.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "New York",
+  "state": "New York",
+  "employees": 48100.0
+ },
+ {
+  "rank": 116,
+  "name": "Honeywell Technologies",
+  "revenue_musd": 40686.0,
+  "sector": "Industrials",
+  "industry": "Industrial Machinery",
+  "city": "Charlotte",
+  "state": "North Carolina",
+  "employees": 101000.0
+ },
+ {
+  "rank": 117,
+  "name": "Philip Morris International",
+  "revenue_musd": 40648.0,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Tobacco",
+  "city": "Stamford",
+  "state": "Connecticut",
+  "employees": 84900.0
+ },
+ {
+  "rank": 118,
+  "name": "CBRE Group",
+  "revenue_musd": 40550.0,
+  "sector": "Financials",
+  "industry": "Real estate",
+  "city": "Dallas",
+  "state": "Texas",
+  "employees": 155000.0
+ },
+ {
+  "rank": 119,
+  "name": "Visa",
+  "revenue_musd": 40000.0,
+  "sector": "Business Services",
+  "industry": "Financial Data Services",
+  "city": "San Francisco",
+  "state": "California",
+  "employees": 34100.0
+ },
+ {
+  "rank": 120,
+  "name": "Dow",
+  "revenue_musd": 39968.0,
+  "sector": "Chemicals",
+  "industry": "Chemicals",
+  "city": "Midland",
+  "state": "Michigan",
+  "employees": 34600.0
+ },
+ {
+  "rank": 121,
+  "name": "US Foods Holding",
+  "revenue_musd": 39424.0,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Food and Grocery",
+  "city": "Rosemont",
+  "state": "Illinois",
+  "employees": 30000.0
+ },
+ {
+  "rank": 122,
+  "name": "Mondel\u0113z International",
+  "revenue_musd": 38537.0,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Consumer Products",
+  "city": "Chicago",
+  "state": "Illinois",
+  "employees": 91000.0
+ },
+ {
+  "rank": 123,
+  "name": "Lithia Motors",
+  "revenue_musd": 38133.9,
+  "sector": "Retailing",
+  "industry": "Automotive Retailing, Services",
+  "city": "Medford",
+  "state": "Oregon",
+  "employees": 30847.0
+ },
+ {
+  "rank": 124,
+  "name": "GE Vernova",
+  "revenue_musd": 38068.0,
+  "sector": "Energy",
+  "industry": "Energy",
+  "city": "Cambridge",
+  "state": "Massachusetts",
+  "employees": 78000.0
+ },
+ {
+  "rank": 125,
+  "name": "Micron Technology",
+  "revenue_musd": 37378.0,
+  "sector": "Technology",
+  "industry": "Semiconductors and Other Electronic Components",
+  "city": "Boise",
+  "state": "Idaho",
+  "employees": 53000.0
+ },
+ {
+  "rank": 126,
+  "name": "Warner Bros. Discovery",
+  "revenue_musd": 37296.0,
+  "sector": "Media",
+  "industry": "Entertainment",
+  "city": "New York",
+  "state": "New York",
+  "employees": 35500.0
+ },
+ {
+  "rank": 127,
+  "name": "Starbucks",
+  "revenue_musd": 37184.4,
+  "sector": "Hotels, Restaurants & Leisure",
+  "industry": "Food Services",
+  "city": "Seattle",
+  "state": "Washington",
+  "employees": 381000.0
+ },
+ {
+  "rank": 128,
+  "name": "World Kinect",
+  "revenue_musd": 36916.6,
+  "sector": "Energy",
+  "industry": "Energy",
+  "city": "Miami",
+  "state": "Florida",
+  "employees": 4003.0
+ },
+ {
+  "rank": 129,
+  "name": "Amgen",
+  "revenue_musd": 36751.0,
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "city": "Thousand Oaks",
+  "state": "California",
+  "employees": 31500.0
+ },
+ {
+  "rank": 130,
+  "name": "CHS",
+  "revenue_musd": 35462.6,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Production",
+  "city": "Inver Grove Heights",
+  "state": "Minnesota",
+  "employees": 10683.0
+ },
+ {
+  "rank": 131,
+  "name": "Advanced Micro Devices",
+  "revenue_musd": 34639.0,
+  "sector": "Technology",
+  "industry": "Semiconductors and Other Electronic Components",
+  "city": "Santa Clara",
+  "state": "California",
+  "employees": 31000.0
+ },
+ {
+  "rank": 132,
+  "name": "Coupang",
+  "revenue_musd": 34534.0,
+  "sector": "Retailing",
+  "industry": "Internet Services and Retailing",
+  "city": "Seattle",
+  "state": "Washington",
+  "employees": 108000.0
+ },
+ {
+  "rank": 133,
+  "name": "Hewlett Packard Enterprise",
+  "revenue_musd": 34296.0,
+  "sector": "Technology",
+  "industry": "Computers, Office Equipment",
+  "city": "Spring",
+  "state": "Texas",
+  "employees": 67000.0
+ },
+ {
+  "rank": 134,
+  "name": "D.R. Horton",
+  "revenue_musd": 34250.4,
+  "sector": "Engineering & Construction",
+  "industry": "Homebuilders",
+  "city": "Arlington",
+  "state": "Texas",
+  "employees": 14341.0
+ },
+ {
+  "rank": 135,
+  "name": "Lennar",
+  "revenue_musd": 34186.9,
+  "sector": "Engineering & Construction",
+  "industry": "Homebuilders",
+  "city": "Miami",
+  "state": "Florida",
+  "employees": 12532.0
+ },
+ {
+  "rank": 136,
+  "name": "PNC Financial Services Group",
+  "revenue_musd": 33996.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "Pittsburgh",
+  "state": "Pennsylvania",
+  "employees": 54596.0
+ },
+ {
+  "rank": 137,
+  "name": "Cummins",
+  "revenue_musd": 33670.0,
+  "sector": "Industrials",
+  "industry": "Industrial Machinery",
+  "city": "Columbus",
+  "state": "Indiana",
+  "employees": 67400.0
+ },
+ {
+  "rank": 138,
+  "name": "Oneok",
+  "revenue_musd": 33629.0,
+  "sector": "Energy",
+  "industry": "Pipelines",
+  "city": "Tulsa",
+  "state": "Oklahoma",
+  "employees": 6326.0
+ },
+ {
+  "rank": 139,
+  "name": "PayPal Holdings",
+  "revenue_musd": 33172.0,
+  "sector": "Business Services",
+  "industry": "Financial Data Services",
+  "city": "San Jose",
+  "state": "California",
+  "employees": 23800.0
+ },
+ {
+  "rank": 140,
+  "name": "GuideWell Mutual Holding",
+  "revenue_musd": 32863.2,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (stock)",
+  "city": "Jacksonville",
+  "state": "Florida",
+  "employees": 15431.0
+ },
+ {
+  "rank": 141,
+  "name": "Mastercard",
+  "revenue_musd": 32791.0,
+  "sector": "Business Services",
+  "industry": "Financial Data Services",
+  "city": "Purchase",
+  "state": "New York",
+  "employees": 39800.0
+ },
+ {
+  "rank": 142,
+  "name": "Nucor",
+  "revenue_musd": 32494.0,
+  "sector": "Materials",
+  "industry": "Metals",
+  "city": "Charlotte",
+  "state": "North Carolina",
+  "employees": 33000.0
+ },
+ {
+  "rank": 143,
+  "name": "Apollo Global Management",
+  "revenue_musd": 32102.0,
+  "sector": "Financials",
+  "industry": "Securities",
+  "city": "New York",
+  "state": "New York",
+  "employees": 6140.0
+ },
+ {
+  "rank": 144,
+  "name": "Penske Automotive Group",
+  "revenue_musd": 31808.5,
+  "sector": "Retailing",
+  "industry": "Automotive Retailing, Services",
+  "city": "Bloomfield Hills",
+  "state": "Michigan",
+  "employees": 27700.0
+ },
+ {
+  "rank": 145,
+  "name": "Duke Energy",
+  "revenue_musd": 31794.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Charlotte",
+  "state": "North Carolina",
+  "employees": 26441.0
+ },
+ {
+  "rank": 146,
+  "name": "United Natural Foods",
+  "revenue_musd": 31784.0,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Food and Grocery",
+  "city": "Providence",
+  "state": "Rhode Island",
+  "employees": 25600.0
+ },
+ {
+  "rank": 147,
+  "name": "Ferguson Enterprises",
+  "revenue_musd": 31316.0,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Diversified",
+  "city": "Newport News",
+  "state": "Virginia",
+  "employees": 35000.0
+ },
+ {
+  "rank": 148,
+  "name": "Arrow Electronics",
+  "revenue_musd": 30852.9,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Electronics and Office Equipment",
+  "city": "Centennial",
+  "state": "Colorado",
+  "employees": 22230.0
+ },
+ {
+  "rank": 149,
+  "name": "NRG Energy",
+  "revenue_musd": 30713.0,
+  "sector": "Energy",
+  "industry": "Energy",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 16702.0
+ },
+ {
+  "rank": 150,
+  "name": "Truist Financial",
+  "revenue_musd": 30438.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "Charlotte",
+  "state": "North Carolina",
+  "employees": 37898.0
+ },
+ {
+  "rank": 151,
+  "name": "Jabil",
+  "revenue_musd": 29802.0,
+  "sector": "Technology",
+  "industry": "Semiconductors and Other Electronic Components",
+  "city": "St. Petersburg",
+  "state": "Florida",
+  "employees": 135000.0
+ },
+ {
+  "rank": 152,
+  "name": "Southern",
+  "revenue_musd": 29553.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Atlanta",
+  "state": "Georgia",
+  "employees": 29651.0
+ },
+ {
+  "rank": 153,
+  "name": "Gilead Sciences",
+  "revenue_musd": 29443.0,
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "city": "Foster City",
+  "state": "California",
+  "employees": 17000.0
+ },
+ {
+  "rank": 154,
+  "name": "PBF Energy",
+  "revenue_musd": 29332.3,
+  "sector": "Energy",
+  "industry": "Petroleum Refining",
+  "city": "Parsippany",
+  "state": "New Jersey",
+  "employees": 3678.0
+ },
+ {
+  "rank": 155,
+  "name": "Paramount Skydance",
+  "revenue_musd": 28891.0,
+  "sector": "Media",
+  "industry": "Entertainment",
+  "city": "New York",
+  "state": "New York",
+  "employees": 19400.0
+ },
+ {
+  "rank": 156,
+  "name": "KKR",
+  "revenue_musd": 28888.4,
+  "sector": "Financials",
+  "industry": "Securities",
+  "city": "New York",
+  "state": "New York",
+  "employees": 5043.0
+ },
+ {
+  "rank": 157,
+  "name": "Quanta Services",
+  "revenue_musd": 28479.7,
+  "sector": "Engineering & Construction",
+  "industry": "Engineering & Construction",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 69500.0
+ },
+ {
+  "rank": 158,
+  "name": "Paccar",
+  "revenue_musd": 28444.8,
+  "sector": "Motor Vehicles & Parts",
+  "industry": "Motor Vehicles & Parts",
+  "city": "Bellevue",
+  "state": "Washington",
+  "employees": 25900.0
+ },
+ {
+  "rank": 159,
+  "name": "Medline",
+  "revenue_musd": 28432.0,
+  "sector": "Health Care",
+  "industry": "Medical Products and Equipment",
+  "city": "Northfield",
+  "state": "Illinois",
+  "employees": 45000.0
+ },
+ {
+  "rank": 160,
+  "name": "Applied Materials",
+  "revenue_musd": 28368.0,
+  "sector": "Technology",
+  "industry": "Semiconductors and Other Electronic Components",
+  "city": "Santa Clara",
+  "state": "California",
+  "employees": 36500.0
+ },
+ {
+  "rank": 160,
+  "name": "Hartford Insurance Group",
+  "revenue_musd": 28368.0,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "Hartford",
+  "state": "Connecticut",
+  "employees": 19200.0
+ },
+ {
+  "rank": 162,
+  "name": "CarMax",
+  "revenue_musd": 28207.3,
+  "sector": "Retailing",
+  "industry": "Automotive Retailing, Services",
+  "city": "Richmond",
+  "state": "Virginia",
+  "employees": 30048.0
+ },
+ {
+  "rank": 163,
+  "name": "Southwest Airlines",
+  "revenue_musd": 28063.0,
+  "sector": "Transportation",
+  "industry": "Airlines",
+  "city": "Dallas",
+  "state": "Texas",
+  "employees": 72790.0
+ },
+ {
+  "rank": 164,
+  "name": "Baker Hughes",
+  "revenue_musd": 27733.0,
+  "sector": "Energy",
+  "industry": "Oil and Gas Equipment, Services",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 56000.0
+ },
+ {
+  "rank": 165,
+  "name": "Charles Schwab",
+  "revenue_musd": 27675.0,
+  "sector": "Financials",
+  "industry": "Securities",
+  "city": "Westlake",
+  "state": "Texas",
+  "employees": 33000.0
+ },
+ {
+  "rank": 166,
+  "name": "AutoNation",
+  "revenue_musd": 27631.4,
+  "sector": "Retailing",
+  "industry": "Automotive Retailing, Services",
+  "city": "Fort Lauderdale",
+  "state": "Florida",
+  "employees": 24800.0
+ },
+ {
+  "rank": 167,
+  "name": "NextEra Energy",
+  "revenue_musd": 27412.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Juno Beach",
+  "state": "Florida",
+  "employees": 17400.0
+ },
+ {
+  "rank": 168,
+  "name": "Marsh & McLennan",
+  "revenue_musd": 26981.0,
+  "sector": "Financials",
+  "industry": "Diversified Financials",
+  "city": "New York",
+  "state": "New York",
+  "employees": 95000.0
+ },
+ {
+  "rank": 169,
+  "name": "Booking Holdings",
+  "revenue_musd": 26917.0,
+  "sector": "Technology",
+  "industry": "Internet Services and Retailing",
+  "city": "Norwalk",
+  "state": "Connecticut",
+  "employees": 23936.0
+ },
+ {
+  "rank": 170,
+  "name": "McDonald's",
+  "revenue_musd": 26885.0,
+  "sector": "Hotels, Restaurants & Leisure",
+  "industry": "Food Services",
+  "city": "Chicago",
+  "state": "Illinois",
+  "employees": 150000.0
+ },
+ {
+  "rank": 171,
+  "name": "HF Sinclair",
+  "revenue_musd": 26869.0,
+  "sector": "Energy",
+  "industry": "Petroleum Refining",
+  "city": "Dallas",
+  "state": "Texas",
+  "employees": 5165.0
+ },
+ {
+  "rank": 172,
+  "name": "AIG",
+  "revenue_musd": 26775.0,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "New York",
+  "state": "New York",
+  "employees": 22100.0
+ },
+ {
+  "rank": 173,
+  "name": "Occidental Petroleum",
+  "revenue_musd": 26446.0,
+  "sector": "Energy",
+  "industry": "Mining, Crude-Oil Production",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 10412.0
+ },
+ {
+  "rank": 174,
+  "name": "Marriott International",
+  "revenue_musd": 26186.0,
+  "sector": "Hotels, Restaurants & Leisure",
+  "industry": "Hotels, Casinos, Resorts",
+  "city": "Bethesda",
+  "state": "Maryland",
+  "employees": 148000.0
+ },
+ {
+  "rank": 175,
+  "name": "Jones Lang LaSalle",
+  "revenue_musd": 26115.6,
+  "sector": "Financials",
+  "industry": "Real estate",
+  "city": "Chicago",
+  "state": "Illinois",
+  "employees": 113200.0
+ },
+ {
+  "rank": 176,
+  "name": "International Paper",
+  "revenue_musd": 26104.0,
+  "sector": "Materials",
+  "industry": "Packaging, Containers",
+  "city": "Memphis",
+  "state": "Tennessee",
+  "employees": 62602.0
+ },
+ {
+  "rank": 177,
+  "name": "Freeport-McMoRan",
+  "revenue_musd": 25915.0,
+  "sector": "Energy",
+  "industry": "Mining, Crude-Oil Production",
+  "city": "Phoenix",
+  "state": "Arizona",
+  "employees": 29000.0
+ },
+ {
+  "rank": 178,
+  "name": "Constellation Energy",
+  "revenue_musd": 25533.0,
+  "sector": "Energy",
+  "industry": "Energy",
+  "city": "Baltimore",
+  "state": "Maryland",
+  "employees": 15315.0
+ },
+ {
+  "rank": 179,
+  "name": "Waste Management",
+  "revenue_musd": 25204.0,
+  "sector": "Business Services",
+  "industry": "Waste Management",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 60500.0
+ },
+ {
+  "rank": 180,
+  "name": "Live Nation Entertainment",
+  "revenue_musd": 25201.4,
+  "sector": "Media",
+  "industry": "Entertainment",
+  "city": "Beverly Hills",
+  "state": "California",
+  "employees": 26200.0
+ },
+ {
+  "rank": 181,
+  "name": "Stryker",
+  "revenue_musd": 25116.0,
+  "sector": "Health Care",
+  "industry": "Medical Products and Equipment",
+  "city": "Portage",
+  "state": "Michigan",
+  "employees": 56000.0
+ },
+ {
+  "rank": 182,
+  "name": "Dollar Tree",
+  "revenue_musd": 25041.8,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Other",
+  "city": "Chesapeake",
+  "state": "Virginia",
+  "employees": 94107.0
+ },
+ {
+  "rank": 183,
+  "name": "3M",
+  "revenue_musd": 24948.0,
+  "sector": "Chemicals",
+  "industry": "Chemicals",
+  "city": "St. Paul",
+  "state": "Minnesota",
+  "employees": 60500.0
+ },
+ {
+  "rank": 184,
+  "name": "Kraft Heinz",
+  "revenue_musd": 24942.0,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Consumer Products",
+  "city": "Chicago",
+  "state": "Illinois",
+  "employees": 35000.0
+ },
+ {
+  "rank": 185,
+  "name": "PG&E",
+  "revenue_musd": 24935.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Oakland",
+  "state": "California",
+  "employees": 29010.0
+ },
+ {
+  "rank": 186,
+  "name": "Danaher",
+  "revenue_musd": 24568.0,
+  "sector": "Health Care",
+  "industry": "Medical Products and Equipment",
+  "city": "Washington",
+  "state": "District Of Columbia",
+  "employees": 59000.0
+ },
+ {
+  "rank": 187,
+  "name": "Union Pacific",
+  "revenue_musd": 24510.0,
+  "sector": "Transportation",
+  "industry": "Railroads",
+  "city": "Omaha",
+  "state": "Nebraska",
+  "employees": 29287.0
+ },
+ {
+  "rank": 188,
+  "name": "Genuine Parts",
+  "revenue_musd": 24300.1,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Diversified",
+  "city": "Atlanta",
+  "state": "Georgia",
+  "employees": 65000.0
+ },
+ {
+  "rank": 189,
+  "name": "Exelon",
+  "revenue_musd": 24258.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Chicago",
+  "state": "Illinois",
+  "employees": 20571.0
+ },
+ {
+  "rank": 190,
+  "name": "BlackRock",
+  "revenue_musd": 24216.0,
+  "sector": "Financials",
+  "industry": "Securities",
+  "city": "New York",
+  "state": "New York",
+  "employees": 24900.0
+ },
+ {
+  "rank": 191,
+  "name": "Block",
+  "revenue_musd": 24193.7,
+  "sector": "Business Services",
+  "industry": "Financial Data Services",
+  "city": "Oakland",
+  "state": "California",
+  "employees": 10205.0
+ },
+ {
+  "rank": 192,
+  "name": "Adobe",
+  "revenue_musd": 23769.0,
+  "sector": "Technology",
+  "industry": "Computer Software",
+  "city": "San Jose",
+  "state": "California",
+  "employees": 31360.0
+ },
+ {
+  "rank": 193,
+  "name": "Reinsurance Group of America",
+  "revenue_musd": 23698.0,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (stock)",
+  "city": "Chesterfield",
+  "state": "Missouri",
+  "employees": 4300.0
+ },
+ {
+  "rank": 194,
+  "name": "Sherwin-Williams",
+  "revenue_musd": 23574.3,
+  "sector": "Chemicals",
+  "industry": "Chemicals",
+  "city": "Cleveland",
+  "state": "Ohio",
+  "employees": 64249.0
+ },
+ {
+  "rank": 195,
+  "name": "WESCO International",
+  "revenue_musd": 23510.9,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Diversified",
+  "city": "Pittsburgh",
+  "state": "Pennsylvania",
+  "employees": 21000.0
+ },
+ {
+  "rank": 196,
+  "name": "Lear",
+  "revenue_musd": 23259.1,
+  "sector": "Motor Vehicles & Parts",
+  "industry": "Motor Vehicles & Parts",
+  "city": "Southfield",
+  "state": "Michigan",
+  "employees": 164300.0
+ },
+ {
+  "rank": 197,
+  "name": "Synchrony",
+  "revenue_musd": 23121.0,
+  "sector": "Financials",
+  "industry": "Diversified Financials",
+  "city": "Stamford",
+  "state": "Connecticut",
+  "employees": 20000.0
+ },
+ {
+  "rank": 198,
+  "name": "Amphenol",
+  "revenue_musd": 23094.7,
+  "sector": "Technology",
+  "industry": "Network and Other Communications Equipment",
+  "city": "Wallingford",
+  "state": "Connecticut",
+  "employees": 170000.0
+ },
+ {
+  "rank": 199,
+  "name": "Ross Stores",
+  "revenue_musd": 22750.6,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Apparel",
+  "city": "Dublin",
+  "state": "California",
+  "employees": 111000.0
+ },
+ {
+  "rank": 200,
+  "name": "Newmont",
+  "revenue_musd": 22669.0,
+  "sector": "Energy",
+  "industry": "Mining, Crude-Oil Production",
+  "city": "Denver",
+  "state": "Colorado",
+  "employees": 17500.0
+ },
+ {
+  "rank": 201,
+  "name": "EOG Resources",
+  "revenue_musd": 22632.0,
+  "sector": "Energy",
+  "industry": "Mining, Crude-Oil Production",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 3400.0
+ },
+ {
+  "rank": 202,
+  "name": "State Street",
+  "revenue_musd": 22628.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "Boston",
+  "state": "Massachusetts",
+  "employees": 51503.0
+ },
+ {
+  "rank": 203,
+  "name": "Macy's",
+  "revenue_musd": 22621.0,
+  "sector": "Retailing",
+  "industry": "General Merchandisers",
+  "city": "New York",
+  "state": "New York",
+  "employees": 90134.0
+ },
+ {
+  "rank": 204,
+  "name": "Group 1 Automotive",
+  "revenue_musd": 22571.4,
+  "sector": "Retailing",
+  "industry": "Automotive Retailing, Services",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 20452.0
+ },
+ {
+  "rank": 205,
+  "name": "CDW",
+  "revenue_musd": 22424.1,
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "city": "Vernon Hills",
+  "state": "Illinois",
+  "employees": 14800.0
+ },
+ {
+  "rank": 206,
+  "name": "Avnet",
+  "revenue_musd": 22200.8,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Electronics and Office Equipment",
+  "city": "Phoenix",
+  "state": "Arizona",
+  "employees": 14869.0
+ },
+ {
+  "rank": 207,
+  "name": "Halliburton",
+  "revenue_musd": 22184.0,
+  "sector": "Energy",
+  "industry": "Oil and Gas Equipment, Services",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 46000.0
+ },
+ {
+  "rank": 208,
+  "name": "Super Micro Computer",
+  "revenue_musd": 21972.0,
+  "sector": "Technology",
+  "industry": "Computers, Office Equipment",
+  "city": "San Jose",
+  "state": "California",
+  "employees": 6238.0
+ },
+ {
+  "rank": 209,
+  "name": "American Electric Power",
+  "revenue_musd": 21876.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Columbus",
+  "state": "Ohio",
+  "employees": 17581.0
+ },
+ {
+  "rank": 210,
+  "name": "L3Harris Technologies",
+  "revenue_musd": 21865.0,
+  "sector": "Aerospace & Defense",
+  "industry": "Aerospace & Defense",
+  "city": "Melbourne",
+  "state": "Florida",
+  "employees": 45000.0
+ },
+ {
+  "rank": 211,
+  "name": "Becton Dickinson",
+  "revenue_musd": 21840.0,
+  "sector": "Health Care",
+  "industry": "Medical Products and Equipment",
+  "city": "Franklin Lakes",
+  "state": "New Jersey",
+  "employees": 72000.0
+ },
+ {
+  "rank": 212,
+  "name": "Carrier Global",
+  "revenue_musd": 21747.0,
+  "sector": "Industrials",
+  "industry": "Industrial Machinery",
+  "city": "Palm Beach Gardens",
+  "state": "Florida",
+  "employees": 47000.0
+ },
+ {
+  "rank": 213,
+  "name": "BJ's Wholesale Club",
+  "revenue_musd": 21457.3,
+  "sector": "Retailing",
+  "industry": "General Merchandisers",
+  "city": "Marlborough",
+  "state": "Massachusetts",
+  "employees": 35000.0
+ },
+ {
+  "rank": 214,
+  "name": "Tenet Healthcare",
+  "revenue_musd": 21310.0,
+  "sector": "Health Care",
+  "industry": "Health Care: Medical Facilities",
+  "city": "Dallas",
+  "state": "Texas",
+  "employees": 87615.0
+ },
+ {
+  "rank": 215,
+  "name": "Fiserv",
+  "revenue_musd": 21193.0,
+  "sector": "Business Services",
+  "industry": "Financial Data Services",
+  "city": "Milwaukee",
+  "state": "Wisconsin",
+  "employees": 38000.0
+ },
+ {
+  "rank": 216,
+  "name": "Cognizant Technology Solutions",
+  "revenue_musd": 21108.0,
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "city": "Teaneck",
+  "state": "New Jersey",
+  "employees": 351600.0
+ },
+ {
+  "rank": 217,
+  "name": "GE HealthCare Technologies",
+  "revenue_musd": 20625.0,
+  "sector": "Health Care",
+  "industry": "Medical Products and Equipment",
+  "city": "Chicago",
+  "state": "Illinois",
+  "employees": 54000.0
+ },
+ {
+  "rank": 218,
+  "name": "Automatic Data Processing",
+  "revenue_musd": 20560.9,
+  "sector": "Business Services",
+  "industry": "Diversified Outsourcing Services",
+  "city": "Roseland",
+  "state": "New Jersey",
+  "employees": 67000.0
+ },
+ {
+  "rank": 219,
+  "name": "Colgate-Palmolive",
+  "revenue_musd": 20382.0,
+  "sector": "Household Products",
+  "industry": "Household and Personal Products",
+  "city": "New York",
+  "state": "New York",
+  "employees": 33600.0
+ },
+ {
+  "rank": 220,
+  "name": "Carvana",
+  "revenue_musd": 20322.0,
+  "sector": "Retailing",
+  "industry": "Automotive Retailing, Services",
+  "city": "Tempe",
+  "state": "Arizona",
+  "employees": 23100.0
+ },
+ {
+  "rank": 221,
+  "name": "Altria Group",
+  "revenue_musd": 20139.0,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Tobacco",
+  "city": "Richmond",
+  "state": "Virginia",
+  "employees": 5900.0
+ },
+ {
+  "rank": 222,
+  "name": "Boston Scientific",
+  "revenue_musd": 20074.0,
+  "sector": "Health Care",
+  "industry": "Medical Products and Equipment",
+  "city": "Marlborough",
+  "state": "Massachusetts",
+  "employees": 59000.0
+ },
+ {
+  "rank": 223,
+  "name": "Cheniere Energy",
+  "revenue_musd": 19976.0,
+  "sector": "Energy",
+  "industry": "Pipelines",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 1717.0
+ },
+ {
+  "rank": 224,
+  "name": "Parker-Hannifin",
+  "revenue_musd": 19850.0,
+  "sector": "Industrials",
+  "industry": "Industrial Machinery",
+  "city": "Cleveland",
+  "state": "Ohio",
+  "employees": 57950.0
+ },
+ {
+  "rank": 225,
+  "name": "Kimberly-Clark",
+  "revenue_musd": 19701.0,
+  "sector": "Household Products",
+  "industry": "Household and Personal Products",
+  "city": "Irving",
+  "state": "Texas",
+  "employees": 36000.0
+ },
+ {
+  "rank": 226,
+  "name": "American Family Insurance Group",
+  "revenue_musd": 19556.8,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "Madison",
+  "state": "Wisconsin",
+  "employees": 10435.0
+ },
+ {
+  "rank": 227,
+  "name": "General Mills",
+  "revenue_musd": 19486.6,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Consumer Products",
+  "city": "Minneapolis",
+  "state": "Minnesota",
+  "employees": 33000.0
+ },
+ {
+  "rank": 228,
+  "name": "Edison International",
+  "revenue_musd": 19317.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Rosemead",
+  "state": "California",
+  "employees": 13725.0
+ },
+ {
+  "rank": 229,
+  "name": "AutoZone",
+  "revenue_musd": 18938.7,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Other",
+  "city": "Memphis",
+  "state": "Tennessee",
+  "employees": 104000.0
+ },
+ {
+  "rank": 230,
+  "name": "Ameriprise Financial",
+  "revenue_musd": 18911.0,
+  "sector": "Financials",
+  "industry": "Diversified Financials",
+  "city": "Minneapolis",
+  "state": "Minnesota",
+  "employees": 13600.0
+ },
+ {
+  "rank": 231,
+  "name": "Intuit",
+  "revenue_musd": 18831.0,
+  "sector": "Technology",
+  "industry": "Computer Software",
+  "city": "Mountain View",
+  "state": "California",
+  "employees": 24350.0
+ },
+ {
+  "rank": 232,
+  "name": "Guardian Life Ins. Co. of America",
+  "revenue_musd": 18706.0,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (Mutual)",
+  "city": "New York",
+  "state": "New York",
+  "employees": 7645.0
+ },
+ {
+  "rank": 233,
+  "name": "Cleveland-Cliffs",
+  "revenue_musd": 18610.0,
+  "sector": "Materials",
+  "industry": "Metals",
+  "city": "Cleveland",
+  "state": "Ohio",
+  "employees": 25000.0
+ },
+ {
+  "rank": 234,
+  "name": "Global Partners",
+  "revenue_musd": 18561.4,
+  "sector": "Energy",
+  "industry": "Energy",
+  "city": "Waltham",
+  "state": "Massachusetts",
+  "employees": 3982.0
+ },
+ {
+  "rank": 235,
+  "name": "Aramark",
+  "revenue_musd": 18506.3,
+  "sector": "Business Services",
+  "industry": "Diversified Outsourcing Services",
+  "city": "Philadelphia",
+  "state": "Pennsylvania",
+  "employees": 278390.0
+ },
+ {
+  "rank": 236,
+  "name": "Corebridge Financial",
+  "revenue_musd": 18481.0,
+  "sector": "Financials",
+  "industry": "Diversified Financials",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 4800.0
+ },
+ {
+  "rank": 237,
+  "name": "Loews",
+  "revenue_musd": 18454.0,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "New York",
+  "state": "New York",
+  "employees": 13100.0
+ },
+ {
+  "rank": 238,
+  "name": "Lam Research",
+  "revenue_musd": 18435.6,
+  "sector": "Technology",
+  "industry": "Semiconductors and Other Electronic Components",
+  "city": "Fremont",
+  "state": "California",
+  "employees": 19000.0
+ },
+ {
+  "rank": 239,
+  "name": "Goodyear Tire & Rubber",
+  "revenue_musd": 18280.0,
+  "sector": "Motor Vehicles & Parts",
+  "industry": "Motor Vehicles & Parts",
+  "city": "Akron",
+  "state": "Ohio",
+  "employees": 63000.0
+ },
+ {
+  "rank": 240,
+  "name": "Pacific Life",
+  "revenue_musd": 18235.0,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (stock)",
+  "city": "Newport Beach",
+  "state": "California",
+  "employees": 4664.0
+ },
+ {
+  "rank": 241,
+  "name": "Auto-Owners Insurance",
+  "revenue_musd": 18229.3,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Mutual)",
+  "city": "Lansing",
+  "state": "Michigan",
+  "employees": 7556.0
+ },
+ {
+  "rank": 242,
+  "name": "Peter Kiewit Sons'",
+  "revenue_musd": 18213.0,
+  "sector": "Engineering & Construction",
+  "industry": "Engineering & Construction",
+  "city": "Omaha",
+  "state": "Nebraska",
+  "employees": 34500.0
+ },
+ {
+  "rank": 243,
+  "name": "Lincoln National",
+  "revenue_musd": 18212.0,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (stock)",
+  "city": "Radnor",
+  "state": "Pennsylvania",
+  "employees": 9423.0
+ },
+ {
+  "rank": 244,
+  "name": "Steel Dynamics",
+  "revenue_musd": 18176.6,
+  "sector": "Materials",
+  "industry": "Metals",
+  "city": "Fort Wayne",
+  "state": "Indiana",
+  "employees": 14400.0
+ },
+ {
+  "rank": 245,
+  "name": "Emerson Electric",
+  "revenue_musd": 18016.0,
+  "sector": "Industrials",
+  "industry": "Industrial Machinery",
+  "city": "St. Louis",
+  "state": "Missouri",
+  "employees": 71000.0
+ },
+ {
+  "rank": 246,
+  "name": "Asbury Automotive Group",
+  "revenue_musd": 17999.0,
+  "sector": "Retailing",
+  "industry": "Automotive Retailing, Services",
+  "city": "Atlanta",
+  "state": "Georgia",
+  "employees": 15000.0
+ },
+ {
+  "rank": 247,
+  "name": "ManpowerGroup",
+  "revenue_musd": 17957.1,
+  "sector": "Business Services",
+  "industry": "Diversified Outsourcing Services",
+  "city": "Milwaukee",
+  "state": "Wisconsin",
+  "employees": 25400.0
+ },
+ {
+  "rank": 248,
+  "name": "W.W. Grainger",
+  "revenue_musd": 17942.0,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Diversified",
+  "city": "Lake Forest",
+  "state": "Illinois",
+  "employees": 23550.0
+ },
+ {
+  "rank": 249,
+  "name": "Jones Financial (Edward Jones)",
+  "revenue_musd": 17897.0,
+  "sector": "Financials",
+  "industry": "Securities",
+  "city": "Des Peres",
+  "state": "Missouri",
+  "employees": 55000.0
+ },
+ {
+  "rank": 250,
+  "name": "O'Reilly Automotive",
+  "revenue_musd": 17782.0,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Other",
+  "city": "Springfield",
+  "state": "Missouri",
+  "employees": 85591.0
+ },
+ {
+  "rank": 251,
+  "name": "Vistra",
+  "revenue_musd": 17738.0,
+  "sector": "Energy",
+  "industry": "Energy",
+  "city": "Irving",
+  "state": "Texas",
+  "employees": 6390.0
+ },
+ {
+  "rank": 252,
+  "name": "Texas Instruments",
+  "revenue_musd": 17682.0,
+  "sector": "Technology",
+  "industry": "Semiconductors and Other Electronic Components",
+  "city": "Dallas",
+  "state": "Texas",
+  "employees": 33000.0
+ },
+ {
+  "rank": 253,
+  "name": "MGM Resorts International",
+  "revenue_musd": 17537.7,
+  "sector": "Hotels, Restaurants & Leisure",
+  "industry": "Hotels, Casinos, Resorts",
+  "city": "Las Vegas",
+  "state": "Nevada",
+  "employees": 69000.0
+ },
+ {
+  "rank": 254,
+  "name": "Corteva",
+  "revenue_musd": 17401.0,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Production",
+  "city": "Indianapolis",
+  "state": "Indiana",
+  "employees": 21500.0
+ },
+ {
+  "rank": 255,
+  "name": "Universal Health Services",
+  "revenue_musd": 17364.8,
+  "sector": "Health Care",
+  "industry": "Health Care: Medical Facilities",
+  "city": "King of Prussia",
+  "state": "Pennsylvania",
+  "employees": 89950.0
+ },
+ {
+  "rank": 256,
+  "name": "PulteGroup",
+  "revenue_musd": 17312.0,
+  "sector": "Engineering & Construction",
+  "industry": "Homebuilders",
+  "city": "Atlanta",
+  "state": "Georgia",
+  "employees": 6506.0
+ },
+ {
+  "rank": 257,
+  "name": "Omnicom Group",
+  "revenue_musd": 17271.9,
+  "sector": "Business Services",
+  "industry": "Advertising, marketing",
+  "city": "New York",
+  "state": "New York",
+  "employees": 120000.0
+ },
+ {
+  "rank": 258,
+  "name": "Dick's Sporting Goods",
+  "revenue_musd": 17215.1,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Other",
+  "city": "Coraopolis",
+  "state": "Pennsylvania",
+  "employees": 68400.0
+ },
+ {
+  "rank": 259,
+  "name": "Devon Energy",
+  "revenue_musd": 17188.0,
+  "sector": "Energy",
+  "industry": "Mining, Crude-Oil Production",
+  "city": "Oklahoma City",
+  "state": "Oklahoma",
+  "employees": 2200.0
+ },
+ {
+  "rank": 260,
+  "name": "Leidos Holdings",
+  "revenue_musd": 17174.0,
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "city": "Reston",
+  "state": "Virginia",
+  "employees": 47000.0
+ },
+ {
+  "rank": 261,
+  "name": "Aflac",
+  "revenue_musd": 17164.0,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (stock)",
+  "city": "Columbus",
+  "state": "Georgia",
+  "employees": 12716.0
+ },
+ {
+  "rank": 262,
+  "name": "Targa Resources",
+  "revenue_musd": 17028.3,
+  "sector": "Energy",
+  "industry": "Pipelines",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 3570.0
+ },
+ {
+  "rank": 263,
+  "name": "Murphy USA",
+  "revenue_musd": 17017.9,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Other",
+  "city": "El Dorado",
+  "state": "Arkansas",
+  "employees": 11400.0
+ },
+ {
+  "rank": 264,
+  "name": "LPL Financial Holdings",
+  "revenue_musd": 16989.5,
+  "sector": "Financials",
+  "industry": "Securities",
+  "city": "San Diego",
+  "state": "California",
+  "employees": 10099.0
+ },
+ {
+  "rank": 265,
+  "name": "EMCOR Group",
+  "revenue_musd": 16986.4,
+  "sector": "Engineering & Construction",
+  "industry": "Engineering & Construction",
+  "city": "Norwalk",
+  "state": "Connecticut",
+  "employees": 44000.0
+ },
+ {
+  "rank": 266,
+  "name": "Kinder Morgan",
+  "revenue_musd": 16937.0,
+  "sector": "Energy",
+  "industry": "Pipelines",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 11028.0
+ },
+ {
+  "rank": 267,
+  "name": "Consolidated Edison",
+  "revenue_musd": 16918.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "New York",
+  "state": "New York",
+  "employees": 15407.0
+ },
+ {
+  "rank": 268,
+  "name": "Keurig Dr Pepper",
+  "revenue_musd": 16603.0,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Beverages",
+  "city": "Frisco",
+  "state": "Texas",
+  "employees": 30600.0
+ },
+ {
+  "rank": 269,
+  "name": "Republic Services",
+  "revenue_musd": 16591.0,
+  "sector": "Business Services",
+  "industry": "Waste Management",
+  "city": "Phoenix",
+  "state": "Arizona",
+  "employees": 42000.0
+ },
+ {
+  "rank": 270,
+  "name": "Markel Group",
+  "revenue_musd": 16589.3,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "Glen Allen",
+  "state": "Virginia",
+  "employees": 22900.0
+ },
+ {
+  "rank": 271,
+  "name": "Farmers Insurance Exchange",
+  "revenue_musd": 16573.2,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Mutual)",
+  "city": "Woodland Hills",
+  "state": "California",
+  "employees": 8909.0
+ },
+ {
+  "rank": 272,
+  "name": "Dominion Energy",
+  "revenue_musd": 16506.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Richmond",
+  "state": "Virginia",
+  "employees": 15200.0
+ },
+ {
+  "rank": 273,
+  "name": "Land O'Lakes",
+  "revenue_musd": 16411.5,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Consumer Products",
+  "city": "Arden Hills",
+  "state": "Minnesota",
+  "employees": 9000.0
+ },
+ {
+  "rank": 274,
+  "name": "IQVIA Holdings",
+  "revenue_musd": 16310.0,
+  "sector": "Health Care",
+  "industry": "Health Care: Pharmacy and Other Services",
+  "city": "Durham",
+  "state": "North Carolina",
+  "employees": 93000.0
+ },
+ {
+  "rank": 275,
+  "name": "Fox",
+  "revenue_musd": 16300.0,
+  "sector": "Media",
+  "industry": "Entertainment",
+  "city": "New York",
+  "state": "New York",
+  "employees": 10400.0
+ },
+ {
+  "rank": 276,
+  "name": "AECOM",
+  "revenue_musd": 16237.2,
+  "sector": "Engineering & Construction",
+  "industry": "Engineering & Construction",
+  "city": "Dallas",
+  "state": "Texas",
+  "employees": 51000.0
+ },
+ {
+  "rank": 277,
+  "name": "C.H. Robinson Worldwide",
+  "revenue_musd": 16232.8,
+  "sector": "Transportation",
+  "industry": "Transportation and Logistics",
+  "city": "Eden Prairie",
+  "state": "Minnesota",
+  "employees": 11796.0
+ },
+ {
+  "rank": 278,
+  "name": "Bitgo Holdings",
+  "revenue_musd": 16152.1,
+  "sector": "Financials",
+  "industry": "Securities",
+  "city": "Sioux Falls",
+  "state": "South Dakota",
+  "employees": 603.0
+ },
+ {
+  "rank": 279,
+  "name": "United Rentals",
+  "revenue_musd": 16099.0,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Other",
+  "city": "Stamford",
+  "state": "Connecticut",
+  "employees": 28500.0
+ },
+ {
+  "rank": 280,
+  "name": "Ecolab",
+  "revenue_musd": 16081.2,
+  "sector": "Chemicals",
+  "industry": "Chemicals",
+  "city": "St. Paul",
+  "state": "Minnesota",
+  "employees": 48000.0
+ },
+ {
+  "rank": 281,
+  "name": "Illinois Tool Works",
+  "revenue_musd": 16044.0,
+  "sector": "Industrials",
+  "industry": "Industrial Machinery",
+  "city": "Glenview",
+  "state": "Illinois",
+  "employees": 43000.0
+ },
+ {
+  "rank": 282,
+  "name": "Casey's General Stores",
+  "revenue_musd": 15940.9,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Other",
+  "city": "Ankeny",
+  "state": "Iowa",
+  "employees": 36305.0
+ },
+ {
+  "rank": 283,
+  "name": "Raymond James Financial",
+  "revenue_musd": 15912.0,
+  "sector": "Financials",
+  "industry": "Securities",
+  "city": "St. Petersburg",
+  "state": "Florida",
+  "employees": 19500.0
+ },
+ {
+  "rank": 284,
+  "name": "PPG Industries",
+  "revenue_musd": 15875.0,
+  "sector": "Chemicals",
+  "industry": "Chemicals",
+  "city": "Pittsburgh",
+  "state": "Pennsylvania",
+  "employees": 43500.0
+ },
+ {
+  "rank": 285,
+  "name": "DTE Energy",
+  "revenue_musd": 15814.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Detroit",
+  "state": "Michigan",
+  "employees": 9650.0
+ },
+ {
+  "rank": 286,
+  "name": "Corning",
+  "revenue_musd": 15629.0,
+  "sector": "Industrials",
+  "industry": "Electronics, Electrical Equip.",
+  "city": "Corning",
+  "state": "New York",
+  "employees": 67200.0
+ },
+ {
+  "rank": 287,
+  "name": "Principal Financial",
+  "revenue_musd": 15625.5,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (stock)",
+  "city": "Des Moines",
+  "state": "Iowa",
+  "employees": 19700.0
+ },
+ {
+  "rank": 288,
+  "name": "Mutual of Omaha",
+  "revenue_musd": 15539.5,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (Mutual)",
+  "city": "Omaha",
+  "state": "Nebraska",
+  "employees": 6584.0
+ },
+ {
+  "rank": 289,
+  "name": "Kohl's",
+  "revenue_musd": 15527.0,
+  "sector": "Retailing",
+  "industry": "General Merchandisers",
+  "city": "Menomonee Falls",
+  "state": "Wisconsin",
+  "employees": 56500.0
+ },
+ {
+  "rank": 290,
+  "name": "Tractor Supply",
+  "revenue_musd": 15524.1,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Other",
+  "city": "Brentwood",
+  "state": "Tennessee",
+  "employees": 39000.0
+ },
+ {
+  "rank": 291,
+  "name": "Whirlpool",
+  "revenue_musd": 15524.0,
+  "sector": "Industrials",
+  "industry": "Electronics, Electrical Equip.",
+  "city": "Benton Harbor",
+  "state": "Michigan",
+  "employees": 41000.0
+ },
+ {
+  "rank": 292,
+  "name": "Fluor",
+  "revenue_musd": 15503.0,
+  "sector": "Engineering & Construction",
+  "industry": "Engineering & Construction",
+  "city": "Irving",
+  "state": "Texas",
+  "employees": 22995.0
+ },
+ {
+  "rank": 293,
+  "name": "Gap",
+  "revenue_musd": 15366.0,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Apparel",
+  "city": "San Francisco",
+  "state": "California",
+  "employees": 79000.0
+ },
+ {
+  "rank": 294,
+  "name": "S&P Global",
+  "revenue_musd": 15336.0,
+  "sector": "Business Services",
+  "industry": "Financial Data Services",
+  "city": "New York",
+  "state": "New York",
+  "employees": 44500.0
+ },
+ {
+  "rank": 295,
+  "name": "Ally Financial",
+  "revenue_musd": 15259.0,
+  "sector": "Financials",
+  "industry": "Diversified Financials",
+  "city": "Detroit",
+  "state": "Michigan",
+  "employees": 10300.0
+ },
+ {
+  "rank": 296,
+  "name": "Builders FirstSource",
+  "revenue_musd": 15190.6,
+  "sector": "Materials",
+  "industry": "Building Materials, Glass",
+  "city": "Irving",
+  "state": "Texas",
+  "employees": 28000.0
+ },
+ {
+  "rank": 297,
+  "name": "Sonic Automotive",
+  "revenue_musd": 15153.6,
+  "sector": "Retailing",
+  "industry": "Automotive Retailing, Services",
+  "city": "Charlotte",
+  "state": "North Carolina",
+  "employees": 11000.0
+ },
+ {
+  "rank": 298,
+  "name": "Stanley Black & Decker",
+  "revenue_musd": 15130.4,
+  "sector": "Industrials",
+  "industry": "Industrial Machinery",
+  "city": "New Britain",
+  "state": "Connecticut",
+  "employees": 43500.0
+ },
+ {
+  "rank": 299,
+  "name": "Kenvue",
+  "revenue_musd": 15124.0,
+  "sector": "Household Products",
+  "industry": "Household and Personal Products",
+  "city": "Summit",
+  "state": "New Jersey",
+  "employees": 21890.0
+ },
+ {
+  "rank": 300,
+  "name": "Kyndryl Holdings",
+  "revenue_musd": 15057.0,
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "city": "New York",
+  "state": "New York",
+  "employees": 73000.0
+ },
+ {
+  "rank": 301,
+  "name": "Diamondback Energy",
+  "revenue_musd": 15026.0,
+  "sector": "Energy",
+  "industry": "Mining, Crude-Oil Production",
+  "city": "Midland",
+  "state": "Texas",
+  "employees": 1762.0
+ },
+ {
+  "rank": 302,
+  "name": "EchoStar",
+  "revenue_musd": 15005.0,
+  "sector": "Telecommunications",
+  "industry": "Telecommunications",
+  "city": "Englewood",
+  "state": "Colorado",
+  "employees": 12100.0
+ },
+ {
+  "rank": 303,
+  "name": "Textron",
+  "revenue_musd": 14799.0,
+  "sector": "Aerospace & Defense",
+  "industry": "Aerospace & Defense",
+  "city": "Providence",
+  "state": "Rhode Island",
+  "employees": 34000.0
+ },
+ {
+  "rank": 304,
+  "name": "Expedia Group",
+  "revenue_musd": 14733.0,
+  "sector": "Technology",
+  "industry": "Internet Services and Retailing",
+  "city": "Seattle",
+  "state": "Washington",
+  "employees": 16000.0
+ },
+ {
+  "rank": 305,
+  "name": "W.R. Berkley",
+  "revenue_musd": 14707.9,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "Greenwich",
+  "state": "Connecticut",
+  "employees": 8804.0
+ },
+ {
+  "rank": 306,
+  "name": "Xcel Energy",
+  "revenue_musd": 14669.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Minneapolis",
+  "state": "Minnesota",
+  "employees": 11534.0
+ },
+ {
+  "rank": 307,
+  "name": "FirstEnergy",
+  "revenue_musd": 14627.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Akron",
+  "state": "Ohio",
+  "employees": 11186.0
+ },
+ {
+  "rank": 308,
+  "name": "Erie Insurance Group",
+  "revenue_musd": 14615.9,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Mutual)",
+  "city": "Erie",
+  "state": "Pennsylvania",
+  "employees": 6700.0
+ },
+ {
+  "rank": 309,
+  "name": "First Citizens BancShares",
+  "revenue_musd": 14505.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "Raleigh",
+  "state": "North Carolina",
+  "employees": 18008.0
+ },
+ {
+  "rank": 310,
+  "name": "Blackstone",
+  "revenue_musd": 14450.3,
+  "sector": "Financials",
+  "industry": "Diversified Financials",
+  "city": "New York",
+  "state": "New York",
+  "employees": 5285.0
+ },
+ {
+  "rank": 311,
+  "name": "Fidelity National Financial",
+  "revenue_musd": 14445.0,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "Jacksonville",
+  "state": "Florida",
+  "employees": 24535.0
+ },
+ {
+  "rank": 312,
+  "name": "Otis Worldwide",
+  "revenue_musd": 14431.0,
+  "sector": "Industrials",
+  "industry": "Industrial Machinery",
+  "city": "Farmington",
+  "state": "Connecticut",
+  "employees": 72000.0
+ },
+ {
+  "rank": 313,
+  "name": "Amentum Holdings",
+  "revenue_musd": 14393.0,
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "city": "Chantilly",
+  "state": "Virginia",
+  "employees": 50000.0
+ },
+ {
+  "rank": 314,
+  "name": "Regeneron Pharmaceuticals",
+  "revenue_musd": 14342.9,
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "city": "Tarrytown",
+  "state": "New York",
+  "employees": 15410.0
+ },
+ {
+  "rank": 315,
+  "name": "Est\u00e9e Lauder",
+  "revenue_musd": 14326.0,
+  "sector": "Household Products",
+  "industry": "Household and Personal Products",
+  "city": "New York",
+  "state": "New York",
+  "employees": 48735.0
+ },
+ {
+  "rank": 316,
+  "name": "BorgWarner",
+  "revenue_musd": 14316.0,
+  "sector": "Motor Vehicles & Parts",
+  "industry": "Motor Vehicles & Parts",
+  "city": "Auburn Hills",
+  "state": "Michigan",
+  "employees": 37500.0
+ },
+ {
+  "rank": 317,
+  "name": "Northern Trust",
+  "revenue_musd": 14300.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "Chicago",
+  "state": "Illinois",
+  "employees": 23800.0
+ },
+ {
+  "rank": 318,
+  "name": "Viatris",
+  "revenue_musd": 14299.9,
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "city": "Canonsburg",
+  "state": "Pennsylvania",
+  "employees": 30000.0
+ },
+ {
+  "rank": 319,
+  "name": "MasTec",
+  "revenue_musd": 14299.2,
+  "sector": "Engineering & Construction",
+  "industry": "Engineering & Construction",
+  "city": "Coral Gables",
+  "state": "Florida",
+  "employees": 36000.0
+ },
+ {
+  "rank": 320,
+  "name": "Reliance",
+  "revenue_musd": 14294.3,
+  "sector": "Materials",
+  "industry": "Metals",
+  "city": "Phoenix",
+  "state": "Arizona",
+  "employees": 15900.0
+ },
+ {
+  "rank": 321,
+  "name": "Western & Southern Financial Group",
+  "revenue_musd": 14270.9,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (Mutual)",
+  "city": "Cincinnati",
+  "state": "Ohio",
+  "employees": 2733.0
+ },
+ {
+  "rank": 322,
+  "name": "Alaska Air Group",
+  "revenue_musd": 14239.0,
+  "sector": "Transportation",
+  "industry": "Airlines",
+  "city": "Seattle",
+  "state": "Washington",
+  "employees": 33973.0
+ },
+ {
+  "rank": 323,
+  "name": "BrightSpring Health Services",
+  "revenue_musd": 14145.0,
+  "sector": "Health Care",
+  "industry": "Health Care: Pharmacy and Other Services",
+  "city": "Louisville",
+  "state": "Kentucky",
+  "employees": 23500.0
+ },
+ {
+  "rank": 324,
+  "name": "CSX",
+  "revenue_musd": 14092.0,
+  "sector": "Transportation",
+  "industry": "Railroads",
+  "city": "Jacksonville",
+  "state": "Florida",
+  "employees": 22935.0
+ },
+ {
+  "rank": 325,
+  "name": "LKQ",
+  "revenue_musd": 14046.0,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Diversified",
+  "city": "Antioch",
+  "state": "Tennessee",
+  "employees": 44000.0
+ },
+ {
+  "rank": 326,
+  "name": "Labcorp Holdings",
+  "revenue_musd": 13951.7,
+  "sector": "Health Care",
+  "industry": "Health Care: Pharmacy and Other Services",
+  "city": "Burlington",
+  "state": "North Carolina",
+  "employees": 66385.0
+ },
+ {
+  "rank": 327,
+  "name": "Arthur J. Gallagher",
+  "revenue_musd": 13942.0,
+  "sector": "Financials",
+  "industry": "Diversified Financials",
+  "city": "Rolling Meadows",
+  "state": "Illinois",
+  "employees": 71776.0
+ },
+ {
+  "rank": 328,
+  "name": "Venture Global",
+  "revenue_musd": 13769.0,
+  "sector": "Energy",
+  "industry": "Pipelines",
+  "city": "Arlington",
+  "state": "Virginia",
+  "employees": 2000.0
+ },
+ {
+  "rank": 329,
+  "name": "DoorDash",
+  "revenue_musd": 13717.0,
+  "sector": "Technology",
+  "industry": "Internet Services and Retailing",
+  "city": "San Francisco",
+  "state": "California",
+  "employees": 31400.0
+ },
+ {
+  "rank": 330,
+  "name": "Sempra",
+  "revenue_musd": 13702.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "San Diego",
+  "state": "California",
+  "employees": 15938.0
+ },
+ {
+  "rank": 331,
+  "name": "DaVita",
+  "revenue_musd": 13643.1,
+  "sector": "Health Care",
+  "industry": "Health Care: Medical Facilities",
+  "city": "Denver",
+  "state": "Colorado",
+  "employees": 78000.0
+ },
+ {
+  "rank": 332,
+  "name": "Eversource Energy",
+  "revenue_musd": 13547.2,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Springfield",
+  "state": "Massachusetts",
+  "employees": 10731.0
+ },
+ {
+  "rank": 333,
+  "name": "ServiceNow",
+  "revenue_musd": 13278.0,
+  "sector": "Technology",
+  "industry": "Computer Software",
+  "city": "Santa Clara",
+  "state": "California",
+  "employees": 29187.0
+ },
+ {
+  "rank": 334,
+  "name": "M&T Bank",
+  "revenue_musd": 13228.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "Buffalo",
+  "state": "New York",
+  "employees": 22058.0
+ },
+ {
+  "rank": 335,
+  "name": "Henry Schein",
+  "revenue_musd": 13184.0,
+  "sector": "Health Care",
+  "industry": "Wholesalers: Health Care",
+  "city": "Melville",
+  "state": "New York",
+  "employees": 25000.0
+ },
+ {
+  "rank": 336,
+  "name": "GXO Logistics",
+  "revenue_musd": 13178.0,
+  "sector": "Transportation",
+  "industry": "Transportation and Logistics",
+  "city": "Greenwich",
+  "state": "Connecticut",
+  "employees": 129500.0
+ },
+ {
+  "rank": 337,
+  "name": "Ball",
+  "revenue_musd": 13161.0,
+  "sector": "Materials",
+  "industry": "Packaging, Containers",
+  "city": "Westminster",
+  "state": "Colorado",
+  "employees": 16000.0
+ },
+ {
+  "rank": 338,
+  "name": "Unum Group",
+  "revenue_musd": 13075.5,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (stock)",
+  "city": "Chattanooga",
+  "state": "Tennessee",
+  "employees": 10797.0
+ },
+ {
+  "rank": 339,
+  "name": "Las Vegas Sands",
+  "revenue_musd": 13017.0,
+  "sector": "Hotels, Restaurants & Leisure",
+  "industry": "Hotels, Casinos, Resorts",
+  "city": "Las Vegas",
+  "state": "Nevada",
+  "employees": 41250.0
+ },
+ {
+  "rank": 340,
+  "name": "Entergy",
+  "revenue_musd": 12946.7,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "New Orleans",
+  "state": "Louisiana",
+  "employees": 12233.0
+ },
+ {
+  "rank": 341,
+  "name": "Fifth Third Bancorp",
+  "revenue_musd": 12938.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "Cincinnati",
+  "state": "Ohio",
+  "employees": 18676.0
+ },
+ {
+  "rank": 342,
+  "name": "Graybar Electric",
+  "revenue_musd": 12875.6,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Diversified",
+  "city": "St. Louis",
+  "state": "Missouri",
+  "employees": 10000.0
+ },
+ {
+  "rank": 343,
+  "name": "DXC Technology",
+  "revenue_musd": 12871.0,
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "city": "Ashburn",
+  "state": "Virginia",
+  "employees": 120000.0
+ },
+ {
+  "rank": 344,
+  "name": "Alcoa",
+  "revenue_musd": 12831.0,
+  "sector": "Materials",
+  "industry": "Metals",
+  "city": "Pittsburgh",
+  "state": "Pennsylvania",
+  "employees": 14900.0
+ },
+ {
+  "rank": 345,
+  "name": "Assurant",
+  "revenue_musd": 12814.3,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "Atlanta",
+  "state": "Georgia",
+  "employees": 14800.0
+ },
+ {
+  "rank": 346,
+  "name": "Ryder System",
+  "revenue_musd": 12665.0,
+  "sector": "Transportation",
+  "industry": "Transportation and Logistics",
+  "city": "Coral Gables",
+  "state": "Florida",
+  "employees": 51600.0
+ },
+ {
+  "rank": 347,
+  "name": "Intercontinental Exchange",
+  "revenue_musd": 12640.0,
+  "sector": "Financials",
+  "industry": "Securities",
+  "city": "Atlanta",
+  "state": "Georgia",
+  "employees": 12844.0
+ },
+ {
+  "rank": 348,
+  "name": "Cincinnati Financial",
+  "revenue_musd": 12631.5,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "Fairfield",
+  "state": "Ohio",
+  "employees": 5705.0
+ },
+ {
+  "rank": 349,
+  "name": "Chewy",
+  "revenue_musd": 12601.5,
+  "sector": "Retailing",
+  "industry": "Internet Services and Retailing",
+  "city": "Plantation",
+  "state": "Florida",
+  "employees": 18000.0
+ },
+ {
+  "rank": 350,
+  "name": "Community Health Systems",
+  "revenue_musd": 12485.0,
+  "sector": "Health Care",
+  "industry": "Health Care: Medical Facilities",
+  "city": "Franklin",
+  "state": "Tennessee",
+  "employees": 50500.0
+ },
+ {
+  "rank": 350,
+  "name": "Huntington Bancshares",
+  "revenue_musd": 12485.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "Columbus",
+  "state": "Ohio",
+  "employees": 20424.0
+ },
+ {
+  "rank": 352,
+  "name": "Huntington Ingalls Industries",
+  "revenue_musd": 12484.0,
+  "sector": "Aerospace & Defense",
+  "industry": "Aerospace & Defense",
+  "city": "Newport News",
+  "state": "Virginia",
+  "employees": 44000.0
+ },
+ {
+  "rank": 353,
+  "name": "Wayfair",
+  "revenue_musd": 12457.0,
+  "sector": "Retailing",
+  "industry": "Internet Services and Retailing",
+  "city": "Boston",
+  "state": "Massachusetts",
+  "employees": 11800.0
+ },
+ {
+  "rank": 354,
+  "name": "Lumen Technologies",
+  "revenue_musd": 12402.0,
+  "sector": "Telecommunications",
+  "industry": "Telecommunications",
+  "city": "Monroe",
+  "state": "Louisiana",
+  "employees": 24000.0
+ },
+ {
+  "rank": 355,
+  "name": "Ulta Beauty",
+  "revenue_musd": 12392.8,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Other",
+  "city": "Bolingbrook",
+  "state": "Illinois",
+  "employees": 44101.0
+ },
+ {
+  "rank": 356,
+  "name": "Crown Holdings",
+  "revenue_musd": 12365.0,
+  "sector": "Materials",
+  "industry": "Packaging, Containers",
+  "city": "Tampa",
+  "state": "Florida",
+  "employees": 23000.0
+ },
+ {
+  "rank": 357,
+  "name": "Airbnb",
+  "revenue_musd": 12241.0,
+  "sector": "Technology",
+  "industry": "Internet Services and Retailing",
+  "city": "San Francisco",
+  "state": "California",
+  "employees": 8200.0
+ },
+ {
+  "rank": 358,
+  "name": "AES",
+  "revenue_musd": 12233.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Arlington",
+  "state": "Virginia",
+  "employees": 8336.0
+ },
+ {
+  "rank": 359,
+  "name": "Norfolk Southern",
+  "revenue_musd": 12180.0,
+  "sector": "Transportation",
+  "industry": "Railroads",
+  "city": "Atlanta",
+  "state": "Georgia",
+  "employees": 19300.0
+ },
+ {
+  "rank": 360,
+  "name": "Public Service Enterprise Group",
+  "revenue_musd": 12168.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Newark",
+  "state": "New Jersey",
+  "employees": 13189.0
+ },
+ {
+  "rank": 361,
+  "name": "KLA",
+  "revenue_musd": 12156.2,
+  "sector": "Technology",
+  "industry": "Semiconductors and Other Electronic Components",
+  "city": "Milpitas",
+  "state": "California",
+  "employees": 15100.0
+ },
+ {
+  "rank": 362,
+  "name": "Expand Energy",
+  "revenue_musd": 12124.0,
+  "sector": "Energy",
+  "industry": "Mining, Crude-Oil Production",
+  "city": "Oklahoma City",
+  "state": "Oklahoma",
+  "employees": 1600.0
+ },
+ {
+  "rank": 363,
+  "name": "Hormel Foods",
+  "revenue_musd": 12106.2,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Consumer Products",
+  "city": "Austin",
+  "state": "Minnesota",
+  "employees": 20000.0
+ },
+ {
+  "rank": 364,
+  "name": "Darden Restaurants",
+  "revenue_musd": 12076.7,
+  "sector": "Hotels, Restaurants & Leisure",
+  "industry": "Food Services",
+  "city": "Orlando",
+  "state": "Florida",
+  "employees": 197924.0
+ },
+ {
+  "rank": 365,
+  "name": "Citizens Financial Group",
+  "revenue_musd": 12057.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "Providence",
+  "state": "Rhode Island",
+  "employees": 17398.0
+ },
+ {
+  "rank": 366,
+  "name": "Mosaic",
+  "revenue_musd": 12052.4,
+  "sector": "Chemicals",
+  "industry": "Chemicals",
+  "city": "Tampa",
+  "state": "Florida",
+  "employees": 13249.0
+ },
+ {
+  "rank": 367,
+  "name": "Hilton Worldwide Holdings",
+  "revenue_musd": 12039.0,
+  "sector": "Hotels, Restaurants & Leisure",
+  "industry": "Hotels, Casinos, Resorts",
+  "city": "McLean",
+  "state": "Virginia",
+  "employees": 182000.0
+ },
+ {
+  "rank": 368,
+  "name": "Air Products & Chemicals",
+  "revenue_musd": 12037.3,
+  "sector": "Chemicals",
+  "industry": "Chemicals",
+  "city": "Allentown",
+  "state": "Pennsylvania",
+  "employees": 21194.0
+ },
+ {
+  "rank": 369,
+  "name": "Jacobs Solutions",
+  "revenue_musd": 12029.8,
+  "sector": "Business Services",
+  "industry": "Diversified Outsourcing Services",
+  "city": "Dallas",
+  "state": "Texas",
+  "employees": 42100.0
+ },
+ {
+  "rank": 370,
+  "name": "Vertex Pharmaceuticals",
+  "revenue_musd": 12001.3,
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "city": "Boston",
+  "state": "Massachusetts",
+  "employees": 6400.0
+ },
+ {
+  "rank": 371,
+  "name": "J.B. Hunt Transport Services",
+  "revenue_musd": 11999.1,
+  "sector": "Transportation",
+  "industry": "Trucking, Truck Leasing",
+  "city": "Lowell",
+  "state": "Arkansas",
+  "employees": 31750.0
+ },
+ {
+  "rank": 372,
+  "name": "Booz Allen Hamilton Holding",
+  "revenue_musd": 11980.0,
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "city": "McLean",
+  "state": "Virginia",
+  "employees": 35800.0
+ },
+ {
+  "rank": 373,
+  "name": "Williams",
+  "revenue_musd": 11950.0,
+  "sector": "Energy",
+  "industry": "Pipelines",
+  "city": "Tulsa",
+  "state": "Oklahoma",
+  "employees": 5987.0
+ },
+ {
+  "rank": 374,
+  "name": "Chipotle Mexican Grill",
+  "revenue_musd": 11925.6,
+  "sector": "Hotels, Restaurants & Leisure",
+  "industry": "Food Services",
+  "city": "Newport Beach",
+  "state": "California",
+  "employees": 130301.0
+ },
+ {
+  "rank": 375,
+  "name": "Yum China Holdings",
+  "revenue_musd": 11797.0,
+  "sector": "Hotels, Restaurants & Leisure",
+  "industry": "Food Services",
+  "city": "Plano",
+  "state": "Texas",
+  "employees": 210000.0
+ },
+ {
+  "rank": 376,
+  "name": "Oscar Health",
+  "revenue_musd": 11701.4,
+  "sector": "Health Care",
+  "industry": "Health Care: Insurance and Managed Care",
+  "city": "New York",
+  "state": "New York",
+  "employees": 2305.0
+ },
+ {
+  "rank": 377,
+  "name": "Hershey",
+  "revenue_musd": 11692.6,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Consumer Products",
+  "city": "Hershey",
+  "state": "Pennsylvania",
+  "employees": 18573.0
+ },
+ {
+  "rank": 378,
+  "name": "Motorola Solutions",
+  "revenue_musd": 11682.0,
+  "sector": "Technology",
+  "industry": "Network and Other Communications Equipment",
+  "city": "Chicago",
+  "state": "Illinois",
+  "employees": 23000.0
+ },
+ {
+  "rank": 379,
+  "name": "Equitable Holdings",
+  "revenue_musd": 11665.0,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (stock)",
+  "city": "New York",
+  "state": "New York",
+  "employees": 8000.0
+ },
+ {
+  "rank": 380,
+  "name": "Avis Budget Group",
+  "revenue_musd": 11652.0,
+  "sector": "Retailing",
+  "industry": "Automotive Retailing, Services",
+  "city": "Parsippany",
+  "state": "New Jersey",
+  "employees": 21000.0
+ },
+ {
+  "rank": 381,
+  "name": "Conagra Brands",
+  "revenue_musd": 11612.8,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Consumer Products",
+  "city": "Chicago",
+  "state": "Illinois",
+  "employees": 18300.0
+ },
+ {
+  "rank": 382,
+  "name": "Baxter International",
+  "revenue_musd": 11596.0,
+  "sector": "Health Care",
+  "industry": "Medical Products and Equipment",
+  "city": "Deerfield",
+  "state": "Illinois",
+  "employees": 37500.0
+ },
+ {
+  "rank": 383,
+  "name": "Burlington Stores",
+  "revenue_musd": 11566.9,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Apparel",
+  "city": "Burlington",
+  "state": "New Jersey",
+  "employees": 50402.0
+ },
+ {
+  "rank": 384,
+  "name": "Caesars Entertainment",
+  "revenue_musd": 11486.0,
+  "sector": "Hotels, Restaurants & Leisure",
+  "industry": "Hotels, Casinos, Resorts",
+  "city": "Reno",
+  "state": "Nevada",
+  "employees": 50000.0
+ },
+ {
+  "rank": 385,
+  "name": "Owens Corning",
+  "revenue_musd": 11279.0,
+  "sector": "Materials",
+  "industry": "Building Materials, Glass",
+  "city": "Toledo",
+  "state": "Ohio",
+  "employees": 25000.0
+ },
+ {
+  "rank": 386,
+  "name": "KeyCorp",
+  "revenue_musd": 11228.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "Cleveland",
+  "state": "Ohio",
+  "employees": 17226.0
+ },
+ {
+  "rank": 387,
+  "name": "Thrivent Financial",
+  "revenue_musd": 11179.1,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (Mutual)",
+  "city": "Minneapolis",
+  "state": "Minnesota",
+  "employees": 4498.0
+ },
+ {
+  "rank": 388,
+  "name": "Westlake",
+  "revenue_musd": 11170.0,
+  "sector": "Chemicals",
+  "industry": "Chemicals",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 14600.0
+ },
+ {
+  "rank": 389,
+  "name": "Westinghouse Air Brake",
+  "revenue_musd": 11167.0,
+  "sector": "Industrials",
+  "industry": "Industrial Machinery",
+  "city": "Pittsburgh",
+  "state": "Pennsylvania",
+  "employees": 31000.0
+ },
+ {
+  "rank": 390,
+  "name": "Molson Coors Beverage",
+  "revenue_musd": 11140.8,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Beverages",
+  "city": "Chicago",
+  "state": "Illinois",
+  "employees": 16200.0
+ },
+ {
+  "rank": 391,
+  "name": "Lululemon athletica",
+  "revenue_musd": 11102.6,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Apparel",
+  "city": "Groveport",
+  "state": "Ohio",
+  "employees": 39000.0
+ },
+ {
+  "rank": 392,
+  "name": "FM",
+  "revenue_musd": 11101.7,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "Johnston",
+  "state": "Rhode Island",
+  "employees": 5897.0
+ },
+ {
+  "rank": 393,
+  "name": "Ebay",
+  "revenue_musd": 11100.0,
+  "sector": "Technology",
+  "industry": "Internet Services and Retailing",
+  "city": "San Jose",
+  "state": "California",
+  "employees": 12300.0
+ },
+ {
+  "rank": 394,
+  "name": "Expeditors Intl. of Washington",
+  "revenue_musd": 11069.0,
+  "sector": "Transportation",
+  "industry": "Transportation and Logistics",
+  "city": "Bellevue",
+  "state": "Washington",
+  "employees": 20359.0
+ },
+ {
+  "rank": 395,
+  "name": "Quest Diagnostics",
+  "revenue_musd": 11035.0,
+  "sector": "Health Care",
+  "industry": "Health Care: Pharmacy and Other Services",
+  "city": "Secaucus",
+  "state": "New Jersey",
+  "employees": 51500.0
+ },
+ {
+  "rank": 396,
+  "name": "Analog Devices",
+  "revenue_musd": 11019.7,
+  "sector": "Technology",
+  "industry": "Semiconductors and Other Electronic Components",
+  "city": "Wilmington",
+  "state": "Massachusetts",
+  "employees": 24500.0
+ },
+ {
+  "rank": 397,
+  "name": "Andersons",
+  "revenue_musd": 11008.9,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Production",
+  "city": "Maumee",
+  "state": "Ohio",
+  "employees": 2083.0
+ },
+ {
+  "rank": 398,
+  "name": "Gold.com",
+  "revenue_musd": 10978.6,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Diversified",
+  "city": "Costa Mesa",
+  "state": "California",
+  "employees": 975.0
+ },
+ {
+  "rank": 399,
+  "name": "Toll Brothers",
+  "revenue_musd": 10966.7,
+  "sector": "Engineering & Construction",
+  "industry": "Homebuilders",
+  "city": "Fort Washington",
+  "state": "Pennsylvania",
+  "employees": 4900.0
+ },
+ {
+  "rank": 400,
+  "name": "International Flavors & Fragrances",
+  "revenue_musd": 10890.0,
+  "sector": "Chemicals",
+  "industry": "Chemicals",
+  "city": "New York",
+  "state": "New York",
+  "employees": 21500.0
+ },
+ {
+  "rank": 401,
+  "name": "Welltower",
+  "revenue_musd": 10838.0,
+  "sector": "Financials",
+  "industry": "Real estate",
+  "city": "Toledo",
+  "state": "Ohio",
+  "employees": 712.0
+ },
+ {
+  "rank": 402,
+  "name": "Jefferies Financial Group",
+  "revenue_musd": 10823.7,
+  "sector": "Financials",
+  "industry": "Diversified Financials",
+  "city": "New York",
+  "state": "New York",
+  "employees": 7787.0
+ },
+ {
+  "rank": 403,
+  "name": "Autoliv",
+  "revenue_musd": 10815.0,
+  "sector": "Motor Vehicles & Parts",
+  "industry": "Motor Vehicles & Parts",
+  "city": "Auburn Hills",
+  "state": "Michigan",
+  "employees": 61085.0
+ },
+ {
+  "rank": 404,
+  "name": "Mohawk Industries",
+  "revenue_musd": 10785.4,
+  "sector": "Household Products",
+  "industry": "Home Equipment, Furnishings",
+  "city": "Calhoun",
+  "state": "Georgia",
+  "employees": 40500.0
+ },
+ {
+  "rank": 405,
+  "name": "Delek US Holdings",
+  "revenue_musd": 10722.9,
+  "sector": "Energy",
+  "industry": "Petroleum Refining",
+  "city": "Brentwood",
+  "state": "Tennessee",
+  "employees": 1902.0
+ },
+ {
+  "rank": 406,
+  "name": "Fidelity National Information (FIS)",
+  "revenue_musd": 10677.0,
+  "sector": "Business Services",
+  "industry": "Financial Data Services",
+  "city": "Jacksonville",
+  "state": "Florida",
+  "employees": 44000.0
+ },
+ {
+  "rank": 407,
+  "name": "Accendra Health",
+  "revenue_musd": 10671.7,
+  "sector": "Health Care",
+  "industry": "Wholesalers: Health Care",
+  "city": "Glen Allen",
+  "state": "Virginia",
+  "employees": 6500.0
+ },
+ {
+  "rank": 408,
+  "name": "American Tower",
+  "revenue_musd": 10644.6,
+  "sector": "Financials",
+  "industry": "Real estate",
+  "city": "Boston",
+  "state": "Massachusetts",
+  "employees": 4866.0
+ },
+ {
+  "rank": 409,
+  "name": "NVR",
+  "revenue_musd": 10443.3,
+  "sector": "Engineering & Construction",
+  "industry": "Homebuilders",
+  "city": "Reston",
+  "state": "Virginia",
+  "employees": 6300.0
+ },
+ {
+  "rank": 410,
+  "name": "Interactive Brokers Group",
+  "revenue_musd": 10424.0,
+  "sector": "Financials",
+  "industry": "Securities",
+  "city": "Greenwich",
+  "state": "Connecticut",
+  "employees": 3182.0
+ },
+ {
+  "rank": 411,
+  "name": "Oshkosh",
+  "revenue_musd": 10422.3,
+  "sector": "Industrials",
+  "industry": "Construction and Farm Machinery",
+  "city": "Oshkosh",
+  "state": "Wisconsin",
+  "employees": 18400.0
+ },
+ {
+  "rank": 412,
+  "name": "Cintas",
+  "revenue_musd": 10340.2,
+  "sector": "Business Services",
+  "industry": "Diversified Outsourcing Services",
+  "city": "Cincinnati",
+  "state": "Ohio",
+  "employees": 48300.0
+ },
+ {
+  "rank": 413,
+  "name": "Campbell's",
+  "revenue_musd": 10253.0,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Consumer Products",
+  "city": "Camden",
+  "state": "New Jersey",
+  "employees": 13700.0
+ },
+ {
+  "rank": 414,
+  "name": "Vertiv Holdings",
+  "revenue_musd": 10229.9,
+  "sector": "Industrials",
+  "industry": "Electronics, Electrical Equip.",
+  "city": "Westerville",
+  "state": "Ohio",
+  "employees": 34000.0
+ },
+ {
+  "rank": 415,
+  "name": "Global Payments",
+  "revenue_musd": 10215.6,
+  "sector": "Business Services",
+  "industry": "Financial Data Services",
+  "city": "Atlanta",
+  "state": "Georgia",
+  "employees": 26000.0
+ },
+ {
+  "rank": 416,
+  "name": "Constellation Brands",
+  "revenue_musd": 10208.7,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Beverages",
+  "city": "Rochester",
+  "state": "New York",
+  "employees": 9300.0
+ },
+ {
+  "rank": 417,
+  "name": "AGCO",
+  "revenue_musd": 10082.0,
+  "sector": "Industrials",
+  "industry": "Construction and Farm Machinery",
+  "city": "Duluth",
+  "state": "Georgia",
+  "employees": 22000.0
+ },
+ {
+  "rank": 418,
+  "name": "Intuitive Surgical",
+  "revenue_musd": 10064.7,
+  "sector": "Health Care",
+  "industry": "Medical Products and Equipment",
+  "city": "Sunnyvale",
+  "state": "California",
+  "employees": 17021.0
+ },
+ {
+  "rank": 419,
+  "name": "Ace Hardware",
+  "revenue_musd": 10043.6,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Diversified",
+  "city": "Oak Brook",
+  "state": "Illinois",
+  "employees": 14000.0
+ },
+ {
+  "rank": 420,
+  "name": "Dana",
+  "revenue_musd": 9998.0,
+  "sector": "Motor Vehicles & Parts",
+  "industry": "Motor Vehicles & Parts",
+  "city": "Maumee",
+  "state": "Ohio",
+  "employees": 26900.0
+ },
+ {
+  "rank": 421,
+  "name": "Biogen",
+  "revenue_musd": 9890.6,
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "city": "Cambridge",
+  "state": "Massachusetts",
+  "employees": 7500.0
+ },
+ {
+  "rank": 422,
+  "name": "News Corp.",
+  "revenue_musd": 9845.0,
+  "sector": "Media",
+  "industry": "Entertainment",
+  "city": "New York",
+  "state": "New York",
+  "employees": 22300.0
+ },
+ {
+  "rank": 423,
+  "name": "Concentrix",
+  "revenue_musd": 9825.8,
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "city": "Newark",
+  "state": "California",
+  "employees": 455000.0
+ },
+ {
+  "rank": 424,
+  "name": "WEC Energy Group",
+  "revenue_musd": 9800.1,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Milwaukee",
+  "state": "Wisconsin",
+  "employees": 7151.0
+ },
+ {
+  "rank": 425,
+  "name": "VF",
+  "revenue_musd": 9749.2,
+  "sector": "Apparel",
+  "industry": "Apparel",
+  "city": "Denver",
+  "state": "Colorado",
+  "employees": 21600.0
+ },
+ {
+  "rank": 426,
+  "name": "Seaboard",
+  "revenue_musd": 9746.0,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Production",
+  "city": "Merriam",
+  "state": "Kansas",
+  "employees": 14000.0
+ },
+ {
+  "rank": 427,
+  "name": "Icahn Enterprises",
+  "revenue_musd": 9658.0,
+  "sector": "Financials",
+  "industry": "Diversified Financials",
+  "city": "Sunny Isles Beach",
+  "state": "Florida",
+  "employees": 13547.0
+ },
+ {
+  "rank": 428,
+  "name": "Regions Financial",
+  "revenue_musd": 9608.0,
+  "sector": "Financials",
+  "industry": "Commercial Banks",
+  "city": "Birmingham",
+  "state": "Alabama",
+  "employees": 19969.0
+ },
+ {
+  "rank": 429,
+  "name": "Thor Industries",
+  "revenue_musd": 9579.5,
+  "sector": "Motor Vehicles & Parts",
+  "industry": "Motor Vehicles & Parts",
+  "city": "Elkhart",
+  "state": "Indiana",
+  "employees": 20900.0
+ },
+ {
+  "rank": 430,
+  "name": "Workday",
+  "revenue_musd": 9552.0,
+  "sector": "Technology",
+  "industry": "Computer Software",
+  "city": "Pleasanton",
+  "state": "California",
+  "employees": 21070.0
+ },
+ {
+  "rank": 431,
+  "name": "Celanese",
+  "revenue_musd": 9544.0,
+  "sector": "Chemicals",
+  "industry": "Chemicals",
+  "city": "Irving",
+  "state": "Texas",
+  "employees": 11434.0
+ },
+ {
+  "rank": 432,
+  "name": "Western Digital",
+  "revenue_musd": 9520.0,
+  "sector": "Technology",
+  "industry": "Computers, Office Equipment",
+  "city": "San Jose",
+  "state": "California",
+  "employees": 40000.0
+ },
+ {
+  "rank": 433,
+  "name": "QVC Group",
+  "revenue_musd": 9497.0,
+  "sector": "Retailing",
+  "industry": "Internet Services and Retailing",
+  "city": "West Chester",
+  "state": "Pennsylvania",
+  "employees": 18984.0
+ },
+ {
+  "rank": 434,
+  "name": "Zoetis",
+  "revenue_musd": 9467.0,
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "city": "Parsippany",
+  "state": "New Jersey",
+  "employees": 14500.0
+ },
+ {
+  "rank": 435,
+  "name": "CenterPoint Energy",
+  "revenue_musd": 9357.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 8794.0
+ },
+ {
+  "rank": 436,
+  "name": "Equinix",
+  "revenue_musd": 9260.0,
+  "sector": "Financials",
+  "industry": "Real estate",
+  "city": "Redwood City",
+  "state": "California",
+  "employees": 13716.0
+ },
+ {
+  "rank": 437,
+  "name": "Palo Alto Networks",
+  "revenue_musd": 9221.5,
+  "sector": "Technology",
+  "industry": "Network and Other Communications Equipment",
+  "city": "Santa Clara",
+  "state": "California",
+  "employees": 16068.0
+ },
+ {
+  "rank": 438,
+  "name": "APA",
+  "revenue_musd": 9220.0,
+  "sector": "Energy",
+  "industry": "Mining, Crude-Oil Production",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 1791.0
+ },
+ {
+  "rank": 439,
+  "name": "Old Republic International",
+  "revenue_musd": 9136.3,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "Chicago",
+  "state": "Illinois",
+  "employees": 9500.0
+ },
+ {
+  "rank": 440,
+  "name": "Comfort Systems USA",
+  "revenue_musd": 9101.6,
+  "sector": "Engineering & Construction",
+  "industry": "Engineering & Construction",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 22700.0
+ },
+ {
+  "rank": 441,
+  "name": "JetBlue Airways",
+  "revenue_musd": 9062.0,
+  "sector": "Transportation",
+  "industry": "Airlines",
+  "city": "Long Island City",
+  "state": "New York",
+  "employees": 19259.0
+ },
+ {
+  "rank": 442,
+  "name": "PPL",
+  "revenue_musd": 9042.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Allentown",
+  "state": "Pennsylvania",
+  "employees": 6546.0
+ },
+ {
+  "rank": 443,
+  "name": "Xylem",
+  "revenue_musd": 9035.0,
+  "sector": "Industrials",
+  "industry": "Industrial Machinery",
+  "city": "Washington",
+  "state": "District Of Columbia",
+  "employees": 22000.0
+ },
+ {
+  "rank": 444,
+  "name": "Arista Networks",
+  "revenue_musd": 9005.7,
+  "sector": "Technology",
+  "industry": "Network and Other Communications Equipment",
+  "city": "Santa Clara",
+  "state": "California",
+  "employees": 5115.0
+ },
+ {
+  "rank": 445,
+  "name": "Packaging Corp. of America",
+  "revenue_musd": 8989.3,
+  "sector": "Materials",
+  "industry": "Packaging, Containers",
+  "city": "Lake Forest",
+  "state": "Illinois",
+  "employees": 16800.0
+ },
+ {
+  "rank": 446,
+  "name": "PVH",
+  "revenue_musd": 8950.2,
+  "sector": "Apparel",
+  "industry": "Apparel",
+  "city": "New York",
+  "state": "New York",
+  "employees": 20500.0
+ },
+ {
+  "rank": 447,
+  "name": "Ovintiv",
+  "revenue_musd": 8908.0,
+  "sector": "Energy",
+  "industry": "Mining, Crude-Oil Production",
+  "city": "Denver",
+  "state": "Colorado",
+  "employees": 1465.0
+ },
+ {
+  "rank": 448,
+  "name": "Avery Dennison",
+  "revenue_musd": 8855.5,
+  "sector": "Materials",
+  "industry": "Packaging, Containers",
+  "city": "Mentor",
+  "state": "Ohio",
+  "employees": 35000.0
+ },
+ {
+  "rank": 449,
+  "name": "TransDigm Group",
+  "revenue_musd": 8831.0,
+  "sector": "Aerospace & Defense",
+  "industry": "Aerospace & Defense",
+  "city": "Cleveland",
+  "state": "Ohio",
+  "employees": 16500.0
+ },
+ {
+  "rank": 450,
+  "name": "Sprouts Farmers Market",
+  "revenue_musd": 8806.2,
+  "sector": "Food & Drug Stores",
+  "industry": "Food and Drug Stores",
+  "city": "Phoenix",
+  "state": "Arizona",
+  "employees": 36000.0
+ },
+ {
+  "rank": 451,
+  "name": "Prologis",
+  "revenue_musd": 8790.1,
+  "sector": "Financials",
+  "industry": "Real estate",
+  "city": "San Francisco",
+  "state": "California",
+  "employees": 2802.0
+ },
+ {
+  "rank": 452,
+  "name": "Franklin Templeton",
+  "revenue_musd": 8770.7,
+  "sector": "Financials",
+  "industry": "Securities",
+  "city": "San Mateo",
+  "state": "California",
+  "employees": 9800.0
+ },
+ {
+  "rank": 453,
+  "name": "Eastman Chemical",
+  "revenue_musd": 8752.0,
+  "sector": "Chemicals",
+  "industry": "Chemicals",
+  "city": "Kingsport",
+  "state": "Tennessee",
+  "employees": 13000.0
+ },
+ {
+  "rank": 454,
+  "name": "ABM Industries",
+  "revenue_musd": 8745.9,
+  "sector": "Business Services",
+  "industry": "Diversified Outsourcing Services",
+  "city": "New York",
+  "state": "New York",
+  "employees": 113000.0
+ },
+ {
+  "rank": 455,
+  "name": "NOV",
+  "revenue_musd": 8744.0,
+  "sector": "Energy",
+  "industry": "Oil and Gas Equipment, Services",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 31605.0
+ },
+ {
+  "rank": 456,
+  "name": "J.M. Smucker",
+  "revenue_musd": 8726.1,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Consumer Products",
+  "city": "Orrville",
+  "state": "Ohio",
+  "employees": 8000.0
+ },
+ {
+  "rank": 457,
+  "name": "Securian Financial Group",
+  "revenue_musd": 8663.4,
+  "sector": "Financials",
+  "industry": "Insurance: Life, Health (stock)",
+  "city": "St. Paul",
+  "state": "Minnesota",
+  "employees": 5708.0
+ },
+ {
+  "rank": 458,
+  "name": "EQT",
+  "revenue_musd": 8644.2,
+  "sector": "Energy",
+  "industry": "Energy",
+  "city": "Pittsburgh",
+  "state": "Pennsylvania",
+  "employees": 1523.0
+ },
+ {
+  "rank": 459,
+  "name": "CACI International",
+  "revenue_musd": 8627.8,
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "city": "Reston",
+  "state": "Virginia",
+  "employees": 25000.0
+ },
+ {
+  "rank": 460,
+  "name": "Graphic Packaging Holding",
+  "revenue_musd": 8617.0,
+  "sector": "Materials",
+  "industry": "Packaging, Containers",
+  "city": "Atlanta",
+  "state": "Georgia",
+  "employees": 23000.0
+ },
+ {
+  "rank": 461,
+  "name": "Advance Auto Parts",
+  "revenue_musd": 8601.0,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Other",
+  "city": "Raleigh",
+  "state": "North Carolina",
+  "employees": 41141.0
+ },
+ {
+  "rank": 462,
+  "name": "Optimum Communications",
+  "revenue_musd": 8590.5,
+  "sector": "Telecommunications",
+  "industry": "Telecommunications",
+  "city": "Long Island City",
+  "state": "New York",
+  "employees": 9500.0
+ },
+ {
+  "rank": 463,
+  "name": "Sirius XM Holdings",
+  "revenue_musd": 8558.0,
+  "sector": "Media",
+  "industry": "Entertainment",
+  "city": "New York",
+  "state": "New York",
+  "employees": 5119.0
+ },
+ {
+  "rank": 464,
+  "name": "CMS Energy",
+  "revenue_musd": 8539.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "Jackson",
+  "state": "Michigan",
+  "employees": 8350.0
+ },
+ {
+  "rank": 465,
+  "name": "Hertz Global Holdings",
+  "revenue_musd": 8504.0,
+  "sector": "Retailing",
+  "industry": "Automotive Retailing, Services",
+  "city": "Estero",
+  "state": "Florida",
+  "employees": 26000.0
+ },
+ {
+  "rank": 466,
+  "name": "Ameren",
+  "revenue_musd": 8470.0,
+  "sector": "Energy",
+  "industry": "Utilities: Gas and Electric",
+  "city": "St. Louis",
+  "state": "Missouri",
+  "employees": 8913.0
+ },
+ {
+  "rank": 467,
+  "name": "Rockwell Automation",
+  "revenue_musd": 8342.0,
+  "sector": "Industrials",
+  "industry": "Electronics, Electrical Equip.",
+  "city": "Milwaukee",
+  "state": "Wisconsin",
+  "employees": 26000.0
+ },
+ {
+  "rank": 468,
+  "name": "Solventum",
+  "revenue_musd": 8325.0,
+  "sector": "Health Care",
+  "industry": "Medical Products and Equipment",
+  "city": "Eagan",
+  "state": "Minnesota",
+  "employees": 20584.0
+ },
+ {
+  "rank": 469,
+  "name": "Monster Beverage",
+  "revenue_musd": 8294.3,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Beverages",
+  "city": "Corona",
+  "state": "California",
+  "employees": 6332.0
+ },
+ {
+  "rank": 470,
+  "name": "Nasdaq",
+  "revenue_musd": 8262.0,
+  "sector": "Financials",
+  "industry": "Securities",
+  "city": "New York",
+  "state": "New York",
+  "employees": 9525.0
+ },
+ {
+  "rank": 471,
+  "name": "Howmet Aerospace",
+  "revenue_musd": 8252.0,
+  "sector": "Aerospace & Defense",
+  "industry": "Aerospace & Defense",
+  "city": "Pittsburgh",
+  "state": "Pennsylvania",
+  "employees": 25430.0
+ },
+ {
+  "rank": 472,
+  "name": "Insight Enterprises",
+  "revenue_musd": 8247.2,
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "city": "Chandler",
+  "state": "Arizona",
+  "employees": 14505.0
+ },
+ {
+  "rank": 473,
+  "name": "Zimmer Biomet Holdings",
+  "revenue_musd": 8231.5,
+  "sector": "Health Care",
+  "industry": "Medical Products and Equipment",
+  "city": "Warsaw",
+  "state": "Indiana",
+  "employees": 17000.0
+ },
+ {
+  "rank": 474,
+  "name": "Yum Brands",
+  "revenue_musd": 8214.0,
+  "sector": "Hotels, Restaurants & Leisure",
+  "industry": "Food Services",
+  "city": "Louisville",
+  "state": "Kentucky",
+  "employees": 37660.0
+ },
+ {
+  "rank": 475,
+  "name": "Fastenal",
+  "revenue_musd": 8200.5,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Diversified",
+  "city": "Winona",
+  "state": "Minnesota",
+  "employees": 24489.0
+ },
+ {
+  "rank": 476,
+  "name": "Marvell Technology",
+  "revenue_musd": 8194.6,
+  "sector": "Technology",
+  "industry": "Semiconductors and Other Electronic Components",
+  "city": "Wilmington",
+  "state": "Delaware",
+  "employees": 7480.0
+ },
+ {
+  "rank": 477,
+  "name": "Voya Financial",
+  "revenue_musd": 8189.0,
+  "sector": "Financials",
+  "industry": "Diversified Financials",
+  "city": "New York",
+  "state": "New York",
+  "employees": 11000.0
+ },
+ {
+  "rank": 478,
+  "name": "American Financial Group",
+  "revenue_musd": 8174.0,
+  "sector": "Financials",
+  "industry": "Insurance: Property and Casualty (Stock)",
+  "city": "Cincinnati",
+  "state": "Ohio",
+  "employees": 8500.0
+ },
+ {
+  "rank": 479,
+  "name": "Post Holdings",
+  "revenue_musd": 8158.1,
+  "sector": "Food, Beverages & Tobacco",
+  "industry": "Food Consumer Products",
+  "city": "St. Louis",
+  "state": "Missouri",
+  "employees": 13180.0
+ },
+ {
+  "rank": 480,
+  "name": "XPO",
+  "revenue_musd": 8157.0,
+  "sector": "Transportation",
+  "industry": "Transportation and Logistics",
+  "city": "Greenwich",
+  "state": "Connecticut",
+  "employees": 38800.0
+ },
+ {
+  "rank": 481,
+  "name": "DuPont",
+  "revenue_musd": 8146.0,
+  "sector": "Chemicals",
+  "industry": "Chemicals",
+  "city": "Wilmington",
+  "state": "Delaware",
+  "employees": 15000.0
+ },
+ {
+  "rank": 482,
+  "name": "Sanmina",
+  "revenue_musd": 8128.4,
+  "sector": "Technology",
+  "industry": "Semiconductors and Other Electronic Components",
+  "city": "San Jose",
+  "state": "California",
+  "employees": 37000.0
+ },
+ {
+  "rank": 483,
+  "name": "Taylor Morrison Home",
+  "revenue_musd": 8121.5,
+  "sector": "Engineering & Construction",
+  "industry": "Homebuilders",
+  "city": "Scottsdale",
+  "state": "Arizona",
+  "employees": 3000.0
+ },
+ {
+  "rank": 484,
+  "name": "Dover",
+  "revenue_musd": 8092.6,
+  "sector": "Industrials",
+  "industry": "Industrial Machinery",
+  "city": "Downers Grove",
+  "state": "Illinois",
+  "employees": 24000.0
+ },
+ {
+  "rank": 485,
+  "name": "Vulcan Materials",
+  "revenue_musd": 7941.1,
+  "sector": "Materials",
+  "industry": "Building Materials, Glass",
+  "city": "Birmingham",
+  "state": "Alabama",
+  "employees": 11548.0
+ },
+ {
+  "rank": 486,
+  "name": "APi Group",
+  "revenue_musd": 7911.0,
+  "sector": "Engineering & Construction",
+  "industry": "Engineering & Construction",
+  "city": "New Brighton",
+  "state": "Minnesota",
+  "employees": 29000.0
+ },
+ {
+  "rank": 487,
+  "name": "Roper Technologies",
+  "revenue_musd": 7902.5,
+  "sector": "Technology",
+  "industry": "Computer Software",
+  "city": "Sarasota",
+  "state": "Florida",
+  "employees": 19400.0
+ },
+ {
+  "rank": 488,
+  "name": "KBR",
+  "revenue_musd": 7853.0,
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 36000.0
+ },
+ {
+  "rank": 489,
+  "name": "Sonoco Products",
+  "revenue_musd": 7839.4,
+  "sector": "Materials",
+  "industry": "Packaging, Containers",
+  "city": "Hartsville",
+  "state": "South Carolina",
+  "employees": 22000.0
+ },
+ {
+  "rank": 490,
+  "name": "Williams-Sonoma",
+  "revenue_musd": 7806.8,
+  "sector": "Retailing",
+  "industry": "Specialty Retailers: Other",
+  "city": "San Francisco",
+  "state": "California",
+  "employees": 19800.0
+ },
+ {
+  "rank": 491,
+  "name": "Commercial Metals",
+  "revenue_musd": 7798.5,
+  "sector": "Materials",
+  "industry": "Metals",
+  "city": "Irving",
+  "state": "Texas",
+  "employees": 12690.0
+ },
+ {
+  "rank": 492,
+  "name": "Moody's",
+  "revenue_musd": 7718.0,
+  "sector": "Business Services",
+  "industry": "Financial Data Services",
+  "city": "New York",
+  "state": "New York",
+  "employees": 16076.0
+ },
+ {
+  "rank": 493,
+  "name": "Continental Resources",
+  "revenue_musd": 7693.6,
+  "sector": "Energy",
+  "industry": "Mining, Crude-Oil Production",
+  "city": "Oklahoma City",
+  "state": "Oklahoma",
+  "employees": 1378.0
+ },
+ {
+  "rank": 494,
+  "name": "Ingersoll Rand",
+  "revenue_musd": 7650.9,
+  "sector": "Industrials",
+  "industry": "Industrial Machinery",
+  "city": "Davidson",
+  "state": "North Carolina",
+  "employees": 21000.0
+ },
+ {
+  "rank": 495,
+  "name": "Core & Main",
+  "revenue_musd": 7647.0,
+  "sector": "Wholesalers",
+  "industry": "Wholesalers: Diversified",
+  "city": "St. Louis",
+  "state": "Missouri",
+  "employees": 5600.0
+ },
+ {
+  "rank": 496,
+  "name": "Coterra Energy",
+  "revenue_musd": 7645.0,
+  "sector": "Energy",
+  "industry": "Mining, Crude-Oil Production",
+  "city": "Houston",
+  "state": "Texas",
+  "employees": 1075.0
+ },
+ {
+  "rank": 497,
+  "name": "Primoris Services",
+  "revenue_musd": 7574.9,
+  "sector": "Engineering & Construction",
+  "industry": "Engineering & Construction",
+  "city": "Dallas",
+  "state": "Texas",
+  "employees": 18526.0
+ },
+ {
+  "rank": 498,
+  "name": "Masco",
+  "revenue_musd": 7562.0,
+  "sector": "Household Products",
+  "industry": "Home Equipment, Furnishings",
+  "city": "Livonia",
+  "state": "Michigan",
+  "employees": 18000.0
+ },
+ {
+  "rank": 499,
+  "name": "Somnigroup International",
+  "revenue_musd": 7476.5,
+  "sector": "Household Products",
+  "industry": "Home Equipment, Furnishings",
+  "city": "Dallas",
+  "state": "Texas",
+  "employees": 19000.0
+ },
+ {
+  "rank": 500,
+  "name": "Resideo Technologies",
+  "revenue_musd": 7472.0,
+  "sector": "Materials",
+  "industry": "Building Materials, Glass",
+  "city": "Scottsdale",
+  "state": "Arizona",
+  "employees": 14800.0
+ }
+]
