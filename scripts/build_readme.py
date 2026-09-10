@@ -175,7 +175,8 @@ def main():
     A("---")
     A("")
     A(f"Company list: Fortune 500 (2026 edition) plus {extras} technology companies "
-      f"from `data/extra_companies.json`. Generated {dt.date.today()}.")
+      f"from `data/extra_companies.json`. Generated {dt.date.today()}. "
+      "Code and data are [MIT licensed](LICENSE).")
 
     (ROOT / "README.md").write_text("\n".join(L), encoding="utf-8")
     print(f"README.md: {len(rows)} postings, {len(ats)} companies")

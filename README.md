@@ -1086,4 +1086,4 @@ It is tuned for precision over recall, because the company list is mostly indust
 
 ---
 
-Company list: Fortune 500 (2026 edition) plus 132 technology companies from `data/extra_companies.json`. Generated 2026-09-10.
+Company list: Fortune 500 (2026 edition) plus 132 technology companies from `data/extra_companies.json`. Generated 2026-09-10. Code and data are [MIT licensed](LICENSE).
