@@ -85,5 +85,29 @@
   "crawl_allowed": false,
   "careers_url": "https://careers.qualcomm.com/careers",
   "checked": "NOT fetched: Eightfold hub whose robots Allows /api/apply, but the endpoint answers 403 'Not authorized for PCSX' -- an authorization requirement, not a bot block. Their Workday tenant (wd12/External) is live but holds 0 postings"
+ },
+ {
+  "name": "Google",
+  "ats": "custom",
+  "board": null,
+  "crawl_allowed": false,
+  "careers_url": "https://www.google.com/about/careers/applications/students",
+  "checked": "NOT fetched: discovery found google.wd501/GOCJobs, which is the Google Operations Center (support and ops roles in PH/IN), not engineering hiring. Real internships are on careers.google.com, which has no public JSON API we verified. Link-only so coverage is not overstated."
+ },
+ {
+  "name": "Accenture",
+  "ats": "custom",
+  "board": null,
+  "crawl_allowed": false,
+  "careers_url": "https://www.accenture.com/us-en/careers/local/students",
+  "checked": "NOT fetched: discovery found accenture.wd103/AvanadeLeadershipCareers, a joint-venture leadership board with 2 postings. Main hiring is on accenture.com's own site. Link-only."
+ },
+ {
+  "name": "LinkedIn",
+  "ats": "custom",
+  "board": null,
+  "crawl_allowed": false,
+  "careers_url": "https://careers.linkedin.com/students",
+  "checked": "NOT fetched: boards.greenhouse.io/linkedin is a TEST board (titles like 'Bug Bash Job', 'Copy 1 of EA Test', '123123') -- Greenhouse's sandbox for the LinkedIn Apply integration, not LinkedIn hiring. A board that exists and has jobs is not proof the jobs are real."
  }
 ]

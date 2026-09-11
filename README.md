@@ -2,9 +2,9 @@
 
 Software-engineering **internship** postings (Summer 2027 cycle), pulled straight from the applicant tracking systems of the [2026 Fortune 500](https://fortune.com/ranking/fortune500/2026/) plus a curated list of technology companies outside it.
 
-**500 open postings** (175 in the US) across **109 companies** · last refreshed 2026-09-11 18:58:52 UTC
+**502 open postings** (176 in the US) across **109 companies** · last refreshed 2026-09-11 18:58:52 UTC
 
-Coverage: 516 of 987 companies have a machine-readable feed we query. 42 more were identified but their `robots.txt` disallows crawling, so they are listed as links only. 429 are still unresolved — see [Coverage](#coverage).
+Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more were identified but their `robots.txt` disallows crawling, so they are listed as links only. 429 are still unresolved — see [Coverage](#coverage).
 
 ---
 
@@ -43,10 +43,10 @@ Coverage: 516 of 987 companies have a machine-readable feed we query. 42 more we
 | — | **Verkada** | Security Software Engineering Intern 2027 | San Mateo, CA United States | 1d | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5213881007) |
 | — | **Schonfeld** | 2027 Platform Engineering Intern | New York, New York, United States | 1d | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) |
 | — | **Bosch** | Internship in Software Testing - Bosch eBike Systems | Reutlingen, de | 1d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148678479) |
+| — | **Waymo** | 2027 Summer Intern, PhD, Machine Learning, Computer Vision | Mountain View, California | 1d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8193295) |
 | 88 | **Intel** | Software Research Engineering - (PhD Intern) | US, Oregon, Hillsboro | 2d | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019) |
 | — | **Epic Games** | Backend Services Programmer Intern | Cary,North Carolina,United States | 2d | [Apply](https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004) |
 | — | **Epic Games** | UI Programmer Intern | Cary,North Carolina,United States | 2d | [Apply](https://epicgames.com/careers/jobs/6183401004?gh_jid=6183401004) |
-| — | **Blue Origin** | Electronics/Electrical Systems Engineer Co-Op (Fixed Term) | Los Angeles, CA | 2d | [Apply](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548) |
 | — | **Rocket Lab** | Flight Software Intern Spring 2027 | Littleton, CO | 2d | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989724003) |
 | — | **Rocket Lab** | Flight Software Intern Summer 2027 | Littleton, CO | 2d | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989722003) |
 | — | **Blue Origin** | Electronics/Electrical Systems Engineer Co-Op (Fixed Term) | Los Angeles, CA | 2d | [Apply](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548) |
@@ -190,7 +190,7 @@ Coverage: 516 of 987 companies have a machine-readable feed we query. 42 more we
 | — | **Palantir Technologies** | Forward Deployed Software Engineer, Internship - Commercial | New York, NY | 128mo | [Apply](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) |
 
 <details>
-<summary>International (264) and unstated location (61)</summary>
+<summary>International (265) and unstated location (61)</summary>
 
 ### International
 
@@ -294,6 +294,7 @@ Coverage: 516 of 987 companies have a machine-readable feed we query. 42 more we
 | — | **Jump Trading** | Campus C++ Software Engineer (Intern) | Shanghai | 8d | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027860) |
 | — | **Jump Trading** | Campus Python Software Engineer (Intern) | Singapore | 8d | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027955) |
 | — | **Jump Trading** | Campus Python Software Engineer (Intern) | Shanghai | 8d | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027923) |
+| — | **Cadence Design Systems** | Software Intern | SAN JOSE | 8d | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R56258) |
 | — | **Cadence Design Systems** | Software Intern | SAN JOSE | 8d | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R56258) |
 | 88 | **Intel** | AI Algorithm Research Intern – Neuromorphic Computing | Mexico, Guadalajara | 9d | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/AI-Algorithm-Research-Intern---Neuromorphic-Computing_JR0286774) |
 | 124 | **GE Vernova** | Internship New Units Project cost mgmt. - AI initiative support | Baden | 9d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Baden/Internship-New-Units-Project-cost-mgmt---AI-initiative-support_R5050832-2) |
@@ -536,12 +537,12 @@ _Usually a multi-site requisition; open the posting to see where._
 | Source | Companies |
 |--------|-----------|
 | — | 429 |
-| Workday | 239 |
-| Greenhouse | 192 |
+| Workday | 237 |
+| Greenhouse | 191 |
 | Ashby | 70 |
 | SmartRecruiters | 29 |
 | Lever | 21 |
-| Own site | 7 |
+| Own site | 10 |
 
 <details>
 <summary>All 987 companies and where their jobs live</summary>
@@ -1450,7 +1451,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | — | Epirus | Defense Technology | Greenhouse | [open](https://boards.greenhouse.io/epirus) |
 | — | Saronic | Defense Technology | Ashby | [open](https://jobs.ashbyhq.com/saronic) |
 | — | Deloitte | Consulting | SmartRecruiters | [open](https://jobs.smartrecruiters.com/Deloitte6) |
-| — | Accenture | Consulting | Workday | [open](https://accenture.wd103.myworkdayjobs.com/AvanadeLeadershipCareers) |
+| — | Accenture | Consulting | Own site ¹ | [open](https://www.accenture.com/us-en/careers/local/students) |
 | — | EY | Consulting | — | [search](https://www.google.com/search?q=EY+software+engineering+internship+careers) |
 | — | Firefly Aerospace | Aerospace | — | [search](https://www.google.com/search?q=Firefly+Aerospace+software+engineering+internship+careers) |
 | — | KPMG | Consulting | — | [search](https://www.google.com/search?q=KPMG+software+engineering+internship+careers) |
@@ -1473,7 +1474,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | — | Johns Hopkins Applied Physics Laboratory | Defense Technology | — | [search](https://www.google.com/search?q=Johns+Hopkins+Applied+Physics+Laboratory+software+engineering+internship+careers) |
 | — | Argonne National Laboratory | Research | Workday | [open](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers) |
 | — | Sandia National Laboratories | Research | — | [search](https://www.google.com/search?q=Sandia+National+Laboratories+software+engineering+internship+careers) |
-| — | Google | Technology | Workday | [open](https://google.wd501.myworkdayjobs.com/GOCJobs) |
+| — | Google | Technology | Own site ¹ | [open](https://www.google.com/about/careers/applications/students) |
 | — | YouTube | Technology | — | [search](https://www.google.com/search?q=YouTube+software+engineering+internship+careers) |
 | — | DeepMind | Artificial Intelligence | — | [search](https://www.google.com/search?q=DeepMind+software+engineering+internship+careers) |
 | — | Meta | Technology | — | [search](https://www.google.com/search?q=Meta+software+engineering+internship+careers) |
@@ -1481,7 +1482,7 @@ _Usually a multi-site requisition; open the posting to see where._
 | — | Instagram | Technology | — | [search](https://www.google.com/search?q=Instagram+software+engineering+internship+careers) |
 | — | WhatsApp | Technology | — | [search](https://www.google.com/search?q=WhatsApp+software+engineering+internship+careers) |
 | — | Los Alamos National Laboratory | Research | — | [search](https://www.google.com/search?q=Los+Alamos+National+Laboratory+software+engineering+internship+careers) |
-| — | LinkedIn | Technology | Greenhouse | [open](https://boards.greenhouse.io/linkedin) |
+| — | LinkedIn | Technology | Own site ¹ | [open](https://careers.linkedin.com/students) |
 | — | GitHub | Developer Tools | — | [search](https://www.google.com/search?q=GitHub+software+engineering+internship+careers) |
 | — | Audible | Technology | — | [search](https://www.google.com/search?q=Audible+software+engineering+internship+careers) |
 | — | Ring | Technology | — | [search](https://www.google.com/search?q=Ring+software+engineering+internship+careers) |
