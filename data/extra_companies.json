@@ -1,142 +1,2477 @@
 [
- {"name": "ServiceNow", "sector": "Enterprise Software", "source": "tech"},
- {"name": "NCR Voyix", "sector": "Enterprise Software", "source": "tech"},
- {"name": "NCR Atleos", "sector": "Financial Technology", "source": "tech"},
- {"name": "Workday", "sector": "Enterprise Software", "source": "tech"},
- {"name": "Snowflake", "sector": "Data Infrastructure", "source": "tech"},
- {"name": "Databricks", "sector": "Data Infrastructure", "source": "tech"},
- {"name": "Datadog", "sector": "Developer Tools", "source": "tech"},
- {"name": "MongoDB", "sector": "Data Infrastructure", "source": "tech"},
- {"name": "Elastic", "sector": "Data Infrastructure", "source": "tech"},
- {"name": "Confluent", "sector": "Data Infrastructure", "source": "tech"},
- {"name": "HashiCorp", "sector": "Developer Tools", "source": "tech"},
- {"name": "GitLab", "sector": "Developer Tools", "source": "tech"},
- {"name": "Atlassian", "sector": "Developer Tools", "source": "tech"},
- {"name": "JFrog", "sector": "Developer Tools", "source": "tech"},
- {"name": "Cloudflare", "sector": "Internet Infrastructure", "source": "tech"},
- {"name": "Fastly", "sector": "Internet Infrastructure", "source": "tech"},
- {"name": "DigitalOcean", "sector": "Internet Infrastructure", "source": "tech"},
- {"name": "Akamai Technologies", "sector": "Internet Infrastructure", "source": "tech"},
- {"name": "Twilio", "sector": "Enterprise Software", "source": "tech"},
- {"name": "Okta", "sector": "Security", "source": "tech"},
- {"name": "CrowdStrike", "sector": "Security", "source": "tech"},
- {"name": "Palo Alto Networks", "sector": "Security", "source": "tech"},
- {"name": "Zscaler", "sector": "Security", "source": "tech"},
- {"name": "SentinelOne", "sector": "Security", "source": "tech"},
- {"name": "Fortinet", "sector": "Security", "source": "tech"},
- {"name": "Rapid7", "sector": "Security", "source": "tech"},
- {"name": "Tenable", "sector": "Security", "source": "tech"},
- {"name": "Cloudera", "sector": "Data Infrastructure", "source": "tech"},
- {"name": "Splunk", "sector": "Data Infrastructure", "source": "tech"},
- {"name": "Teradata", "sector": "Data Infrastructure", "source": "tech"},
- {"name": "Informatica", "sector": "Data Infrastructure", "source": "tech"},
- {"name": "Palantir Technologies", "sector": "Data Infrastructure", "source": "tech"},
- {"name": "Stripe", "sector": "Financial Technology", "source": "tech"},
- {"name": "Block", "sector": "Financial Technology", "source": "tech"},
- {"name": "Plaid", "sector": "Financial Technology", "source": "tech"},
- {"name": "Brex", "sector": "Financial Technology", "source": "tech"},
- {"name": "Ramp", "sector": "Financial Technology", "source": "tech"},
- {"name": "Chime", "sector": "Financial Technology", "source": "tech"},
- {"name": "Robinhood", "sector": "Financial Technology", "source": "tech"},
- {"name": "Coinbase", "sector": "Financial Technology", "source": "tech"},
- {"name": "Gemini", "sector": "Financial Technology", "source": "tech"},
- {"name": "Affirm", "sector": "Financial Technology", "source": "tech"},
- {"name": "Marqeta", "sector": "Financial Technology", "source": "tech"},
- {"name": "Toast", "sector": "Financial Technology", "source": "tech"},
- {"name": "Flexport", "sector": "Logistics Technology", "source": "tech"},
- {"name": "Samsara", "sector": "Internet of Things", "source": "tech"},
- {"name": "Roblox", "sector": "Gaming", "source": "tech"},
- {"name": "Unity Software", "sector": "Gaming", "source": "tech"},
- {"name": "Epic Games", "sector": "Gaming", "source": "tech"},
- {"name": "Riot Games", "sector": "Gaming", "source": "tech"},
- {"name": "Valve", "sector": "Gaming", "source": "tech"},
- {"name": "Bungie", "sector": "Gaming", "source": "tech"},
- {"name": "Discord", "sector": "Consumer Internet", "source": "tech"},
- {"name": "Reddit", "sector": "Consumer Internet", "source": "tech"},
- {"name": "Pinterest", "sector": "Consumer Internet", "source": "tech"},
- {"name": "Snap", "sector": "Consumer Internet", "source": "tech"},
- {"name": "Spotify", "sector": "Consumer Internet", "source": "tech"},
- {"name": "Airbnb", "sector": "Consumer Internet", "source": "tech"},
- {"name": "DoorDash", "sector": "Consumer Internet", "source": "tech"},
- {"name": "Instacart", "sector": "Consumer Internet", "source": "tech"},
- {"name": "Lyft", "sector": "Consumer Internet", "source": "tech"},
- {"name": "Yelp", "sector": "Consumer Internet", "source": "tech"},
- {"name": "Zillow Group", "sector": "Consumer Internet", "source": "tech"},
- {"name": "Redfin", "sector": "Consumer Internet", "source": "tech"},
- {"name": "Wayfair", "sector": "Consumer Internet", "source": "tech"},
- {"name": "Etsy", "sector": "Consumer Internet", "source": "tech"},
- {"name": "Shopify", "sector": "Consumer Internet", "source": "tech"},
- {"name": "Squarespace", "sector": "Consumer Internet", "source": "tech"},
- {"name": "Wix", "sector": "Consumer Internet", "source": "tech"},
- {"name": "Figma", "sector": "Productivity Software", "source": "tech"},
- {"name": "Notion Labs", "sector": "Productivity Software", "source": "tech"},
- {"name": "Asana", "sector": "Productivity Software", "source": "tech"},
- {"name": "Monday.com", "sector": "Productivity Software", "source": "tech"},
- {"name": "Miro", "sector": "Productivity Software", "source": "tech"},
- {"name": "Dropbox", "sector": "Productivity Software", "source": "tech"},
- {"name": "Box", "sector": "Productivity Software", "source": "tech"},
- {"name": "Zoom Communications", "sector": "Productivity Software", "source": "tech"},
- {"name": "DocuSign", "sector": "Productivity Software", "source": "tech"},
- {"name": "Smartsheet", "sector": "Productivity Software", "source": "tech"},
- {"name": "HubSpot", "sector": "Marketing Software", "source": "tech"},
- {"name": "Klaviyo", "sector": "Marketing Software", "source": "tech"},
- {"name": "Braze", "sector": "Marketing Software", "source": "tech"},
- {"name": "Amplitude", "sector": "Analytics", "source": "tech"},
- {"name": "Sprout Social", "sector": "Marketing Software", "source": "tech"},
- {"name": "Bill.com", "sector": "Financial Technology", "source": "tech"},
- {"name": "Instructure", "sector": "Education Technology", "source": "tech"},
- {"name": "Duolingo", "sector": "Education Technology", "source": "tech"},
- {"name": "Coursera", "sector": "Education Technology", "source": "tech"},
- {"name": "Chegg", "sector": "Education Technology", "source": "tech"},
- {"name": "Anduril Industries", "sector": "Defense Technology", "source": "tech"},
- {"name": "SpaceX", "sector": "Aerospace", "source": "tech"},
- {"name": "Blue Origin", "sector": "Aerospace", "source": "tech"},
- {"name": "Rocket Lab", "sector": "Aerospace", "source": "tech"},
- {"name": "Relativity Space", "sector": "Aerospace", "source": "tech"},
- {"name": "Rivian", "sector": "Automotive", "source": "tech"},
- {"name": "Lucid Motors", "sector": "Automotive", "source": "tech"},
- {"name": "Waymo", "sector": "Automotive", "source": "tech"},
- {"name": "Zoox", "sector": "Automotive", "source": "tech"},
- {"name": "Cruise", "sector": "Automotive", "source": "tech"},
- {"name": "Aurora Innovation", "sector": "Automotive", "source": "tech"},
- {"name": "OpenAI", "sector": "Artificial Intelligence", "source": "tech"},
- {"name": "Anthropic", "sector": "Artificial Intelligence", "source": "tech"},
- {"name": "Scale AI", "sector": "Artificial Intelligence", "source": "tech"},
- {"name": "Hugging Face", "sector": "Artificial Intelligence", "source": "tech"},
- {"name": "Cohere", "sector": "Artificial Intelligence", "source": "tech"},
- {"name": "Figure AI", "sector": "Robotics", "source": "tech"},
- {"name": "Boston Dynamics", "sector": "Robotics", "source": "tech"},
- {"name": "Verkada", "sector": "Internet of Things", "source": "tech"},
- {"name": "Nutanix", "sector": "Enterprise Software", "source": "tech"},
- {"name": "Pure Storage", "sector": "Enterprise Hardware", "source": "tech"},
- {"name": "NetApp", "sector": "Enterprise Hardware", "source": "tech"},
- {"name": "Juniper Networks", "sector": "Enterprise Hardware", "source": "tech"},
- {"name": "F5", "sector": "Enterprise Hardware", "source": "tech"},
- {"name": "Ciena", "sector": "Enterprise Hardware", "source": "tech"},
- {"name": "Lattice Semiconductor", "sector": "Semiconductors", "source": "tech"},
- {"name": "Ambarella", "sector": "Semiconductors", "source": "tech"},
- {"name": "Cirrus Logic", "sector": "Semiconductors", "source": "tech"},
- {"name": "Synopsys", "sector": "Semiconductors", "source": "tech"},
- {"name": "Cadence Design Systems", "sector": "Semiconductors", "source": "tech"},
- {"name": "Astera Labs", "sector": "Semiconductors", "source": "tech"},
- {"name": "SiFive", "sector": "Semiconductors", "source": "tech"},
- {"name": "Epic Systems", "sector": "Health Technology", "source": "tech"},
- {"name": "Veeva Systems", "sector": "Health Technology", "source": "tech"},
- {"name": "Doximity", "sector": "Health Technology", "source": "tech"},
- {"name": "Oscar Health", "sector": "Health Technology", "source": "tech"},
- {"name": "Included Health", "sector": "Health Technology", "source": "tech"},
- {"name": "Benchling", "sector": "Health Technology", "source": "tech"},
- {"name": "Tempus AI", "sector": "Health Technology", "source": "tech"},
- {"name": "Two Sigma", "sector": "Quantitative Finance", "source": "tech"},
- {"name": "Jane Street", "sector": "Quantitative Finance", "source": "tech"},
- {"name": "Citadel Securities", "sector": "Quantitative Finance", "source": "tech"},
- {"name": "Hudson River Trading", "sector": "Quantitative Finance", "source": "tech"},
- {"name": "Jump Trading", "sector": "Quantitative Finance", "source": "tech"},
- {"name": "IMC Trading", "sector": "Quantitative Finance", "source": "tech"},
- {"name": "Optiver", "sector": "Quantitative Finance", "source": "tech"},
- {"name": "DRW", "sector": "Quantitative Finance", "source": "tech"},
- {"name": "Akuna Capital", "sector": "Quantitative Finance", "source": "tech"},
- {"name": "Belvedere Trading", "sector": "Quantitative Finance", "source": "tech"},
- {"name": "SIG", "sector": "Quantitative Finance", "source": "tech"},
- {"name": "Point72", "sector": "Quantitative Finance", "source": "tech"}
+ {
+  "name": "ServiceNow",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "NCR Voyix",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "NCR Atleos",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Workday",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Snowflake",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Databricks",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Datadog",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "MongoDB",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Elastic",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Confluent",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "HashiCorp",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "GitLab",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Atlassian",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "JFrog",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Cloudflare",
+  "sector": "Internet Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Fastly",
+  "sector": "Internet Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "DigitalOcean",
+  "sector": "Internet Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Akamai Technologies",
+  "sector": "Internet Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Twilio",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Okta",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "CrowdStrike",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Palo Alto Networks",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Zscaler",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "SentinelOne",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Fortinet",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Rapid7",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Tenable",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Cloudera",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Splunk",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Teradata",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Informatica",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Palantir Technologies",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Stripe",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Block",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Plaid",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Brex",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Ramp",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Chime",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Robinhood",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Coinbase",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Gemini",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Affirm",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Marqeta",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Toast",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Flexport",
+  "sector": "Logistics Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Samsara",
+  "sector": "Internet of Things",
+  "source": "tech"
+ },
+ {
+  "name": "Roblox",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "Unity Software",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "Epic Games",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "Riot Games",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "Valve",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "Bungie",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "Discord",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Reddit",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Pinterest",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Snap",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Spotify",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Airbnb",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "DoorDash",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Instacart",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Lyft",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Yelp",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Zillow Group",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Redfin",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Wayfair",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Etsy",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Shopify",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Squarespace",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Wix",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Figma",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "Notion Labs",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "Asana",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "Monday.com",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "Miro",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "Dropbox",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "Box",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "Zoom Communications",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "DocuSign",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "Smartsheet",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "HubSpot",
+  "sector": "Marketing Software",
+  "source": "tech"
+ },
+ {
+  "name": "Klaviyo",
+  "sector": "Marketing Software",
+  "source": "tech"
+ },
+ {
+  "name": "Braze",
+  "sector": "Marketing Software",
+  "source": "tech"
+ },
+ {
+  "name": "Amplitude",
+  "sector": "Analytics",
+  "source": "tech"
+ },
+ {
+  "name": "Sprout Social",
+  "sector": "Marketing Software",
+  "source": "tech"
+ },
+ {
+  "name": "Bill.com",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Instructure",
+  "sector": "Education Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Duolingo",
+  "sector": "Education Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Coursera",
+  "sector": "Education Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Chegg",
+  "sector": "Education Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Anduril Industries",
+  "sector": "Defense Technology",
+  "source": "tech"
+ },
+ {
+  "name": "SpaceX",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Blue Origin",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Rocket Lab",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Relativity Space",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Rivian",
+  "sector": "Automotive",
+  "source": "tech"
+ },
+ {
+  "name": "Lucid Motors",
+  "sector": "Automotive",
+  "source": "tech"
+ },
+ {
+  "name": "Waymo",
+  "sector": "Automotive",
+  "source": "tech"
+ },
+ {
+  "name": "Zoox",
+  "sector": "Automotive",
+  "source": "tech"
+ },
+ {
+  "name": "Cruise",
+  "sector": "Automotive",
+  "source": "tech"
+ },
+ {
+  "name": "Aurora Innovation",
+  "sector": "Automotive",
+  "source": "tech"
+ },
+ {
+  "name": "OpenAI",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Anthropic",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Scale AI",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Hugging Face",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Cohere",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Figure AI",
+  "sector": "Robotics",
+  "source": "tech"
+ },
+ {
+  "name": "Boston Dynamics",
+  "sector": "Robotics",
+  "source": "tech"
+ },
+ {
+  "name": "Verkada",
+  "sector": "Internet of Things",
+  "source": "tech"
+ },
+ {
+  "name": "Nutanix",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Pure Storage",
+  "sector": "Enterprise Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "NetApp",
+  "sector": "Enterprise Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "Juniper Networks",
+  "sector": "Enterprise Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "F5",
+  "sector": "Enterprise Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "Ciena",
+  "sector": "Enterprise Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "Lattice Semiconductor",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Ambarella",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Cirrus Logic",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Synopsys",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Cadence Design Systems",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Astera Labs",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "SiFive",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Epic Systems",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Veeva Systems",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Doximity",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Oscar Health",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Included Health",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Benchling",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Tempus AI",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Two Sigma",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Jane Street",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Citadel Securities",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Hudson River Trading",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Jump Trading",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "IMC Trading",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Optiver",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "DRW",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Akuna Capital",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Belvedere Trading",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "SIG",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Point72",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Vercel",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Supabase",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Netlify",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Render",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Neon",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "PlanetScale",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Cockroach Labs",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Redis",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Temporal Technologies",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Grafana Labs",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Sentry",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "PagerDuty",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "LaunchDarkly",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Postman",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Retool",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Airtable",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "Zapier",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "Webflow",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "Canva",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "Grammarly",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "Linear",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "Loom",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "Calendly",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "ClickUp",
+  "sector": "Productivity Software",
+  "source": "tech"
+ },
+ {
+  "name": "Docker",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Replit",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Anysphere",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Sourcegraph",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "CircleCI",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Harness",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Pulumi",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Chainguard",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "dbt Labs",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Fivetran",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Airbyte",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Hightouch",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Monte Carlo Data",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Sigma Computing",
+  "sector": "Analytics",
+  "source": "tech"
+ },
+ {
+  "name": "Hex Technologies",
+  "sector": "Analytics",
+  "source": "tech"
+ },
+ {
+  "name": "ThoughtSpot",
+  "sector": "Analytics",
+  "source": "tech"
+ },
+ {
+  "name": "Alteryx",
+  "sector": "Analytics",
+  "source": "tech"
+ },
+ {
+  "name": "Domo",
+  "sector": "Analytics",
+  "source": "tech"
+ },
+ {
+  "name": "Qlik",
+  "sector": "Analytics",
+  "source": "tech"
+ },
+ {
+  "name": "Starburst Data",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "ClickHouse",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "SingleStore",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Couchbase",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Wiz",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Snyk",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "1Password",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Tailscale",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Abnormal Security",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Arctic Wolf",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Vanta",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Drata",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Cloudflare Zero Trust",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Proofpoint",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Cybereason",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Lacework",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Orca Security",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Semgrep",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Socket",
+  "sector": "Security",
+  "source": "tech"
+ },
+ {
+  "name": "Perplexity",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Mistral AI",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "xAI",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Character.AI",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Runway",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "ElevenLabs",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Glean",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Harvey",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Sierra",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Adept",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Together AI",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Fireworks AI",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Weights & Biases",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Labelbox",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Snorkel AI",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Anyscale",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Modal Labs",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Baseten",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Groq",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Cerebras Systems",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "SambaNova Systems",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Tenstorrent",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Lightmatter",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Rivos",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Etched",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Kraken",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Ripple",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Chainalysis",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Anchorage Digital",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Fireblocks",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Paxos",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Circle",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Alchemy",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Gusto",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Deel",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Navan",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Carta",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Mercury",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Wealthfront",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Betterment",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "SoFi Technologies",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Upstart",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Lemonade",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Root Insurance",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Blend Labs",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "nCino",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Q2 Software",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Adyen",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Checkout.com",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Klarna",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Wise",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Tradeweb Markets",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "MarketAxess",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Virtu Financial",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Flow Traders",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Tower Research Capital",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Five Rings",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Millennium Management",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "D. E. Shaw",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "AQR Capital Management",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Bridgewater Associates",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Jump Crypto",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Wolverine Trading",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Old Mission Capital",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Headlands Technologies",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Radix Trading",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "XTX Markets",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Geneva Trading",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "TransMarket Group",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Chicago Trading Company",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "PDT Partners",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Schonfeld",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Balyasny Asset Management",
+  "sector": "Quantitative Finance",
+  "source": "tech"
+ },
+ {
+  "name": "Workiva",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Appian",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Pegasystems",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Guidewire Software",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Procore Technologies",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "ServiceTitan",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Motive",
+  "sector": "Internet of Things",
+  "source": "tech"
+ },
+ {
+  "name": "Zendesk",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Freshworks",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Gong",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Outreach",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Seismic",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Clari",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Qualtrics",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Medallia",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Sprinklr",
+  "sector": "Marketing Software",
+  "source": "tech"
+ },
+ {
+  "name": "Iterable",
+  "sector": "Marketing Software",
+  "source": "tech"
+ },
+ {
+  "name": "Attentive",
+  "sector": "Marketing Software",
+  "source": "tech"
+ },
+ {
+  "name": "Yext",
+  "sector": "Marketing Software",
+  "source": "tech"
+ },
+ {
+  "name": "BigCommerce",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "commercetools",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Contentful",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Sanity",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Algolia",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Twilio Segment",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "mParticle",
+  "sector": "Data Infrastructure",
+  "source": "tech"
+ },
+ {
+  "name": "Intercom",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Front",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Lattice",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Culture Amp",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Greenhouse Software",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Lever",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Ashby",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Workable",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "SmartRecruiters",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Eightfold AI",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Strava",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Peloton Interactive",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Sonos",
+  "sector": "Consumer Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "GoPro",
+  "sector": "Consumer Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "Bumble",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Match Group",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Nextdoor",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Quora",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Substack",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Patreon",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Eventbrite",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Faire",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Whatnot",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "StockX",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Poshmark",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Turo",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Opendoor",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Compass",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Rover",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Thumbtack",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Angi",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Cars.com",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "CarGurus",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Vroom",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Gopuff",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Grubhub",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Cameo",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Headspace",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Calm",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Noom",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Hinge Health",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Ro",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Zocdoc",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Flatiron Health",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Komodo Health",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Cedar",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Devoted Health",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Carbon Health",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Color Health",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Verily",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Abridge",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Commure",
+  "sector": "Health Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Udemy",
+  "sector": "Education Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Khan Academy",
+  "sector": "Education Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Quizlet",
+  "sector": "Education Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Brilliant",
+  "sector": "Education Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Outschool",
+  "sector": "Education Technology",
+  "source": "tech"
+ },
+ {
+  "name": "MasterClass",
+  "sector": "Education Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Handshake",
+  "sector": "Education Technology",
+  "source": "tech"
+ },
+ {
+  "name": "PowerSchool",
+  "sector": "Education Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Electronic Arts",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "Take-Two Interactive",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "Zynga",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "Scopely",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "Niantic",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "Blizzard Entertainment",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "Rockstar Games",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "2K",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "Playtika",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "Supercell",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "Twitch",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Vimeo",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "SiriusXM",
+  "sector": "Media",
+  "source": "tech"
+ },
+ {
+  "name": "iHeartMedia",
+  "sector": "Media",
+  "source": "tech"
+ },
+ {
+  "name": "The New York Times",
+  "sector": "Media",
+  "source": "tech"
+ },
+ {
+  "name": "Bloomberg",
+  "sector": "Media",
+  "source": "tech"
+ },
+ {
+  "name": "Thomson Reuters",
+  "sector": "Media",
+  "source": "tech"
+ },
+ {
+  "name": "Dow Jones",
+  "sector": "Media",
+  "source": "tech"
+ },
+ {
+  "name": "Shield AI",
+  "sector": "Defense Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Skydio",
+  "sector": "Robotics",
+  "source": "tech"
+ },
+ {
+  "name": "Zipline",
+  "sector": "Robotics",
+  "source": "tech"
+ },
+ {
+  "name": "Nuro",
+  "sector": "Automotive",
+  "source": "tech"
+ },
+ {
+  "name": "Kodiak Robotics",
+  "sector": "Automotive",
+  "source": "tech"
+ },
+ {
+  "name": "Applied Intuition",
+  "sector": "Automotive",
+  "source": "tech"
+ },
+ {
+  "name": "Ouster",
+  "sector": "Automotive",
+  "source": "tech"
+ },
+ {
+  "name": "Luminar Technologies",
+  "sector": "Automotive",
+  "source": "tech"
+ },
+ {
+  "name": "Motional",
+  "sector": "Automotive",
+  "source": "tech"
+ },
+ {
+  "name": "May Mobility",
+  "sector": "Automotive",
+  "source": "tech"
+ },
+ {
+  "name": "Gatik",
+  "sector": "Automotive",
+  "source": "tech"
+ },
+ {
+  "name": "Agility Robotics",
+  "sector": "Robotics",
+  "source": "tech"
+ },
+ {
+  "name": "Dexterity",
+  "sector": "Robotics",
+  "source": "tech"
+ },
+ {
+  "name": "Covariant",
+  "sector": "Robotics",
+  "source": "tech"
+ },
+ {
+  "name": "Symbotic",
+  "sector": "Robotics",
+  "source": "tech"
+ },
+ {
+  "name": "Locus Robotics",
+  "sector": "Robotics",
+  "source": "tech"
+ },
+ {
+  "name": "Formlabs",
+  "sector": "Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "Desktop Metal",
+  "sector": "Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "Velo3D",
+  "sector": "Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "Joby Aviation",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Archer Aviation",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Astra",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Planet Labs",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Spire Global",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Hermeus",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Varda Space Industries",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Firefly Aerospace",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Sierra Space",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Astranis",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "True Anomaly",
+  "sector": "Defense Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Epirus",
+  "sector": "Defense Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Saronic",
+  "sector": "Defense Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Accenture",
+  "sector": "Consulting",
+  "source": "tech"
+ },
+ {
+  "name": "Deloitte",
+  "sector": "Consulting",
+  "source": "tech"
+ },
+ {
+  "name": "EY",
+  "sector": "Consulting",
+  "source": "tech"
+ },
+ {
+  "name": "PwC",
+  "sector": "Consulting",
+  "source": "tech"
+ },
+ {
+  "name": "KPMG",
+  "sector": "Consulting",
+  "source": "tech"
+ },
+ {
+  "name": "Capgemini",
+  "sector": "Consulting",
+  "source": "tech"
+ },
+ {
+  "name": "Infosys",
+  "sector": "Consulting",
+  "source": "tech"
+ },
+ {
+  "name": "Tata Consultancy Services",
+  "sector": "Consulting",
+  "source": "tech"
+ },
+ {
+  "name": "Wipro",
+  "sector": "Consulting",
+  "source": "tech"
+ },
+ {
+  "name": "EPAM Systems",
+  "sector": "Consulting",
+  "source": "tech"
+ },
+ {
+  "name": "Globant",
+  "sector": "Consulting",
+  "source": "tech"
+ },
+ {
+  "name": "Thoughtworks",
+  "sector": "Consulting",
+  "source": "tech"
+ },
+ {
+  "name": "Slalom",
+  "sector": "Consulting",
+  "source": "tech"
+ },
+ {
+  "name": "West Monroe",
+  "sector": "Consulting",
+  "source": "tech"
+ },
+ {
+  "name": "ManTech",
+  "sector": "Defense Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Peraton",
+  "sector": "Defense Technology",
+  "source": "tech"
+ },
+ {
+  "name": "MITRE",
+  "sector": "Defense Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Johns Hopkins Applied Physics Laboratory",
+  "sector": "Defense Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Lincoln Laboratory",
+  "sector": "Defense Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Sandia National Laboratories",
+  "sector": "Research",
+  "source": "tech"
+ },
+ {
+  "name": "Lawrence Livermore National Laboratory",
+  "sector": "Research",
+  "source": "tech"
+ },
+ {
+  "name": "Oak Ridge National Laboratory",
+  "sector": "Research",
+  "source": "tech"
+ },
+ {
+  "name": "Argonne National Laboratory",
+  "sector": "Research",
+  "source": "tech"
+ },
+ {
+  "name": "NASA Jet Propulsion Laboratory",
+  "sector": "Research",
+  "source": "tech"
+ },
+ {
+  "name": "Los Alamos National Laboratory",
+  "sector": "Research",
+  "source": "tech"
+ },
+ {
+  "name": "Google",
+  "sector": "Technology",
+  "source": "tech"
+ },
+ {
+  "name": "YouTube",
+  "sector": "Technology",
+  "source": "tech"
+ },
+ {
+  "name": "DeepMind",
+  "sector": "Artificial Intelligence",
+  "source": "tech"
+ },
+ {
+  "name": "Meta",
+  "sector": "Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Instagram",
+  "sector": "Technology",
+  "source": "tech"
+ },
+ {
+  "name": "WhatsApp",
+  "sector": "Technology",
+  "source": "tech"
+ },
+ {
+  "name": "LinkedIn",
+  "sector": "Technology",
+  "source": "tech"
+ },
+ {
+  "name": "GitHub",
+  "sector": "Developer Tools",
+  "source": "tech"
+ },
+ {
+  "name": "Amazon Web Services",
+  "sector": "Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Audible",
+  "sector": "Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Ring",
+  "sector": "Technology",
+  "source": "tech"
+ },
+ {
+  "name": "SAP",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "VMware",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Broadcom Software",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Autodesk",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "PayPal",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Square",
+  "sector": "Financial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Booking.com",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Tripadvisor",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Yahoo",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "AOL",
+  "sector": "Consumer Internet",
+  "source": "tech"
+ },
+ {
+  "name": "Mozilla",
+  "sector": "Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Red Hat",
+  "sector": "Enterprise Software",
+  "source": "tech"
+ },
+ {
+  "name": "Cisco Meraki",
+  "sector": "Enterprise Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "Arm",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Qualcomm Technologies",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Samsung Semiconductor",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Samsung Research America",
+  "sector": "Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Sony Interactive Entertainment",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "Nintendo of America",
+  "sector": "Gaming",
+  "source": "tech"
+ },
+ {
+  "name": "LG Electronics",
+  "sector": "Consumer Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "Bosch",
+  "sector": "Automotive",
+  "source": "tech"
+ },
+ {
+  "name": "Siemens",
+  "sector": "Industrial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Schneider Electric",
+  "sector": "Industrial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "ABB",
+  "sector": "Industrial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Honeywell Aerospace",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Collins Aerospace",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Pratt & Whitney",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Rolls-Royce",
+  "sector": "Aerospace",
+  "source": "tech"
+ },
+ {
+  "name": "Garmin",
+  "sector": "Consumer Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "Trimble",
+  "sector": "Industrial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Zebra Technologies",
+  "sector": "Industrial Technology",
+  "source": "tech"
+ },
+ {
+  "name": "Keysight Technologies",
+  "sector": "Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "Teradyne",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "ASML",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Skyworks Solutions",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Qorvo",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Microchip Technology",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "ON Semiconductor",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "NXP Semiconductors",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Infineon Technologies",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Marvell",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "MediaTek",
+  "sector": "Semiconductors",
+  "source": "tech"
+ },
+ {
+  "name": "Seagate Technology",
+  "sector": "Enterprise Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "Dell",
+  "sector": "Enterprise Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "Lenovo",
+  "sector": "Enterprise Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "Logitech",
+  "sector": "Consumer Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "Corsair",
+  "sector": "Consumer Hardware",
+  "source": "tech"
+ },
+ {
+  "name": "Razer",
+  "sector": "Consumer Hardware",
+  "source": "tech"
+ }
 ]
