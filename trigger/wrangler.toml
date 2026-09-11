@@ -1,0 +1,18 @@
+name = "f500-swe-radar-trigger"
+main = "src/worker.js"
+compatibility_date = "2026-09-10"
+
+# Non-secret settings. The token is NOT here -- see README.md.
+[vars]
+REPO = "akarshkudrimoti/f500-swe-radar"
+WORKFLOW = "watch.yml"
+BRANCH = "main"
+
+[triggers]
+# Cloudflare honours this far more reliably than GitHub honours its own
+# `schedule:`, which is the entire reason this Worker exists. Cron granularity
+# goes down to one minute; 15 is chosen for the boards' sake, not the platform's.
+crons = ["*/15 * * * *"]
+
+[observability]
+enabled = true

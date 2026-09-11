@@ -1081,6 +1081,8 @@ It is tuned for precision over recall, because the company list is mostly indust
 
 **Refresh.** A GitHub Action probes every board every 15 minutes, one request each, and refetches only the boards whose posting count moved -- about a minute when nothing changed. A full sweep runs daily to re-probe companies with no board resolved yet.
 
+The 15 minutes comes from a Cloudflare Worker in `trigger/`, not from GitHub's `schedule:`, which is best effort and drops runs under load -- measured here at one run in 2h41m for a 15-minute cron. `workflow_dispatch` is not throttled that way.
+
 **Manners.** Career sites that disallow crawling are never fetched. Requests are pooled, retried only on transient errors, and identify themselves.
 
 **Corrections.** A company probed to the wrong board, or one that needs a hand-written entry, goes in `data/overrides.json` — those always win over discovery.

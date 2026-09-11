@@ -165,6 +165,11 @@ def main():
       "about a minute when nothing changed. A full sweep runs daily to re-probe "
       "companies with no board resolved yet.")
     A("")
+    A("The 15 minutes comes from a Cloudflare Worker in `trigger/`, not from "
+      "GitHub's `schedule:`, which is best effort and drops runs under load -- "
+      "measured here at one run in 2h41m for a 15-minute cron. "
+      "`workflow_dispatch` is not throttled that way.")
+    A("")
     A("**Manners.** Career sites that disallow crawling are never fetched. Requests "
       "are pooled, retried only on transient errors, and identify themselves.")
     A("")
