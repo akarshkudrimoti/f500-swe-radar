@@ -2,7 +2,7 @@
 
 Software-engineering **internship** postings (Summer 2027 cycle), pulled straight from the applicant tracking systems of the [2026 Fortune 500](https://fortune.com/ranking/fortune500/2026/) plus a curated list of technology companies outside it.
 
-**503 open postings** (177 in the US) across **110 companies** · last refreshed 2026-09-12 16:43:21 UTC
+**503 open postings** (177 in the US) across **110 companies** · last refreshed 2026-09-12 18:48:34 UTC
 
 Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more were identified but their `robots.txt` disallows crawling, so they are listed as links only. 429 are still unresolved — see [Coverage](#coverage).
 
@@ -219,7 +219,6 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Lyft** | Software Engineer Intern, Fullstack (Summer 2027) | Toronto, Canada | 1d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002) |
 | — | **Lyft** | Software Engineer Intern, Machine Learning (Summer 2027) | Toronto, Canada | 1d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) |
 | — | **Lyft** | Software Engineer Intern, Test Automation (Summer 2027) | Montreal, Canada | 1d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) |
-| — | **Anduril Industries** | 2027 Software Quality Assurance Intern | Dublin, Dublin, Ireland | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5232025007?gh_jid=5232025007) |
 | — | **Abridge** | Software Engineer, Intern | SF Office | 1d | [Apply](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883) |
 | — | **Motional** | Machine Learning Internship, Behaviors Research | Singapore, Central, Singapore | 1d | [Apply](https://motional.com/open-positions/?gh_jid=7600024003#/7600024003) |
 | — | **Motional** | Software Engineer Intern (Mapping/Calibration) | Singapore, Central, Singapore | 1d | [Apply](https://motional.com/open-positions/?gh_jid=6659639003#/6659639003) |
@@ -229,6 +228,7 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Bosch** | Extracurricular Internship: Gateway Firmware Engineer (f/m/div.) | Aveiro, pt | 1d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148966469) |
 | — | **Bosch** | Extracurricular Internship: Infrastructure & DevOps Engineer (f/m/div.) | Aveiro, pt | 1d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148964769) |
 | — | **Bosch** | Extracurricular Internship: AI & Automation Development (f/m/div.) | Aveiro, pt | 1d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148960754) |
+| — | **Anduril Industries** | 2027 Software Quality Assurance Intern | Dublin, Dublin, Ireland | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5232025007?gh_jid=5232025007) |
 | 23 | **General Motors** | 2027 Winter Co-op Mechatronic Infrastructure Diagnostic Systems | Markham, Ontario, Canada | 2d | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Mechatronic-Infrastructure-Diagnostic-Systems_JR-202618915) |
 | 326 | **Labcorp Holdings** | Intern - Data Science - Oncology | Baltimore MD | 2d | [Apply](https://labcorp.wd1.myworkdayjobs.com/External/job/Baltimore-MD/Intern---Data-Science---Oncology_2630590) |
 | 378 | **Motorola Solutions** | Intern Software Developer (C#) | Krakow, Poland | 2d | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C--_R67818) |
@@ -256,8 +256,6 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | 313 | **Amentum Holdings** | Software Programmer Intern | US-TN-Tullahoma | 3d | [Apply](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775) |
 | 313 | **Amentum Holdings** | Software Programmer Intern | US-MI-Detroit | 3d | [Apply](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-MI-Detroit/Software-Programmer-Intern_R0169773) |
 | 476 | **Marvell Technology** | AI Infrastructure Engineer Intern | Petah-Tikva | 3d | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/AI-Infrastructure-Engineer-Intern_2604499) |
-| — | **Anduril Industries** | 2027 Quality & Test Engineer Intern | Dublin, Dublin, Ireland | 3d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007) |
-| — | **Anduril Industries** | 2027 Software Engineer Intern | Dublin, Dublin, Ireland | 3d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007) |
 | — | **Optiver** | Software Engineer Internship (2027 Start) | London, England, United Kingdom | 3d | [Apply](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) |
 | — | **Optiver** | Software Engineer Internship (2027 Start) | Amsterdam, North Holland, Netherlands | 3d | [Apply](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) |
 | — | **Toast** | Software Engineering Intern | Dublin, Ireland | 3d | [Apply](https://careers.toasttab.com/jobs?gh_jid=8187654) |
@@ -265,6 +263,8 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Bosch** | Product Management AI-Tool Intern (8 months/40hrs per week) | Farmington Hills, us | 3d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) |
 | — | **Bosch** | [Internship Program Q4] Embedded Software Intern (C/C++/Linux) | Ho Chi Minh, vn | 3d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148366240) |
 | — | **Bosch** | Internship in IT Solution Developer | Batu Kawan, my | 3d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148364924) |
+| — | **Anduril Industries** | 2027 Quality & Test Engineer Intern | Dublin, Dublin, Ireland | 3d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007) |
+| — | **Anduril Industries** | 2027 Software Engineer Intern | Dublin, Dublin, Ireland | 3d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007) |
 | 4 | **Apple** | GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture | United Kingdom | 4d | [Apply](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) |
 | 63 | **Capital One Financial** | Intern, Data Scientist - Winter 2027 | Toronto, ON | 4d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Winter-2027_R999619-1) |
 | 88 | **Intel** | Software Solutions Eng PhD Intern | Ireland, Leixlip | 4d | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) |

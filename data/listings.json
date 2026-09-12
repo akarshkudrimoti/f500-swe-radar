@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-12T16:43:21+00:00",
- "companies_queried": 19,
+ "generated_utc": "2026-09-12T18:48:34+00:00",
+ "companies_queried": 20,
  "companies_failed": [],
  "count": 503,
  "listings": [
@@ -500,17 +500,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "2027 Software Quality Assurance Intern",
-   "location": "Dublin, Dublin, Ireland",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232025007?gh_jid=5232025007",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Abridge",
    "rank": null,
    "sector": "Health Technology",
@@ -619,6 +608,17 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148960754",
    "age_days": 1,
    "ats": "smartrecruiters"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "2027 Software Quality Assurance Intern",
+   "location": "Dublin, Dublin, Ireland",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232025007?gh_jid=5232025007",
+   "age_days": 1,
+   "ats": "greenhouse"
   },
   {
    "company": "Cigna Group",
@@ -896,17 +896,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Thomson Reuters",
-   "rank": null,
-   "sector": "Media",
-   "title": "Software Engineer Co-Op",
-   "location": "Not stated",
-   "is_us": null,
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587",
-   "age_days": 2,
-   "ats": "workday"
-  },
-  {
    "company": "Samsara",
    "rank": null,
    "sector": "Internet of Things",
@@ -1026,6 +1015,17 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148655057",
    "age_days": 2,
    "ats": "smartrecruiters"
+  },
+  {
+   "company": "Thomson Reuters",
+   "rank": null,
+   "sector": "Media",
+   "title": "Software Engineer Co-Op",
+   "location": "Not stated",
+   "is_us": null,
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587",
+   "age_days": 2,
+   "ats": "workday"
   },
   {
    "company": "Amazon",
@@ -1226,28 +1226,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "2027 Quality & Test Engineer Intern",
-   "location": "Dublin, Dublin, Ireland",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "2027 Software Engineer Intern",
-   "location": "Dublin, Dublin, Ireland",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Optiver",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -1367,6 +1345,28 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148364924",
    "age_days": 3,
    "ats": "smartrecruiters"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "2027 Quality & Test Engineer Intern",
+   "location": "Dublin, Dublin, Ireland",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "2027 Software Engineer Intern",
+   "location": "Dublin, Dublin, Ireland",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007",
+   "age_days": 3,
+   "ats": "greenhouse"
   },
   {
    "company": "Amazon",
@@ -2326,17 +2326,6 @@
    "ats": "smartrecruiters"
   },
   {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "2027 Software Engineer Intern",
-   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-   "age_days": 10,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Perplexity",
    "rank": null,
    "sector": "Artificial Intelligence",
@@ -2368,6 +2357,17 @@
    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56029-2",
    "age_days": 10,
    "ats": "workday"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "2027 Software Engineer Intern",
+   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+   "age_days": 10,
+   "ats": "greenhouse"
   },
   {
    "company": "Thomson Reuters",
@@ -3393,17 +3393,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Databricks",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineering Intern (2027 Start) - Winter",
-   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
-   "is_us": true,
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
-   "age_days": 22,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Cisco Meraki",
    "rank": null,
    "sector": "Enterprise Hardware",
@@ -3413,6 +3402,17 @@
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Harpenden-United-Kingdom/Software-Engineer---Intern_2023625",
    "age_days": 22,
    "ats": "workday"
+  },
+  {
+   "company": "Databricks",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineering Intern (2027 Start) - Winter",
+   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+   "is_us": true,
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
+   "age_days": 22,
+   "ats": "greenhouse"
   },
   {
    "company": "Nvidia",
@@ -3899,17 +3899,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Thomson Reuters",
-   "rank": null,
-   "sector": "Media",
-   "title": "Applied Research Intern (NLP/ML/GenAI)",
-   "location": "Not stated",
-   "is_us": null,
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812",
-   "age_days": 26,
-   "ats": "workday"
-  },
-  {
    "company": "Razer",
    "rank": null,
    "sector": "Consumer Hardware",
@@ -3917,6 +3906,17 @@
    "location": "Singapore Razer AI Center",
    "is_us": false,
    "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Generative-AI-Intern_JR2026007735",
+   "age_days": 26,
+   "ats": "workday"
+  },
+  {
+   "company": "Thomson Reuters",
+   "rank": null,
+   "sector": "Media",
+   "title": "Applied Research Intern (NLP/ML/GenAI)",
+   "location": "Not stated",
+   "is_us": null,
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812",
    "age_days": 26,
    "ats": "workday"
   },
