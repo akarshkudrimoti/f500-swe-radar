@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-12T10:48:28+00:00",
- "companies_queried": 63,
+ "generated_utc": "2026-09-12T13:47:42+00:00",
+ "companies_queried": 14,
  "companies_failed": [],
  "count": 503,
  "listings": [
@@ -555,39 +555,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Extracurricular Internship: Gateway Firmware Engineer (f/m/div.)",
-   "location": "Aveiro, pt",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148966469",
-   "age_days": 1,
-   "ats": "smartrecruiters"
-  },
-  {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Extracurricular Internship: Infrastructure & DevOps Engineer (f/m/div.)",
-   "location": "Aveiro, pt",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148964769",
-   "age_days": 1,
-   "ats": "smartrecruiters"
-  },
-  {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Extracurricular Internship: AI & Automation Development (f/m/div.)",
-   "location": "Aveiro, pt",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148960754",
-   "age_days": 1,
-   "ats": "smartrecruiters"
-  },
-  {
    "company": "Razer",
    "rank": null,
    "sector": "Consumer Hardware",
@@ -619,6 +586,39 @@
    "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_JR2026007809",
    "age_days": 1,
    "ats": "workday"
+  },
+  {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Extracurricular Internship: Gateway Firmware Engineer (f/m/div.)",
+   "location": "Aveiro, pt",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148966469",
+   "age_days": 1,
+   "ats": "smartrecruiters"
+  },
+  {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Extracurricular Internship: Infrastructure & DevOps Engineer (f/m/div.)",
+   "location": "Aveiro, pt",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148964769",
+   "age_days": 1,
+   "ats": "smartrecruiters"
+  },
+  {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Extracurricular Internship: AI & Automation Development (f/m/div.)",
+   "location": "Aveiro, pt",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148960754",
+   "age_days": 1,
+   "ats": "smartrecruiters"
   },
   {
    "company": "Cigna Group",
@@ -808,83 +808,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern",
-   "location": "London",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8130867",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern",
-   "location": "Singapore",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8130883",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern",
-   "location": "Bengaluru",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern",
-   "location": "Bucharest",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8130807",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern (Summer or Winter)",
-   "location": "San Francisco, Seattle, New York City",
-   "is_us": true,
-   "url": "https://stripe.com/jobs/search?gh_jid=8128745",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern (Summer or Winter)",
-   "location": "Toronto",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8130805",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern (Summer or Winter)",
-   "location": "Dublin",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Waymo",
    "rank": null,
    "sector": "Automotive",
@@ -973,28 +896,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Internship in Software Testing - Bosch eBike Systems",
-   "location": "Reutlingen, de",
-   "is_us": true,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148678479",
-   "age_days": 2,
-   "ats": "smartrecruiters"
-  },
-  {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "[SX/BSV-VN] Embedded Test Engineer Intern",
-   "location": "Ha Noi, vn",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148655057",
-   "age_days": 2,
-   "ats": "smartrecruiters"
-  },
-  {
    "company": "Thomson Reuters",
    "rank": null,
    "sector": "Media",
@@ -1026,6 +927,105 @@
    "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059053-1",
    "age_days": 2,
    "ats": "workday"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern",
+   "location": "Bengaluru",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern",
+   "location": "London",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern",
+   "location": "Singapore",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern",
+   "location": "Bucharest",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8130807",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern (Summer or Winter)",
+   "location": "Dublin",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern (Summer or Winter)",
+   "location": "San Francisco, Seattle, New York City",
+   "is_us": true,
+   "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern (Summer or Winter)",
+   "location": "Toronto",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Internship in Software Testing - Bosch eBike Systems",
+   "location": "Reutlingen, de",
+   "is_us": true,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148678479",
+   "age_days": 2,
+   "ats": "smartrecruiters"
+  },
+  {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "[SX/BSV-VN] Embedded Test Engineer Intern",
+   "location": "Ha Noi, vn",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148655057",
+   "age_days": 2,
+   "ats": "smartrecruiters"
   },
   {
    "company": "Amazon",
@@ -1303,6 +1303,28 @@
    "ats": "workday"
   },
   {
+   "company": "Toast",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineering Intern",
+   "location": "Dublin, Ireland",
+   "is_us": false,
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8187654",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Samsara",
+   "rank": null,
+   "sector": "Internet of Things",
+   "title": "Software Engineering Internship - San Francisco",
+   "location": "San Francisco - SF9",
+   "is_us": false,
+   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Bosch",
    "rank": null,
    "sector": "Automotive",
@@ -1345,28 +1367,6 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148364924",
    "age_days": 3,
    "ats": "smartrecruiters"
-  },
-  {
-   "company": "Toast",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineering Intern",
-   "location": "Dublin, Ireland",
-   "is_us": false,
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8187654",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Samsara",
-   "rank": null,
-   "sector": "Internet of Things",
-   "title": "Software Engineering Internship - San Francisco",
-   "location": "San Francisco - SF9",
-   "is_us": false,
-   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
-   "age_days": 3,
-   "ats": "greenhouse"
   },
   {
    "company": "Amazon",
@@ -1666,17 +1666,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Test Engineer Intern",
-   "location": "Vernon Hills, us",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148253129",
-   "age_days": 4,
-   "ats": "smartrecruiters"
-  },
-  {
    "company": "Trimble",
    "rank": null,
    "sector": "Industrial Technology",
@@ -1730,6 +1719,17 @@
    "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer-Co-op_R-059039",
    "age_days": 4,
    "ats": "workday"
+  },
+  {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Test Engineer Intern",
+   "location": "Vernon Hills, us",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148253129",
+   "age_days": 4,
+   "ats": "smartrecruiters"
   },
   {
    "company": "Cisco Meraki",
@@ -2161,6 +2161,39 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Cadence Design Systems",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "Software Intern",
+   "location": "SAN JOSE",
+   "is_us": false,
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R56258",
+   "age_days": 9,
+   "ats": "workday"
+  },
+  {
+   "company": "Hermeus",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "GNC & Flight Software Intern - Spring/Summer 2027",
+   "location": "Atlanta, GA",
+   "is_us": true,
+   "url": "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7",
+   "age_days": 9,
+   "ats": "lever"
+  },
+  {
+   "company": "Hermeus",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
+   "location": "Atlanta, GA",
+   "is_us": true,
+   "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796",
+   "age_days": 9,
+   "ats": "lever"
+  },
+  {
    "company": "Jump Trading",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -2203,39 +2236,6 @@
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027955",
    "age_days": 9,
    "ats": "greenhouse"
-  },
-  {
-   "company": "Cadence Design Systems",
-   "rank": null,
-   "sector": "Semiconductors",
-   "title": "Software Intern",
-   "location": "SAN JOSE",
-   "is_us": false,
-   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R56258",
-   "age_days": 9,
-   "ats": "workday"
-  },
-  {
-   "company": "Hermeus",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "GNC & Flight Software Intern - Spring/Summer 2027",
-   "location": "Atlanta, GA",
-   "is_us": true,
-   "url": "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7",
-   "age_days": 9,
-   "ats": "lever"
-  },
-  {
-   "company": "Hermeus",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
-   "location": "Atlanta, GA",
-   "is_us": true,
-   "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796",
-   "age_days": 9,
-   "ats": "lever"
   },
   {
    "company": "HP",
@@ -3041,17 +3041,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Jump Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Campus AI/ML Researcher (Intern)",
-   "location": "Hong Kong; Shanghai; Singapore",
-   "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027938",
-   "age_days": 15,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Virtu Financial",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -3094,6 +3083,17 @@
    "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784",
    "age_days": 15,
    "ats": "workday"
+  },
+  {
+   "company": "Jump Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Campus AI/ML Researcher (Intern)",
+   "location": "Hong Kong; Shanghai; Singapore",
+   "is_us": false,
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027938",
+   "age_days": 15,
+   "ats": "greenhouse"
   },
   {
    "company": "Amazon",
@@ -3712,6 +3712,17 @@
    "ats": "workday"
   },
   {
+   "company": "Tower Research Capital",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Quantitative Developer Intern",
+   "location": "Singapore",
+   "is_us": false,
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
+   "age_days": 25,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Jump Trading",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -3793,9 +3804,9 @@
    "rank": null,
    "sector": "Quantitative Finance",
    "title": "Campus Systems Engineer (Intern)",
-   "location": "Chicago",
+   "location": "Singapore",
    "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
    "age_days": 25,
    "ats": "greenhouse"
   },
@@ -3815,9 +3826,9 @@
    "rank": null,
    "sector": "Quantitative Finance",
    "title": "Campus Systems Engineer (Intern)",
-   "location": "Singapore",
+   "location": "Chicago",
    "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
    "age_days": 25,
    "ats": "greenhouse"
   },
@@ -3829,17 +3840,6 @@
    "location": "London",
    "is_us": false,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
-   "age_days": 25,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Tower Research Capital",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Quantitative Developer Intern",
-   "location": "Singapore",
-   "is_us": false,
-   "url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
    "age_days": 25,
    "ats": "greenhouse"
   },
@@ -3954,6 +3954,17 @@
    "ats": "ashby"
   },
   {
+   "company": "TransMarket Group",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Software Engineering Intern",
+   "location": "Chicago, Illinois, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007",
+   "age_days": 29,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Jump Trading",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -3972,17 +3983,6 @@
    "location": "Chicago",
    "is_us": false,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
-   "age_days": 29,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "TransMarket Group",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Software Engineering Intern",
-   "location": "Chicago, Illinois, United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007",
    "age_days": 29,
    "ats": "greenhouse"
   },
