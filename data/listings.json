@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-12T13:47:42+00:00",
- "companies_queried": 14,
+ "generated_utc": "2026-09-12T16:43:21+00:00",
+ "companies_queried": 19,
  "companies_failed": [],
  "count": 503,
  "listings": [
@@ -1644,17 +1644,6 @@
    "ats": "ashby"
   },
   {
-   "company": "Shield AI",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "Summer 2027 - Software Engineer Intern",
-   "location": "San Diego, California",
-   "is_us": true,
-   "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010",
-   "age_days": 4,
-   "ats": "lever"
-  },
-  {
    "company": "Formlabs",
    "rank": null,
    "sector": "Hardware",
@@ -1719,6 +1708,17 @@
    "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer-Co-op_R-059039",
    "age_days": 4,
    "ats": "workday"
+  },
+  {
+   "company": "Shield AI",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "Summer 2027 - Software Engineer Intern",
+   "location": "San Diego, California",
+   "is_us": true,
+   "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010",
+   "age_days": 4,
+   "ats": "lever"
   },
   {
    "company": "Bosch",
