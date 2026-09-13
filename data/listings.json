@@ -1,9 +1,20 @@
 {
- "generated_utc": "2026-09-13T14:54:55+00:00",
- "companies_queried": 22,
+ "generated_utc": "2026-09-13T17:54:44+00:00",
+ "companies_queried": 27,
  "companies_failed": [],
- "count": 503,
+ "count": 504,
  "listings": [
+  {
+   "company": "Nvidia",
+   "rank": 16,
+   "sector": "Technology",
+   "title": "Linux for Edge System Software Engineer (RDSS intern)",
+   "location": "Taiwan, Taipei",
+   "is_us": false,
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Linux-for-Edge-System-Software-Engineer--RDSS-intern-_JR2023971",
+   "age_days": 0,
+   "ats": "workday"
+  },
   {
    "company": "Roblox",
    "rank": null,
@@ -885,17 +896,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Samsara",
-   "rank": null,
-   "sector": "Internet of Things",
-   "title": "Software Engineering Internship - London",
-   "location": "London - UK2",
-   "is_us": false,
-   "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Waymo",
    "rank": null,
    "sector": "Automotive",
@@ -984,17 +984,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "AI Ecosystem Intern",
-   "location": "Boston",
-   "is_us": false,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059053-1",
-   "age_days": 3,
-   "ats": "workday"
-  },
-  {
    "company": "Thomson Reuters",
    "rank": null,
    "sector": "Media",
@@ -1004,6 +993,17 @@
    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587",
    "age_days": 3,
    "ats": "workday"
+  },
+  {
+   "company": "Samsara",
+   "rank": null,
+   "sector": "Internet of Things",
+   "title": "Software Engineering Internship - London",
+   "location": "London - UK2",
+   "is_us": false,
+   "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
+   "age_days": 3,
+   "ats": "greenhouse"
   },
   {
    "company": "Bosch",
@@ -1026,6 +1026,17 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148655057",
    "age_days": 3,
    "ats": "smartrecruiters"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "AI Ecosystem Intern",
+   "location": "Boston",
+   "is_us": false,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059053-1",
+   "age_days": 3,
+   "ats": "workday"
   },
   {
    "company": "Amazon",
@@ -1193,17 +1204,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Samsara",
-   "rank": null,
-   "sector": "Internet of Things",
-   "title": "Software Engineering Internship - San Francisco",
-   "location": "San Francisco - SF9",
-   "is_us": false,
-   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
-   "age_days": 4,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Epic Games",
    "rank": null,
    "sector": "Gaming",
@@ -1270,28 +1270,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Optiver",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Software Engineer Internship (2027 Start)",
-   "location": "Amsterdam, North Holland, Netherlands",
-   "is_us": false,
-   "url": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
-   "age_days": 4,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Optiver",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Software Engineer Internship (2027 Start)",
-   "location": "London, England, United Kingdom",
-   "is_us": false,
-   "url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
-   "age_days": 4,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Formlabs",
    "rank": null,
    "sector": "Hardware",
@@ -1323,6 +1301,39 @@
    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548",
    "age_days": 4,
    "ats": "workday"
+  },
+  {
+   "company": "Samsara",
+   "rank": null,
+   "sector": "Internet of Things",
+   "title": "Software Engineering Internship - San Francisco",
+   "location": "San Francisco - SF9",
+   "is_us": false,
+   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+   "age_days": 4,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Optiver",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Software Engineer Internship (2027 Start)",
+   "location": "London, England, United Kingdom",
+   "is_us": false,
+   "url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
+   "age_days": 4,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Optiver",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Software Engineer Internship (2027 Start)",
+   "location": "Amsterdam, North Holland, Netherlands",
+   "is_us": false,
+   "url": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
+   "age_days": 4,
+   "ats": "greenhouse"
   },
   {
    "company": "Bosch",
@@ -1655,39 +1666,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "AI Ecosystem Intern",
-   "location": "Boston",
-   "is_us": false,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059276",
-   "age_days": 5,
-   "ats": "workday"
-  },
-  {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Software Engineer Intern",
-   "location": "4 Locations",
-   "is_us": null,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer-Intern_R-059038",
-   "age_days": 5,
-   "ats": "workday"
-  },
-  {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Software Engineer Co-op",
-   "location": "3 Locations",
-   "is_us": null,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer-Co-op_R-059039",
-   "age_days": 5,
-   "ats": "workday"
-  },
-  {
    "company": "Trimble",
    "rank": null,
    "sector": "Industrial Technology",
@@ -1752,6 +1730,39 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148253129",
    "age_days": 5,
    "ats": "smartrecruiters"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "AI Ecosystem Intern",
+   "location": "Boston",
+   "is_us": false,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059276",
+   "age_days": 5,
+   "ats": "workday"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineer Intern",
+   "location": "4 Locations",
+   "is_us": null,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer-Intern_R-059038",
+   "age_days": 5,
+   "ats": "workday"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineer Co-op",
+   "location": "3 Locations",
+   "is_us": null,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer-Co-op_R-059039",
+   "age_days": 5,
+   "ats": "workday"
   },
   {
    "company": "Apple",
@@ -2205,17 +2216,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Cadence Design Systems",
-   "rank": null,
-   "sector": "Semiconductors",
-   "title": "Software Intern",
-   "location": "SAN JOSE",
-   "is_us": false,
-   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R56258",
-   "age_days": 10,
-   "ats": "workday"
-  },
-  {
    "company": "Hermeus",
    "rank": null,
    "sector": "Aerospace",
@@ -2236,6 +2236,17 @@
    "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796",
    "age_days": 10,
    "ats": "lever"
+  },
+  {
+   "company": "Cadence Design Systems",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "Software Intern",
+   "location": "SAN JOSE",
+   "is_us": false,
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R56258",
+   "age_days": 10,
+   "ats": "workday"
   },
   {
    "company": "HP",
@@ -2348,28 +2359,6 @@
    "ats": "ashby"
   },
   {
-   "company": "Cadence Design Systems",
-   "rank": null,
-   "sector": "Semiconductors",
-   "title": "Graduate Student Intern - Software Engineering",
-   "location": "AUSTIN",
-   "is_us": false,
-   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56028-1",
-   "age_days": 11,
-   "ats": "workday"
-  },
-  {
-   "company": "Cadence Design Systems",
-   "rank": null,
-   "sector": "Semiconductors",
-   "title": "Graduate Student Intern - Software Engineering",
-   "location": "AUSTIN",
-   "is_us": false,
-   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56029-2",
-   "age_days": 11,
-   "ats": "workday"
-  },
-  {
    "company": "Thomson Reuters",
    "rank": null,
    "sector": "Media",
@@ -2388,6 +2377,28 @@
    "location": "Not stated",
    "is_us": null,
    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/AI-Training---Claude-Implementation-Intern_JREQ203272",
+   "age_days": 11,
+   "ats": "workday"
+  },
+  {
+   "company": "Cadence Design Systems",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "Graduate Student Intern - Software Engineering",
+   "location": "AUSTIN",
+   "is_us": false,
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56028-1",
+   "age_days": 11,
+   "ats": "workday"
+  },
+  {
+   "company": "Cadence Design Systems",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "Graduate Student Intern - Software Engineering",
+   "location": "AUSTIN",
+   "is_us": false,
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56029-2",
    "age_days": 11,
    "ats": "workday"
   },
@@ -2909,28 +2920,6 @@
    "ats": "ashby"
   },
   {
-   "company": "Cadence Design Systems",
-   "rank": null,
-   "sector": "Semiconductors",
-   "title": "EDA PV Intern for Digital Backend Flow",
-   "location": "SHANGHAI",
-   "is_us": false,
-   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/EDA-PV-Intern-for-Digital-Backend-Flow_R56100",
-   "age_days": 13,
-   "ats": "workday"
-  },
-  {
-   "company": "Cadence Design Systems",
-   "rank": null,
-   "sector": "Semiconductors",
-   "title": "EDA PV Intern for Digital Backend Flow",
-   "location": "SHANGHAI",
-   "is_us": false,
-   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/EDA-PV-Intern-for-Digital-Backend-Flow_R56101",
-   "age_days": 13,
-   "ats": "workday"
-  },
-  {
    "company": "Cisco Meraki",
    "rank": null,
    "sector": "Enterprise Hardware",
@@ -2949,6 +2938,28 @@
    "location": "Ottawa",
    "is_us": false,
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Resourcing-and-Enablement-Intern_R030908",
+   "age_days": 13,
+   "ats": "workday"
+  },
+  {
+   "company": "Cadence Design Systems",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "EDA PV Intern for Digital Backend Flow",
+   "location": "SHANGHAI",
+   "is_us": false,
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/EDA-PV-Intern-for-Digital-Backend-Flow_R56100",
+   "age_days": 13,
+   "ats": "workday"
+  },
+  {
+   "company": "Cadence Design Systems",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "EDA PV Intern for Digital Backend Flow",
+   "location": "SHANGHAI",
+   "is_us": false,
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/EDA-PV-Intern-for-Digital-Backend-Flow_R56101",
    "age_days": 13,
    "ats": "workday"
   },
@@ -3371,17 +3382,6 @@
    "ats": "workday"
   },
   {
-   "company": "Databricks",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineering Intern (2027 Start) - Winter",
-   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
-   "is_us": true,
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
-   "age_days": 23,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Point72",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -3413,6 +3413,17 @@
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Harpenden-United-Kingdom/Software-Engineer---Intern_2023625",
    "age_days": 23,
    "ats": "workday"
+  },
+  {
+   "company": "Databricks",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineering Intern (2027 Start) - Winter",
+   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+   "is_us": true,
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
+   "age_days": 23,
+   "ats": "greenhouse"
   },
   {
    "company": "Nvidia",
@@ -4240,39 +4251,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Cadence Design Systems",
-   "rank": null,
-   "sector": "Semiconductors",
-   "title": "Software Intern",
-   "location": "SAN JOSE",
-   "is_us": false,
-   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "Cadence Design Systems",
-   "rank": null,
-   "sector": "Semiconductors",
-   "title": "software engineering intern",
-   "location": "BEIJING",
-   "is_us": false,
-   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BEIJING/software-engineering-intern_R52210",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "Cadence Design Systems",
-   "rank": null,
-   "sector": "Semiconductors",
-   "title": "Intern: Software Engineering Jasper R&D",
-   "location": "BELO HORIZONTE",
-   "is_us": false,
-   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
    "company": "Autodesk",
    "rank": null,
    "sector": "Enterprise Software",
@@ -4361,6 +4339,39 @@
    "ats": "workday"
   },
   {
+   "company": "Cadence Design Systems",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "Software Intern",
+   "location": "SAN JOSE",
+   "is_us": false,
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "Cadence Design Systems",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "software engineering intern",
+   "location": "BEIJING",
+   "is_us": false,
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BEIJING/software-engineering-intern_R52210",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "Cadence Design Systems",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "Intern: Software Engineering Jasper R&D",
+   "location": "BELO HORIZONTE",
+   "is_us": false,
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
    "company": "Epic Games",
    "rank": null,
    "sector": "Gaming",
@@ -4438,6 +4449,17 @@
    "ats": "smartrecruiters"
   },
   {
+   "company": "Front",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineering Intern - Spring/Summer 2027",
+   "location": "Paris, France",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/frontcareers/1026a32c-f8cc-4eee-992b-bacdf771d9fc",
+   "age_days": 32,
+   "ats": "ashby"
+  },
+  {
    "company": "Optiver",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -4469,17 +4491,6 @@
    "url": "https://www.optiver.com/join-us/jobs/8623927002/?gh_jid=8623927002",
    "age_days": 32,
    "ats": "greenhouse"
-  },
-  {
-   "company": "Front",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Software Engineering Intern - Spring/Summer 2027",
-   "location": "Paris, France",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/frontcareers/1026a32c-f8cc-4eee-992b-bacdf771d9fc",
-   "age_days": 32,
-   "ats": "ashby"
   },
   {
    "company": "Palantir Technologies",
