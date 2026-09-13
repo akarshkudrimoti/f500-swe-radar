@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-12T23:05:24+00:00",
- "companies_queried": 18,
+ "generated_utc": "2026-09-13T01:01:20+00:00",
+ "companies_queried": 8,
  "companies_failed": [],
  "count": 503,
  "listings": [
@@ -1710,28 +1710,6 @@
    "ats": "smartrecruiters"
   },
   {
-   "company": "Cisco Meraki",
-   "rank": null,
-   "sector": "Enterprise Hardware",
-   "title": "Software Consulting Engineer I (Intern) United States",
-   "location": "USA-RESEARCH TRIANGLE PARK",
-   "is_us": true,
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180",
-   "age_days": 4,
-   "ats": "workday"
-  },
-  {
-   "company": "Cisco Meraki",
-   "rank": null,
-   "sector": "Enterprise Hardware",
-   "title": "Wireless Software Engineer_ Intern",
-   "location": "Ecublens, Switzerland",
-   "is_us": false,
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ecublens-Switzerland/Wireless-Software-Engineer--Intern_2025061",
-   "age_days": 4,
-   "ats": "workday"
-  },
-  {
    "company": "Trimble",
    "rank": null,
    "sector": "Industrial Technology",
@@ -1750,6 +1728,28 @@
    "location": "3 Locations",
    "is_us": null,
    "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
+   "age_days": 4,
+   "ats": "workday"
+  },
+  {
+   "company": "Cisco Meraki",
+   "rank": null,
+   "sector": "Enterprise Hardware",
+   "title": "Software Consulting Engineer I (Intern) United States",
+   "location": "USA-RESEARCH TRIANGLE PARK",
+   "is_us": true,
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180",
+   "age_days": 4,
+   "ats": "workday"
+  },
+  {
+   "company": "Cisco Meraki",
+   "rank": null,
+   "sector": "Enterprise Hardware",
+   "title": "Wireless Software Engineer_ Intern",
+   "location": "Ecublens, Switzerland",
+   "is_us": false,
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ecublens-Switzerland/Wireless-Software-Engineer--Intern_2025061",
    "age_days": 4,
    "ats": "workday"
   },
@@ -2513,28 +2513,6 @@
    "ats": "workday"
   },
   {
-   "company": "SpaceX",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Spring 2027 Software Engineering Internship/Co-op",
-   "location": "Flexible - Any SpaceX Site",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
-   "age_days": 11,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "SpaceX",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Summer 2027 Software Engineering Internship/Co-op",
-   "location": "Flexible - Any SpaceX Site",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
-   "age_days": 11,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Sierra",
    "rank": null,
    "sector": "Artificial Intelligence",
@@ -2940,6 +2918,28 @@
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Resourcing-and-Enablement-Intern_R030908",
    "age_days": 12,
    "ats": "workday"
+  },
+  {
+   "company": "SpaceX",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Spring 2027 Software Engineering Internship/Co-op",
+   "location": "Flexible - Any SpaceX Site",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
+   "age_days": 12,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "SpaceX",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Summer 2027 Software Engineering Internship/Co-op",
+   "location": "Flexible - Any SpaceX Site",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
+   "age_days": 12,
+   "ats": "greenhouse"
   },
   {
    "company": "Cisco Meraki",
@@ -3393,17 +3393,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Cisco Meraki",
-   "rank": null,
-   "sector": "Enterprise Hardware",
-   "title": "Software Engineer - Intern",
-   "location": "Harpenden, United Kingdom",
-   "is_us": false,
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Harpenden-United-Kingdom/Software-Engineer---Intern_2023625",
-   "age_days": 22,
-   "ats": "workday"
-  },
-  {
    "company": "Databricks",
    "rank": null,
    "sector": "Data Infrastructure",
@@ -3413,6 +3402,17 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
    "age_days": 22,
    "ats": "greenhouse"
+  },
+  {
+   "company": "Cisco Meraki",
+   "rank": null,
+   "sector": "Enterprise Hardware",
+   "title": "Software Engineer - Intern",
+   "location": "Harpenden, United Kingdom",
+   "is_us": false,
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Harpenden-United-Kingdom/Software-Engineer---Intern_2023625",
+   "age_days": 22,
+   "ats": "workday"
   },
   {
    "company": "Nvidia",
