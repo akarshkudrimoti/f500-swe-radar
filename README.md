@@ -2,7 +2,7 @@
 
 Software-engineering **internship** postings (Summer 2027 cycle), pulled straight from the applicant tracking systems of the [2026 Fortune 500](https://fortune.com/ranking/fortune500/2026/) plus a curated list of technology companies outside it.
 
-**503 open postings** (177 in the US) across **110 companies** · last refreshed 2026-09-13 09:41:22 UTC
+**503 open postings** (177 in the US) across **110 companies** · last refreshed 2026-09-13 11:02:07 UTC
 
 Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more were identified but their `robots.txt` disallows crawling, so they are listed as links only. 429 are still unresolved — see [Coverage](#coverage).
 
@@ -223,12 +223,12 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Abridge** | Software Engineer, Intern | SF Office | 2d | [Apply](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883) |
 | — | **Motional** | Machine Learning Internship, Behaviors Research | Singapore, Central, Singapore | 2d | [Apply](https://motional.com/open-positions/?gh_jid=7600024003#/7600024003) |
 | — | **Motional** | Software Engineer Intern (Mapping/Calibration) | Singapore, Central, Singapore | 2d | [Apply](https://motional.com/open-positions/?gh_jid=6659639003#/6659639003) |
-| — | **Bosch** | Extracurricular Internship: Gateway Firmware Engineer (f/m/div.) | Aveiro, pt | 2d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148966469) |
-| — | **Bosch** | Extracurricular Internship: Infrastructure & DevOps Engineer (f/m/div.) | Aveiro, pt | 2d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148964769) |
-| — | **Bosch** | Extracurricular Internship: AI & Automation Development (f/m/div.) | Aveiro, pt | 2d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148960754) |
 | — | **Razer** | AI Engineer Intern | Singapore | 2d | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Engineer-Intern_JR2026006947) |
 | — | **Razer** | Product Developer Intern | Singapore | 2d | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Developer-Intern_JR2026007822) |
 | — | **Razer** | Software Engineer Intern | Singapore | 2d | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_JR2026007809) |
+| — | **Bosch** | Extracurricular Internship: Gateway Firmware Engineer (f/m/div.) | Aveiro, pt | 2d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148966469) |
+| — | **Bosch** | Extracurricular Internship: Infrastructure & DevOps Engineer (f/m/div.) | Aveiro, pt | 2d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148964769) |
+| — | **Bosch** | Extracurricular Internship: AI & Automation Development (f/m/div.) | Aveiro, pt | 2d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148960754) |
 | 23 | **General Motors** | 2027 Winter Co-op Mechatronic Infrastructure Diagnostic Systems | Markham, Ontario, Canada | 3d | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Mechatronic-Infrastructure-Diagnostic-Systems_JR-202618915) |
 | 326 | **Labcorp Holdings** | Intern - Data Science - Oncology | Baltimore MD | 3d | [Apply](https://labcorp.wd1.myworkdayjobs.com/External/job/Baltimore-MD/Intern---Data-Science---Oncology_2630590) |
 | 378 | **Motorola Solutions** | Intern Software Developer (C#) | Krakow, Poland | 3d | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C--_R67818) |
@@ -243,8 +243,8 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Stripe** | Software Engineer, Intern (Summer or Winter) | Toronto | 3d | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) |
 | — | **Samsara** | Software Engineering Internship - London | London - UK2 | 3d | [Apply](https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093) |
 | — | **Sentry** | Software Engineer, Intern (Summer 2027) | Vienna, Austria | 3d | [Apply](https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2) |
-| — | **Bosch** | [SX/BSV-VN] Embedded Test Engineer Intern | Ha Noi, vn | 3d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148655057) |
 | — | **Red Hat** | AI Ecosystem Intern | Boston | 3d | [Apply](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059053-1) |
+| — | **Bosch** | [SX/BSV-VN] Embedded Test Engineer Intern | Ha Noi, vn | 3d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148655057) |
 | 1 | **Amazon** | Software Development Engineer Intern, ROBOTICS - 2027 | Toronto, Ontario, CAN | 4d | [Apply](https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027) |
 | 16 | **Nvidia** | System Software Intern, Video Chips - Summer 2027 | China, Shanghai | 4d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Intern--Video-Chips---Summer-2027_JR2025179) |
 | 84 | **HP** | AI Transformation & Automation Intern | Sofia, Sofia, Bulgaria | 4d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sofia-Sofia-Bulgaria/AI-Transformation---Automation-Intern_3168543-1) |
@@ -276,8 +276,8 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Vercel** | Software Engineering Intern - Summer '27 | Hybrid - San Francisco | 5d | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6181759004) |
 | — | **Vercel** | Software Engineering Intern - Winter '27 | Hybrid - San Francisco | 5d | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6181755004) |
 | — | **Semgrep** | Software Engineer Intern, Cloud Platform | San Francisco Office | 5d | [Apply](https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987) |
-| — | **Bosch** | Test Engineer Intern | Vernon Hills, us | 5d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148253129) |
 | — | **Red Hat** | AI Ecosystem Intern | Boston | 5d | [Apply](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059276) |
+| — | **Bosch** | Test Engineer Intern | Vernon Hills, us | 5d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148253129) |
 | — | **Cisco Meraki** | Wireless Software Engineer_ Intern | Ecublens, Switzerland | 5d | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ecublens-Switzerland/Wireless-Software-Engineer--Intern_2025061) |
 | 4 | **Apple** | PHY Cellular Firmware Engineer Internship | Germany | 6d | [Apply](https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship) |
 | 88 | **Intel** | Intern System Software Development Engineer | Malaysia, Kulim | 6d | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935) |

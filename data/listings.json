@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-13T09:41:22+00:00",
- "companies_queried": 513,
+ "generated_utc": "2026-09-13T11:02:07+00:00",
+ "companies_queried": 26,
  "companies_failed": [],
  "count": 503,
  "listings": [
@@ -555,39 +555,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Extracurricular Internship: Gateway Firmware Engineer (f/m/div.)",
-   "location": "Aveiro, pt",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148966469",
-   "age_days": 2,
-   "ats": "smartrecruiters"
-  },
-  {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Extracurricular Internship: Infrastructure & DevOps Engineer (f/m/div.)",
-   "location": "Aveiro, pt",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148964769",
-   "age_days": 2,
-   "ats": "smartrecruiters"
-  },
-  {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Extracurricular Internship: AI & Automation Development (f/m/div.)",
-   "location": "Aveiro, pt",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148960754",
-   "age_days": 2,
-   "ats": "smartrecruiters"
-  },
-  {
    "company": "Razer",
    "rank": null,
    "sector": "Consumer Hardware",
@@ -619,6 +586,39 @@
    "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_JR2026007809",
    "age_days": 2,
    "ats": "workday"
+  },
+  {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Extracurricular Internship: Gateway Firmware Engineer (f/m/div.)",
+   "location": "Aveiro, pt",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148966469",
+   "age_days": 2,
+   "ats": "smartrecruiters"
+  },
+  {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Extracurricular Internship: Infrastructure & DevOps Engineer (f/m/div.)",
+   "location": "Aveiro, pt",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148964769",
+   "age_days": 2,
+   "ats": "smartrecruiters"
+  },
+  {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Extracurricular Internship: AI & Automation Development (f/m/div.)",
+   "location": "Aveiro, pt",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148960754",
+   "age_days": 2,
+   "ats": "smartrecruiters"
   },
   {
    "company": "Cigna Group",
@@ -984,28 +984,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Internship in Software Testing - Bosch eBike Systems",
-   "location": "Reutlingen, de",
-   "is_us": true,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148678479",
-   "age_days": 3,
-   "ats": "smartrecruiters"
-  },
-  {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "[SX/BSV-VN] Embedded Test Engineer Intern",
-   "location": "Ha Noi, vn",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148655057",
-   "age_days": 3,
-   "ats": "smartrecruiters"
-  },
-  {
    "company": "Red Hat",
    "rank": null,
    "sector": "Enterprise Software",
@@ -1026,6 +1004,28 @@
    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587",
    "age_days": 3,
    "ats": "workday"
+  },
+  {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Internship in Software Testing - Bosch eBike Systems",
+   "location": "Reutlingen, de",
+   "is_us": true,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148678479",
+   "age_days": 3,
+   "ats": "smartrecruiters"
+  },
+  {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "[SX/BSV-VN] Embedded Test Engineer Intern",
+   "location": "Ha Noi, vn",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148655057",
+   "age_days": 3,
+   "ats": "smartrecruiters"
   },
   {
    "company": "Amazon",
@@ -1666,17 +1666,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Test Engineer Intern",
-   "location": "Vernon Hills, us",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148253129",
-   "age_days": 5,
-   "ats": "smartrecruiters"
-  },
-  {
    "company": "Red Hat",
    "rank": null,
    "sector": "Enterprise Software",
@@ -1730,6 +1719,17 @@
    "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
    "age_days": 5,
    "ats": "workday"
+  },
+  {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Test Engineer Intern",
+   "location": "Vernon Hills, us",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148253129",
+   "age_days": 5,
+   "ats": "smartrecruiters"
   },
   {
    "company": "Cisco Meraki",
