@@ -1,8 +1,8 @@
 {
- "generated_utc": "2026-09-13T22:27:49+00:00",
- "companies_queried": 31,
+ "generated_utc": "2026-09-14T00:21:47+00:00",
+ "companies_queried": 34,
  "companies_failed": [],
- "count": 505,
+ "count": 511,
  "listings": [
   {
    "company": "Nvidia",
@@ -36,6 +36,83 @@
    "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
    "age_days": 0,
    "ats": "greenhouse"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Open Source AI Intern (Waterford office, Ireland)",
+   "location": "Waterford City",
+   "is_us": false,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Waterford-City/Open-Source-AI-Intern--Waterford-office--Ireland-_R-059208",
+   "age_days": 0,
+   "ats": "workday"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Openshift AI Sustaining Engineering Intern(Waterford office, Ireland)",
+   "location": "Waterford City",
+   "is_us": false,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Waterford-City/Openshift-AI-Sustaining-Engineering-Intern-Waterford-office--Ireland-_R-059201",
+   "age_days": 0,
+   "ats": "workday"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineering Full-Stack Internship - GenAI Studio (Waterford office, Ireland)",
+   "location": "Waterford City",
+   "is_us": false,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Waterford-City/Software-Engineering-Full-Stack-Internship---GenAI-Studio--Waterford-office--Ireland-_R-059199",
+   "age_days": 0,
+   "ats": "workday"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineering Intern - OpenShift AI (Dublin office, Ireland)",
+   "location": "Dublin - MSO",
+   "is_us": false,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Dublin---MSO/Software-Engineering-Intern---OpenShift-AI--Dublin-office--Ireland-_R-059198",
+   "age_days": 0,
+   "ats": "workday"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineering Internship - Agent Operations (Waterford/Dublin office, Ireland)",
+   "location": "2 Locations",
+   "is_us": null,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Waterford-City/Software-Engineering-Internship---Agent-Operations--Waterford-Dublin-office--Ireland-_R-059228",
+   "age_days": 0,
+   "ats": "workday"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineering Internship - Trusted Artifact Signer (Waterford office, Ireland)",
+   "location": "Waterford City",
+   "is_us": false,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Waterford-City/Software-Engineering-Internship---Trusted-Artifact-Signer--Waterford-office--Ireland-_R-059210",
+   "age_days": 0,
+   "ats": "workday"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineering Internship- OpenShift Observability (Waterford office, Ireland)",
+   "location": "Waterford City",
+   "is_us": false,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Waterford-City/Software-Engineering-Internship--OpenShift-Observability--Waterford-office--Ireland-_R-059227",
+   "age_days": 0,
+   "ats": "workday"
   },
   {
    "company": "Amazon",
@@ -841,61 +918,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Verkada",
-   "rank": null,
-   "sector": "Internet of Things",
-   "title": "Backend Software Engineering Intern 2027",
-   "location": "San Mateo, CA United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Verkada",
-   "rank": null,
-   "sector": "Internet of Things",
-   "title": "Embedded Software Engineering Intern 2027",
-   "location": "San Mateo, CA United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Verkada",
-   "rank": null,
-   "sector": "Internet of Things",
-   "title": "Frontend Software Engineering Intern 2027",
-   "location": "San Mateo, CA United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Verkada",
-   "rank": null,
-   "sector": "Internet of Things",
-   "title": "Mobile Software Engineering Intern 2027",
-   "location": "San Mateo, CA United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Verkada",
-   "rank": null,
-   "sector": "Internet of Things",
-   "title": "Security Software Engineering Intern 2027",
-   "location": "San Mateo, CA United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Sentry",
    "rank": null,
    "sector": "Developer Tools",
@@ -916,17 +938,6 @@
    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
    "age_days": 3,
    "ats": "greenhouse"
-  },
-  {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "AI Ecosystem Intern",
-   "location": "Boston",
-   "is_us": false,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059053-1",
-   "age_days": 3,
-   "ats": "workday"
   },
   {
    "company": "Stripe",
@@ -1028,6 +1039,17 @@
    "ats": "smartrecruiters"
   },
   {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "AI Ecosystem Intern",
+   "location": "Boston",
+   "is_us": false,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059053-1",
+   "age_days": 3,
+   "ats": "workday"
+  },
+  {
    "company": "Thomson Reuters",
    "rank": null,
    "sector": "Media",
@@ -1037,17 +1059,6 @@
    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587",
    "age_days": 3,
    "ats": "workday"
-  },
-  {
-   "company": "Samsara",
-   "rank": null,
-   "sector": "Internet of Things",
-   "title": "Software Engineering Internship - London",
-   "location": "London - UK2",
-   "is_us": false,
-   "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
-   "age_days": 3,
-   "ats": "greenhouse"
   },
   {
    "company": "Amazon",
@@ -1259,17 +1270,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Formlabs",
-   "rank": null,
-   "sector": "Hardware",
-   "title": "Embedded Software Intern (Winter/Spring 2027)",
-   "location": "Somerville, MA",
-   "is_us": true,
-   "url": "https://careers.formlabs.com/job/8188578/apply/?gh_jid=8188578",
-   "age_days": 4,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Saronic",
    "rank": null,
    "sector": "Defense Technology",
@@ -1361,32 +1361,65 @@
    "company": "Samsara",
    "rank": null,
    "sector": "Internet of Things",
-   "title": "Software Engineering Internship - San Francisco",
-   "location": "San Francisco - SF9",
+   "title": "Software Engineering Internship - London",
+   "location": "London - UK2",
    "is_us": false,
-   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+   "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
    "age_days": 4,
    "ats": "greenhouse"
   },
   {
-   "company": "Rocket Lab",
+   "company": "Verkada",
    "rank": null,
-   "sector": "Aerospace",
-   "title": "Flight Software Intern Spring 2027",
-   "location": "Littleton, CO",
+   "sector": "Internet of Things",
+   "title": "Backend Software Engineering Intern 2027",
+   "location": "San Mateo, CA United States",
    "is_us": true,
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989724003",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
    "age_days": 4,
    "ats": "greenhouse"
   },
   {
-   "company": "Rocket Lab",
+   "company": "Verkada",
    "rank": null,
-   "sector": "Aerospace",
-   "title": "Flight Software Intern Summer 2027",
-   "location": "Littleton, CO",
+   "sector": "Internet of Things",
+   "title": "Embedded Software Engineering Intern 2027",
+   "location": "San Mateo, CA United States",
    "is_us": true,
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989722003",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+   "age_days": 4,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Verkada",
+   "rank": null,
+   "sector": "Internet of Things",
+   "title": "Frontend Software Engineering Intern 2027",
+   "location": "San Mateo, CA United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+   "age_days": 4,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Verkada",
+   "rank": null,
+   "sector": "Internet of Things",
+   "title": "Mobile Software Engineering Intern 2027",
+   "location": "San Mateo, CA United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
+   "age_days": 4,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Verkada",
+   "rank": null,
+   "sector": "Internet of Things",
+   "title": "Security Software Engineering Intern 2027",
+   "location": "San Mateo, CA United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
    "age_days": 4,
    "ats": "greenhouse"
   },
@@ -1666,17 +1699,6 @@
    "ats": "ashby"
   },
   {
-   "company": "Formlabs",
-   "rank": null,
-   "sector": "Hardware",
-   "title": "AI Software Intern (Winter/Spring 2027)",
-   "location": "Somerville, MA",
-   "is_us": true,
-   "url": "https://careers.formlabs.com/job/8174874/apply/?gh_jid=8174874",
-   "age_days": 5,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Trimble",
    "rank": null,
    "sector": "Industrial Technology",
@@ -1710,39 +1732,6 @@
    "ats": "lever"
   },
   {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "AI Ecosystem Intern",
-   "location": "Boston",
-   "is_us": false,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059276",
-   "age_days": 5,
-   "ats": "workday"
-  },
-  {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Software Engineer Intern",
-   "location": "4 Locations",
-   "is_us": null,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer-Intern_R-059038",
-   "age_days": 5,
-   "ats": "workday"
-  },
-  {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Software Engineer Co-op",
-   "location": "3 Locations",
-   "is_us": null,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer-Co-op_R-059039",
-   "age_days": 5,
-   "ats": "workday"
-  },
-  {
    "company": "Bosch",
    "rank": null,
    "sector": "Automotive",
@@ -1772,6 +1761,83 @@
    "location": "Ecublens, Switzerland",
    "is_us": false,
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ecublens-Switzerland/Wireless-Software-Engineer--Intern_2025061",
+   "age_days": 5,
+   "ats": "workday"
+  },
+  {
+   "company": "Samsara",
+   "rank": null,
+   "sector": "Internet of Things",
+   "title": "Software Engineering Internship - San Francisco",
+   "location": "San Francisco - SF9",
+   "is_us": false,
+   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+   "age_days": 5,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Rocket Lab",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Flight Software Intern Spring 2027",
+   "location": "Littleton, CO",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989724003",
+   "age_days": 5,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Rocket Lab",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Flight Software Intern Summer 2027",
+   "location": "Littleton, CO",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989722003",
+   "age_days": 5,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Formlabs",
+   "rank": null,
+   "sector": "Hardware",
+   "title": "Embedded Software Intern (Winter/Spring 2027)",
+   "location": "Somerville, MA",
+   "is_us": true,
+   "url": "https://careers.formlabs.com/job/8188578/apply/?gh_jid=8188578",
+   "age_days": 5,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "AI Ecosystem Intern",
+   "location": "Boston",
+   "is_us": false,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059276",
+   "age_days": 5,
+   "ats": "workday"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineer Intern",
+   "location": "4 Locations",
+   "is_us": null,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer-Intern_R-059038",
+   "age_days": 5,
+   "ats": "workday"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineer Co-op",
+   "location": "3 Locations",
+   "is_us": null,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer-Co-op_R-059039",
    "age_days": 5,
    "ats": "workday"
   },
@@ -1917,6 +1983,17 @@
    "url": "https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17",
    "age_days": 6,
    "ats": "ashby"
+  },
+  {
+   "company": "Formlabs",
+   "rank": null,
+   "sector": "Hardware",
+   "title": "AI Software Intern (Winter/Spring 2027)",
+   "location": "Somerville, MA",
+   "is_us": true,
+   "url": "https://careers.formlabs.com/job/8174874/apply/?gh_jid=8174874",
+   "age_days": 6,
+   "ats": "greenhouse"
   },
   {
    "company": "Nvidia",
@@ -2337,17 +2414,6 @@
    "ats": "workday"
   },
   {
-   "company": "Western Digital",
-   "rank": 432,
-   "sector": "Technology",
-   "title": "Internship - Software Development (Embedded)",
-   "location": "Petaling Jaya, my",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/westerndigital/744000146883869",
-   "age_days": 11,
-   "ats": "smartrecruiters"
-  },
-  {
    "company": "Anduril Industries",
    "rank": null,
    "sector": "Defense Technology",
@@ -2524,6 +2590,17 @@
    "ats": "workday"
   },
   {
+   "company": "Western Digital",
+   "rank": 432,
+   "sector": "Technology",
+   "title": "Internship - Software Development (Embedded)",
+   "location": "Petaling Jaya, my",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/westerndigital/744000146883869",
+   "age_days": 12,
+   "ats": "smartrecruiters"
+  },
+  {
    "company": "Rockwell Automation",
    "rank": 467,
    "sector": "Industrials",
@@ -2643,28 +2720,6 @@
    "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Shenzhen/Software-Testing-Intern_JR2026007806",
    "age_days": 12,
    "ats": "workday"
-  },
-  {
-   "company": "SpaceX",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Spring 2027 Software Engineering Internship/Co-op",
-   "location": "Flexible - Any SpaceX Site",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
-   "age_days": 12,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "SpaceX",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Summer 2027 Software Engineering Internship/Co-op",
-   "location": "Flexible - Any SpaceX Site",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
-   "age_days": 12,
-   "ats": "greenhouse"
   },
   {
    "company": "Nvidia",
@@ -2975,6 +3030,28 @@
    "ats": "workday"
   },
   {
+   "company": "SpaceX",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Spring 2027 Software Engineering Internship/Co-op",
+   "location": "Flexible - Any SpaceX Site",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
+   "age_days": 13,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "SpaceX",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Summer 2027 Software Engineering Internship/Co-op",
+   "location": "Flexible - Any SpaceX Site",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
+   "age_days": 13,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Micron Technology",
    "rank": 125,
    "sector": "Technology",
@@ -3272,17 +3349,6 @@
    "ats": "workday"
   },
   {
-   "company": "Western Digital",
-   "rank": 432,
-   "sector": "Technology",
-   "title": "Intern - AI Information Technology (Studying Master's and Bachelor Degree)",
-   "location": "BangPa-in, th",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/westerndigital/744000145156358",
-   "age_days": 20,
-   "ats": "smartrecruiters"
-  },
-  {
    "company": "Figma",
    "rank": null,
    "sector": "Productivity Software",
@@ -3303,6 +3369,17 @@
    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4377407009",
    "age_days": 20,
    "ats": "greenhouse"
+  },
+  {
+   "company": "Western Digital",
+   "rank": 432,
+   "sector": "Technology",
+   "title": "Intern - AI Information Technology (Studying Master's and Bachelor Degree)",
+   "location": "BangPa-in, th",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/westerndigital/744000145156358",
+   "age_days": 21,
+   "ats": "smartrecruiters"
   },
   {
    "company": "Nvidia",
@@ -3679,17 +3756,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Notion Labs",
-   "rank": null,
-   "sector": "Productivity Software",
-   "title": "Data Science Intern (Winter 2027)",
-   "location": "San Francisco, California",
-   "is_us": true,
-   "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
-   "age_days": 25,
-   "ats": "ashby"
-  },
-  {
    "company": "Autodesk",
    "rank": null,
    "sector": "Enterprise Software",
@@ -3866,6 +3932,17 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Notion Labs",
+   "rank": null,
+   "sector": "Productivity Software",
+   "title": "Data Science Intern (Winter 2027)",
+   "location": "San Francisco, California",
+   "is_us": true,
+   "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
+   "age_days": 26,
+   "ats": "ashby"
+  },
+  {
    "company": "HP",
    "rank": 84,
    "sector": "Technology",
@@ -3939,7 +4016,7 @@
    "location": "Auckland, NZ",
    "is_us": false,
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7845193003",
-   "age_days": 27,
+   "age_days": 28,
    "ats": "greenhouse"
   },
   {
@@ -4207,28 +4284,6 @@
    "ats": "workday"
   },
   {
-   "company": "Notion Labs",
-   "rank": null,
-   "sector": "Productivity Software",
-   "title": "Software Engineer Intern (Winter 2027)",
-   "location": "San Francisco, California",
-   "is_us": true,
-   "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8",
-   "age_days": 30,
-   "ats": "ashby"
-  },
-  {
-   "company": "Notion Labs",
-   "rank": null,
-   "sector": "Productivity Software",
-   "title": "Software Engineer Intern (Summer 2027)",
-   "location": "San Francisco, California",
-   "is_us": true,
-   "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
-   "age_days": 30,
-   "ats": "ashby"
-  },
-  {
    "company": "Jump Trading",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -4449,15 +4504,26 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Western Digital",
-   "rank": 432,
-   "sector": "Technology",
-   "title": "Summer 2027 Intern - Software Engineering",
-   "location": "San Jose, us",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/westerndigital/744000143171017",
-   "age_days": 32,
-   "ats": "smartrecruiters"
+   "company": "Notion Labs",
+   "rank": null,
+   "sector": "Productivity Software",
+   "title": "Software Engineer Intern (Winter 2027)",
+   "location": "San Francisco, California",
+   "is_us": true,
+   "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8",
+   "age_days": 31,
+   "ats": "ashby"
+  },
+  {
+   "company": "Notion Labs",
+   "rank": null,
+   "sector": "Productivity Software",
+   "title": "Software Engineer Intern (Summer 2027)",
+   "location": "San Francisco, California",
+   "is_us": true,
+   "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+   "age_days": 31,
+   "ats": "ashby"
   },
   {
    "company": "Front",
@@ -4504,6 +4570,17 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Western Digital",
+   "rank": 432,
+   "sector": "Technology",
+   "title": "Summer 2027 Intern - Software Engineering",
+   "location": "San Jose, us",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/westerndigital/744000143171017",
+   "age_days": 33,
+   "ats": "smartrecruiters"
+  },
+  {
    "company": "Palantir Technologies",
    "rank": null,
    "sector": "Data Infrastructure",
@@ -4524,17 +4601,6 @@
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
    "age_days": 36,
    "ats": "greenhouse"
-  },
-  {
-   "company": "Western Digital",
-   "rank": 432,
-   "sector": "Technology",
-   "title": "Internship - Software Engineering",
-   "location": "Petaling Jaya, my",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/westerndigital/744000142050119",
-   "age_days": 37,
-   "ats": "smartrecruiters"
   },
   {
    "company": "Varda Space Industries",
@@ -4562,23 +4628,23 @@
    "company": "Western Digital",
    "rank": 432,
    "sector": "Technology",
-   "title": "Intern, Firmware Engineering",
+   "title": "Internship - Software Engineering",
    "location": "Petaling Jaya, my",
    "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/westerndigital/744000141840819",
+   "url": "https://jobs.smartrecruiters.com/westerndigital/744000142050119",
    "age_days": 38,
    "ats": "smartrecruiters"
   },
   {
-   "company": "Rocket Lab",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Launch Safety Software Intern",
-   "location": "Auckland, NZ",
+   "company": "Western Digital",
+   "rank": 432,
+   "sector": "Technology",
+   "title": "Intern, Firmware Engineering",
+   "location": "Petaling Jaya, my",
    "is_us": false,
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7827254003",
-   "age_days": 38,
-   "ats": "greenhouse"
+   "url": "https://jobs.smartrecruiters.com/westerndigital/744000141840819",
+   "age_days": 39,
+   "ats": "smartrecruiters"
   },
   {
    "company": "Snowflake",
@@ -4590,6 +4656,17 @@
    "url": "https://jobs.ashbyhq.com/snowflake/fc1923c1-b151-4458-a792-40d58331a5be",
    "age_days": 39,
    "ats": "ashby"
+  },
+  {
+   "company": "Rocket Lab",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Launch Safety Software Intern",
+   "location": "Auckland, NZ",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7827254003",
+   "age_days": 39,
+   "ats": "greenhouse"
   },
   {
    "company": "Belvedere Trading",
@@ -4610,7 +4687,7 @@
    "location": "Bayan Lepas, my",
    "is_us": false,
    "url": "https://jobs.smartrecruiters.com/westerndigital/744000141229015",
-   "age_days": 41,
+   "age_days": 42,
    "ats": "smartrecruiters"
   },
   {
@@ -4621,7 +4698,7 @@
    "location": "Petaling Jaya, my",
    "is_us": false,
    "url": "https://jobs.smartrecruiters.com/westerndigital/744000141229499",
-   "age_days": 41,
+   "age_days": 42,
    "ats": "smartrecruiters"
   },
   {
@@ -4632,19 +4709,8 @@
    "location": "Petaling Jaya, my",
    "is_us": false,
    "url": "https://jobs.smartrecruiters.com/westerndigital/744000141227773",
-   "age_days": 41,
-   "ats": "smartrecruiters"
-  },
-  {
-   "company": "Rocket Lab",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Flight Analysis Intern - Software",
-   "location": "Auckland, NZ",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819877003",
    "age_days": 42,
-   "ats": "greenhouse"
+   "ats": "smartrecruiters"
   },
   {
    "company": "Rocket Lab",
@@ -4654,7 +4720,7 @@
    "location": "Auckland, NZ",
    "is_us": false,
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819101003",
-   "age_days": 42,
+   "age_days": 43,
    "ats": "greenhouse"
   },
   {
@@ -4731,7 +4797,7 @@
    "location": "Budapest, Hungary",
    "is_us": false,
    "url": "https://careers.formlabs.com/job/8081194/apply/?gh_jid=8081194",
-   "age_days": 52,
+   "age_days": 53,
    "ats": "greenhouse"
   },
   {
@@ -4830,7 +4896,7 @@
    "location": "Petaling Jaya, my",
    "is_us": false,
    "url": "https://jobs.smartrecruiters.com/westerndigital/744000136953840",
-   "age_days": 65,
+   "age_days": 66,
    "ats": "smartrecruiters"
   },
   {
@@ -4896,7 +4962,7 @@
    "location": "Amphoe Si Maha Phot, th",
    "is_us": false,
    "url": "https://jobs.smartrecruiters.com/westerndigital/744000134646158",
-   "age_days": 77,
+   "age_days": 78,
    "ats": "smartrecruiters"
   },
   {
@@ -4918,7 +4984,7 @@
    "location": "Petaling Jaya, my",
    "is_us": false,
    "url": "https://jobs.smartrecruiters.com/westerndigital/744000134410659",
-   "age_days": 79,
+   "age_days": 80,
    "ats": "smartrecruiters"
   },
   {
