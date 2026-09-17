@@ -1,8 +1,8 @@
 {
- "generated_utc": "2026-09-17T09:36:27+00:00",
- "companies_queried": 513,
+ "generated_utc": "2026-09-17T10:31:10+00:00",
+ "companies_queried": 121,
  "companies_failed": [],
- "count": 579,
+ "count": 578,
  "listings": [
   {
    "company": "Walt Disney",
@@ -269,17 +269,6 @@
    "ats": "workday"
   },
   {
-   "company": "Twilio",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Software Engineer Intern (January 12th start, 23 weeks)",
-   "location": "Remote - India",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/twilio/jobs/8190889",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Zscaler",
    "rank": null,
    "sector": "Security",
@@ -423,17 +412,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Twilio Segment",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer Intern (January 12th start, 23 weeks)",
-   "location": "Remote - India",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/twilio/jobs/8190889",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Autodesk",
    "rank": null,
    "sector": "Enterprise Software",
@@ -476,6 +454,28 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149826650",
    "age_days": 1,
    "ats": "smartrecruiters"
+  },
+  {
+   "company": "Twilio",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineer Intern (January 12th start, 23 weeks)",
+   "location": "Remote - India",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8190889",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Twilio Segment",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer Intern (January 12th start, 23 weeks)",
+   "location": "Remote - India",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8190889",
+   "age_days": 1,
+   "ats": "greenhouse"
   },
   {
    "company": "Cisco Meraki",
@@ -731,39 +731,6 @@
    "ats": "workday"
   },
   {
-   "company": "Datadog",
-   "rank": null,
-   "sector": "Developer Tools",
-   "title": "Software Engineering Intern",
-   "location": "Madrid, Spain",
-   "is_us": false,
-   "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Datadog",
-   "rank": null,
-   "sector": "Developer Tools",
-   "title": "Software Engineering Intern",
-   "location": "Paris, France",
-   "is_us": false,
-   "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Datadog",
-   "rank": null,
-   "sector": "Developer Tools",
-   "title": "Software Engineering Intern (Summer)",
-   "location": "Boston, Massachusetts, USA; New York, New York, USA",
-   "is_us": true,
-   "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Coinbase",
    "rank": null,
    "sector": "Financial Technology",
@@ -775,17 +742,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Figma",
-   "rank": null,
-   "sector": "Productivity Software",
-   "title": "Data Science Intern (2027)",
-   "location": "San Francisco, CA \u2022 New York, NY",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Duolingo",
    "rank": null,
    "sector": "Education Technology",
@@ -793,39 +749,6 @@
    "location": "Pittsburgh, PA",
    "is_us": true,
    "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "2027 Flight Software Engineer Intern",
-   "location": "Costa Mesa, California, United States",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "Winter 2027 Software Engineer Co-op",
-   "location": "Quincy, Massachusetts, United States",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "Winter 2027 Systems Engineer Co-op",
-   "location": "Quincy, Massachusetts, United States",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
    "age_days": 2,
    "ats": "greenhouse"
   },
@@ -993,6 +916,83 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149529787",
    "age_days": 2,
    "ats": "smartrecruiters"
+  },
+  {
+   "company": "Datadog",
+   "rank": null,
+   "sector": "Developer Tools",
+   "title": "Software Engineering Intern",
+   "location": "Paris, France",
+   "is_us": false,
+   "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Datadog",
+   "rank": null,
+   "sector": "Developer Tools",
+   "title": "Software Engineering Intern",
+   "location": "Madrid, Spain",
+   "is_us": false,
+   "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Datadog",
+   "rank": null,
+   "sector": "Developer Tools",
+   "title": "Software Engineering Intern (Summer)",
+   "location": "Boston, Massachusetts, USA; New York, New York, USA",
+   "is_us": true,
+   "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Figma",
+   "rank": null,
+   "sector": "Productivity Software",
+   "title": "Data Science Intern (2027)",
+   "location": "San Francisco, CA \u2022 New York, NY",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "2027 Flight Software Engineer Intern",
+   "location": "Costa Mesa, California, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "Winter 2027 Software Engineer Co-op",
+   "location": "Quincy, Massachusetts, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "Winter 2027 Systems Engineer Co-op",
+   "location": "Quincy, Massachusetts, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
+   "age_days": 2,
+   "ats": "greenhouse"
   },
   {
    "company": "Razer",
@@ -1336,39 +1336,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Figma",
-   "rank": null,
-   "sector": "Productivity Software",
-   "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027)",
-   "location": "London, England",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Figma",
-   "rank": null,
-   "sector": "Productivity Software",
-   "title": "Software Engineer Intern (Summer 2027)",
-   "location": "San Francisco, CA \u2022 New York, NY",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Figma",
-   "rank": null,
-   "sector": "Productivity Software",
-   "title": "Software Engineer Intern (Winter 2027)",
-   "location": "San Francisco, CA \u2022 New York, NY",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Waymo",
    "rank": null,
    "sector": "Automotive",
@@ -1420,17 +1387,6 @@
    "location": "San Francisco Office",
    "is_us": false,
    "url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987",
-   "age_days": 3,
-   "ats": "ashby"
-  },
-  {
-   "company": "Mistral AI",
-   "rank": null,
-   "sector": "Artificial Intelligence",
-   "title": "Applied AI, Forward Deployed Machine Learning Engineer - (Internship)",
-   "location": "Paris",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b",
    "age_days": 3,
    "ats": "ashby"
   },
@@ -1554,6 +1510,50 @@
    "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Dublin---MSO/Software-Engineering-Intern---OpenShift-AI--Dublin-office--Ireland-_R-059198",
    "age_days": 3,
    "ats": "workday"
+  },
+  {
+   "company": "Figma",
+   "rank": null,
+   "sector": "Productivity Software",
+   "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027)",
+   "location": "London, England",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Figma",
+   "rank": null,
+   "sector": "Productivity Software",
+   "title": "Software Engineer Intern (Summer 2027)",
+   "location": "San Francisco, CA \u2022 New York, NY",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Figma",
+   "rank": null,
+   "sector": "Productivity Software",
+   "title": "Software Engineer Intern (Winter 2027)",
+   "location": "San Francisco, CA \u2022 New York, NY",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Mistral AI",
+   "rank": null,
+   "sector": "Artificial Intelligence",
+   "title": "Applied AI, Forward Deployed Machine Learning Engineer - (Internship)",
+   "location": "Paris",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b",
+   "age_days": 3,
+   "ats": "ashby"
   },
   {
    "company": "Cisco Meraki",
@@ -1908,17 +1908,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "2027 Software Quality Assurance Intern",
-   "location": "Dublin, Dublin, Ireland",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232025007?gh_jid=5232025007",
-   "age_days": 6,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Abridge",
    "rank": null,
    "sector": "Health Technology",
@@ -1959,6 +1948,17 @@
    "location": "Singapore, Central, Singapore",
    "is_us": false,
    "url": "https://motional.com/open-positions/?gh_jid=6659639003#/6659639003",
+   "age_days": 6,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "2027 Software Quality Assurance Intern",
+   "location": "Dublin, Dublin, Ireland",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232025007?gh_jid=5232025007",
    "age_days": 6,
    "ats": "greenhouse"
   },
@@ -2095,6 +2095,61 @@
    "ats": "workday"
   },
   {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
+   "location": "Mountain View, California",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295",
+   "age_days": 7,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Sentry",
+   "rank": null,
+   "sector": "Developer Tools",
+   "title": "Software Engineer, Intern (Summer 2027)",
+   "location": "Vienna, Austria",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2",
+   "age_days": 7,
+   "ats": "ashby"
+  },
+  {
+   "company": "Schonfeld",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 Platform Engineering Intern",
+   "location": "New York, New York, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
+   "age_days": 7,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "AI Ecosystem Intern",
+   "location": "Boston",
+   "is_us": false,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059053-1",
+   "age_days": 7,
+   "ats": "workday"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern",
+   "location": "London",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+   "age_days": 7,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Stripe",
    "rank": null,
    "sector": "Financial Technology",
@@ -2121,17 +2176,6 @@
    "rank": null,
    "sector": "Financial Technology",
    "title": "Software Engineer, Intern",
-   "location": "London",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8130867",
-   "age_days": 7,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern",
    "location": "Bucharest",
    "is_us": false,
    "url": "https://stripe.com/jobs/search?gh_jid=8130807",
@@ -2143,9 +2187,9 @@
    "rank": null,
    "sector": "Financial Technology",
    "title": "Software Engineer, Intern (Summer or Winter)",
-   "location": "Toronto",
+   "location": "Dublin",
    "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+   "url": "https://stripe.com/jobs/search?gh_jid=8097801",
    "age_days": 7,
    "ats": "greenhouse"
   },
@@ -2165,20 +2209,9 @@
    "rank": null,
    "sector": "Financial Technology",
    "title": "Software Engineer, Intern (Summer or Winter)",
-   "location": "Dublin",
+   "location": "Toronto",
    "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-   "age_days": 7,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
-   "location": "Mountain View, California",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295",
+   "url": "https://stripe.com/jobs/search?gh_jid=8130805",
    "age_days": 7,
    "ats": "greenhouse"
   },
@@ -2236,39 +2269,6 @@
    "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
    "age_days": 7,
    "ats": "greenhouse"
-  },
-  {
-   "company": "Sentry",
-   "rank": null,
-   "sector": "Developer Tools",
-   "title": "Software Engineer, Intern (Summer 2027)",
-   "location": "Vienna, Austria",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2",
-   "age_days": 7,
-   "ats": "ashby"
-  },
-  {
-   "company": "Schonfeld",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "2027 Platform Engineering Intern",
-   "location": "New York, New York, United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
-   "age_days": 7,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "AI Ecosystem Intern",
-   "location": "Boston",
-   "is_us": false,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059053-1",
-   "age_days": 7,
-   "ats": "workday"
   },
   {
    "company": "Thomson Reuters",
@@ -2414,17 +2414,6 @@
    "ats": "workday"
   },
   {
-   "company": "Toast",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineering Intern",
-   "location": "Dublin, Ireland",
-   "is_us": false,
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8187654",
-   "age_days": 8,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Epic Games",
    "rank": null,
    "sector": "Gaming",
@@ -2511,6 +2500,17 @@
    "url": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2",
    "age_days": 8,
    "ats": "ashby"
+  },
+  {
+   "company": "Toast",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineering Intern",
+   "location": "Dublin, Ireland",
+   "is_us": false,
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8187654",
+   "age_days": 8,
+   "ats": "greenhouse"
   },
   {
    "company": "Blue Origin",
@@ -3272,6 +3272,28 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Hermeus",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "GNC & Flight Software Intern - Spring/Summer 2027",
+   "location": "Atlanta, GA",
+   "is_us": true,
+   "url": "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7",
+   "age_days": 14,
+   "ats": "lever"
+  },
+  {
+   "company": "Hermeus",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
+   "location": "Atlanta, GA",
+   "is_us": true,
+   "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796",
+   "age_days": 14,
+   "ats": "lever"
+  },
+  {
    "company": "Jump Trading",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -3325,28 +3347,6 @@
    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R56258",
    "age_days": 14,
    "ats": "workday"
-  },
-  {
-   "company": "Hermeus",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "GNC & Flight Software Intern - Spring/Summer 2027",
-   "location": "Atlanta, GA",
-   "is_us": true,
-   "url": "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7",
-   "age_days": 14,
-   "ats": "lever"
-  },
-  {
-   "company": "Hermeus",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
-   "location": "Atlanta, GA",
-   "is_us": true,
-   "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796",
-   "age_days": 14,
-   "ats": "lever"
   },
   {
    "company": "HP",
@@ -3415,17 +3415,6 @@
    "ats": "workday"
   },
   {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "2027 Software Engineer Intern",
-   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-   "age_days": 15,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Perplexity",
    "rank": null,
    "sector": "Artificial Intelligence",
@@ -3435,6 +3424,17 @@
    "url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c",
    "age_days": 15,
    "ats": "ashby"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "2027 Software Engineer Intern",
+   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+   "age_days": 15,
+   "ats": "greenhouse"
   },
   {
    "company": "Cadence Design Systems",
@@ -3602,17 +3602,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Tower Research Capital",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Quantitative Developer Intern",
-   "location": "Paris",
-   "is_us": false,
-   "url": "https://www.tower-research.com/open-positions/?gh_jid=7011493",
-   "age_days": 16,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Five Rings",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -3644,6 +3633,28 @@
    "url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936",
    "age_days": 16,
    "ats": "lever"
+  },
+  {
+   "company": "Tower Research Capital",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Quantitative Developer Intern",
+   "location": "Paris",
+   "is_us": false,
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=7011493",
+   "age_days": 16,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Razer",
+   "rank": null,
+   "sector": "Consumer Hardware",
+   "title": "Software Testing Intern",
+   "location": "Shenzhen",
+   "is_us": false,
+   "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Shenzhen/Software-Testing-Intern_JR2026007806",
+   "age_days": 16,
+   "ats": "workday"
   },
   {
    "company": "Blue Origin",
@@ -3686,17 +3697,6 @@
    "location": "4 Locations",
    "is_us": null,
    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Undergraduate_R71424",
-   "age_days": 16,
-   "ats": "workday"
-  },
-  {
-   "company": "Razer",
-   "rank": null,
-   "sector": "Consumer Hardware",
-   "title": "Software Testing Intern",
-   "location": "Shenzhen",
-   "is_us": false,
-   "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Shenzhen/Software-Testing-Intern_JR2026007806",
    "age_days": 16,
    "ats": "workday"
   },
@@ -4031,17 +4031,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Jump Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Campus AI/ML Researcher (Intern)",
-   "location": "Hong Kong; Shanghai; Singapore",
-   "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027938",
-   "age_days": 20,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Virtu Financial",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -4049,6 +4038,17 @@
    "location": "Austin, TX; New York",
    "is_us": true,
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+   "age_days": 20,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Jump Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Campus AI/ML Researcher (Intern)",
+   "location": "Hong Kong; Shanghai; Singapore",
+   "is_us": false,
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027938",
    "age_days": 20,
    "ats": "greenhouse"
   },
@@ -4889,6 +4889,61 @@
    "ats": "workday"
   },
   {
+   "company": "Autodesk",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineering Intern Summer 2027",
+   "location": "Norway - Oslo",
+   "is_us": false,
+   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046-3",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "Autodesk",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer \u2013 FCAP",
+   "location": "Montreal, QC, CAN",
+   "is_us": false,
+   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "Autodesk",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer",
+   "location": "Montreal, QC, CAN",
+   "is_us": false,
+   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "Autodesk",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Intern Software Developer, Stagiaire en D\u00e9veloppement Logiciel",
+   "location": "Montreal, QC, CAN",
+   "is_us": false,
+   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "Logitech",
+   "rank": null,
+   "sector": "Consumer Hardware",
+   "title": "Intern, Engineering, Software & Gaming",
+   "location": "Suzhou, China",
+   "is_us": false,
+   "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Suzhou-China/Intern--Engineering--Software---Gaming_146535",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
    "company": "Jump Trading",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -4958,28 +5013,6 @@
    "company": "Jump Trading",
    "rank": null,
    "sector": "Quantitative Finance",
-   "title": "Campus Software Engineer (Intern)",
-   "location": "London",
-   "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
-   "age_days": 30,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Jump Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Campus Systems Engineer (Intern)",
-   "location": "Chicago",
-   "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
-   "age_days": 30,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Jump Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
    "title": "Campus Systems Engineer (Intern)",
    "location": "London; Amsterdam",
    "is_us": false,
@@ -4995,6 +5028,17 @@
    "location": "Singapore",
    "is_us": false,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+   "age_days": 30,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Jump Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Campus Systems Engineer (Intern)",
+   "location": "Chicago",
+   "is_us": false,
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
    "age_days": 30,
    "ats": "greenhouse"
   },
@@ -5050,61 +5094,6 @@
    "location": "BELO HORIZONTE",
    "is_us": false,
    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "Autodesk",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Software Engineering Intern Summer 2027",
-   "location": "Norway - Oslo",
-   "is_us": false,
-   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046-3",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "Autodesk",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer \u2013 FCAP",
-   "location": "Montreal, QC, CAN",
-   "is_us": false,
-   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "Autodesk",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer",
-   "location": "Montreal, QC, CAN",
-   "is_us": false,
-   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "Autodesk",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Intern Software Developer, Stagiaire en D\u00e9veloppement Logiciel",
-   "location": "Montreal, QC, CAN",
-   "is_us": false,
-   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "Logitech",
-   "rank": null,
-   "sector": "Consumer Hardware",
-   "title": "Intern, Engineering, Software & Gaming",
-   "location": "Suzhou, China",
-   "is_us": false,
-   "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Suzhou-China/Intern--Engineering--Software---Gaming_146535",
    "age_days": 30,
    "ats": "workday"
   },
@@ -5186,6 +5175,17 @@
    "ats": "ashby"
   },
   {
+   "company": "TransMarket Group",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Software Engineering Intern",
+   "location": "Chicago, Illinois, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007",
+   "age_days": 34,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Jump Trading",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -5204,17 +5204,6 @@
    "location": "Chicago",
    "is_us": false,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
-   "age_days": 34,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "TransMarket Group",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Software Engineering Intern",
-   "location": "Chicago, Illinois, United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007",
    "age_days": 34,
    "ats": "greenhouse"
   },
