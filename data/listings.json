@@ -1,9 +1,20 @@
 {
- "generated_utc": "2026-09-19T16:30:16+00:00",
- "companies_queried": 33,
+ "generated_utc": "2026-09-19T18:47:30+00:00",
+ "companies_queried": 27,
  "companies_failed": [],
  "count": 606,
  "listings": [
+  {
+   "company": "Roblox",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "[Summer 2027] Software Engineer Intern",
+   "location": "San Mateo, CA, United States",
+   "is_us": true,
+   "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+   "age_days": 0,
+   "ats": "greenhouse"
+  },
   {
    "company": "Amazon",
    "rank": 1,
@@ -232,17 +243,6 @@
    "location": "New York, New York",
    "is_us": true,
    "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Roblox",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "[Summer 2027] Software Engineer Intern",
-   "location": "San Mateo, CA, United States",
-   "is_us": true,
-   "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
    "age_days": 1,
    "ats": "greenhouse"
   },
@@ -852,28 +852,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Scale AI",
-   "rank": null,
-   "sector": "Artificial Intelligence",
-   "title": "Software Engineering Intern (Summer 2027)",
-   "location": "Doha, Qatar",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Scale AI",
-   "rank": null,
-   "sector": "Artificial Intelligence",
-   "title": "Software Engineering Intern (Summer 2027)",
-   "location": "London, UK",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Jump Trading",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -971,6 +949,28 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150014319",
    "age_days": 2,
    "ats": "smartrecruiters"
+  },
+  {
+   "company": "Scale AI",
+   "rank": null,
+   "sector": "Artificial Intelligence",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "location": "Doha, Qatar",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Scale AI",
+   "rank": null,
+   "sector": "Artificial Intelligence",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "location": "London, UK",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+   "age_days": 2,
+   "ats": "greenhouse"
   },
   {
    "company": "Amazon",
@@ -2649,17 +2649,6 @@
    "rank": null,
    "sector": "Financial Technology",
    "title": "Software Engineer, Intern",
-   "location": "Singapore",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8130883",
-   "age_days": 9,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern",
    "location": "Bengaluru",
    "is_us": false,
    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
@@ -2682,9 +2671,31 @@
    "rank": null,
    "sector": "Financial Technology",
    "title": "Software Engineer, Intern",
+   "location": "Singapore",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+   "age_days": 9,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern",
    "location": "Bucharest",
    "is_us": false,
    "url": "https://stripe.com/jobs/search?gh_jid=8130807",
+   "age_days": 9,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern (Summer or Winter)",
+   "location": "San Francisco, Seattle, New York City",
+   "is_us": true,
+   "url": "https://stripe.com/jobs/search?gh_jid=8128745",
    "age_days": 9,
    "ats": "greenhouse"
   },
@@ -2707,17 +2718,6 @@
    "location": "Dublin",
    "is_us": false,
    "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-   "age_days": 9,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern (Summer or Winter)",
-   "location": "San Francisco, Seattle, New York City",
-   "is_us": true,
-   "url": "https://stripe.com/jobs/search?gh_jid=8128745",
    "age_days": 9,
    "ats": "greenhouse"
   },
@@ -2854,17 +2854,6 @@
    "ats": "workday"
   },
   {
-   "company": "Toast",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineering Intern",
-   "location": "Dublin, Ireland",
-   "is_us": false,
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8187654",
-   "age_days": 10,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Epic Games",
    "rank": null,
    "sector": "Gaming",
@@ -2951,6 +2940,17 @@
    "url": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2",
    "age_days": 10,
    "ats": "ashby"
+  },
+  {
+   "company": "Toast",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineering Intern",
+   "location": "Dublin, Ireland",
+   "is_us": false,
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8187654",
+   "age_days": 10,
+   "ats": "greenhouse"
   },
   {
    "company": "Blue Origin",
@@ -3140,17 +3140,6 @@
    "ats": "workday"
   },
   {
-   "company": "Snowflake",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Applied AI Intern - Warsaw",
-   "location": "PL-Warsaw-Lixa C",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/snowflake/90190b16-fd27-4366-8c10-9c4896157681",
-   "age_days": 11,
-   "ats": "ashby"
-  },
-  {
    "company": "Coinbase",
    "rank": null,
    "sector": "Financial Technology",
@@ -3259,6 +3248,17 @@
    "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
    "age_days": 11,
    "ats": "workday"
+  },
+  {
+   "company": "Snowflake",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Applied AI Intern - Warsaw",
+   "location": "PL-Warsaw-Lixa C",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/snowflake/90190b16-fd27-4366-8c10-9c4896157681",
+   "age_days": 11,
+   "ats": "ashby"
   },
   {
    "company": "Cisco Meraki",
@@ -3525,17 +3525,6 @@
    "ats": "workday"
   },
   {
-   "company": "Scale AI",
-   "rank": null,
-   "sector": "Artificial Intelligence",
-   "title": "Software Engineering Intern (Summer 2027)",
-   "location": "San Francisco, CA",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
-   "age_days": 15,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Schonfeld",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -3554,6 +3543,17 @@
    "location": "New York, New York, United States",
    "is_us": true,
    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089",
+   "age_days": 15,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Scale AI",
+   "rank": null,
+   "sector": "Artificial Intelligence",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "location": "San Francisco, CA",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
    "age_days": 15,
    "ats": "greenhouse"
   },
@@ -3998,6 +3998,39 @@
    "ats": "lever"
   },
   {
+   "company": "Razer",
+   "rank": null,
+   "sector": "Consumer Hardware",
+   "title": "Software Testing Intern",
+   "location": "Shenzhen",
+   "is_us": false,
+   "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Shenzhen/Software-Testing-Intern_JR2026007806",
+   "age_days": 18,
+   "ats": "workday"
+  },
+  {
+   "company": "SpaceX",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Spring 2027 Software Engineering Internship/Co-op",
+   "location": "Flexible - Any SpaceX Site",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
+   "age_days": 18,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "SpaceX",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Summer 2027 Software Engineering Internship/Co-op",
+   "location": "Flexible - Any SpaceX Site",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
+   "age_days": 18,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Blue Origin",
    "rank": null,
    "sector": "Aerospace",
@@ -4040,39 +4073,6 @@
    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Undergraduate_R71424",
    "age_days": 18,
    "ats": "workday"
-  },
-  {
-   "company": "Razer",
-   "rank": null,
-   "sector": "Consumer Hardware",
-   "title": "Software Testing Intern",
-   "location": "Shenzhen",
-   "is_us": false,
-   "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Shenzhen/Software-Testing-Intern_JR2026007806",
-   "age_days": 18,
-   "ats": "workday"
-  },
-  {
-   "company": "SpaceX",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Spring 2027 Software Engineering Internship/Co-op",
-   "location": "Flexible - Any SpaceX Site",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
-   "age_days": 18,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "SpaceX",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Summer 2027 Software Engineering Internship/Co-op",
-   "location": "Flexible - Any SpaceX Site",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
-   "age_days": 18,
-   "ats": "greenhouse"
   },
   {
    "company": "Nvidia",
