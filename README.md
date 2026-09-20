@@ -2,7 +2,7 @@
 
 Software-engineering **internship** postings (Summer 2027 cycle), pulled straight from the applicant tracking systems of the [2026 Fortune 500](https://fortune.com/ranking/fortune500/2026/) plus a curated list of technology companies outside it.
 
-**604 open postings** (226 in the US) across **129 companies** · last refreshed 2026-09-20 20:15:53 UTC
+**606 open postings** (226 in the US) across **131 companies** · last refreshed 2026-09-20 22:30:26 UTC
 
 Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more were identified but their `robots.txt` disallows crawling, so they are listed as links only. 429 are still unresolved — see [Coverage](#coverage).
 
@@ -240,12 +240,14 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Palantir Technologies** | Forward Deployed Software Engineer, Internship - Commercial | New York, NY | 128mo | [Apply](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) |
 
 <details>
-<summary>International (309) and unstated location (69)</summary>
+<summary>International (311) and unstated location (69)</summary>
 
 ### International
 
 | # | Company | Role | Location | Age | |
 |---|---------|------|----------|-----|-|
+| — | **Twilio** | Software Engineer Intern (January 12th start, 23 weeks) | Remote - India | today | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8190887) |
+| — | **Twilio Segment** | Software Engineer Intern (January 12th start, 23 weeks) | Remote - India | today | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8190887) |
 | 1 | **Amazon** | Software Development Engineer Intern - Summer 2027 (CAN) | Vancouver, British Columbia, CAN | 2d | [Apply](https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) |
 | 16 | **Nvidia** | PhD Research Intern, Quantum and AI for Chemistry - 2027 | Canada, Toronto | 2d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) |
 | 23 | **General Motors** | Market Analysis Intern – Computer science/data analytics | Shanghai, China | 2d | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Market-Analysis-Intern---Computer-science-data-analytics_JR-202619969) |

@@ -1,8 +1,8 @@
 {
- "generated_utc": "2026-09-20T20:15:53+00:00",
- "companies_queried": 29,
+ "generated_utc": "2026-09-20T22:30:26+00:00",
+ "companies_queried": 34,
  "companies_failed": [],
- "count": 604,
+ "count": 606,
  "listings": [
   {
    "company": "Nvidia",
@@ -23,6 +23,28 @@
    "location": "San Mateo, CA, United States",
    "is_us": true,
    "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+   "age_days": 0,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Twilio",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineer Intern (January 12th start, 23 weeks)",
+   "location": "Remote - India",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8190887",
+   "age_days": 0,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Twilio Segment",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer Intern (January 12th start, 23 weeks)",
+   "location": "Remote - India",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8190887",
    "age_days": 0,
    "ats": "greenhouse"
   },
