@@ -1,53 +1,9 @@
 {
- "generated_utc": "2026-09-22T23:14:40+00:00",
- "companies_queried": 182,
+ "generated_utc": "2026-09-23T01:34:11+00:00",
+ "companies_queried": 103,
  "companies_failed": [],
- "count": 635,
+ "count": 637,
  "listings": [
-  {
-   "company": "Amazon",
-   "rank": 1,
-   "sector": "Retailing",
-   "title": "2027 Software Dev Engineer Intern - France",
-   "location": "Clichy, Ile-de-France, FRA",
-   "is_us": false,
-   "url": "https://www.amazon.jobs/en/jobs/10555863/2027-software-dev-engineer-intern-france",
-   "age_days": 0,
-   "ats": "custom"
-  },
-  {
-   "company": "Amazon",
-   "rank": 1,
-   "sector": "Retailing",
-   "title": "2027 Software Dev Engineer Intern - Italy",
-   "location": "Turin, Piedmont, ITA",
-   "is_us": false,
-   "url": "https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy",
-   "age_days": 0,
-   "ats": "custom"
-  },
-  {
-   "company": "Amazon",
-   "rank": 1,
-   "sector": "Retailing",
-   "title": "2027 Software Dev Engineer Intern - Poland",
-   "location": "Gdansk, Pomeranian Voivodeship, POL",
-   "is_us": false,
-   "url": "https://www.amazon.jobs/en/jobs/10555873/2027-software-dev-engineer-intern-poland",
-   "age_days": 0,
-   "ats": "custom"
-  },
-  {
-   "company": "Amazon",
-   "rank": 1,
-   "sector": "Retailing",
-   "title": "2027 Software Dev Engineer Intern - Spain",
-   "location": "Madrid, Community of Madrid, ESP",
-   "is_us": false,
-   "url": "https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain",
-   "age_days": 0,
-   "ats": "custom"
-  },
   {
    "company": "Apple",
    "rank": 4,
@@ -247,17 +203,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Roblox",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "[Summer 2027] Software Engineer Intern",
-   "location": "San Mateo, CA, United States",
-   "is_us": true,
-   "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-   "age_days": 0,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Appian",
    "rank": null,
    "sector": "Enterprise Software",
@@ -289,61 +234,6 @@
    "url": "https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8",
    "age_days": 0,
    "ats": "ashby"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern",
-   "location": "Singapore",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8130883",
-   "age_days": 0,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Figma",
-   "rank": null,
-   "sector": "Productivity Software",
-   "title": "PhD Intern, Data Science (2027)",
-   "location": "San Francisco, CA \u2022 New York, NY",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004",
-   "age_days": 0,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
-   "location": "Mountain View, CA, USA",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
-   "age_days": 0,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
-   "location": "San Francisco, CA, USA",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
-   "age_days": 0,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, PhD, Data Science",
-   "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8221956",
-   "age_days": 0,
-   "ats": "greenhouse"
   },
   {
    "company": "Astranis",
@@ -415,10 +305,10 @@
    "company": "Amazon",
    "rank": 1,
    "sector": "Retailing",
-   "title": "2027 Software Dev Engineer Intern - Bucharest, Romania",
-   "location": "Bucharest, ROU",
+   "title": "2027 Software Dev Engineer Intern - France",
+   "location": "Clichy, Ile-de-France, FRA",
    "is_us": false,
-   "url": "https://www.amazon.jobs/en/jobs/10554669/2027-software-dev-engineer-intern-bucharest-romania",
+   "url": "https://www.amazon.jobs/en/jobs/10555863/2027-software-dev-engineer-intern-france",
    "age_days": 1,
    "ats": "custom"
   },
@@ -426,10 +316,10 @@
    "company": "Amazon",
    "rank": 1,
    "sector": "Retailing",
-   "title": "2027 Software Dev Engineer Intern - Luxembourg",
-   "location": "Luxembourg, LUX",
+   "title": "2027 Software Dev Engineer Intern - Italy",
+   "location": "Turin, Piedmont, ITA",
    "is_us": false,
-   "url": "https://www.amazon.jobs/en/jobs/10554706/2027-software-dev-engineer-intern-luxembourg",
+   "url": "https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy",
    "age_days": 1,
    "ats": "custom"
   },
@@ -437,10 +327,10 @@
    "company": "Amazon",
    "rank": 1,
    "sector": "Retailing",
-   "title": "2027 Software Dev Engineer Intern - Ia\u0219i, Romania",
-   "location": "Iasi, ROU",
+   "title": "2027 Software Dev Engineer Intern - Poland",
+   "location": "Gdansk, Pomeranian Voivodeship, POL",
    "is_us": false,
-   "url": "https://www.amazon.jobs/en/jobs/10554652/2027-software-dev-engineer-intern-ia-i-romania",
+   "url": "https://www.amazon.jobs/en/jobs/10555873/2027-software-dev-engineer-intern-poland",
    "age_days": 1,
    "ats": "custom"
   },
@@ -448,10 +338,21 @@
    "company": "Amazon",
    "rank": 1,
    "sector": "Retailing",
-   "title": "2027 Software Dev Engineer Intern - United Kingdom",
-   "location": "London, England, GBR",
+   "title": "2027 Software Dev Engineer Intern - Spain",
+   "location": "Madrid, Community of Madrid, ESP",
    "is_us": false,
-   "url": "https://www.amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom",
+   "url": "https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain",
+   "age_days": 1,
+   "ats": "custom"
+  },
+  {
+   "company": "Amazon",
+   "rank": 1,
+   "sector": "Retailing",
+   "title": "Security Engineer Internship \u2013 2027 (US)",
+   "location": "Seattle, Washington, USA",
+   "is_us": true,
+   "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
    "age_days": 1,
    "ats": "custom"
   },
@@ -610,28 +511,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Epic Games",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Data Science Intern",
-   "location": "Cary,North Carolina,United States",
-   "is_us": true,
-   "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Epic Games",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Engine Programmer Intern",
-   "location": "Cary,North Carolina,United States",
-   "is_us": true,
-   "url": "https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
    "company": "SingleStore",
    "rank": null,
    "sector": "Data Infrastructure",
@@ -698,50 +577,6 @@
    "ats": "workday"
   },
   {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "2027 Flight Software Engineer Intern",
-   "location": "Costa Mesa, California, United States",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "2027 Software Engineer Intern",
-   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "Winter 2027 Software Engineer Co-op",
-   "location": "Quincy, Massachusetts, United States",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "Winter 2027 Systems Engineer Co-op",
-   "location": "Quincy, Massachusetts, United States",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Databricks",
    "rank": null,
    "sector": "Data Infrastructure",
@@ -786,160 +621,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, BS/MS, Software Engineer",
-   "location": "San Francisco, California",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-   "location": "Mountain View, California, United States; San Francisco, California, United States",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
-   "location": "San Francisco, California",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, BS, SysEng Software Engineer",
-   "location": "Mountain View, California, USA",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing",
-   "location": "San Francisco, California, United States",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8167323",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
-   "location": "Mountain View, California, USA",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
-   "location": "Mountain View, California, USA",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
-   "location": "Mountain View, California, USA",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
-   "location": "Mountain View, California, USA",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test",
-   "location": "San Francisco, California, USA",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
-   "location": "Mountain View, California, United States",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8202025",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
-   "location": "Mountain View, California",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, PhD, Product Data Science",
-   "location": "San Francisco, California, United States",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
-   "location": "Mountain View, California, United States | San Francisco, California, United States",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Optiver",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -958,6 +639,83 @@
    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
    "is_us": true,
    "url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern",
+   "location": "Singapore",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Roblox",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "[Summer 2027] Software Engineer Intern",
+   "location": "San Mateo, CA, United States",
+   "is_us": true,
+   "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Figma",
+   "rank": null,
+   "sector": "Productivity Software",
+   "title": "PhD Intern, Data Science (2027)",
+   "location": "San Francisco, CA \u2022 New York, NY",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
+   "location": "Mountain View, CA, USA",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+   "location": "San Francisco, CA, USA",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation",
+   "location": "San Francisco, California, United States",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8214350",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, PhD, Data Science",
+   "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8221956",
    "age_days": 1,
    "ats": "greenhouse"
   },
@@ -995,6 +753,50 @@
    "ats": "workday"
   },
   {
+   "company": "Amazon",
+   "rank": 1,
+   "sector": "Retailing",
+   "title": "2027 Software Dev Engineer Intern - Bucharest, Romania",
+   "location": "Bucharest, ROU",
+   "is_us": false,
+   "url": "https://www.amazon.jobs/en/jobs/10554669/2027-software-dev-engineer-intern-bucharest-romania",
+   "age_days": 2,
+   "ats": "custom"
+  },
+  {
+   "company": "Amazon",
+   "rank": 1,
+   "sector": "Retailing",
+   "title": "2027 Software Dev Engineer Intern - Luxembourg",
+   "location": "Luxembourg, LUX",
+   "is_us": false,
+   "url": "https://www.amazon.jobs/en/jobs/10554706/2027-software-dev-engineer-intern-luxembourg",
+   "age_days": 2,
+   "ats": "custom"
+  },
+  {
+   "company": "Amazon",
+   "rank": 1,
+   "sector": "Retailing",
+   "title": "2027 Software Dev Engineer Intern - Ia\u0219i, Romania",
+   "location": "Iasi, ROU",
+   "is_us": false,
+   "url": "https://www.amazon.jobs/en/jobs/10554652/2027-software-dev-engineer-intern-ia-i-romania",
+   "age_days": 2,
+   "ats": "custom"
+  },
+  {
+   "company": "Amazon",
+   "rank": 1,
+   "sector": "Retailing",
+   "title": "2027 Software Dev Engineer Intern - United Kingdom",
+   "location": "London, England, GBR",
+   "is_us": false,
+   "url": "https://www.amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom",
+   "age_days": 2,
+   "ats": "custom"
+  },
+  {
    "company": "Nvidia",
    "rank": 16,
    "sector": "Technology",
@@ -1006,15 +808,224 @@
    "ats": "workday"
   },
   {
-   "company": "Amazon",
-   "rank": 1,
-   "sector": "Retailing",
-   "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
-   "location": "Vancouver, British Columbia, CAN",
-   "is_us": false,
-   "url": "https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can",
-   "age_days": 4,
-   "ats": "custom"
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Data Science Intern",
+   "location": "Cary,North Carolina,United States",
+   "is_us": true,
+   "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Engine Programmer Intern",
+   "location": "Cary,North Carolina,United States",
+   "is_us": true,
+   "url": "https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, BS/MS, Software Engineer",
+   "location": "San Francisco, California",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+   "location": "Mountain View, California, United States; San Francisco, California, United States",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
+   "location": "San Francisco, California",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, BS, SysEng Software Engineer",
+   "location": "Mountain View, California, USA",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing",
+   "location": "San Francisco, California, United States",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8167323",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
+   "location": "Mountain View, California, USA",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+   "location": "Mountain View, California, USA",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
+   "location": "Mountain View, California, USA",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
+   "location": "Mountain View, California, USA",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test",
+   "location": "San Francisco, California, USA",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
+   "location": "Mountain View, California, United States",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8202025",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
+   "location": "Mountain View, California",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, PhD, Product Data Science",
+   "location": "San Francisco, California, United States",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
+   "location": "Mountain View, California, United States | San Francisco, California, United States",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "2027 Flight Software Engineer Intern",
+   "location": "Costa Mesa, California, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "2027 Software Engineer Intern",
+   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "Winter 2027 Software Engineer Co-op",
+   "location": "Quincy, Massachusetts, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "Winter 2027 Systems Engineer Co-op",
+   "location": "Quincy, Massachusetts, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
+   "age_days": 2,
+   "ats": "greenhouse"
   },
   {
    "company": "Cigna Group",
@@ -1160,17 +1171,6 @@
    "ats": "workday"
   },
   {
-   "company": "Epic Games",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Tools Programmer Intern",
-   "location": "Cary,North Carolina,United States",
-   "is_us": true,
-   "url": "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004",
-   "age_days": 4,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Together AI",
    "rank": null,
    "sector": "Artificial Intelligence",
@@ -1281,28 +1281,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure",
-   "location": "London, England, United Kingdom",
-   "is_us": false,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8205680",
-   "age_days": 4,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, MS/PhD, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
-   "location": "Warsaw, Poland",
-   "is_us": false,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8214729",
-   "age_days": 4,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Astranis",
    "rank": null,
    "sector": "Aerospace",
@@ -1317,21 +1295,10 @@
    "company": "Amazon",
    "rank": 1,
    "sector": "Retailing",
-   "title": "Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition",
-   "location": "London, England, GBR",
+   "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
+   "location": "Vancouver, British Columbia, CAN",
    "is_us": false,
-   "url": "https://www.amazon.jobs/en/jobs/10552039/business-developer-intern-2027-12-months-amazon-university-talent-acquisition",
-   "age_days": 5,
-   "ats": "custom"
-  },
-  {
-   "company": "Amazon",
-   "rank": 1,
-   "sector": "Retailing",
-   "title": "Software Development Engineer Intern - Summer 2027 (USA)",
-   "location": "Seattle, Washington, USA",
-   "is_us": true,
-   "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa",
+   "url": "https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can",
    "age_days": 5,
    "ats": "custom"
   },
@@ -1567,28 +1534,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Scale AI",
-   "rank": null,
-   "sector": "Artificial Intelligence",
-   "title": "Software Engineering Intern (Summer 2027)",
-   "location": "Doha, Qatar",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
-   "age_days": 5,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Scale AI",
-   "rank": null,
-   "sector": "Artificial Intelligence",
-   "title": "Software Engineering Intern (Summer 2027)",
-   "location": "London, UK",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-   "age_days": 5,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Lyft",
    "rank": null,
    "sector": "Consumer Internet",
@@ -1677,39 +1622,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Figma",
-   "rank": null,
-   "sector": "Productivity Software",
-   "title": "Software Engineer Intern (Summer 2027)",
-   "location": "San Francisco, CA \u2022 New York, NY",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
-   "age_days": 5,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Figma",
-   "rank": null,
-   "sector": "Productivity Software",
-   "title": "Software Engineer Intern (Winter 2027)",
-   "location": "San Francisco, CA \u2022 New York, NY",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
-   "age_days": 5,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
-   "location": "London, England, United Kingdom",
-   "is_us": false,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8208465",
-   "age_days": 5,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Vercel",
    "rank": null,
    "sector": "Developer Tools",
@@ -1765,13 +1677,57 @@
    "ats": "ashby"
   },
   {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Tools Programmer Intern",
+   "location": "Cary,North Carolina,United States",
+   "is_us": true,
+   "url": "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004",
+   "age_days": 5,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure",
+   "location": "London, England, United Kingdom",
+   "is_us": false,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8205680",
+   "age_days": 5,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, MS/PhD, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
+   "location": "Warsaw, Poland",
+   "is_us": false,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8214729",
+   "age_days": 5,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Amazon",
    "rank": 1,
    "sector": "Retailing",
-   "title": "Software Developer Intern, Field Innovation, Security Search and Observability (SSO)",
-   "location": "SGP",
+   "title": "Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition",
+   "location": "London, England, GBR",
    "is_us": false,
-   "url": "https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso",
+   "url": "https://www.amazon.jobs/en/jobs/10552039/business-developer-intern-2027-12-months-amazon-university-talent-acquisition",
+   "age_days": 6,
+   "ats": "custom"
+  },
+  {
+   "company": "Amazon",
+   "rank": 1,
+   "sector": "Retailing",
+   "title": "Software Development Engineer Intern - Summer 2027 (USA)",
+   "location": "Seattle, Washington, USA",
+   "is_us": true,
+   "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa",
    "age_days": 6,
    "ats": "custom"
   },
@@ -1974,17 +1930,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Samsara",
-   "rank": null,
-   "sector": "Internet of Things",
-   "title": "Software Engineering Internship - San Francisco",
-   "location": "San Francisco - SF9",
-   "is_us": false,
-   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
-   "age_days": 6,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Ciena",
    "rank": null,
    "sector": "Enterprise Hardware",
@@ -2005,6 +1950,61 @@
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI---Automation-Intern---GCN-Services-Business-Operations_R031664",
    "age_days": 6,
    "ats": "workday"
+  },
+  {
+   "company": "Figma",
+   "rank": null,
+   "sector": "Productivity Software",
+   "title": "Software Engineer Intern (Summer 2027)",
+   "location": "San Francisco, CA \u2022 New York, NY",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+   "age_days": 6,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Figma",
+   "rank": null,
+   "sector": "Productivity Software",
+   "title": "Software Engineer Intern (Winter 2027)",
+   "location": "San Francisco, CA \u2022 New York, NY",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+   "age_days": 6,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
+   "location": "London, England, United Kingdom",
+   "is_us": false,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8208465",
+   "age_days": 6,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Scale AI",
+   "rank": null,
+   "sector": "Artificial Intelligence",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "location": "London, UK",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+   "age_days": 6,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Scale AI",
+   "rank": null,
+   "sector": "Artificial Intelligence",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "location": "Doha, Qatar",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+   "age_days": 6,
+   "ats": "greenhouse"
   },
   {
    "company": "Cisco Meraki",
@@ -2049,6 +2049,17 @@
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Co-op----Canada_2024111",
    "age_days": 6,
    "ats": "workday"
+  },
+  {
+   "company": "Amazon",
+   "rank": 1,
+   "sector": "Retailing",
+   "title": "Software Developer Intern, Field Innovation, Security Search and Observability (SSO)",
+   "location": "SGP",
+   "is_us": false,
+   "url": "https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso",
+   "age_days": 7,
+   "ats": "custom"
   },
   {
    "company": "Nvidia",
@@ -2337,24 +2348,13 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Coinbase",
+   "company": "Samsara",
    "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer Intern",
-   "location": "Hybrid - San Francisco, CA",
-   "is_us": true,
-   "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
-   "age_days": 7,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Figma",
-   "rank": null,
-   "sector": "Productivity Software",
-   "title": "Data Science Intern (2027)",
-   "location": "San Francisco, CA \u2022 New York, NY",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
+   "sector": "Internet of Things",
+   "title": "Software Engineering Internship - San Francisco",
+   "location": "San Francisco - SF9",
+   "is_us": false,
+   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
    "age_days": 7,
    "ats": "greenhouse"
   },
@@ -2557,17 +2557,6 @@
    "ats": "workday"
   },
   {
-   "company": "Western Digital",
-   "rank": 432,
-   "sector": "Technology",
-   "title": "Spring 2027 Co-Op - AI Systems Strategy",
-   "location": "Rochester, us",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/westerndigital/744000149367234",
-   "age_days": 8,
-   "ats": "smartrecruiters"
-  },
-  {
    "company": "Semgrep",
    "rank": null,
    "sector": "Security",
@@ -2599,105 +2588,6 @@
    "url": "https://jobs.ashbyhq.com/cerebras/c4faac59-3dbb-4ab7-9f74-d1fcbcddc7c6",
    "age_days": 8,
    "ats": "ashby"
-  },
-  {
-   "company": "Robinhood",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Developer Intern, Backend (Summer 2027)",
-   "location": "Toronto, Canada",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930",
-   "age_days": 8,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Robinhood",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Developer Intern/Co-op, Backend (Winter 2027)",
-   "location": "Toronto, Canada",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8194428?t=gh_src=&gh_jid=8194428",
-   "age_days": 8,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Robinhood",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Developer Intern, iOS (Summer 2027)",
-   "location": "Toronto, Canada",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&gh_jid=8199729",
-   "age_days": 8,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Robinhood",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Developer Intern, Web (Summer 2027)",
-   "location": "Toronto, Canada",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744",
-   "age_days": 8,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Robinhood",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineering Intern, Android (Summer 2027)",
-   "location": "Menlo Park, CA; New York, NY",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
-   "age_days": 8,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Robinhood",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineering Intern, Backend (Summer 2027)",
-   "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225",
-   "age_days": 8,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Robinhood",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineering Intern, iOS (Summer 2027)",
-   "location": "Menlo Park, CA; New York, NY",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
-   "age_days": 8,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Robinhood",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineering Intern, Web (Summer 2027)",
-   "location": "Menlo Park, CA; New York, NY",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
-   "age_days": 8,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Figma",
-   "rank": null,
-   "sector": "Productivity Software",
-   "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027)",
-   "location": "London, England",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004",
-   "age_days": 8,
-   "ats": "greenhouse"
   },
   {
    "company": "Ciena",
@@ -2788,6 +2678,28 @@
    "ats": "workday"
   },
   {
+   "company": "Coinbase",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer Intern",
+   "location": "Hybrid - San Francisco, CA",
+   "is_us": true,
+   "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+   "age_days": 8,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Figma",
+   "rank": null,
+   "sector": "Productivity Software",
+   "title": "Data Science Intern (2027)",
+   "location": "San Francisco, CA \u2022 New York, NY",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
+   "age_days": 8,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Nvidia",
    "rank": 16,
    "sector": "Technology",
@@ -2799,15 +2711,114 @@
    "ats": "workday"
   },
   {
-   "company": "Amazon",
-   "rank": 1,
-   "sector": "Retailing",
-   "title": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
-   "location": "Toronto, Ontario, CAN",
+   "company": "Western Digital",
+   "rank": 432,
+   "sector": "Technology",
+   "title": "Spring 2027 Co-Op - AI Systems Strategy",
+   "location": "Rochester, us",
    "is_us": false,
-   "url": "https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027",
-   "age_days": 11,
-   "ats": "custom"
+   "url": "https://jobs.smartrecruiters.com/westerndigital/744000149367234",
+   "age_days": 9,
+   "ats": "smartrecruiters"
+  },
+  {
+   "company": "Robinhood",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Developer Intern, Backend (Summer 2027)",
+   "location": "Toronto, Canada",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930",
+   "age_days": 9,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Robinhood",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Developer Intern/Co-op, Backend (Winter 2027)",
+   "location": "Toronto, Canada",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8194428?t=gh_src=&gh_jid=8194428",
+   "age_days": 9,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Robinhood",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Developer Intern, iOS (Summer 2027)",
+   "location": "Toronto, Canada",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&gh_jid=8199729",
+   "age_days": 9,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Robinhood",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Developer Intern, Web (Summer 2027)",
+   "location": "Toronto, Canada",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744",
+   "age_days": 9,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Robinhood",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineering Intern, Android (Summer 2027)",
+   "location": "Menlo Park, CA; New York, NY",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+   "age_days": 9,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Robinhood",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineering Intern, Backend (Summer 2027)",
+   "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225",
+   "age_days": 9,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Robinhood",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineering Intern, iOS (Summer 2027)",
+   "location": "Menlo Park, CA; New York, NY",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
+   "age_days": 9,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Robinhood",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineering Intern, Web (Summer 2027)",
+   "location": "Menlo Park, CA; New York, NY",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+   "age_days": 9,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Figma",
+   "rank": null,
+   "sector": "Productivity Software",
+   "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027)",
+   "location": "London, England",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004",
+   "age_days": 9,
+   "ats": "greenhouse"
   },
   {
    "company": "Nvidia",
@@ -3019,6 +3030,17 @@
    "ats": "ashby"
   },
   {
+   "company": "Amazon",
+   "rank": 1,
+   "sector": "Retailing",
+   "title": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
+   "location": "Toronto, Ontario, CAN",
+   "is_us": false,
+   "url": "https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027",
+   "age_days": 12,
+   "ats": "custom"
+  },
+  {
    "company": "Cigna Group",
    "rank": 14,
    "sector": "Health Care",
@@ -3173,72 +3195,6 @@
    "ats": "ashby"
   },
   {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern",
-   "location": "Bengaluru",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-   "age_days": 12,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern",
-   "location": "London",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8130867",
-   "age_days": 12,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern",
-   "location": "Bucharest",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8130807",
-   "age_days": 12,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern (Summer or Winter)",
-   "location": "San Francisco, Seattle, New York City",
-   "is_us": true,
-   "url": "https://stripe.com/jobs/search?gh_jid=8128745",
-   "age_days": 12,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern (Summer or Winter)",
-   "location": "Dublin",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-   "age_days": 12,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern (Summer or Winter)",
-   "location": "Toronto",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8130805",
-   "age_days": 12,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Red Hat",
    "rank": null,
    "sector": "Enterprise Software",
@@ -3259,17 +3215,6 @@
    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587",
    "age_days": 12,
    "ats": "workday"
-  },
-  {
-   "company": "Amazon",
-   "rank": 1,
-   "sector": "Retailing",
-   "title": "Software Development Engineer Intern, ROBOTICS - 2027",
-   "location": "Toronto, Ontario, CAN",
-   "is_us": false,
-   "url": "https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027",
-   "age_days": 13,
-   "ats": "custom"
   },
   {
    "company": "Nvidia",
@@ -3393,28 +3338,6 @@
    "ats": "workday"
   },
   {
-   "company": "Epic Games",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Backend Services Programmer Intern",
-   "location": "Cary,North Carolina,United States",
-   "is_us": true,
-   "url": "https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004",
-   "age_days": 13,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Epic Games",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "UI Programmer Intern",
-   "location": "Cary,North Carolina,United States",
-   "is_us": true,
-   "url": "https://epicgames.com/careers/jobs/6183401004?gh_jid=6183401004",
-   "age_days": 13,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Toast",
    "rank": null,
    "sector": "Financial Technology",
@@ -3422,28 +3345,6 @@
    "location": "Dublin, Ireland",
    "is_us": false,
    "url": "https://careers.toasttab.com/jobs?gh_jid=8187654",
-   "age_days": 13,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Rocket Lab",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Flight Software Intern Spring 2027",
-   "location": "Littleton, CO",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989724003",
-   "age_days": 13,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Rocket Lab",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Flight Software Intern Summer 2027",
-   "location": "Littleton, CO",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989722003",
    "age_days": 13,
    "ats": "greenhouse"
   },
@@ -3492,13 +3393,79 @@
    "ats": "workday"
   },
   {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern",
+   "location": "Bengaluru",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+   "age_days": 13,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern",
+   "location": "London",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+   "age_days": 13,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern",
+   "location": "Bucharest",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8130807",
+   "age_days": 13,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern (Summer or Winter)",
+   "location": "Toronto",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+   "age_days": 13,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern (Summer or Winter)",
+   "location": "San Francisco, Seattle, New York City",
+   "is_us": true,
+   "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+   "age_days": 13,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern (Summer or Winter)",
+   "location": "Dublin",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+   "age_days": 13,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Amazon",
    "rank": 1,
    "sector": "Retailing",
-   "title": "System Dev Engineer I Co-op (Robotics), Autonomous AI Security",
-   "location": "Austin, Texas, USA",
-   "is_us": true,
-   "url": "https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security",
+   "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+   "location": "Toronto, Ontario, CAN",
+   "is_us": false,
+   "url": "https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027",
    "age_days": 14,
    "ats": "custom"
   },
@@ -3657,28 +3624,6 @@
    "ats": "workday"
   },
   {
-   "company": "Trimble",
-   "rank": null,
-   "sector": "Industrial Technology",
-   "title": "Software Engineering Intern",
-   "location": "7 Locations",
-   "is_us": null,
-   "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
-   "age_days": 14,
-   "ats": "workday"
-  },
-  {
-   "company": "Trimble",
-   "rank": null,
-   "sector": "Industrial Technology",
-   "title": "Hardware/Software Testing Intern",
-   "location": "3 Locations",
-   "is_us": null,
-   "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
-   "age_days": 14,
-   "ats": "workday"
-  },
-  {
    "company": "Snowflake",
    "rank": null,
    "sector": "Data Infrastructure",
@@ -3688,50 +3633,6 @@
    "url": "https://jobs.ashbyhq.com/snowflake/90190b16-fd27-4366-8c10-9c4896157681",
    "age_days": 14,
    "ats": "ashby"
-  },
-  {
-   "company": "Coinbase",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Data Engineer Intern",
-   "location": "Hybrid - San Francisco, CA",
-   "is_us": true,
-   "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Coinbase",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Data Science Intern",
-   "location": "Hybrid - San Francisco, CA",
-   "is_us": true,
-   "url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Coinbase",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Machine Learning Engineer Intern",
-   "location": "Hybrid - San Francisco, CA",
-   "is_us": true,
-   "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Shield AI",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "Summer 2027 - Software Engineer Intern",
-   "location": "San Diego, California",
-   "is_us": true,
-   "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010",
-   "age_days": 14,
-   "ats": "lever"
   },
   {
    "company": "Red Hat",
@@ -3767,6 +3668,72 @@
    "ats": "workday"
   },
   {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Backend Services Programmer Intern",
+   "location": "Cary,North Carolina,United States",
+   "is_us": true,
+   "url": "https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004",
+   "age_days": 14,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "UI Programmer Intern",
+   "location": "Cary,North Carolina,United States",
+   "is_us": true,
+   "url": "https://epicgames.com/careers/jobs/6183401004?gh_jid=6183401004",
+   "age_days": 14,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Rocket Lab",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Flight Software Intern Spring 2027",
+   "location": "Littleton, CO",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989724003",
+   "age_days": 14,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Rocket Lab",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Flight Software Intern Summer 2027",
+   "location": "Littleton, CO",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989722003",
+   "age_days": 14,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Trimble",
+   "rank": null,
+   "sector": "Industrial Technology",
+   "title": "Software Engineering Intern",
+   "location": "7 Locations",
+   "is_us": null,
+   "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
+   "age_days": 14,
+   "ats": "workday"
+  },
+  {
+   "company": "Trimble",
+   "rank": null,
+   "sector": "Industrial Technology",
+   "title": "Hardware/Software Testing Intern",
+   "location": "3 Locations",
+   "is_us": null,
+   "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
+   "age_days": 14,
+   "ats": "workday"
+  },
+  {
    "company": "Cisco Meraki",
    "rank": null,
    "sector": "Enterprise Hardware",
@@ -3787,6 +3754,17 @@
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ecublens-Switzerland/Wireless-Software-Engineer--Intern_2025061",
    "age_days": 14,
    "ats": "workday"
+  },
+  {
+   "company": "Amazon",
+   "rank": 1,
+   "sector": "Retailing",
+   "title": "System Dev Engineer I Co-op (Robotics), Autonomous AI Security",
+   "location": "Austin, Texas, USA",
+   "is_us": true,
+   "url": "https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security",
+   "age_days": 15,
+   "ats": "custom"
   },
   {
    "company": "Apple",
@@ -3932,6 +3910,50 @@
    "ats": "ashby"
   },
   {
+   "company": "Coinbase",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Data Engineer Intern",
+   "location": "Hybrid - San Francisco, CA",
+   "is_us": true,
+   "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+   "age_days": 15,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Coinbase",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Data Science Intern",
+   "location": "Hybrid - San Francisco, CA",
+   "is_us": true,
+   "url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462",
+   "age_days": 15,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Coinbase",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Machine Learning Engineer Intern",
+   "location": "Hybrid - San Francisco, CA",
+   "is_us": true,
+   "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+   "age_days": 15,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Shield AI",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "Summer 2027 - Software Engineer Intern",
+   "location": "San Diego, California",
+   "is_us": true,
+   "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010",
+   "age_days": 15,
+   "ats": "lever"
+  },
+  {
    "company": "Nvidia",
    "rank": 16,
    "sector": "Technology",
@@ -3952,17 +3974,6 @@
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-System-Arch-AI-Infra-Intern---2027_JR2023889",
    "age_days": 17,
    "ats": "workday"
-  },
-  {
-   "company": "Amazon",
-   "rank": 1,
-   "sector": "Retailing",
-   "title": "Software Development Engineer Intern/Co-Op, ROBOTICS -  2027",
-   "location": "North Reading, Massachusetts, USA",
-   "is_us": true,
-   "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027",
-   "age_days": 18,
-   "ats": "custom"
   },
   {
    "company": "Nvidia",
@@ -4053,17 +4064,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Scale AI",
-   "rank": null,
-   "sector": "Artificial Intelligence",
-   "title": "Software Engineering Intern (Summer 2027)",
-   "location": "San Francisco, CA",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
-   "age_days": 18,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Cisco Meraki",
    "rank": null,
    "sector": "Enterprise Hardware",
@@ -4073,6 +4073,17 @@
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Galway-Ireland/Software-Engineer-Intern_2024810",
    "age_days": 18,
    "ats": "workday"
+  },
+  {
+   "company": "Amazon",
+   "rank": 1,
+   "sector": "Retailing",
+   "title": "Software Development Engineer Intern/Co-Op, ROBOTICS -  2027",
+   "location": "North Reading, Massachusetts, USA",
+   "is_us": true,
+   "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027",
+   "age_days": 19,
+   "ats": "custom"
   },
   {
    "company": "Cigna Group",
@@ -4196,26 +4207,15 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Hermeus",
+   "company": "Scale AI",
    "rank": null,
-   "sector": "Aerospace",
-   "title": "GNC & Flight Software Intern - Spring/Summer 2027",
-   "location": "Atlanta, GA",
+   "sector": "Artificial Intelligence",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "location": "San Francisco, CA",
    "is_us": true,
-   "url": "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
    "age_days": 19,
-   "ats": "lever"
-  },
-  {
-   "company": "Hermeus",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
-   "location": "Atlanta, GA",
-   "is_us": true,
-   "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796",
-   "age_days": 19,
-   "ats": "lever"
+   "ats": "greenhouse"
   },
   {
    "company": "HP",
@@ -4293,6 +4293,28 @@
    "url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c",
    "age_days": 20,
    "ats": "ashby"
+  },
+  {
+   "company": "Hermeus",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "GNC & Flight Software Intern - Spring/Summer 2027",
+   "location": "Atlanta, GA",
+   "is_us": true,
+   "url": "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7",
+   "age_days": 20,
+   "ats": "lever"
+  },
+  {
+   "company": "Hermeus",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
+   "location": "Atlanta, GA",
+   "is_us": true,
+   "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796",
+   "age_days": 20,
+   "ats": "lever"
   },
   {
    "company": "Nvidia",
@@ -4427,28 +4449,6 @@
    "ats": "workday"
   },
   {
-   "company": "SpaceX",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Spring 2027 Software Engineering Internship/Co-op",
-   "location": "Flexible - Any SpaceX Site",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
-   "age_days": 21,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "SpaceX",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Summer 2027 Software Engineering Internship/Co-op",
-   "location": "Flexible - Any SpaceX Site",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
-   "age_days": 21,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Tower Research Capital",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -4458,28 +4458,6 @@
    "url": "https://www.tower-research.com/open-positions/?gh_jid=7011493",
    "age_days": 21,
    "ats": "greenhouse"
-  },
-  {
-   "company": "Hermeus",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Software Engineering Intern (HIL) - Spring/Summer 2027",
-   "location": "Atlanta, GA",
-   "is_us": true,
-   "url": "https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b",
-   "age_days": 21,
-   "ats": "lever"
-  },
-  {
-   "company": "Hermeus",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027",
-   "location": "Los Angeles, CA",
-   "is_us": true,
-   "url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936",
-   "age_days": 21,
-   "ats": "lever"
   },
   {
    "company": "Blue Origin",
@@ -4713,17 +4691,6 @@
    "ats": "workday"
   },
   {
-   "company": "Epic Games",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Frontend Programmer Intern",
-   "location": "Cary,North Carolina,United States",
-   "is_us": true,
-   "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004",
-   "age_days": 22,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Sierra",
    "rank": null,
    "sector": "Artificial Intelligence",
@@ -4757,6 +4724,50 @@
    "ats": "workday"
   },
   {
+   "company": "SpaceX",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Spring 2027 Software Engineering Internship/Co-op",
+   "location": "Flexible - Any SpaceX Site",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
+   "age_days": 22,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "SpaceX",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Summer 2027 Software Engineering Internship/Co-op",
+   "location": "Flexible - Any SpaceX Site",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
+   "age_days": 22,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Hermeus",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Software Engineering Intern (HIL) - Spring/Summer 2027",
+   "location": "Atlanta, GA",
+   "is_us": true,
+   "url": "https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b",
+   "age_days": 22,
+   "ats": "lever"
+  },
+  {
+   "company": "Hermeus",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027",
+   "location": "Los Angeles, CA",
+   "is_us": true,
+   "url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936",
+   "age_days": 22,
+   "ats": "lever"
+  },
+  {
    "company": "Cisco Meraki",
    "rank": null,
    "sector": "Enterprise Hardware",
@@ -4766,6 +4777,17 @@
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Lysaker-Norway/Software-Engineer-Summer-Internship---Lysaker--Norway_2024366",
    "age_days": 22,
    "ats": "workday"
+  },
+  {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Frontend Programmer Intern",
+   "location": "Cary,North Carolina,United States",
+   "is_us": true,
+   "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004",
+   "age_days": 23,
+   "ats": "greenhouse"
   },
   {
    "company": "Nvidia",
@@ -4799,17 +4821,6 @@
    "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/Churchill-Summer-Internship--Investment-Infrastructure---Technology--IIT-_R260800515-1",
    "age_days": 25,
    "ats": "workday"
-  },
-  {
-   "company": "Epic Games",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Tools Programmer Intern",
-   "location": "Cary,North Carolina,United States",
-   "is_us": true,
-   "url": "https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004",
-   "age_days": 25,
-   "ats": "greenhouse"
   },
   {
    "company": "Virtu Financial",
@@ -4867,17 +4878,6 @@
    "ats": "workday"
   },
   {
-   "company": "Amazon",
-   "rank": 1,
-   "sector": "Retailing",
-   "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
-   "location": "Cupertino, California, USA",
-   "is_us": true,
-   "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
-   "age_days": 26,
-   "ats": "custom"
-  },
-  {
    "company": "Nvidia",
    "rank": 16,
    "sector": "Technology",
@@ -4909,6 +4909,28 @@
    "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1",
    "age_days": 26,
    "ats": "workday"
+  },
+  {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Tools Programmer Intern",
+   "location": "Cary,North Carolina,United States",
+   "is_us": true,
+   "url": "https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004",
+   "age_days": 26,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Amazon",
+   "rank": 1,
+   "sector": "Retailing",
+   "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
+   "location": "Cupertino, California, USA",
+   "is_us": true,
+   "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
+   "age_days": 27,
+   "ats": "custom"
   },
   {
    "company": "Nvidia",
@@ -4966,17 +4988,6 @@
    "ats": "workday"
   },
   {
-   "company": "Epic Games",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Gameplay Programmer Intern",
-   "location": "Cary,North Carolina,United States",
-   "is_us": true,
-   "url": "https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004",
-   "age_days": 28,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Nvidia",
    "rank": 16,
    "sector": "Technology",
@@ -5010,17 +5021,6 @@
    "ats": "workday"
   },
   {
-   "company": "Western Digital",
-   "rank": 432,
-   "sector": "Technology",
-   "title": "Intern - AI Information Technology (Studying Master's and Bachelor Degree)",
-   "location": "BangPa-in, th",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/westerndigital/744000145156358",
-   "age_days": 29,
-   "ats": "smartrecruiters"
-  },
-  {
    "company": "Kodiak Robotics",
    "rank": null,
    "sector": "Automotive",
@@ -5028,6 +5028,17 @@
    "location": "Mountain View, CA",
    "is_us": true,
    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4377407009",
+   "age_days": 29,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Gameplay Programmer Intern",
+   "location": "Cary,North Carolina,United States",
+   "is_us": true,
+   "url": "https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004",
    "age_days": 29,
    "ats": "greenhouse"
   },
@@ -5461,6 +5472,17 @@
    "ats": "workday"
   },
   {
+   "company": "Western Digital",
+   "rank": 432,
+   "sector": "Technology",
+   "title": "Intern - AI Information Technology (Studying Master's and Bachelor Degree)",
+   "location": "BangPa-in, th",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/westerndigital/744000145156358",
+   "age_days": 30,
+   "ats": "smartrecruiters"
+  },
+  {
    "company": "Marvell Technology",
    "rank": 476,
    "sector": "Technology",
@@ -5648,17 +5670,6 @@
    "ats": "workday"
   },
   {
-   "company": "Epic Games",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Engine Programmer Intern",
-   "location": "London,England,United Kingdom",
-   "is_us": false,
-   "url": "https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004",
-   "age_days": 33,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Tower Research Capital",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -5701,6 +5712,17 @@
    "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
    "age_days": 34,
    "ats": "ashby"
+  },
+  {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Engine Programmer Intern",
+   "location": "London,England,United Kingdom",
+   "is_us": false,
+   "url": "https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004",
+   "age_days": 34,
+   "ats": "greenhouse"
   },
   {
    "company": "Jump Trading",
@@ -5831,7 +5853,7 @@
    "location": "Auckland, NZ",
    "is_us": false,
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7845193003",
-   "age_days": 36,
+   "age_days": 37,
    "ats": "greenhouse"
   },
   {
@@ -5890,61 +5912,6 @@
    "ats": "ashby"
   },
   {
-   "company": "Epic Games",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Gameplay Programmer Intern",
-   "location": "Cary,North Carolina,United States",
-   "is_us": true,
-   "url": "https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004",
-   "age_days": 40,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Epic Games",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Machine Learning Intern",
-   "location": "BLANK,BLANK,Multiple Locations",
-   "is_us": false,
-   "url": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004",
-   "age_days": 40,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Epic Games",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Machine Learning Intern",
-   "location": "London,England,United Kingdom",
-   "is_us": false,
-   "url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004",
-   "age_days": 40,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Epic Games",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Machine Learning Intern",
-   "location": "Montreal,Quebec,Canada",
-   "is_us": false,
-   "url": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
-   "age_days": 40,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Western Digital",
-   "rank": 432,
-   "sector": "Technology",
-   "title": "Summer 2027 Intern - Software Engineering",
-   "location": "San Jose, us",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/westerndigital/744000143171017",
-   "age_days": 41,
-   "ats": "smartrecruiters"
-  },
-  {
    "company": "Front",
    "rank": null,
    "sector": "Enterprise Software",
@@ -5989,6 +5956,61 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Gameplay Programmer Intern",
+   "location": "Cary,North Carolina,United States",
+   "is_us": true,
+   "url": "https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004",
+   "age_days": 41,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Machine Learning Intern",
+   "location": "Montreal,Quebec,Canada",
+   "is_us": false,
+   "url": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
+   "age_days": 41,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Machine Learning Intern",
+   "location": "London,England,United Kingdom",
+   "is_us": false,
+   "url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004",
+   "age_days": 41,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Machine Learning Intern",
+   "location": "BLANK,BLANK,Multiple Locations",
+   "is_us": false,
+   "url": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004",
+   "age_days": 41,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Western Digital",
+   "rank": 432,
+   "sector": "Technology",
+   "title": "Summer 2027 Intern - Software Engineering",
+   "location": "San Jose, us",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/westerndigital/744000143171017",
+   "age_days": 42,
+   "ats": "smartrecruiters"
+  },
+  {
    "company": "Palantir Technologies",
    "rank": null,
    "sector": "Data Infrastructure",
@@ -6009,17 +6031,6 @@
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
    "age_days": 45,
    "ats": "greenhouse"
-  },
-  {
-   "company": "Western Digital",
-   "rank": 432,
-   "sector": "Technology",
-   "title": "Internship - Software Engineering",
-   "location": "Petaling Jaya, my",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/westerndigital/744000142050119",
-   "age_days": 46,
-   "ats": "smartrecruiters"
   },
   {
    "company": "Varda Space Industries",
@@ -6047,23 +6058,23 @@
    "company": "Western Digital",
    "rank": 432,
    "sector": "Technology",
-   "title": "Intern, Firmware Engineering",
+   "title": "Internship - Software Engineering",
    "location": "Petaling Jaya, my",
    "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/westerndigital/744000141840819",
+   "url": "https://jobs.smartrecruiters.com/westerndigital/744000142050119",
    "age_days": 47,
    "ats": "smartrecruiters"
   },
   {
-   "company": "Rocket Lab",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Launch Safety Software Intern",
-   "location": "Auckland, NZ",
+   "company": "Western Digital",
+   "rank": 432,
+   "sector": "Technology",
+   "title": "Intern, Firmware Engineering",
+   "location": "Petaling Jaya, my",
    "is_us": false,
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7827254003",
-   "age_days": 47,
-   "ats": "greenhouse"
+   "url": "https://jobs.smartrecruiters.com/westerndigital/744000141840819",
+   "age_days": 48,
+   "ats": "smartrecruiters"
   },
   {
    "company": "Snowflake",
@@ -6075,6 +6086,17 @@
    "url": "https://jobs.ashbyhq.com/snowflake/fc1923c1-b151-4458-a792-40d58331a5be",
    "age_days": 48,
    "ats": "ashby"
+  },
+  {
+   "company": "Rocket Lab",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Launch Safety Software Intern",
+   "location": "Auckland, NZ",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7827254003",
+   "age_days": 48,
+   "ats": "greenhouse"
   },
   {
    "company": "Belvedere Trading",
@@ -6095,7 +6117,7 @@
    "location": "Bayan Lepas, my",
    "is_us": false,
    "url": "https://jobs.smartrecruiters.com/westerndigital/744000141229015",
-   "age_days": 50,
+   "age_days": 51,
    "ats": "smartrecruiters"
   },
   {
@@ -6106,7 +6128,7 @@
    "location": "Petaling Jaya, my",
    "is_us": false,
    "url": "https://jobs.smartrecruiters.com/westerndigital/744000141227773",
-   "age_days": 50,
+   "age_days": 51,
    "ats": "smartrecruiters"
   },
   {
@@ -6117,7 +6139,7 @@
    "location": "Auckland, NZ",
    "is_us": false,
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819101003",
-   "age_days": 51,
+   "age_days": 52,
    "ats": "greenhouse"
   },
   {
@@ -6209,17 +6231,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Old Mission Capital",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Software Engineer \u2013 2027 Internship Program (June Start)",
-   "location": "Chicago, IL, United States",
-   "is_us": true,
-   "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003",
-   "age_days": 69,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Akuna Capital",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -6271,6 +6282,17 @@
    "location": "Chicago, IL",
    "is_us": true,
    "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+   "age_days": 70,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Old Mission Capital",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Software Engineer \u2013 2027 Internship Program (June Start)",
+   "location": "Chicago, IL, United States",
+   "is_us": true,
+   "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003",
    "age_days": 70,
    "ats": "greenhouse"
   },
@@ -6337,7 +6359,7 @@
    "location": "Melbourne, Victoria, AUS",
    "is_us": false,
    "url": "https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning",
-   "age_days": 88,
+   "age_days": 89,
    "ats": "custom"
   },
   {
@@ -6348,7 +6370,7 @@
    "location": "Petaling Jaya, my",
    "is_us": false,
    "url": "https://jobs.smartrecruiters.com/westerndigital/744000134410659",
-   "age_days": 88,
+   "age_days": 89,
    "ats": "smartrecruiters"
   },
   {
@@ -6370,7 +6392,7 @@
    "location": "Melbourne, Victoria, AUS",
    "is_us": false,
    "url": "https://www.amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning",
-   "age_days": 91,
+   "age_days": 92,
    "ats": "custom"
   },
   {
@@ -6473,17 +6495,6 @@
    "ats": "ashby"
   },
   {
-   "company": "Amazon",
-   "rank": 1,
-   "sector": "Retailing",
-   "title": "2027 Software Dev Engineer Intern",
-   "location": "Dublin, IRL",
-   "is_us": false,
-   "url": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern",
-   "age_days": 132,
-   "ats": "custom"
-  },
-  {
    "company": "Cohere",
    "rank": null,
    "sector": "Artificial Intelligence",
@@ -6493,6 +6504,17 @@
    "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
    "age_days": 132,
    "ats": "ashby"
+  },
+  {
+   "company": "Amazon",
+   "rank": 1,
+   "sector": "Retailing",
+   "title": "2027 Software Dev Engineer Intern",
+   "location": "Dublin, IRL",
+   "is_us": false,
+   "url": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern",
+   "age_days": 133,
+   "ats": "custom"
   },
   {
    "company": "Palantir Technologies",
@@ -6645,7 +6667,7 @@
    "location": "BRA",
    "is_us": false,
    "url": "https://www.amazon.jobs/en/jobs/3139827/software-development-engineer-internship-vaga-para-mulheres-ies-latech",
-   "age_days": 287,
+   "age_days": 288,
    "ats": "custom"
   },
   {
@@ -6656,7 +6678,7 @@
    "location": "Berlin, Berlin, DEU",
    "is_us": false,
    "url": "https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development",
-   "age_days": 295,
+   "age_days": 296,
    "ats": "custom"
   },
   {
@@ -6667,7 +6689,7 @@
    "location": "Dresden, Saxony, DEU",
    "is_us": false,
    "url": "https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux",
-   "age_days": 305,
+   "age_days": 306,
    "ats": "custom"
   },
   {
@@ -6678,7 +6700,7 @@
    "location": "Zapopan, Jalisco, MEX",
    "is_us": false,
    "url": "https://www.amazon.jobs/en/jobs/3123243/software-development-engineer-internship-guadalajara",
-   "age_days": 319,
+   "age_days": 320,
    "ats": "custom"
   },
   {
@@ -6689,18 +6711,7 @@
    "location": "Mexico City, Mexico City, MEX",
    "is_us": false,
    "url": "https://www.amazon.jobs/en/jobs/3123246/software-development-engineer-internship-mexico-city",
-   "age_days": 319,
-   "ats": "custom"
-  },
-  {
-   "company": "Amazon",
-   "rank": 1,
-   "sector": "Retailing",
-   "title": "Software Development Intern, Intech",
-   "location": "BRA",
-   "is_us": false,
-   "url": "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech",
-   "age_days": 322,
+   "age_days": 320,
    "ats": "custom"
   },
   {
@@ -6712,6 +6723,17 @@
    "is_us": false,
    "url": "https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture",
    "age_days": 322,
+   "ats": "custom"
+  },
+  {
+   "company": "Amazon",
+   "rank": 1,
+   "sector": "Retailing",
+   "title": "Software Development Intern, Intech",
+   "location": "BRA",
+   "is_us": false,
+   "url": "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech",
+   "age_days": 323,
    "ats": "custom"
   },
   {
