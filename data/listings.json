@@ -1,13 +1,8 @@
 {
- "generated_utc": "2026-09-24T16:03:57+00:00",
- "companies_queried": 205,
- "companies_failed": [
-  {
-   "company": "Anduril Industries",
-   "error": "HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Max retries exceeded with url: /v1/boards/andurilindustr"
-  }
- ],
- "count": 655,
+ "generated_utc": "2026-09-24T19:54:26+00:00",
+ "companies_queried": 236,
+ "companies_failed": [],
+ "count": 665,
  "listings": [
   {
    "company": "Intel",
@@ -32,6 +27,17 @@
    "ats": "workday"
   },
   {
+   "company": "Xcel Energy",
+   "rank": 306,
+   "sector": "Energy",
+   "title": "AI Solutions Development Intern CO, MN",
+   "location": "2 Locations",
+   "is_us": null,
+   "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Solutions-Development-Intern-CO--MN_JR116329-1",
+   "age_days": 0,
+   "ats": "workday"
+  },
+  {
    "company": "DoorDash",
    "rank": 329,
    "sector": "Technology",
@@ -41,6 +47,28 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
    "age_days": 0,
    "ats": "greenhouse"
+  },
+  {
+   "company": "Motorola Solutions",
+   "rank": 378,
+   "sector": "Technology",
+   "title": "Software Engineering Intern - Summer 2027",
+   "location": "Plantation, FL",
+   "is_us": true,
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136",
+   "age_days": 0,
+   "ats": "workday"
+  },
+  {
+   "company": "Motorola Solutions",
+   "rank": 378,
+   "sector": "Technology",
+   "title": "Software Engineering Internship",
+   "location": "Cork, Ireland",
+   "is_us": false,
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cork-Ireland/Software-Engineering-Internship_R66949-1",
+   "age_days": 0,
+   "ats": "workday"
   },
   {
    "company": "Ramp",
@@ -90,6 +118,17 @@
    "company": "Samsara",
    "rank": null,
    "sector": "Internet of Things",
+   "title": "Firmware Engineer Co-Op",
+   "location": "San Francisco - SF9",
+   "is_us": false,
+   "url": "https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602",
+   "age_days": 0,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Samsara",
+   "rank": null,
+   "sector": "Internet of Things",
    "title": "Software Engineering Internship - San Francisco",
    "location": "San Francisco - SF9",
    "is_us": false,
@@ -105,6 +144,39 @@
    "location": "San Francisco, California, United States",
    "is_us": true,
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365",
+   "age_days": 0,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
+   "location": "Mountain View, CA, USA",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8227640",
+   "age_days": 0,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Vercel",
+   "rank": null,
+   "sector": "Developer Tools",
+   "title": "Software Engineering Intern - Summer '27",
+   "location": "Hybrid - San Francisco",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+   "age_days": 0,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Vercel",
+   "rank": null,
+   "sector": "Developer Tools",
+   "title": "Software Engineering Intern - Winter '27",
+   "location": "Hybrid - San Francisco",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
    "age_days": 0,
    "ats": "greenhouse"
   },
@@ -131,6 +203,61 @@
    "ats": "workday"
   },
   {
+   "company": "Geneva Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "AI Engineer Internship - Summer 2027",
+   "location": "Chicago Office",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5240107007",
+   "age_days": 0,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Geneva Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "C++ Developer (Intern)",
+   "location": "Chicago Office",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242063007",
+   "age_days": 0,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Geneva Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Python Developer Intern",
+   "location": "Chicago Office",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242196007",
+   "age_days": 0,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Appian",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Information Security Engineer Intern",
+   "location": "McLean, Virginia",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/appian/jobs/8088496",
+   "age_days": 0,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Appian",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineering Intern",
+   "location": "McLean, Virginia",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+   "age_days": 0,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Workiva",
    "rank": null,
    "sector": "Enterprise Software",
@@ -140,6 +267,39 @@
    "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190",
    "age_days": 0,
    "ats": "workday"
+  },
+  {
+   "company": "Astranis",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Software Developer, Network Software Intern (Summer 2027)",
+   "location": "San Francisco",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705597006",
+   "age_days": 0,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Astranis",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Software Developer, Network Software Intern (Winter 2027)",
+   "location": "San Francisco",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705599006",
+   "age_days": 0,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Astranis",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Supplier Quality Engineer Intern (Winter 2027)",
+   "location": "San Francisco",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4715989006",
+   "age_days": 0,
+   "ats": "greenhouse"
   },
   {
    "company": "Bosch",
@@ -538,28 +698,6 @@
    "ats": "workday"
   },
   {
-   "company": "Astranis",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Software Defined Radio Hardware Intern (Summer 2027)",
-   "location": "San Francisco",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Astranis",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Software Defined Radio Hardware Intern (Winter 2027)",
-   "location": "San Francisco",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Datadog",
    "rank": null,
    "sector": "Developer Tools",
@@ -611,6 +749,28 @@
    "location": "Mountain View, California",
    "is_us": true,
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Astranis",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Software Defined Radio Hardware Intern (Summer 2027)",
+   "location": "San Francisco",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Astranis",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Software Defined Radio Hardware Intern (Winter 2027)",
+   "location": "San Francisco",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
    "age_days": 1,
    "ats": "greenhouse"
   },
@@ -857,83 +1017,6 @@
    "ats": "workday"
   },
   {
-   "company": "Geneva Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Python Developer Intern",
-   "location": "Chicago Office",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242196007",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Appian",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Information Security Engineer Intern",
-   "location": "McLean, Virginia",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/appian/jobs/8088496",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Appian",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Software Engineering Intern",
-   "location": "McLean, Virginia",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Astranis",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Flight Software Intern (Summer 2027)",
-   "location": "San Francisco",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704598006",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Astranis",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Flight Software Intern (Winter 2027)",
-   "location": "San Francisco",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704595006",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Astranis",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Software Engineer Backend Intern (Summer 2027)",
-   "location": "San Francisco, CA",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Astranis",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
-   "location": "San Francisco, CA",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Schonfeld",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -985,17 +1068,6 @@
    "location": "Hong Kong, Hong Kong",
    "is_us": false,
    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7185553",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Thoughtworks",
-   "rank": null,
-   "sector": "Consulting",
-   "title": "Developer (Vapasi) - Intern",
-   "location": "Bangalore, India",
-   "is_us": false,
-   "url": "https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384",
    "age_days": 2,
    "ats": "greenhouse"
   },
@@ -1117,6 +1189,61 @@
    "location": "United States",
    "is_us": true,
    "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205514",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Astranis",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Flight Software Intern (Summer 2027)",
+   "location": "San Francisco",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704598006",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Astranis",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Flight Software Intern (Winter 2027)",
+   "location": "San Francisco",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704595006",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Astranis",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Software Engineer Backend Intern (Summer 2027)",
+   "location": "San Francisco, CA",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Astranis",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
+   "location": "San Francisco, CA",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Thoughtworks",
+   "rank": null,
+   "sector": "Consulting",
+   "title": "Developer (Vapasi) - Intern",
+   "location": "Bangalore, India",
+   "is_us": false,
+   "url": "https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384",
    "age_days": 2,
    "ats": "greenhouse"
   },
@@ -1330,17 +1457,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Geneva Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "C++ Developer (Intern)",
-   "location": "Chicago Office",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242063007",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Mercury",
    "rank": null,
    "sector": "Financial Technology",
@@ -1359,6 +1475,17 @@
    "location": "Pittsburgh, PA",
    "is_us": true,
    "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Optiver",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Software Engineer Intern (Summer 2027 - Chicago)",
+   "location": "Chicago, Illinois, United States",
+   "is_us": true,
+   "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
    "age_days": 3,
    "ats": "greenhouse"
   },
@@ -1506,13 +1633,46 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Optiver",
+   "company": "Anduril Industries",
    "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Software Engineer Intern (Summer 2027 - Chicago)",
-   "location": "Chicago, Illinois, United States",
+   "sector": "Defense Technology",
+   "title": "2027 Flight Software Engineer Intern",
+   "location": "Costa Mesa, California, United States",
    "is_us": true,
-   "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "2027 Software Engineer Intern",
+   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "Winter 2027 Software Engineer Co-op",
+   "location": "Quincy, Massachusetts, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "Winter 2027 Systems Engineer Co-op",
+   "location": "Quincy, Massachusetts, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
    "age_days": 3,
    "ats": "greenhouse"
   },
@@ -1737,17 +1897,6 @@
    "ats": "workday"
   },
   {
-   "company": "Gemini",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineering Intern (Winter 2027)",
-   "location": "New York, New York",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272",
-   "age_days": 6,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Epic Games",
    "rank": null,
    "sector": "Gaming",
@@ -1766,17 +1915,6 @@
    "location": "Toronto, Canada",
    "is_us": false,
    "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
-   "age_days": 6,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Astranis",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Environmental Test Engineer Intern (Winter 2027)",
-   "location": "San Francisco",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705652006",
    "age_days": 6,
    "ats": "greenhouse"
   },
@@ -1803,6 +1941,17 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Gemini",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineering Intern (Winter 2027)",
+   "location": "New York, New York",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272",
+   "age_days": 6,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Waymo",
    "rank": null,
    "sector": "Automotive",
@@ -1821,6 +1970,17 @@
    "location": "Warsaw, Poland",
    "is_us": false,
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8214729",
+   "age_days": 6,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Astranis",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Environmental Test Engineer Intern (Winter 2027)",
+   "location": "San Francisco",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705652006",
    "age_days": 6,
    "ats": "greenhouse"
   },
@@ -2111,50 +2271,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Jump Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Campus Software Engineer (Intern)",
-   "location": "London",
-   "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
-   "age_days": 7,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Vercel",
-   "rank": null,
-   "sector": "Developer Tools",
-   "title": "Software Engineering Intern - Summer '27",
-   "location": "Hybrid - San Francisco",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
-   "age_days": 7,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Vercel",
-   "rank": null,
-   "sector": "Developer Tools",
-   "title": "Software Engineering Intern - Winter '27",
-   "location": "Hybrid - San Francisco",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
-   "age_days": 7,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Geneva Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "AI Engineer Internship - Summer 2027",
-   "location": "Chicago Office",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5240107007",
-   "age_days": 7,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Abridge",
    "rank": null,
    "sector": "Health Technology",
@@ -2239,6 +2355,17 @@
    "location": "London, England, United Kingdom",
    "is_us": false,
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8208465",
+   "age_days": 7,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Jump Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Campus Software Engineer (Intern)",
+   "location": "London",
+   "is_us": false,
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
    "age_days": 7,
    "ats": "greenhouse"
   },
@@ -2958,17 +3085,6 @@
    "ats": "ashby"
   },
   {
-   "company": "Cerebras Systems",
-   "rank": null,
-   "sector": "Semiconductors",
-   "title": "DevOps Engineer Intern - PEY",
-   "location": "Toronto, CAN",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/cerebras/c4faac59-3dbb-4ab7-9f74-d1fcbcddc7c6",
-   "age_days": 10,
-   "ats": "ashby"
-  },
-  {
    "company": "Robinhood",
    "rank": null,
    "sector": "Financial Technology",
@@ -3086,6 +3202,17 @@
    "location": "Paris",
    "is_us": false,
    "url": "https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b",
+   "age_days": 10,
+   "ats": "ashby"
+  },
+  {
+   "company": "Cerebras Systems",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "DevOps Engineer Intern - PEY",
+   "location": "Toronto, CAN",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/cerebras/c4faac59-3dbb-4ab7-9f74-d1fcbcddc7c6",
    "age_days": 10,
    "ats": "ashby"
   },
@@ -3453,6 +3580,83 @@
    "ats": "workday"
   },
   {
+   "company": "Sentry",
+   "rank": null,
+   "sector": "Developer Tools",
+   "title": "Software Engineer, Intern (Summer 2027)",
+   "location": "Vienna, Austria",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2",
+   "age_days": 14,
+   "ats": "ashby"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern",
+   "location": "London",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+   "age_days": 14,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern",
+   "location": "Bengaluru",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+   "age_days": 14,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern",
+   "location": "Bucharest",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8130807",
+   "age_days": 14,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern (Summer or Winter)",
+   "location": "San Francisco, Seattle, New York City",
+   "is_us": true,
+   "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+   "age_days": 14,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern (Summer or Winter)",
+   "location": "Toronto",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+   "age_days": 14,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Stripe",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Intern (Summer or Winter)",
+   "location": "Dublin",
+   "is_us": false,
+   "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+   "age_days": 14,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Verkada",
    "rank": null,
    "sector": "Internet of Things",
@@ -3504,83 +3708,6 @@
    "location": "San Mateo, CA United States",
    "is_us": true,
    "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Sentry",
-   "rank": null,
-   "sector": "Developer Tools",
-   "title": "Software Engineer, Intern (Summer 2027)",
-   "location": "Vienna, Austria",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2",
-   "age_days": 14,
-   "ats": "ashby"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern",
-   "location": "Bengaluru",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern",
-   "location": "London",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8130867",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern",
-   "location": "Bucharest",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8130807",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern (Summer or Winter)",
-   "location": "Toronto",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8130805",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern (Summer or Winter)",
-   "location": "San Francisco, Seattle, New York City",
-   "is_us": true,
-   "url": "https://stripe.com/jobs/search?gh_jid=8128745",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Stripe",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern (Summer or Winter)",
-   "location": "Dublin",
-   "is_us": false,
-   "url": "https://stripe.com/jobs/search?gh_jid=8097801",
    "age_days": 14,
    "ats": "greenhouse"
   },
@@ -3750,15 +3877,26 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Saronic",
+   "company": "Optiver",
    "rank": null,
-   "sector": "Defense Technology",
-   "title": "Software Engineer Intern (Summer 2027)",
-   "location": "Austin, TX",
-   "is_us": true,
-   "url": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2",
+   "sector": "Quantitative Finance",
+   "title": "Software Engineer Internship (2027 Start)",
+   "location": "London, England, United Kingdom",
+   "is_us": false,
+   "url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
    "age_days": 15,
-   "ats": "ashby"
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Optiver",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Software Engineer Internship (2027 Start)",
+   "location": "Amsterdam, North Holland, Netherlands",
+   "is_us": false,
+   "url": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
+   "age_days": 15,
+   "ats": "greenhouse"
   },
   {
    "company": "Toast",
@@ -3794,26 +3932,15 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Optiver",
+   "company": "Saronic",
    "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Software Engineer Internship (2027 Start)",
-   "location": "London, England, United Kingdom",
-   "is_us": false,
-   "url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
+   "sector": "Defense Technology",
+   "title": "Software Engineer Intern (Summer 2027)",
+   "location": "Austin, TX",
+   "is_us": true,
+   "url": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2",
    "age_days": 15,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Optiver",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Software Engineer Internship (2027 Start)",
-   "location": "Amsterdam, North Holland, Netherlands",
-   "is_us": false,
-   "url": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
-   "age_days": 15,
-   "ats": "greenhouse"
+   "ats": "ashby"
   },
   {
    "company": "Apple",
@@ -4179,17 +4306,6 @@
    "ats": "workday"
   },
   {
-   "company": "Xcel Energy",
-   "rank": 306,
-   "sector": "Energy",
-   "title": "AI Solutions Development Intern CO, MN",
-   "location": "2 Locations",
-   "is_us": null,
-   "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Solutions-Development-Intern-CO--MN_JR116329-1",
-   "age_days": 17,
-   "ats": "workday"
-  },
-  {
    "company": "Dropbox",
    "rank": null,
    "sector": "Productivity Software",
@@ -4410,6 +4526,28 @@
    "ats": "workday"
   },
   {
+   "company": "Hermeus",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "GNC & Flight Software Intern - Spring/Summer 2027",
+   "location": "Atlanta, GA",
+   "is_us": true,
+   "url": "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7",
+   "age_days": 21,
+   "ats": "lever"
+  },
+  {
+   "company": "Hermeus",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
+   "location": "Atlanta, GA",
+   "is_us": true,
+   "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796",
+   "age_days": 21,
+   "ats": "lever"
+  },
+  {
    "company": "Jump Trading",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -4436,9 +4574,9 @@
    "rank": null,
    "sector": "Quantitative Finance",
    "title": "Campus Python Software Engineer (Intern)",
-   "location": "Singapore",
+   "location": "Shanghai",
    "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027955",
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027923",
    "age_days": 21,
    "ats": "greenhouse"
   },
@@ -4447,33 +4585,11 @@
    "rank": null,
    "sector": "Quantitative Finance",
    "title": "Campus Python Software Engineer (Intern)",
-   "location": "Shanghai",
+   "location": "Singapore",
    "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027923",
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027955",
    "age_days": 21,
    "ats": "greenhouse"
-  },
-  {
-   "company": "Hermeus",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "GNC & Flight Software Intern - Spring/Summer 2027",
-   "location": "Atlanta, GA",
-   "is_us": true,
-   "url": "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7",
-   "age_days": 21,
-   "ats": "lever"
-  },
-  {
-   "company": "Hermeus",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
-   "location": "Atlanta, GA",
-   "is_us": true,
-   "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796",
-   "age_days": 21,
-   "ats": "lever"
   },
   {
    "company": "HP",
@@ -4593,17 +4709,6 @@
    "location": "Carrigtwohill, Ireland",
    "is_us": false,
    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Carrigtwohill-Ireland/Embedded-Software-Engineering-Co-Op-Student_R572136",
-   "age_days": 23,
-   "ats": "workday"
-  },
-  {
-   "company": "Stanley Black & Decker",
-   "rank": 298,
-   "sector": "Industrials",
-   "title": "Embedded Engineering Summer Intern 2027",
-   "location": "Towson, MD, United States",
-   "is_us": true,
-   "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019",
    "age_days": 23,
    "ats": "workday"
   },
@@ -5037,17 +5142,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Jump Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Campus AI/ML Researcher (Intern)",
-   "location": "Hong Kong; Shanghai; Singapore",
-   "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027938",
-   "age_days": 27,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Virtu Financial",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -5079,6 +5173,17 @@
    "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784",
    "age_days": 27,
    "ats": "workday"
+  },
+  {
+   "company": "Jump Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Campus AI/ML Researcher (Intern)",
+   "location": "Hong Kong; Shanghai; Singapore",
+   "is_us": false,
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027938",
+   "age_days": 27,
+   "ats": "greenhouse"
   },
   {
    "company": "Amazon",
@@ -5917,6 +6022,17 @@
    "ats": "ashby"
   },
   {
+   "company": "Tower Research Capital",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Quantitative Developer Intern",
+   "location": "Singapore",
+   "is_us": false,
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
+   "age_days": 37,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Jump Trading",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -5987,6 +6103,17 @@
    "rank": null,
    "sector": "Quantitative Finance",
    "title": "Campus Systems Engineer (Intern)",
+   "location": "London; Amsterdam",
+   "is_us": false,
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+   "age_days": 37,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Jump Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Campus Systems Engineer (Intern)",
    "location": "Chicago",
    "is_us": false,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
@@ -6008,32 +6135,10 @@
    "company": "Jump Trading",
    "rank": null,
    "sector": "Quantitative Finance",
-   "title": "Campus Systems Engineer (Intern)",
-   "location": "London; Amsterdam",
-   "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-   "age_days": 37,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Jump Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
    "title": "Campus UI Software Engineer (Intern)",
    "location": "London",
    "is_us": false,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
-   "age_days": 37,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Tower Research Capital",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Quantitative Developer Intern",
-   "location": "Singapore",
-   "is_us": false,
-   "url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
    "age_days": 37,
    "ats": "greenhouse"
   },
@@ -6046,28 +6151,6 @@
    "is_us": false,
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7845193003",
    "age_days": 38,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Jump Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Campus Data Engineer (Intern)",
-   "location": "Chicago",
-   "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-   "age_days": 41,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Jump Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Campus UI Software Engineer (Intern)",
-   "location": "Chicago",
-   "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
-   "age_days": 41,
    "ats": "greenhouse"
   },
   {
@@ -6091,6 +6174,28 @@
    "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
    "age_days": 41,
    "ats": "ashby"
+  },
+  {
+   "company": "Jump Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Campus Data Engineer (Intern)",
+   "location": "Chicago",
+   "is_us": false,
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+   "age_days": 41,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Jump Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Campus UI Software Engineer (Intern)",
+   "location": "Chicago",
+   "is_us": false,
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+   "age_days": 41,
+   "ats": "greenhouse"
   },
   {
    "company": "Epic Games",
