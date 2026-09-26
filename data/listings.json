@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-26T01:49:38+00:00",
- "companies_queried": 62,
+ "generated_utc": "2026-09-26T07:01:19+00:00",
+ "companies_queried": 15,
  "companies_failed": [],
  "count": 674,
  "listings": [
@@ -201,39 +201,6 @@
    "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985",
    "age_days": 0,
    "ats": "workday"
-  },
-  {
-   "company": "Snowflake",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
-   "location": "US-CA-Menlo Park",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be",
-   "age_days": 0,
-   "ats": "ashby"
-  },
-  {
-   "company": "Snowflake",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Spring 2027",
-   "location": "US-CA-Menlo Park",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
-   "age_days": 0,
-   "ats": "ashby"
-  },
-  {
-   "company": "Snowflake",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer Intern (AI / ML) - Spring 2027",
-   "location": "US-CA-Menlo Park",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca",
-   "age_days": 0,
-   "ats": "ashby"
   },
   {
    "company": "Stripe",
@@ -1160,6 +1127,39 @@
    "ats": "smartrecruiters"
   },
   {
+   "company": "Snowflake",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
+   "location": "US-CA-Menlo Park",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be",
+   "age_days": 1,
+   "ats": "ashby"
+  },
+  {
+   "company": "Snowflake",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Spring 2027",
+   "location": "US-CA-Menlo Park",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
+   "age_days": 1,
+   "ats": "ashby"
+  },
+  {
+   "company": "Snowflake",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer Intern (AI / ML) - Spring 2027",
+   "location": "US-CA-Menlo Park",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca",
+   "age_days": 1,
+   "ats": "ashby"
+  },
+  {
    "company": "Nvidia",
    "rank": 16,
    "sector": "Technology",
@@ -1787,17 +1787,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Snowflake",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer Intern - Berlin (2027)",
-   "location": "DE-Berlin-Trion Building",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8",
-   "age_days": 3,
-   "ats": "ashby"
-  },
-  {
    "company": "Figma",
    "rank": null,
    "sector": "Productivity Software",
@@ -1992,50 +1981,6 @@
    "location": "Canada, Toronto",
    "is_us": false,
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
-   "age_days": 4,
-   "ats": "workday"
-  },
-  {
-   "company": "Capital One Financial",
-   "rank": 63,
-   "sector": "Financials",
-   "title": "Intern, Backend Software Engineer - Team Interstellar - Winter 2027",
-   "location": "Toronto, ON",
-   "is_us": false,
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022",
-   "age_days": 4,
-   "ats": "workday"
-  },
-  {
-   "company": "Capital One Financial",
-   "rank": 63,
-   "sector": "Financials",
-   "title": "Intern, Mobile Software Engineer - Team Gringotts North - Winter 2027",
-   "location": "Toronto, ON",
-   "is_us": false,
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015",
-   "age_days": 4,
-   "ats": "workday"
-  },
-  {
-   "company": "Capital One Financial",
-   "rank": 63,
-   "sector": "Financials",
-   "title": "Intern, Full Stack Software Engineer - Team Sprout - Winter 2027",
-   "location": "Toronto, ON",
-   "is_us": false,
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010",
-   "age_days": 4,
-   "ats": "workday"
-  },
-  {
-   "company": "Capital One Financial",
-   "rank": 63,
-   "sector": "Financials",
-   "title": "Intern, Full Stack Software Engineer - Team Pickle - Winter 2027",
-   "location": "Toronto, ON",
-   "is_us": false,
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013",
    "age_days": 4,
    "ats": "workday"
   },
@@ -2315,6 +2260,17 @@
    "ats": "workday"
   },
   {
+   "company": "Snowflake",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer Intern - Berlin (2027)",
+   "location": "DE-Berlin-Trion Building",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8",
+   "age_days": 4,
+   "ats": "ashby"
+  },
+  {
    "company": "Nvidia",
    "rank": 16,
    "sector": "Technology",
@@ -2322,6 +2278,50 @@
    "location": "3 Locations",
    "is_us": null,
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701",
+   "age_days": 5,
+   "ats": "workday"
+  },
+  {
+   "company": "Capital One Financial",
+   "rank": 63,
+   "sector": "Financials",
+   "title": "Intern, Backend Software Engineer - Team Interstellar - Winter 2027",
+   "location": "Toronto, ON",
+   "is_us": false,
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022",
+   "age_days": 5,
+   "ats": "workday"
+  },
+  {
+   "company": "Capital One Financial",
+   "rank": 63,
+   "sector": "Financials",
+   "title": "Intern, Mobile Software Engineer - Team Gringotts North - Winter 2027",
+   "location": "Toronto, ON",
+   "is_us": false,
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015",
+   "age_days": 5,
+   "ats": "workday"
+  },
+  {
+   "company": "Capital One Financial",
+   "rank": 63,
+   "sector": "Financials",
+   "title": "Intern, Full Stack Software Engineer - Team Sprout - Winter 2027",
+   "location": "Toronto, ON",
+   "is_us": false,
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010",
+   "age_days": 5,
+   "ats": "workday"
+  },
+  {
+   "company": "Capital One Financial",
+   "rank": 63,
+   "sector": "Financials",
+   "title": "Intern, Full Stack Software Engineer - Team Pickle - Winter 2027",
+   "location": "Toronto, ON",
+   "is_us": false,
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013",
    "age_days": 5,
    "ats": "workday"
   },
@@ -3602,28 +3602,6 @@
    "ats": "workday"
   },
   {
-   "company": "Salesforce",
-   "rank": 114,
-   "sector": "Technology",
-   "title": "AI Builder Intern [Mexico]",
-   "location": "Mexico - Mexico City",
-   "is_us": false,
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/AI-Builder-Intern--Mexico-_JR359971-2",
-   "age_days": 14,
-   "ats": "workday"
-  },
-  {
-   "company": "Salesforce",
-   "rank": 114,
-   "sector": "Technology",
-   "title": "AI Builder Intern [Brazil]",
-   "location": "Brazil - Sao Paulo",
-   "is_us": false,
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969",
-   "age_days": 14,
-   "ats": "workday"
-  },
-  {
    "company": "Micron Technology",
    "rank": 125,
    "sector": "Technology",
@@ -3774,6 +3752,28 @@
    "location": "2 Locations",
    "is_us": null,
    "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945",
+   "age_days": 15,
+   "ats": "workday"
+  },
+  {
+   "company": "Salesforce",
+   "rank": 114,
+   "sector": "Technology",
+   "title": "AI Builder Intern [Mexico]",
+   "location": "Mexico - Mexico City",
+   "is_us": false,
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/AI-Builder-Intern--Mexico-_JR359971-2",
+   "age_days": 15,
+   "ats": "workday"
+  },
+  {
+   "company": "Salesforce",
+   "rank": 114,
+   "sector": "Technology",
+   "title": "AI Builder Intern [Brazil]",
+   "location": "Brazil - Sao Paulo",
+   "is_us": false,
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969",
    "age_days": 15,
    "ats": "workday"
   },
@@ -4075,39 +4075,6 @@
    "ats": "workday"
   },
   {
-   "company": "Capital One Financial",
-   "rank": 63,
-   "sector": "Financials",
-   "title": "Intern, Data Scientist - Winter 2027",
-   "location": "Toronto, ON",
-   "is_us": false,
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Winter-2027_R999619-1",
-   "age_days": 17,
-   "ats": "workday"
-  },
-  {
-   "company": "Capital One Financial",
-   "rank": 63,
-   "sector": "Financials",
-   "title": "Current PhD, AI Engineering Internship Program - Summer 2027",
-   "location": "3 Locations",
-   "is_us": null,
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1",
-   "age_days": 17,
-   "ats": "workday"
-  },
-  {
-   "company": "Capital One Financial",
-   "rank": 63,
-   "sector": "Financials",
-   "title": "Current Master's, AI Engineering Internship Program - Summer 2027",
-   "location": "3 Locations",
-   "is_us": null,
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1",
-   "age_days": 17,
-   "ats": "workday"
-  },
-  {
    "company": "HP",
    "rank": 84,
    "sector": "Technology",
@@ -4194,17 +4161,6 @@
    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388",
    "age_days": 17,
    "ats": "workday"
-  },
-  {
-   "company": "Snowflake",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Applied AI Intern - Warsaw",
-   "location": "PL-Warsaw-Lixa C",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/snowflake/90190b16-fd27-4366-8c10-9c4896157681",
-   "age_days": 17,
-   "ats": "ashby"
   },
   {
    "company": "Shield AI",
@@ -4350,6 +4306,39 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Capital One Financial",
+   "rank": 63,
+   "sector": "Financials",
+   "title": "Intern, Data Scientist - Winter 2027",
+   "location": "Toronto, ON",
+   "is_us": false,
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Winter-2027_R999619-1",
+   "age_days": 18,
+   "ats": "workday"
+  },
+  {
+   "company": "Capital One Financial",
+   "rank": 63,
+   "sector": "Financials",
+   "title": "Current PhD, AI Engineering Internship Program - Summer 2027",
+   "location": "3 Locations",
+   "is_us": null,
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1",
+   "age_days": 18,
+   "ats": "workday"
+  },
+  {
+   "company": "Capital One Financial",
+   "rank": 63,
+   "sector": "Financials",
+   "title": "Current Master's, AI Engineering Internship Program - Summer 2027",
+   "location": "3 Locations",
+   "is_us": null,
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1",
+   "age_days": 18,
+   "ats": "workday"
+  },
+  {
    "company": "HP",
    "rank": 84,
    "sector": "Technology",
@@ -4458,6 +4447,17 @@
    "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
    "age_days": 18,
    "ats": "greenhouse"
+  },
+  {
+   "company": "Snowflake",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Applied AI Intern - Warsaw",
+   "location": "PL-Warsaw-Lixa C",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/snowflake/90190b16-fd27-4366-8c10-9c4896157681",
+   "age_days": 18,
+   "ats": "ashby"
   },
   {
    "company": "Nvidia",
@@ -5032,17 +5032,6 @@
    "ats": "workday"
   },
   {
-   "company": "Salesforce",
-   "rank": 114,
-   "sector": "Technology",
-   "title": "Summer 2027 Intern - Software Engineer",
-   "location": "8 Locations",
-   "is_us": null,
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
-   "age_days": 25,
-   "ats": "workday"
-  },
-  {
    "company": "Stryker",
    "rank": 181,
    "sector": "Health Care",
@@ -5239,6 +5228,17 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
    "age_days": 25,
    "ats": "greenhouse"
+  },
+  {
+   "company": "Salesforce",
+   "rank": 114,
+   "sector": "Technology",
+   "title": "Summer 2027 Intern - Software Engineer",
+   "location": "8 Locations",
+   "is_us": null,
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+   "age_days": 26,
+   "ats": "workday"
   },
   {
    "company": "Nvidia",
@@ -6440,17 +6440,6 @@
    "ats": "smartrecruiters"
   },
   {
-   "company": "Snowflake",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer Intern - Warsaw Security",
-   "location": "PL-Warsaw-Lixa C",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/snowflake/fc1923c1-b151-4458-a792-40d58331a5be",
-   "age_days": 51,
-   "ats": "ashby"
-  },
-  {
    "company": "Rocket Lab",
    "rank": null,
    "sector": "Aerospace",
@@ -6471,6 +6460,17 @@
    "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
    "age_days": 52,
    "ats": "lever"
+  },
+  {
+   "company": "Snowflake",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer Intern - Warsaw Security",
+   "location": "PL-Warsaw-Lixa C",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/snowflake/fc1923c1-b151-4458-a792-40d58331a5be",
+   "age_days": 52,
+   "ats": "ashby"
   },
   {
    "company": "Western Digital",
