@@ -1,9 +1,31 @@
 {
- "generated_utc": "2026-09-27T19:21:09+00:00",
- "companies_queried": 40,
+ "generated_utc": "2026-09-27T22:27:29+00:00",
+ "companies_queried": 30,
  "companies_failed": [],
  "count": 670,
  "listings": [
+  {
+   "company": "DoorDash",
+   "rank": 329,
+   "sector": "Technology",
+   "title": "Machine Learning Intern (Masters) - Summer 2027",
+   "location": "San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111",
+   "age_days": 0,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "DoorDash",
+   "rank": 329,
+   "sector": "Technology",
+   "title": "Machine Learning Intern (PhD) - Summer 2027",
+   "location": "San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8233953",
+   "age_days": 0,
+   "ats": "greenhouse"
+  },
   {
    "company": "Coinbase",
    "rank": null,
@@ -157,28 +179,6 @@
    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103",
    "age_days": 2,
    "ats": "workday"
-  },
-  {
-   "company": "DoorDash",
-   "rank": 329,
-   "sector": "Technology",
-   "title": "Machine Learning Intern (Masters) - Summer 2027",
-   "location": "San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "DoorDash",
-   "rank": 329,
-   "sector": "Technology",
-   "title": "Machine Learning Intern (PhD) - Summer 2027",
-   "location": "San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8233953",
-   "age_days": 2,
-   "ats": "greenhouse"
   },
   {
    "company": "DoorDash",
@@ -1193,6 +1193,28 @@
    "ats": "workday"
   },
   {
+   "company": "Workiva",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Summer 2027 Intern - Software Engineering",
+   "location": "USA - Remote",
+   "is_us": true,
+   "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190",
+   "age_days": 3,
+   "ats": "workday"
+  },
+  {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Extracurricular Internship in Computer Science / Information Systems (f/m/div.)",
+   "location": "Braga, pt",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151644699",
+   "age_days": 3,
+   "ats": "smartrecruiters"
+  },
+  {
    "company": "Cisco Meraki",
    "rank": null,
    "sector": "Enterprise Hardware",
@@ -1257,28 +1279,6 @@
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805",
    "age_days": 3,
    "ats": "workday"
-  },
-  {
-   "company": "Workiva",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Summer 2027 Intern - Software Engineering",
-   "location": "USA - Remote",
-   "is_us": true,
-   "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190",
-   "age_days": 3,
-   "ats": "workday"
-  },
-  {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Extracurricular Internship in Computer Science / Information Systems (f/m/div.)",
-   "location": "Braga, pt",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151644699",
-   "age_days": 3,
-   "ats": "smartrecruiters"
   },
   {
    "company": "Nvidia",
@@ -5945,6 +5945,28 @@
    "ats": "workday"
   },
   {
+   "company": "Workiva",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Summer 2027 Intern - Machine Learning Engineering",
+   "location": "USA - Remote",
+   "is_us": true,
+   "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "Thomson Reuters",
+   "rank": null,
+   "sector": "Media",
+   "title": "Applied Research Intern (NLP/ML/GenAI)",
+   "location": "Not stated",
+   "is_us": null,
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
    "company": "Cisco Meraki",
    "rank": null,
    "sector": "Enterprise Hardware",
@@ -5974,28 +5996,6 @@
    "location": "Hanoi, Vietnam",
    "is_us": false,
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Hanoi-Vietnam/Test-Engineer-Intern--Vietnam_2011415",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "Workiva",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Summer 2027 Intern - Machine Learning Engineering",
-   "location": "USA - Remote",
-   "is_us": true,
-   "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "Thomson Reuters",
-   "rank": null,
-   "sector": "Media",
-   "title": "Applied Research Intern (NLP/ML/GenAI)",
-   "location": "Not stated",
-   "is_us": null,
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812",
    "age_days": 30,
    "ats": "workday"
   },
