@@ -1,75 +1,9 @@
 {
- "generated_utc": "2026-09-26T22:05:39+00:00",
- "companies_queried": 20,
+ "generated_utc": "2026-09-27T00:35:42+00:00",
+ "companies_queried": 12,
  "companies_failed": [],
- "count": 676,
+ "count": 671,
  "listings": [
-  {
-   "company": "AbbVie",
-   "rank": 77,
-   "sector": "Health Care",
-   "title": "2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)",
-   "location": "South San Francisco, us",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/abbvie/3743990015684626",
-   "age_days": 1,
-   "ats": "smartrecruiters"
-  },
-  {
-   "company": "AbbVie",
-   "rank": 77,
-   "sector": "Health Care",
-   "title": "2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)",
-   "location": "Irvine, us",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/abbvie/3743990015684556",
-   "age_days": 1,
-   "ats": "smartrecruiters"
-  },
-  {
-   "company": "AbbVie",
-   "rank": 77,
-   "sector": "Health Care",
-   "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
-   "location": "South San Francisco, us",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/abbvie/3743990015684516",
-   "age_days": 1,
-   "ats": "smartrecruiters"
-  },
-  {
-   "company": "AbbVie",
-   "rank": 77,
-   "sector": "Health Care",
-   "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
-   "location": "Irvine, us",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/abbvie/3743990015684476",
-   "age_days": 1,
-   "ats": "smartrecruiters"
-  },
-  {
-   "company": "AbbVie",
-   "rank": 77,
-   "sector": "Health Care",
-   "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
-   "location": "North Chicago, us",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/abbvie/3743990015679386",
-   "age_days": 1,
-   "ats": "smartrecruiters"
-  },
-  {
-   "company": "AbbVie",
-   "rank": 77,
-   "sector": "Health Care",
-   "title": "2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)",
-   "location": "North Chicago, us",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/abbvie/3743990015679346",
-   "age_days": 1,
-   "ats": "smartrecruiters"
-  },
   {
    "company": "Intel",
    "rank": 88,
@@ -709,28 +643,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Samsara",
-   "rank": null,
-   "sector": "Internet of Things",
-   "title": "Firmware Engineer Co-Op",
-   "location": "San Francisco - SF9",
-   "is_us": false,
-   "url": "https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Samsara",
-   "rank": null,
-   "sector": "Internet of Things",
-   "title": "Software Engineering Internship - San Francisco",
-   "location": "San Francisco - SF9",
-   "is_us": false,
-   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Bosch",
    "rank": null,
    "sector": "Automotive",
@@ -784,6 +696,72 @@
    "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
    "age_days": 2,
    "ats": "custom"
+  },
+  {
+   "company": "AbbVie",
+   "rank": 77,
+   "sector": "Health Care",
+   "title": "2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)",
+   "location": "South San Francisco, us",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/abbvie/3743990015684626",
+   "age_days": 2,
+   "ats": "smartrecruiters"
+  },
+  {
+   "company": "AbbVie",
+   "rank": 77,
+   "sector": "Health Care",
+   "title": "2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)",
+   "location": "Irvine, us",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/abbvie/3743990015684556",
+   "age_days": 2,
+   "ats": "smartrecruiters"
+  },
+  {
+   "company": "AbbVie",
+   "rank": 77,
+   "sector": "Health Care",
+   "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
+   "location": "South San Francisco, us",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/abbvie/3743990015684516",
+   "age_days": 2,
+   "ats": "smartrecruiters"
+  },
+  {
+   "company": "AbbVie",
+   "rank": 77,
+   "sector": "Health Care",
+   "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
+   "location": "Irvine, us",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/abbvie/3743990015684476",
+   "age_days": 2,
+   "ats": "smartrecruiters"
+  },
+  {
+   "company": "AbbVie",
+   "rank": 77,
+   "sector": "Health Care",
+   "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
+   "location": "North Chicago, us",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/abbvie/3743990015679386",
+   "age_days": 2,
+   "ats": "smartrecruiters"
+  },
+  {
+   "company": "AbbVie",
+   "rank": 77,
+   "sector": "Health Care",
+   "title": "2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)",
+   "location": "North Chicago, us",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/abbvie/3743990015679346",
+   "age_days": 2,
+   "ats": "smartrecruiters"
   },
   {
    "company": "Intel",
@@ -1149,50 +1127,6 @@
    "ats": "ashby"
   },
   {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "2027 Flight Software Engineer Intern",
-   "location": "Costa Mesa, California, United States",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "2027 Software Engineer Intern",
-   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "Winter 2027 Software Engineer Co-op",
-   "location": "Quincy, Massachusetts, United States",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Anduril Industries",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "Winter 2027 Systems Engineer Co-op",
-   "location": "Quincy, Massachusetts, United States",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Bosch",
    "rank": null,
    "sector": "Automotive",
@@ -1268,6 +1202,28 @@
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805",
    "age_days": 2,
    "ats": "workday"
+  },
+  {
+   "company": "Samsara",
+   "rank": null,
+   "sector": "Internet of Things",
+   "title": "Firmware Engineer Co-Op",
+   "location": "San Francisco - SF9",
+   "is_us": false,
+   "url": "https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Samsara",
+   "rank": null,
+   "sector": "Internet of Things",
+   "title": "Software Engineering Internship - San Francisco",
+   "location": "San Francisco - SF9",
+   "is_us": false,
+   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+   "age_days": 2,
+   "ats": "greenhouse"
   },
   {
    "company": "Nvidia",
@@ -1598,6 +1554,50 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151296789",
    "age_days": 3,
    "ats": "smartrecruiters"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "2027 Flight Software Engineer Intern",
+   "location": "Costa Mesa, California, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "2027 Software Engineer Intern",
+   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "Winter 2027 Software Engineer Co-op",
+   "location": "Quincy, Massachusetts, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Anduril Industries",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "Winter 2027 Systems Engineer Co-op",
+   "location": "Quincy, Massachusetts, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
+   "age_days": 3,
+   "ats": "greenhouse"
   },
   {
    "company": "Amazon",
@@ -3528,39 +3528,6 @@
    "company": "Red Hat",
    "rank": null,
    "sector": "Enterprise Software",
-   "title": "Software Engineering Intern - Agent Operations (Waterford/Dublin office, Ireland)",
-   "location": "2 Locations",
-   "is_us": null,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Waterford-City/Software-Engineering-Internship---Agent-Operations--Waterford-Dublin-office--Ireland-_R-059228",
-   "age_days": 12,
-   "ats": "workday"
-  },
-  {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Software Engineering Intern- OpenShift Observability (Waterford office, Ireland)",
-   "location": "Waterford City",
-   "is_us": false,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Waterford-City/Software-Engineering-Internship--OpenShift-Observability--Waterford-office--Ireland-_R-059227",
-   "age_days": 12,
-   "ats": "workday"
-  },
-  {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Software Engineering Intern - Trusted Artifact Signer (Waterford office, Ireland)",
-   "location": "Waterford City",
-   "is_us": false,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Waterford-City/Software-Engineering-Internship---Trusted-Artifact-Signer--Waterford-office--Ireland-_R-059210",
-   "age_days": 12,
-   "ats": "workday"
-  },
-  {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
    "title": "Open Source AI Intern (Waterford office, Ireland)",
    "location": "Waterford City",
    "is_us": false,
@@ -3576,28 +3543,6 @@
    "location": "Waterford City",
    "is_us": false,
    "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Waterford-City/Openshift-AI-Sustaining-Engineering-Intern-Waterford-office--Ireland-_R-059201",
-   "age_days": 12,
-   "ats": "workday"
-  },
-  {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Software Engineering Full-Stack Intern - GenAI Studio (Waterford office, Ireland)",
-   "location": "Waterford City",
-   "is_us": false,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Waterford-City/Software-Engineering-Full-Stack-Internship---GenAI-Studio--Waterford-office--Ireland-_R-059199",
-   "age_days": 12,
-   "ats": "workday"
-  },
-  {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Software Engineering Intern - OpenShift AI (Dublin office, Ireland)",
-   "location": "Dublin - MSO",
-   "is_us": false,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Dublin---MSO/Software-Engineering-Intern---OpenShift-AI--Dublin-office--Ireland-_R-059198",
    "age_days": 12,
    "ats": "workday"
   },
@@ -3888,17 +3833,6 @@
    "ats": "ashby"
   },
   {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "AI Ecosystem Intern",
-   "location": "Boston",
-   "is_us": false,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059053-1",
-   "age_days": 16,
-   "ats": "workday"
-  },
-  {
    "company": "Thomson Reuters",
    "rank": null,
    "sector": "Media",
@@ -3906,6 +3840,17 @@
    "location": "Not stated",
    "is_us": null,
    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587",
+   "age_days": 16,
+   "ats": "workday"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "AI Ecosystem Intern",
+   "location": "Boston",
+   "is_us": false,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059053-1",
    "age_days": 16,
    "ats": "workday"
   },
@@ -4306,39 +4251,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "AI Ecosystem Intern",
-   "location": "Boston",
-   "is_us": false,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059276",
-   "age_days": 18,
-   "ats": "workday"
-  },
-  {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Software Engineer Intern",
-   "location": "4 Locations",
-   "is_us": null,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer-Intern_R-059038",
-   "age_days": 18,
-   "ats": "workday"
-  },
-  {
-   "company": "Red Hat",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Software Engineer Co-op",
-   "location": "3 Locations",
-   "is_us": null,
-   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer-Co-op_R-059039",
-   "age_days": 18,
-   "ats": "workday"
-  },
-  {
    "company": "Shield AI",
    "rank": null,
    "sector": "Defense Technology",
@@ -4379,6 +4291,39 @@
    "location": "Ecublens, Switzerland",
    "is_us": false,
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ecublens-Switzerland/Wireless-Software-Engineer--Intern_2025061",
+   "age_days": 18,
+   "ats": "workday"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "AI Ecosystem Intern",
+   "location": "Boston",
+   "is_us": false,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/AI-Ecosystem-Intern_R-059276",
+   "age_days": 18,
+   "ats": "workday"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineer Intern",
+   "location": "4 Locations",
+   "is_us": null,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer-Intern_R-059038",
+   "age_days": 18,
+   "ats": "workday"
+  },
+  {
+   "company": "Red Hat",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineer Co-op",
+   "location": "3 Locations",
+   "is_us": null,
+   "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer-Co-op_R-059039",
    "age_days": 18,
    "ats": "workday"
   },
