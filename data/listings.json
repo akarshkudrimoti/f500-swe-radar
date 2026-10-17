@@ -1,8 +1,8 @@
 {
- "generated_utc": "2026-10-17T21:35:41+00:00",
- "companies_queried": 15,
+ "generated_utc": "2026-10-17T23:27:09+00:00",
+ "companies_queried": 20,
  "companies_failed": [],
- "count": 691,
+ "count": 692,
  "listings": [
   {
    "company": "Amazon",
@@ -100,6 +100,17 @@
    "location": "United States-Colorado-Aurora",
    "is_us": true,
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243",
+   "age_days": 1,
+   "ats": "workday"
+  },
+  {
+   "company": "Zoetis",
+   "rank": 434,
+   "sector": "Health Care",
+   "title": "Chemistry Data Science Intern - Digital CMC Workflows",
+   "location": "Kalamazoo - Downtown Portage Street",
+   "is_us": false,
+   "url": "https://zoetis.wd5.myworkdayjobs.com/broadbean_external/job/Kalamazoo---Downtown-Portage-Street/Chemistry-Data-Science-Intern---Digital-CMC-Workflows_JR00021822-1",
    "age_days": 1,
    "ats": "workday"
   },
@@ -6000,17 +6011,6 @@
    "ats": "workday"
   },
   {
-   "company": "Thomson Reuters",
-   "rank": null,
-   "sector": "Media",
-   "title": "Applied Research Intern (NLP/ML/GenAI)",
-   "location": "Not stated",
-   "is_us": null,
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
    "company": "Red Hat",
    "rank": null,
    "sector": "Enterprise Software",
@@ -6128,6 +6128,17 @@
    "location": "Hanoi, Vietnam",
    "is_us": false,
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Hanoi-Vietnam/Test-Engineer-Intern--Vietnam_2011415",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "Thomson Reuters",
+   "rank": null,
+   "sector": "Media",
+   "title": "Applied Research Intern (NLP/ML/GenAI)",
+   "location": "Not stated",
+   "is_us": null,
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812",
    "age_days": 30,
    "ats": "workday"
   },
