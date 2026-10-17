@@ -1,8 +1,8 @@
 {
- "generated_utc": "2026-10-17T17:11:04+00:00",
- "companies_queried": 27,
+ "generated_utc": "2026-10-17T19:25:06+00:00",
+ "companies_queried": 22,
  "companies_failed": [],
- "count": 592,
+ "count": 605,
  "listings": [
   {
    "company": "Amazon",
@@ -2040,6 +2040,17 @@
    "ats": "custom"
   },
   {
+   "company": "HP",
+   "rank": 84,
+   "sector": "Technology",
+   "title": "Software Product Management Intern",
+   "location": "2 Locations",
+   "is_us": null,
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Software-Product-Management-Intern_UNI4516-1",
+   "age_days": 10,
+   "ats": "workday"
+  },
+  {
    "company": "GE Vernova",
    "rank": 124,
    "sector": "Energy",
@@ -2766,6 +2777,17 @@
    "ats": "workday"
   },
   {
+   "company": "HP",
+   "rank": 84,
+   "sector": "Technology",
+   "title": "AI Applied Engineering Intern",
+   "location": "Vancouver, Washington, United States of America",
+   "is_us": true,
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670",
+   "age_days": 15,
+   "ats": "workday"
+  },
+  {
    "company": "Regeneron Pharmaceuticals",
    "rank": 314,
    "sector": "Health Care",
@@ -3107,6 +3129,17 @@
    "ats": "workday"
   },
   {
+   "company": "HP",
+   "rank": 84,
+   "sector": "Technology",
+   "title": "Software and Engineering Intern Roles - Imaging and Print",
+   "location": "Corvallis, Oregon, United States of America",
+   "is_us": true,
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142-1",
+   "age_days": 16,
+   "ats": "workday"
+  },
+  {
    "company": "Point72",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -3182,6 +3215,17 @@
    "url": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
    "age_days": 17,
    "ats": "custom"
+  },
+  {
+   "company": "HP",
+   "rank": 84,
+   "sector": "Technology",
+   "title": "Software Internship Roles - HP Solutions (HPS)",
+   "location": "3 Locations",
+   "is_us": null,
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1",
+   "age_days": 17,
+   "ats": "workday"
   },
   {
    "company": "GE Aerospace",
@@ -4251,6 +4295,94 @@
    "ats": "workday"
   },
   {
+   "company": "HP",
+   "rank": 84,
+   "sector": "Technology",
+   "title": "AI Transformation & Automation Intern",
+   "location": "Sofia, Sofia, Bulgaria",
+   "is_us": false,
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sofia-Sofia-Bulgaria/AI-Transformation---Automation-Intern_3168543-1",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "HP",
+   "rank": 84,
+   "sector": "Technology",
+   "title": "Business Intelligence and Infrastructure Analysts  Intern",
+   "location": "Vancouver, Washington, United States of America",
+   "is_us": true,
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "HP",
+   "rank": 84,
+   "sector": "Technology",
+   "title": "Software Product Security Engineer Intern",
+   "location": "Spring, Texas, United States of America",
+   "is_us": true,
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "HP",
+   "rank": 84,
+   "sector": "Technology",
+   "title": "Software Product Security Engineer Intern",
+   "location": "Spring, Texas, United States of America",
+   "is_us": true,
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "HP",
+   "rank": 84,
+   "sector": "Technology",
+   "title": "College Intern \u2013 System Engineer",
+   "location": "Singapore, South West, Singapore",
+   "is_us": false,
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---System-Engineer_UNI4549-1",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "HP",
+   "rank": 84,
+   "sector": "Technology",
+   "title": "Enterprise Operations Software Internship",
+   "location": "Spring, Texas, United States of America",
+   "is_us": true,
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "HP",
+   "rank": 84,
+   "sector": "Technology",
+   "title": "Software Security Research Intern",
+   "location": "Bristol, Bristol, City of, United Kingdom",
+   "is_us": false,
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bristol-Bristol-City-of-United-Kingdom/Software-Security-Research-Intern_UNI3785-1",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "HP",
+   "rank": 84,
+   "sector": "Technology",
+   "title": "Browser Software Engineer Intern",
+   "location": "Cambridge, Cambridgeshire, United Kingdom",
+   "is_us": false,
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410-1",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
    "company": "GE Aerospace",
    "rank": 101,
    "sector": "Aerospace & Defense",
@@ -4566,6 +4698,17 @@
    "location": "Charlotte, NC",
    "is_us": true,
    "url": "https://ally.wd1.myworkdayjobs.com/Ally/job/Charlotte-NC/Summer-2027-Internship---Consumer-Banking--Forecasting-Data-Science-_R2600655",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "Avis Budget Group",
+   "rank": 380,
+   "sector": "Retailing",
+   "title": "Accelerate - AI Enablement Intern Summer 2027",
+   "location": "379 Interpace Pkwy, Parsippany, 07054",
+   "is_us": false,
+   "url": "https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---AI-Enablement-Intern-Summer-2027_R0190563",
    "age_days": 30,
    "ats": "workday"
   },
