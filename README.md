@@ -2,7 +2,7 @@
 
 Software-engineering **internship** postings (Summer 2027 cycle), pulled straight from the applicant tracking systems of the [2026 Fortune 500](https://fortune.com/ranking/fortune500/2026/) plus a curated list of technology companies outside it.
 
-**692 open postings** (294 in the US) across **113 companies** · last refreshed 2026-10-17 23:27:09 UTC
+**692 open postings** (294 in the US) across **113 companies** · last refreshed 2026-10-18 01:22:09 UTC
 
 Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more were identified but their `robots.txt` disallows crawling, so they are listed as links only. 429 are still unresolved — see [Coverage](#coverage).
 
@@ -472,12 +472,12 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Snowflake** | Software Engineer Intern - Berlin (2027) | DE-Berlin-Trion Building | 18d | [Apply](https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8) |
 | — | **Razer** | Software Cloud Intern | Singapore | 18d | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Cloud-Intern_JR2026007798) |
 | — | **Razer** | Applied AI Intern (Voice) | Singapore | 18d | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784) |
-| — | **SpaceX** | Spring 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 18d | [Apply](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002) |
-| — | **SpaceX** | Summer 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 18d | [Apply](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) |
 | 16 | **Nvidia** | AI Infra Development Intern - 2027 | China, Shanghai | 19d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Infra-Development-Intern---2027_JR2026402) |
 | 16 | **Nvidia** | PhD Research Intern, Autonomous Systems and Physical AI Research - 2027 | Switzerland, Zurich | 19d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1) |
 | 124 | **GE Vernova** | GE Vernova - Machine Learning Software Intern - Summer 2027 | Bellevue | 19d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue/GE-Vernova---Machine-Learning-Software-Intern---Summer-2027_R5050656-1) |
 | — | **Epic Games** | Engine Programmer Intern | London,England,United Kingdom | 19d | [Apply](https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004) |
+| — | **SpaceX** | Spring 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 19d | [Apply](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002) |
+| — | **SpaceX** | Summer 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 19d | [Apply](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) |
 | — | **Autodesk** | Intern, Software Development Engineer [PSET-Localization] | Singapore, SGP | 22d | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100998-1) |
 | — | **Autodesk** | Intern, Software Development Engineer [PSET-Localization] | Singapore, SGP | 22d | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997) |
 | — | **Autodesk** | Intern, Software Development Engineer [PSET-Connected Delivery] | Singapore, SGP | 22d | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995) |
@@ -1755,4 +1755,4 @@ The 15 minutes comes from a Cloudflare Worker in `trigger/`, not from GitHub's `
 
 ---
 
-Company list: Fortune 500 (2026 edition) plus 487 technology companies from `data/extra_companies.json`. Generated 2026-10-17. Code and data are [MIT licensed](LICENSE).
+Company list: Fortune 500 (2026 edition) plus 487 technology companies from `data/extra_companies.json`. Generated 2026-10-18. Code and data are [MIT licensed](LICENSE).
