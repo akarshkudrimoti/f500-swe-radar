@@ -1,8 +1,8 @@
 {
- "generated_utc": "2026-10-18T01:22:09+00:00",
- "companies_queried": 8,
+ "generated_utc": "2026-10-18T06:20:14+00:00",
+ "companies_queried": 44,
  "companies_failed": [],
- "count": 692,
+ "count": 690,
  "listings": [
   {
    "company": "Amazon",
@@ -36,17 +36,6 @@
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826",
    "age_days": 1,
    "ats": "workday"
-  },
-  {
-   "company": "Dell Technologies",
-   "rank": 41,
-   "sector": "Technology",
-   "title": "Data & AI Intern",
-   "location": "Bratislava, Bratislavsky kraj, Slovakia",
-   "is_us": false,
-   "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/300848",
-   "age_days": 1,
-   "ats": "custom"
   },
   {
    "company": "Northrop Grumman",
@@ -863,6 +852,17 @@
    "ats": "workday"
   },
   {
+   "company": "Dell Technologies",
+   "rank": 41,
+   "sector": "Technology",
+   "title": "Data & AI Intern",
+   "location": "Bratislava, Bratislavsky kraj, Slovakia",
+   "is_us": false,
+   "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/300848",
+   "age_days": 2,
+   "ats": "custom"
+  },
+  {
    "company": "Boeing",
    "rank": 47,
    "sector": "Aerospace & Defense",
@@ -1061,17 +1061,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Extracurricular Internship: Gateway Firmware Engineer (f/m/div.)",
-   "location": "Aveiro, pt",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155702622",
-   "age_days": 2,
-   "ats": "smartrecruiters"
-  },
-  {
    "company": "Ciena",
    "rank": null,
    "sector": "Enterprise Hardware",
@@ -1215,17 +1204,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "[SX/BSV-VN] Embedded Test Engineer Intern",
-   "location": "Ha Noi, vn",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155409889",
-   "age_days": 3,
-   "ats": "smartrecruiters"
-  },
-  {
    "company": "Pinterest",
    "rank": null,
    "sector": "Consumer Internet",
@@ -1235,6 +1213,17 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8267930",
    "age_days": 3,
    "ats": "greenhouse"
+  },
+  {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Extracurricular Internship: Gateway Firmware Engineer (f/m/div.)",
+   "location": "Aveiro, pt",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155702622",
+   "age_days": 3,
+   "ats": "smartrecruiters"
   },
   {
    "company": "Amazon",
@@ -1543,6 +1532,17 @@
    "url": "https://job-boards.greenhouse.io/xai/jobs/5255111007",
    "age_days": 4,
    "ats": "greenhouse"
+  },
+  {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "[SX/BSV-VN] Embedded Test Engineer Intern",
+   "location": "Ha Noi, vn",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155409889",
+   "age_days": 4,
+   "ats": "smartrecruiters"
   },
   {
    "company": "Blue Origin",
@@ -1970,7 +1970,7 @@
    "location": "San Francisco - SF9",
    "is_us": false,
    "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
-   "age_days": 5,
+   "age_days": 6,
    "ats": "greenhouse"
   },
   {
@@ -2148,17 +2148,6 @@
    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064",
    "age_days": 9,
    "ats": "workday"
-  },
-  {
-   "company": "Dell Technologies",
-   "rank": 41,
-   "sector": "Technology",
-   "title": "Data Science Undergraduate Intern",
-   "location": "TX, United States",
-   "is_us": true,
-   "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/299978",
-   "age_days": 9,
-   "ats": "custom"
   },
   {
    "company": "Boeing",
@@ -2388,6 +2377,17 @@
    "location": "Germany",
    "is_us": false,
    "url": "https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship",
+   "age_days": 10,
+   "ats": "custom"
+  },
+  {
+   "company": "Dell Technologies",
+   "rank": 41,
+   "sector": "Technology",
+   "title": "Data Science Undergraduate Intern",
+   "location": "TX, United States",
+   "is_us": true,
+   "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/299978",
    "age_days": 10,
    "ats": "custom"
   },
@@ -4174,17 +4174,6 @@
    "ats": "workday"
   },
   {
-   "company": "Samsara",
-   "rank": null,
-   "sector": "Internet of Things",
-   "title": "Firmware Engineer Co-Op",
-   "location": "San Francisco - SF9",
-   "is_us": false,
-   "url": "https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602",
-   "age_days": 22,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Amazon",
    "rank": 1,
    "sector": "Retailing",
@@ -4304,6 +4293,17 @@
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692",
    "age_days": 23,
    "ats": "workday"
+  },
+  {
+   "company": "Samsara",
+   "rank": null,
+   "sector": "Internet of Things",
+   "title": "Firmware Engineer Co-Op",
+   "location": "San Francisco - SF9",
+   "is_us": false,
+   "url": "https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602",
+   "age_days": 23,
+   "ats": "greenhouse"
   },
   {
    "company": "Cisco Meraki",
@@ -6011,6 +6011,17 @@
    "ats": "workday"
   },
   {
+   "company": "Thomson Reuters",
+   "rank": null,
+   "sector": "Media",
+   "title": "Applied Research Intern (NLP/ML/GenAI)",
+   "location": "Not stated",
+   "is_us": null,
+   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
    "company": "Red Hat",
    "rank": null,
    "sector": "Enterprise Software",
@@ -6051,28 +6062,6 @@
    "location": "3 Locations",
    "is_us": null,
    "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer-Co-op_R-059039",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "Trimble",
-   "rank": null,
-   "sector": "Industrial Technology",
-   "title": "Software Engineering Intern",
-   "location": "7 Locations",
-   "is_us": null,
-   "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "Trimble",
-   "rank": null,
-   "sector": "Industrial Technology",
-   "title": "Hardware/Software Testing Intern",
-   "location": "3 Locations",
-   "is_us": null,
-   "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
    "age_days": 30,
    "ats": "workday"
   },
@@ -6128,17 +6117,6 @@
    "location": "Hanoi, Vietnam",
    "is_us": false,
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Hanoi-Vietnam/Test-Engineer-Intern--Vietnam_2011415",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "Thomson Reuters",
-   "rank": null,
-   "sector": "Media",
-   "title": "Applied Research Intern (NLP/ML/GenAI)",
-   "location": "Not stated",
-   "is_us": null,
-   "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812",
    "age_days": 30,
    "ats": "workday"
   },
