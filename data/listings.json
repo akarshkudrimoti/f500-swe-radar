@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T21:04:26+00:00",
- "companies_queried": 14,
+ "generated_utc": "2026-10-24T23:12:40+00:00",
+ "companies_queried": 18,
  "companies_failed": [],
  "count": 871,
  "listings": [
@@ -1985,17 +1985,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Samsara",
-   "rank": null,
-   "sector": "Internet of Things",
-   "title": "Software Engineering Internship - San Francisco",
-   "location": "San Francisco - SF9",
-   "is_us": false,
-   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Cisco Meraki",
    "rank": null,
    "sector": "Enterprise Hardware",
@@ -2082,6 +2071,17 @@
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800",
    "age_days": 3,
    "ats": "workday"
+  },
+  {
+   "company": "Samsara",
+   "rank": null,
+   "sector": "Internet of Things",
+   "title": "Software Engineering Internship - San Francisco",
+   "location": "San Francisco - SF9",
+   "is_us": false,
+   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+   "age_days": 3,
+   "ats": "greenhouse"
   },
   {
    "company": "Apple",
