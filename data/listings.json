@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T18:23:39+00:00",
- "companies_queried": 21,
+ "generated_utc": "2026-10-24T21:04:26+00:00",
+ "companies_queried": 14,
  "companies_failed": [],
  "count": 871,
  "listings": [
@@ -599,6 +599,28 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Agentic AI R&D Intern",
+   "location": "Sunnyvale, us",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157483412",
+   "age_days": 1,
+   "ats": "smartrecruiters"
+  },
+  {
+   "company": "Bosch",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Automation & AI Intern (f/m)",
+   "location": "Warszawa, pl",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157422450",
+   "age_days": 1,
+   "ats": "smartrecruiters"
+  },
+  {
    "company": "Cisco Meraki",
    "rank": null,
    "sector": "Enterprise Hardware",
@@ -630,28 +652,6 @@
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701",
    "age_days": 1,
    "ats": "workday"
-  },
-  {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Agentic AI R&D Intern",
-   "location": "Sunnyvale, us",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157483412",
-   "age_days": 1,
-   "ats": "smartrecruiters"
-  },
-  {
-   "company": "Bosch",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Automation & AI Intern (f/m)",
-   "location": "Warszawa, pl",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157422450",
-   "age_days": 1,
-   "ats": "smartrecruiters"
   },
   {
    "company": "CVS Health",
@@ -1985,6 +1985,17 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Samsara",
+   "rank": null,
+   "sector": "Internet of Things",
+   "title": "Software Engineering Internship - San Francisco",
+   "location": "San Francisco - SF9",
+   "is_us": false,
+   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Cisco Meraki",
    "rank": null,
    "sector": "Enterprise Hardware",
@@ -2071,17 +2082,6 @@
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800",
    "age_days": 3,
    "ats": "workday"
-  },
-  {
-   "company": "Samsara",
-   "rank": null,
-   "sector": "Internet of Things",
-   "title": "Software Engineering Internship - San Francisco",
-   "location": "San Francisco - SF9",
-   "is_us": false,
-   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
-   "age_days": 3,
-   "ats": "greenhouse"
   },
   {
    "company": "Apple",
@@ -7881,17 +7881,6 @@
    "ats": "workday"
   },
   {
-   "company": "Blue Origin",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Electronics/Electrical Systems Engineer Co-Op (Fixed Term)",
-   "location": "Los Angeles, CA",
-   "is_us": true,
-   "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
    "company": "Logitech",
    "rank": null,
    "sector": "Consumer Hardware",
@@ -8097,6 +8086,17 @@
    "location": "Hanoi, Vietnam",
    "is_us": false,
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Hanoi-Vietnam/Test-Engineer-Intern--Vietnam_2011415",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "Blue Origin",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Electronics/Electrical Systems Engineer Co-Op (Fixed Term)",
+   "location": "Los Angeles, CA",
+   "is_us": true,
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548",
    "age_days": 30,
    "ats": "workday"
   },
