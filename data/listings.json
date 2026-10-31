@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-31T19:42:56+00:00",
- "companies_queried": 39,
+ "generated_utc": "2026-10-31T22:51:53+00:00",
+ "companies_queried": 25,
  "companies_failed": [],
  "count": 933,
  "listings": [
@@ -1219,9 +1219,9 @@
    "rank": null,
    "sector": "Defense Technology",
    "title": "2027 Software Engineer Intern",
-   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+   "location": "London, England, United Kingdom",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007",
    "age_days": 1,
    "ats": "greenhouse"
   },
@@ -1230,9 +1230,9 @@
    "rank": null,
    "sector": "Defense Technology",
    "title": "2027 Software Engineer Intern",
-   "location": "London, England, United Kingdom",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007",
+   "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
    "age_days": 1,
    "ats": "greenhouse"
   },
