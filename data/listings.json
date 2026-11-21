@@ -1,8 +1,8 @@
 {
- "generated_utc": "2026-11-21T03:46:11+00:00",
- "companies_queried": 90,
+ "generated_utc": "2026-11-21T12:01:46+00:00",
+ "companies_queried": 21,
  "companies_failed": [],
- "count": 486,
+ "count": 484,
  "listings": [
   {
    "company": "Apple",
@@ -91,17 +91,6 @@
    "url": "https://jobs.smartrecruiters.com/servicenow/744000162827365",
    "age_days": 1,
    "ats": "smartrecruiters"
-  },
-  {
-   "company": "Motional",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Machine Learning Internship, Behaviors Research",
-   "location": "Singapore, Central, Singapore",
-   "is_us": false,
-   "url": "https://motional.com/open-positions/?gh_jid=7600024003#/7600024003",
-   "age_days": 1,
-   "ats": "greenhouse"
   },
   {
    "company": "MongoDB",
@@ -445,28 +434,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Zynga",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Mobile Developer Intern (C++)",
-   "location": "Barcelona, Spain",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6212933004",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Zynga",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Software Engineer Intern (Two Dots) - Socialpoint Studio",
-   "location": "Barcelona, Spain",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6217991004",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Samsung Semiconductor",
    "rank": null,
    "sector": "Semiconductors",
@@ -764,6 +731,17 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Motional",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Machine Learning Internship, Behaviors Research",
+   "location": "Singapore, Central, Singapore",
+   "is_us": false,
+   "url": "https://motional.com/open-positions/?gh_jid=7600024003#/7600024003",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Bosch",
    "rank": null,
    "sector": "Automotive",
@@ -947,6 +925,28 @@
    "location": "Costa Mesa, California, United States",
    "is_us": true,
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Zynga",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Mobile Developer Intern (C++)",
+   "location": "Barcelona, Spain",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6212933004",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Zynga",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Software Engineer Intern (Two Dots) - Socialpoint Studio",
+   "location": "Barcelona, Spain",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6217991004",
    "age_days": 3,
    "ats": "greenhouse"
   },
@@ -1345,28 +1345,6 @@
    "url": "https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os",
    "age_days": 8,
    "ats": "custom"
-  },
-  {
-   "company": "ServiceNow",
-   "rank": 333,
-   "sector": "Technology",
-   "title": "AI Identity Intern",
-   "location": "Kirkland, us",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/servicenow/744000161594249",
-   "age_days": 8,
-   "ats": "smartrecruiters"
-  },
-  {
-   "company": "ServiceNow",
-   "rank": 333,
-   "sector": "Technology",
-   "title": "Security Engineer Intern",
-   "location": "Kirkland, us",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/servicenow/744000161592679",
-   "age_days": 8,
-   "ats": "smartrecruiters"
   },
   {
    "company": "Formlabs",
@@ -2667,6 +2645,17 @@
    "ats": "ashby"
   },
   {
+   "company": "Zoox",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Data Science Intern [Summer 2027]",
+   "location": "Foster City, CA",
+   "is_us": true,
+   "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97",
+   "age_days": 15,
+   "ats": "lever"
+  },
+  {
    "company": "Verkada",
    "rank": null,
    "sector": "Internet of Things",
@@ -2720,17 +2709,6 @@
    "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
    "age_days": 15,
    "ats": "greenhouse"
-  },
-  {
-   "company": "Zoox",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Data Science Intern [Summer 2027]",
-   "location": "Foster City, CA",
-   "is_us": true,
-   "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97",
-   "age_days": 15,
-   "ats": "lever"
   },
   {
    "company": "Apple",
@@ -3162,17 +3140,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Coinbase",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Machine Learning Engineer Intern",
-   "location": "Hybrid - San Francisco, CA",
-   "is_us": true,
-   "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
-   "age_days": 22,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Zoox",
    "rank": null,
    "sector": "Automotive",
@@ -3204,6 +3171,17 @@
    "url": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
    "age_days": 22,
    "ats": "lever"
+  },
+  {
+   "company": "Coinbase",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Machine Learning Engineer Intern",
+   "location": "Hybrid - San Francisco, CA",
+   "is_us": true,
+   "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+   "age_days": 22,
+   "ats": "greenhouse"
   },
   {
    "company": "Amazon",
@@ -3745,17 +3723,6 @@
    "ats": "lever"
   },
   {
-   "company": "Coinbase",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer Intern",
-   "location": "Hybrid - San Francisco, CA",
-   "is_us": true,
-   "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
-   "age_days": 32,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Skydio",
    "rank": null,
    "sector": "Robotics",
@@ -3765,6 +3732,17 @@
    "url": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52",
    "age_days": 32,
    "ats": "ashby"
+  },
+  {
+   "company": "Coinbase",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer Intern",
+   "location": "Hybrid - San Francisco, CA",
+   "is_us": true,
+   "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+   "age_days": 32,
+   "ats": "greenhouse"
   },
   {
    "company": "Apple",
