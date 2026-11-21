@@ -2,7 +2,7 @@
 
 Software-engineering **internship** postings (Summer 2027 cycle), pulled straight from the applicant tracking systems of the [2026 Fortune 500](https://fortune.com/ranking/fortune500/2026/) plus a curated list of technology companies outside it.
 
-**468 open postings** (255 in the US) across **83 companies** · last refreshed 2026-11-21 19:12:46 UTC
+**468 open postings** (255 in the US) across **83 companies** · last refreshed 2026-11-21 23:48:46 UTC
 
 Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more were identified but their `robots.txt` disallows crawling, so they are listed as links only. 429 are still unresolved — see [Coverage](#coverage).
 
@@ -40,12 +40,12 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | 357 | **Airbnb** | Software Engineering Intern (BS/MS) | San Francisco, California | 3d | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
 | — | **Epic Games** | Tools Programmer Intern (Graphics) | Cary,North Carolina,United States | 3d | [Apply](https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004) |
 | — | **Riot Games** | Machine Learning Engineering Intern (Masters/PhD) - Summer 2027 | Los Angeles, USA | 3d | [Apply](https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771) |
-| — | **Scale AI** | Machine Learning Research Intern (Summer 2027) | New York, NY; San Francisco, CA | 3d | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) |
-| — | **Scale AI** | Software Engineering Intern (Summer 2027) | San Francisco, CA | 3d | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) |
 | — | **Samsung Semiconductor** | Intern, Architecture Research Engineer (Agentic AI Workload Characterization) | San Jose, California, United States | 3d | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003) |
 | — | **Samsung Semiconductor** | Intern, Architecture Research Engineer (MoE Placement for Serving at Scale) | San Jose, California, United States | 3d | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208494003) |
 | — | **Samsung Semiconductor** | Intern, SSD Firmware Development | San Jose, California, United States | 3d | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003) |
 | — | **Samsung Semiconductor** | Intern, SSD Firmware Engineer | San Jose, California, United States | 3d | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003) |
+| — | **Scale AI** | Machine Learning Research Intern (Summer 2027) | New York, NY; San Francisco, CA | 3d | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) |
+| — | **Scale AI** | Software Engineering Intern (Summer 2027) | San Francisco, CA | 3d | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) |
 | — | **Anduril Industries** | 2027 Business Systems Engineer Intern | Costa Mesa, California, United States | 3d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007) |
 | — | **Brex** | Software Engineer, Intern  (Summer 2027) | San Francisco, California, United States | 4d | [Apply](https://www.brex.com/careers/8936403002?gh_jid=8936403002) |
 | — | **Varda Space Industries** | Flight Software Internship - Spring 2027 | El Segundo, California, United States | 4d | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) |
@@ -286,10 +286,10 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Astranis** | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco | 1d | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704569006) |
 | — | **Astranis** | Embedded Software Developer, Network/Payload Intern (Winter 2027) | San Francisco | 1d | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704571006) |
 | — | **Samsara** | Software Engineering Internship - San Francisco | San Francisco - SF9 | 1d | [Apply](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) |
-| — | **SpaceX** | Spring 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 1d | [Apply](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002) |
-| — | **SpaceX** | Summer 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 1d | [Apply](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) |
 | — | **Bosch** | [Internship Program Q1 2027] Embedded Software Intern (C/C++) | Hanoi, vn | 1d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162666349) |
 | — | **Bosch** | [EMN] Hardware Internship for High Perform Computing Platform | Ho Chi Minh, vn | 1d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162651399) |
+| — | **SpaceX** | Spring 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 1d | [Apply](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002) |
+| — | **SpaceX** | Summer 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 1d | [Apply](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) |
 | — | **Snowflake** | Software Engineer Intern (AI / ML) - Summer 2027 | US-CA-Menlo Park | 2d | [Apply](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907) |
 | — | **Snowflake** | Software Engineer Intern (Database Engineering) - Summer 2027 | US-CA-Menlo Park | 2d | [Apply](https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d) |
 | — | **Snowflake** | Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027 | US-CA-Menlo Park | 2d | [Apply](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897) |
@@ -313,14 +313,14 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Bosch** | Extracurricular Internship: iOS Developer (f/m/div.) | Aveiro, pt | 2d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162492837) |
 | 4 | **Apple** | Software Engineering Intern (Full-Stack & AI Integration) - Shanghai | China | 3d | [Apply](https://jobs.apple.com/en-us/details/200695373/software-engineering-intern-full-stack-ai-integration-shanghai) |
 | 432 | **Western Digital** | Spring 2027 Intern - Software Engineering | Irvine, us | 3d | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000162353069) |
-| — | **Scale AI** | Software Engineering Intern (Summer 2027) | London, UK | 3d | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) |
-| — | **Scale AI** | Software Engineering Intern (Summer 2027) | Doha, Qatar | 3d | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) |
 | — | **Tower Research Capital** | Stagiaire en machine learning / Machine Learning Intern | Montreal | 3d | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) |
 | — | **Zynga** | Mobile Developer Intern (C++) | Barcelona, Spain | 3d | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6212933004) |
 | — | **Zynga** | Software Engineer Intern (Two Dots) - Socialpoint Studio | Barcelona, Spain | 3d | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6217991004) |
 | — | **Bosch** | Internship in Software Engineering | Tranås, se | 3d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162282030) |
 | — | **Bosch** | [Internship] AI & Automatization Intern | Thu Duc City, vn | 3d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162263579) |
 | — | **Bosch** | Extracurricular Internship: AI Software Engineer (f/m/div.) | Aveiro, pt | 3d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162244270) |
+| — | **Scale AI** | Software Engineering Intern (Summer 2027) | Doha, Qatar | 3d | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) |
+| — | **Scale AI** | Software Engineering Intern (Summer 2027) | London, UK | 3d | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) |
 | 4 | **Apple** | Software Engineering Intern, File Previewing & Editing (Quick Look and Preview) | France | 4d | [Apply](https://jobs.apple.com/en-us/details/200695428/software-engineering-intern-file-previewing-editing-quick-look-and-preview) |
 | 4 | **Apple** | Cellular RF Receiver System Engineer Intern | Austria | 4d | [Apply](https://jobs.apple.com/en-us/details/200695289/cellular-rf-receiver-system-engineer-intern) |
 | 432 | **Western Digital** | Internship - Software Development (Embedded) | Petaling Jaya, my | 4d | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000161997959) |
