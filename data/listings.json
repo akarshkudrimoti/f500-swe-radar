@@ -1,8 +1,21 @@
 {
- "generated_utc": "2026-11-21T12:01:46+00:00",
- "companies_queried": 21,
- "companies_failed": [],
- "count": 484,
+ "generated_utc": "2026-11-21T12:43:47+00:00",
+ "companies_queried": 513,
+ "companies_failed": [
+  {
+   "company": "MetLife",
+   "error": "'str' object has no attribute 'get'"
+  },
+  {
+   "company": "Anyscale",
+   "error": "'str' object has no attribute 'get'"
+  },
+  {
+   "company": "Cedar",
+   "error": "Expecting value: line 1 column 1 (char 0)"
+  }
+ ],
+ "count": 468,
  "listings": [
   {
    "company": "Apple",
@@ -12,74 +25,8 @@
    "location": "United Kingdom",
    "is_us": false,
    "url": "https://jobs.apple.com/en-us/details/200696199/software-engineering-intern-app-intelligence-experience",
-   "age_days": 0,
+   "age_days": 1,
    "ats": "custom"
-  },
-  {
-   "company": "Samsara",
-   "rank": null,
-   "sector": "Internet of Things",
-   "title": "Software Engineering Internship - San Francisco",
-   "location": "San Francisco - SF9",
-   "is_us": false,
-   "url": "https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786",
-   "age_days": 0,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Optiver",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "2027 Shanghai FPGA Developer Summer Internship",
-   "location": "Shanghai, China",
-   "is_us": false,
-   "url": "https://www.optiver.com/join-us/jobs/8644364002/?gh_jid=8644364002",
-   "age_days": 0,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Optiver",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "2027 Shanghai Machine Learning Engineer Summer Internship",
-   "location": "Shanghai, China",
-   "is_us": false,
-   "url": "https://www.optiver.com/join-us/jobs/8633966002/?gh_jid=8633966002",
-   "age_days": 0,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Optiver",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "2027 Shanghai Software Developer Summer Internship",
-   "location": "Shanghai, China",
-   "is_us": false,
-   "url": "https://www.optiver.com/join-us/jobs/8623927002/?gh_jid=8623927002",
-   "age_days": 0,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Optiver",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Software Engineer Internship (2027 Start)",
-   "location": "Amsterdam, North Holland, Netherlands",
-   "is_us": false,
-   "url": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
-   "age_days": 0,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Optiver",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Software Engineer Internship (2027 Start)",
-   "location": "London, England, United Kingdom",
-   "is_us": false,
-   "url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
-   "age_days": 0,
-   "ats": "greenhouse"
   },
   {
    "company": "ServiceNow",
@@ -93,134 +40,13 @@
    "ats": "smartrecruiters"
   },
   {
-   "company": "MongoDB",
+   "company": "Samsara",
    "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "2027 - AI and People Transformation Intern, NYC",
-   "location": "New York City",
-   "is_us": true,
-   "url": "https://www.mongodb.com/careers/job/?gh_jid=8346138",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Databricks",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Data Science Intern (2027 Start)",
-   "location": "Mountain View, California; San Francisco, California",
-   "is_us": true,
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Databricks",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineering Intern (2027)",
-   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
-   "is_us": true,
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Databricks",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineering Intern (2027 Start) - Aarhus",
-   "location": "Aarhus, Denmark",
+   "sector": "Internet of Things",
+   "title": "Software Engineering Internship - San Francisco",
+   "location": "San Francisco - SF9",
    "is_us": false,
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Databricks",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineering Intern (2027 Start) - Amsterdam",
-   "location": "Amsterdam, Netherlands",
-   "is_us": false,
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Databricks",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineering Intern (2027 Start) - Belgrade",
-   "location": "Belgrade, Serbia",
-   "is_us": false,
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Databricks",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineering Intern (2027 Start) - Berlin",
-   "location": "Berlin, Germany",
-   "is_us": false,
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Databricks",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineering Intern (2027 Start) - London",
-   "location": "London, United Kingdom",
-   "is_us": false,
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Snowflake",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer Intern (AI / ML) - Summer 2027",
-   "location": "US-CA-Menlo Park",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
-   "age_days": 1,
-   "ats": "ashby"
-  },
-  {
-   "company": "Snowflake",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer Intern (Database Engineering) - Summer 2027",
-   "location": "US-CA-Menlo Park",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d",
-   "age_days": 1,
-   "ats": "ashby"
-  },
-  {
-   "company": "Snowflake",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Summer 2027",
-   "location": "US-CA-Menlo Park",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897",
-   "age_days": 1,
-   "ats": "ashby"
-  },
-  {
-   "company": "Akuna Capital",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Software Engineer Intern - Python, Summer 2027",
-   "location": "Chicago, IL",
-   "is_us": true,
-   "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+   "url": "https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786",
    "age_days": 1,
    "ats": "greenhouse"
   },
@@ -258,28 +84,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "SpaceX",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Spring 2027 Software Engineering Internship/Co-op",
-   "location": "Flexible - Any SpaceX Site",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "SpaceX",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Summer 2027 Software Engineering Internship/Co-op",
-   "location": "Flexible - Any SpaceX Site",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
-   "age_days": 1,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Braze",
    "rank": null,
    "sector": "Marketing Software",
@@ -309,6 +113,105 @@
    "location": "Newark, CA",
    "is_us": true,
    "url": "https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "SpaceX",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Spring 2027 Software Engineering Internship/Co-op",
+   "location": "Flexible - Any SpaceX Site",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "SpaceX",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Summer 2027 Software Engineering Internship/Co-op",
+   "location": "Flexible - Any SpaceX Site",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Optiver",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 Shanghai FPGA Developer Summer Internship",
+   "location": "Shanghai, China",
+   "is_us": false,
+   "url": "https://www.optiver.com/join-us/jobs/8644364002/?gh_jid=8644364002",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Optiver",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 Shanghai Machine Learning Engineer Summer Internship",
+   "location": "Shanghai, China",
+   "is_us": false,
+   "url": "https://www.optiver.com/join-us/jobs/8633966002/?gh_jid=8633966002",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Optiver",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 Shanghai Software Developer Summer Internship",
+   "location": "Shanghai, China",
+   "is_us": false,
+   "url": "https://www.optiver.com/join-us/jobs/8623927002/?gh_jid=8623927002",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Optiver",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Software Engineer Internship (2027 Start)",
+   "location": "London, England, United Kingdom",
+   "is_us": false,
+   "url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Optiver",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Software Engineer Internship (2027 Start)",
+   "location": "Amsterdam, North Holland, Netherlands",
+   "is_us": false,
+   "url": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "xAI",
+   "rank": null,
+   "sector": "Artificial Intelligence",
+   "title": "Spring 2027 Software Engineering Internship/Co-op",
+   "location": "Palo Alto, CA",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/xai/jobs/5252108007",
+   "age_days": 1,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "xAI",
+   "rank": null,
+   "sector": "Artificial Intelligence",
+   "title": "Summer 2027 Software Engineering Internship/Co-op",
+   "location": "Palo Alto, CA",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/xai/jobs/5255111007",
    "age_days": 1,
    "ats": "greenhouse"
   },
@@ -368,39 +271,6 @@
    "ats": "smartrecruiters"
   },
   {
-   "company": "Apple",
-   "rank": 4,
-   "sector": "Technology",
-   "title": "Software Engineering Intern (Full-Stack & AI Integration) - Shanghai",
-   "location": "China",
-   "is_us": false,
-   "url": "https://jobs.apple.com/en-us/details/200695373/software-engineering-intern-full-stack-ai-integration-shanghai",
-   "age_days": 2,
-   "ats": "custom"
-  },
-  {
-   "company": "PayPal Holdings",
-   "rank": 139,
-   "sector": "Business Services",
-   "title": "Software Engineer Intern - Backend",
-   "location": "Central Singapore, Singapore",
-   "is_us": false,
-   "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Central-Singapore-Singapore/Software-Engineer-Intern---Backend_R0138931",
-   "age_days": 2,
-   "ats": "workday"
-  },
-  {
-   "company": "PayPal Holdings",
-   "rank": 139,
-   "sector": "Business Services",
-   "title": "Full Stack Software Engineer Intern",
-   "location": "Central Singapore, Singapore",
-   "is_us": false,
-   "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Central-Singapore-Singapore/Full-Stack-Software-Engineer-Intern_R0138930",
-   "age_days": 2,
-   "ats": "workday"
-  },
-  {
    "company": "DoorDash",
    "rank": 329,
    "sector": "Technology",
@@ -412,81 +282,125 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Epic Games",
+   "company": "MongoDB",
    "rank": null,
-   "sector": "Gaming",
-   "title": "Tools Programmer Intern (Graphics)",
-   "location": "Cary,North Carolina,United States",
+   "sector": "Data Infrastructure",
+   "title": "2027 - AI and People Transformation Intern, NYC",
+   "location": "New York City",
    "is_us": true,
-   "url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8346138",
    "age_days": 2,
    "ats": "greenhouse"
   },
   {
-   "company": "Tower Research Capital",
+   "company": "Databricks",
    "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Stagiaire en machine learning / Machine Learning Intern",
-   "location": "Montreal",
+   "sector": "Data Infrastructure",
+   "title": "Data Science Intern (2027 Start)",
+   "location": "Mountain View, California; San Francisco, California",
+   "is_us": true,
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Databricks",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineering Intern (2027)",
+   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+   "is_us": true,
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Databricks",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineering Intern (2027 Start) - Aarhus",
+   "location": "Aarhus, Denmark",
    "is_us": false,
-   "url": "https://www.tower-research.com/open-positions/?gh_jid=7077280",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002",
    "age_days": 2,
    "ats": "greenhouse"
   },
   {
-   "company": "Samsung Semiconductor",
+   "company": "Databricks",
    "rank": null,
-   "sector": "Semiconductors",
-   "title": "Intern, Architecture Research Engineer (Agentic AI Workload Characterization)",
-   "location": "San Jose, California, United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003",
+   "sector": "Data Infrastructure",
+   "title": "Software Engineering Intern (2027 Start) - Amsterdam",
+   "location": "Amsterdam, Netherlands",
+   "is_us": false,
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002",
    "age_days": 2,
    "ats": "greenhouse"
   },
   {
-   "company": "Samsung Semiconductor",
+   "company": "Databricks",
    "rank": null,
-   "sector": "Semiconductors",
-   "title": "Intern, Architecture Research Engineer (MoE Placement for Serving at Scale)",
-   "location": "San Jose, California, United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208494003",
+   "sector": "Data Infrastructure",
+   "title": "Software Engineering Intern (2027 Start) - Belgrade",
+   "location": "Belgrade, Serbia",
+   "is_us": false,
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002",
    "age_days": 2,
    "ats": "greenhouse"
   },
   {
-   "company": "Samsung Semiconductor",
+   "company": "Databricks",
    "rank": null,
-   "sector": "Semiconductors",
-   "title": "Intern, SSD Firmware Development",
-   "location": "San Jose, California, United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003",
+   "sector": "Data Infrastructure",
+   "title": "Software Engineering Intern (2027 Start) - Berlin",
+   "location": "Berlin, Germany",
+   "is_us": false,
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002",
    "age_days": 2,
    "ats": "greenhouse"
   },
   {
-   "company": "Samsung Semiconductor",
+   "company": "Databricks",
    "rank": null,
-   "sector": "Semiconductors",
-   "title": "Intern, SSD Firmware Engineer",
-   "location": "San Jose, California, United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003",
+   "sector": "Data Infrastructure",
+   "title": "Software Engineering Intern (2027 Start) - London",
+   "location": "London, United Kingdom",
+   "is_us": false,
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002",
    "age_days": 2,
    "ats": "greenhouse"
   },
   {
-   "company": "Riot Games",
+   "company": "Snowflake",
    "rank": null,
-   "sector": "Gaming",
-   "title": "Machine Learning Engineering Intern (Masters/PhD) - Summer 2027",
-   "location": "Los Angeles, USA",
-   "is_us": true,
-   "url": "https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771",
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer Intern (AI / ML) - Summer 2027",
+   "location": "US-CA-Menlo Park",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
    "age_days": 2,
-   "ats": "greenhouse"
+   "ats": "ashby"
+  },
+  {
+   "company": "Snowflake",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer Intern (Database Engineering) - Summer 2027",
+   "location": "US-CA-Menlo Park",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d",
+   "age_days": 2,
+   "ats": "ashby"
+  },
+  {
+   "company": "Snowflake",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Summer 2027",
+   "location": "US-CA-Menlo Park",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897",
+   "age_days": 2,
+   "ats": "ashby"
   },
   {
    "company": "Stripe",
@@ -643,17 +557,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Waymo",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "2027 Summer Intern, PhD, Agentic AI",
-   "location": "Mountain View, California, United States",
-   "is_us": true,
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8401116",
-   "age_days": 2,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Lucid Motors",
    "rank": null,
    "sector": "Automotive",
@@ -731,6 +634,28 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Waymo",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "2027 Summer Intern, PhD, Agentic AI",
+   "location": "Mountain View, California, United States",
+   "is_us": true,
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8401116",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Akuna Capital",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Software Engineer Intern - Python, Summer 2027",
+   "location": "Chicago, IL",
+   "is_us": true,
+   "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+   "age_days": 2,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Motional",
    "rank": null,
    "sector": "Automotive",
@@ -767,21 +692,10 @@
    "company": "Apple",
    "rank": 4,
    "sector": "Technology",
-   "title": "Software Engineering Intern, File Previewing & Editing (Quick Look and Preview)",
-   "location": "France",
+   "title": "Software Engineering Intern (Full-Stack & AI Integration) - Shanghai",
+   "location": "China",
    "is_us": false,
-   "url": "https://jobs.apple.com/en-us/details/200695428/software-engineering-intern-file-previewing-editing-quick-look-and-preview",
-   "age_days": 3,
-   "ats": "custom"
-  },
-  {
-   "company": "Apple",
-   "rank": 4,
-   "sector": "Technology",
-   "title": "Cellular RF Receiver System Engineer Intern",
-   "location": "Austria",
-   "is_us": false,
-   "url": "https://jobs.apple.com/en-us/details/200695289/cellular-rf-receiver-system-engineer-intern",
+   "url": "https://jobs.apple.com/en-us/details/200695373/software-engineering-intern-full-stack-ai-integration-shanghai",
    "age_days": 3,
    "ats": "custom"
   },
@@ -808,68 +722,24 @@
    "ats": "smartrecruiters"
   },
   {
-   "company": "Brex",
+   "company": "Epic Games",
    "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineer, Intern  (Summer 2027)",
-   "location": "San Francisco, California, United States",
+   "sector": "Gaming",
+   "title": "Tools Programmer Intern (Graphics)",
+   "location": "Cary,North Carolina,United States",
    "is_us": true,
-   "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+   "url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004",
    "age_days": 3,
    "ats": "greenhouse"
   },
   {
-   "company": "Point72",
+   "company": "Riot Games",
    "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "2027 MI Data Research & AI Intern - APAC",
-   "location": "Hong Kong, Singapore, Japan",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Varda Space Industries",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Flight Software Internship - Spring 2027",
-   "location": "El Segundo, California, United States",
+   "sector": "Gaming",
+   "title": "Machine Learning Engineering Intern (Masters/PhD) - Summer 2027",
+   "location": "Los Angeles, USA",
    "is_us": true,
-   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824815003",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Varda Space Industries",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Flight Software Internship - Summer 2027",
-   "location": "El Segundo, California, United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010159003",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Varda Space Industries",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Site Reliability Internship - Spring 2027",
-   "location": "El Segundo, California, United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824814003",
-   "age_days": 3,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Varda Space Industries",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Site Reliability Internship - Summer 2027",
-   "location": "El Segundo, California, United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8198267003",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771",
    "age_days": 3,
    "ats": "greenhouse"
   },
@@ -929,6 +799,17 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Tower Research Capital",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Stagiaire en machine learning / Machine Learning Intern",
+   "location": "Montreal",
+   "is_us": false,
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=7077280",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Zynga",
    "rank": null,
    "sector": "Gaming",
@@ -947,6 +828,50 @@
    "location": "Barcelona, Spain",
    "is_us": false,
    "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6217991004",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Samsung Semiconductor",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "Intern, Architecture Research Engineer (Agentic AI Workload Characterization)",
+   "location": "San Jose, California, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Samsung Semiconductor",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "Intern, Architecture Research Engineer (MoE Placement for Serving at Scale)",
+   "location": "San Jose, California, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208494003",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Samsung Semiconductor",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "Intern, SSD Firmware Development",
+   "location": "San Jose, California, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003",
+   "age_days": 3,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Samsung Semiconductor",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "Intern, SSD Firmware Engineer",
+   "location": "San Jose, California, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003",
    "age_days": 3,
    "ats": "greenhouse"
   },
@@ -984,6 +909,28 @@
    "ats": "smartrecruiters"
   },
   {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Software Engineering Intern, File Previewing & Editing (Quick Look and Preview)",
+   "location": "France",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200695428/software-engineering-intern-file-previewing-editing-quick-look-and-preview",
+   "age_days": 4,
+   "ats": "custom"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Cellular RF Receiver System Engineer Intern",
+   "location": "Austria",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200695289/cellular-rf-receiver-system-engineer-intern",
+   "age_days": 4,
+   "ats": "custom"
+  },
+  {
    "company": "Western Digital",
    "rank": 432,
    "sector": "Technology",
@@ -995,68 +942,13 @@
    "ats": "smartrecruiters"
   },
   {
-   "company": "PDT Partners",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Summer 2027 Software Engineering Intern",
-   "location": "New York, NY",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
-   "age_days": 4,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "MongoDB",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "2027 - Software Engineering Intern, AMER",
-   "location": "Austin; New York City; San Francisco",
-   "is_us": true,
-   "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
-   "age_days": 4,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "MongoDB",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
-   "location": "Dublin",
-   "is_us": false,
-   "url": "https://www.mongodb.com/careers/job/?gh_jid=8258279",
-   "age_days": 4,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "MongoDB",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "2027 - Summer Software Engineer Intern, Dublin",
-   "location": "Dublin",
-   "is_us": false,
-   "url": "https://www.mongodb.com/careers/job/?gh_jid=8267099",
-   "age_days": 4,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Brex",
    "rank": null,
    "sector": "Financial Technology",
-   "title": "Software Engineer, Internship - 2027",
-   "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
-   "is_us": false,
-   "url": "https://www.brex.com/careers/8935242002?gh_jid=8935242002",
-   "age_days": 4,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Schonfeld",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "2027 Platform Engineering Intern",
-   "location": "New York, New York, United States",
+   "title": "Software Engineer, Intern  (Summer 2027)",
+   "location": "San Francisco, California, United States",
    "is_us": true,
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
+   "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
    "age_days": 4,
    "ats": "greenhouse"
   },
@@ -1072,15 +964,103 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Steel Dynamics",
-   "rank": 244,
-   "sector": "Materials",
-   "title": "Software Engineer Intern (Summer 2027)",
-   "location": "Toronto",
+   "company": "Point72",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 MI Data Research & AI Intern - APAC",
+   "location": "Hong Kong, Singapore, Japan",
    "is_us": false,
-   "url": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c",
+   "url": "https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002",
+   "age_days": 4,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Varda Space Industries",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Flight Software Internship - Spring 2027",
+   "location": "El Segundo, California, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824815003",
+   "age_days": 4,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Varda Space Industries",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Flight Software Internship - Summer 2027",
+   "location": "El Segundo, California, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010159003",
+   "age_days": 4,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Varda Space Industries",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Site Reliability Internship - Spring 2027",
+   "location": "El Segundo, California, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824814003",
+   "age_days": 4,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Varda Space Industries",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Site Reliability Internship - Summer 2027",
+   "location": "El Segundo, California, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8198267003",
+   "age_days": 4,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "MongoDB",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "2027 - Software Engineering Intern, AMER",
+   "location": "Austin; New York City; San Francisco",
+   "is_us": true,
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
    "age_days": 5,
-   "ats": "ashby"
+   "ats": "greenhouse"
+  },
+  {
+   "company": "MongoDB",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
+   "location": "Dublin",
+   "is_us": false,
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8258279",
+   "age_days": 5,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "MongoDB",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "2027 - Summer Software Engineer Intern, Dublin",
+   "location": "Dublin",
+   "is_us": false,
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8267099",
+   "age_days": 5,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Brex",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineer, Internship - 2027",
+   "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+   "is_us": false,
+   "url": "https://www.brex.com/careers/8935242002?gh_jid=8935242002",
+   "age_days": 5,
+   "ats": "greenhouse"
   },
   {
    "company": "Anduril Industries",
@@ -1226,6 +1206,39 @@
    "ats": "greenhouse"
   },
   {
+   "company": "PDT Partners",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Summer 2027 Software Engineering Intern",
+   "location": "New York, NY",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+   "age_days": 5,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Schonfeld",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 Platform Engineering Intern",
+   "location": "New York, New York, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
+   "age_days": 5,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Steel Dynamics",
+   "rank": 244,
+   "sector": "Materials",
+   "title": "Software Engineer Intern (Summer 2027)",
+   "location": "Toronto",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c",
+   "age_days": 6,
+   "ats": "ashby"
+  },
+  {
    "company": "Amazon",
    "rank": 1,
    "sector": "Retailing",
@@ -1248,39 +1261,6 @@
    "ats": "custom"
   },
   {
-   "company": "Epic Games",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Tools Programmer Intern",
-   "location": "Cary,North Carolina,United States",
-   "is_us": true,
-   "url": "https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004",
-   "age_days": 7,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Samsung Semiconductor",
-   "rank": null,
-   "sector": "Semiconductors",
-   "title": "Intern, AI Systems Performance Engineer",
-   "location": "San Jose, California, United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003",
-   "age_days": 7,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Samsung Semiconductor",
-   "rank": null,
-   "sector": "Semiconductors",
-   "title": "Intern, ML Compiler (Kernel Auto-Tuning)",
-   "location": "San Jose, California, United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003",
-   "age_days": 7,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Snowflake",
    "rank": null,
    "sector": "Data Infrastructure",
@@ -1288,74 +1268,8 @@
    "location": "CH-Zurich-Observe",
    "is_us": false,
    "url": "https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b",
-   "age_days": 7,
+   "age_days": 8,
    "ats": "ashby"
-  },
-  {
-   "company": "Appian",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Information Security Engineer Intern",
-   "location": "McLean, Virginia",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/appian/jobs/8088496",
-   "age_days": 7,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Appian",
-   "rank": null,
-   "sector": "Enterprise Software",
-   "title": "Software Engineering Intern",
-   "location": "McLean, Virginia",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
-   "age_days": 7,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Apple",
-   "rank": 4,
-   "sector": "Technology",
-   "title": "Internship - Pro Apps Machine Learning Ecosystem Engineer",
-   "location": "United Kingdom",
-   "is_us": false,
-   "url": "https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer",
-   "age_days": 8,
-   "ats": "custom"
-  },
-  {
-   "company": "Apple",
-   "rank": 4,
-   "sector": "Technology",
-   "title": "Camera Software (Intern)",
-   "location": "United Kingdom",
-   "is_us": false,
-   "url": "https://jobs.apple.com/en-us/details/200694477/camera-software-intern",
-   "age_days": 8,
-   "ats": "custom"
-  },
-  {
-   "company": "Apple",
-   "rank": 4,
-   "sector": "Technology",
-   "title": "Internship - Software Development Intern - Core OS",
-   "location": "Czechia",
-   "is_us": false,
-   "url": "https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os",
-   "age_days": 8,
-   "ats": "custom"
-  },
-  {
-   "company": "Formlabs",
-   "rank": null,
-   "sector": "Hardware",
-   "title": "Software Engineer Intern (Full stack)",
-   "location": "Budapest, Hungary",
-   "is_us": false,
-   "url": "https://careers.formlabs.com/job/8260955/apply/?gh_jid=8260955",
-   "age_days": 8,
-   "ats": "greenhouse"
   },
   {
    "company": "Coinbase",
@@ -1369,81 +1283,92 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Dow",
-   "rank": 120,
-   "sector": "Chemicals",
-   "title": "Local College Co-op: Infrastructure Mapping & Data Quality (Michigan Operations)",
-   "location": "Midland (MI, USA)",
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Tools Programmer Intern",
+   "location": "Cary,North Carolina,United States",
    "is_us": true,
-   "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op--Infrastructure-Mapping---Data-Quality--Michigan-Operations-_R2069169",
-   "age_days": 9,
-   "ats": "workday"
+   "url": "https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004",
+   "age_days": 8,
+   "ats": "greenhouse"
   },
   {
-   "company": "Samsung Semiconductor",
+   "company": "Appian",
    "rank": null,
-   "sector": "Semiconductors",
-   "title": "Intern, AI Application Engineer",
-   "location": "Folsom, California, United States",
+   "sector": "Enterprise Software",
+   "title": "Information Security Engineer Intern",
+   "location": "McLean, Virginia",
    "is_us": true,
-   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003",
-   "age_days": 9,
+   "url": "https://job-boards.greenhouse.io/appian/jobs/8088496",
+   "age_days": 8,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Appian",
+   "rank": null,
+   "sector": "Enterprise Software",
+   "title": "Software Engineering Intern",
+   "location": "McLean, Virginia",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+   "age_days": 8,
    "ats": "greenhouse"
   },
   {
    "company": "Samsung Semiconductor",
    "rank": null,
    "sector": "Semiconductors",
-   "title": "Intern, AI System Architecture Research Scientist",
+   "title": "Intern, AI Systems Performance Engineer",
    "location": "San Jose, California, United States",
    "is_us": true,
-   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197305003",
-   "age_days": 9,
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003",
+   "age_days": 8,
    "ats": "greenhouse"
   },
   {
-   "company": "Snowflake",
+   "company": "Samsung Semiconductor",
    "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineering Intern \u2013 Developer Platform (Warsaw, Summer 2027)",
-   "location": "PL-Warsaw-Lixa C",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/snowflake/a1d72623-8c75-41ce-8980-760ffcbc050c",
-   "age_days": 9,
-   "ats": "ashby"
-  },
-  {
-   "company": "Snowflake",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineering Intern \u2013 Data Ingestion & Platform Infrastructure (Warsaw, Summer 2027)",
-   "location": "PL-Warsaw-Lixa C",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/snowflake/aada80b0-a940-4441-89c0-08d929db38a7",
-   "age_days": 9,
-   "ats": "ashby"
-  },
-  {
-   "company": "Schonfeld",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "2027 Software Engineering Intern",
-   "location": "Singapore, Central, Singapore",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8356747",
-   "age_days": 9,
+   "sector": "Semiconductors",
+   "title": "Intern, ML Compiler (Kernel Auto-Tuning)",
+   "location": "San Jose, California, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003",
+   "age_days": 8,
    "ats": "greenhouse"
   },
   {
-   "company": "Schonfeld",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "2027 Software Engineering Intern",
-   "location": "Hong Kong, Hong Kong",
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Internship - Pro Apps Machine Learning Ecosystem Engineer",
+   "location": "United Kingdom",
    "is_us": false,
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8346891",
+   "url": "https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer",
    "age_days": 9,
-   "ats": "greenhouse"
+   "ats": "custom"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Camera Software (Intern)",
+   "location": "United Kingdom",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200694477/camera-software-intern",
+   "age_days": 9,
+   "ats": "custom"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Internship - Software Development Intern - Core OS",
+   "location": "Czechia",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os",
+   "age_days": 9,
+   "ats": "custom"
   },
   {
    "company": "Waymo",
@@ -1710,6 +1635,28 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Zoox",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Data Scientist Intern [Summer 2027]",
+   "location": "Foster City, CA",
+   "is_us": true,
+   "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
+   "age_days": 9,
+   "ats": "lever"
+  },
+  {
+   "company": "Formlabs",
+   "rank": null,
+   "sector": "Hardware",
+   "title": "Software Engineer Intern (Full stack)",
+   "location": "Budapest, Hungary",
+   "is_us": false,
+   "url": "https://careers.formlabs.com/job/8260955/apply/?gh_jid=8260955",
+   "age_days": 9,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Astranis",
    "rank": null,
    "sector": "Aerospace",
@@ -1787,17 +1734,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Zoox",
-   "rank": null,
-   "sector": "Automotive",
-   "title": "Data Scientist Intern [Summer 2027]",
-   "location": "Foster City, CA",
-   "is_us": true,
-   "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
-   "age_days": 9,
-   "ats": "lever"
-  },
-  {
    "company": "Amazon",
    "rank": 1,
    "sector": "Retailing",
@@ -1820,6 +1756,72 @@
    "ats": "custom"
   },
   {
+   "company": "Snowflake",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineering Intern \u2013 Developer Platform (Warsaw, Summer 2027)",
+   "location": "PL-Warsaw-Lixa C",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/snowflake/a1d72623-8c75-41ce-8980-760ffcbc050c",
+   "age_days": 10,
+   "ats": "ashby"
+  },
+  {
+   "company": "Snowflake",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineering Intern \u2013 Data Ingestion & Platform Infrastructure (Warsaw, Summer 2027)",
+   "location": "PL-Warsaw-Lixa C",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/snowflake/aada80b0-a940-4441-89c0-08d929db38a7",
+   "age_days": 10,
+   "ats": "ashby"
+  },
+  {
+   "company": "Schonfeld",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 Software Engineering Intern",
+   "location": "Singapore, Central, Singapore",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8356747",
+   "age_days": 10,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Schonfeld",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 Software Engineering Intern",
+   "location": "Hong Kong, Hong Kong",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8346891",
+   "age_days": 10,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Samsung Semiconductor",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "Intern, AI Application Engineer",
+   "location": "Folsom, California, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003",
+   "age_days": 10,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Samsung Semiconductor",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "Intern, AI System Architecture Research Scientist",
+   "location": "San Jose, California, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197305003",
+   "age_days": 10,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Apple",
    "rank": 4,
    "sector": "Technology",
@@ -1827,41 +1829,8 @@
    "location": "China",
    "is_us": false,
    "url": "https://jobs.apple.com/en-us/details/200694023/rfhw-systems-engineer-intern-shanghai-or-shenzhen",
-   "age_days": 10,
+   "age_days": 11,
    "ats": "custom"
-  },
-  {
-   "company": "Amgen",
-   "rank": 129,
-   "sector": "Health Care",
-   "title": "Undergraduate  Co-op Student \u2013 Software Engineer \u2013 Large Molecule Discovery - Technology",
-   "location": "Canada - Burnaby",
-   "is_us": false,
-   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920",
-   "age_days": 10,
-   "ats": "workday"
-  },
-  {
-   "company": "Etched",
-   "rank": null,
-   "sector": "Semiconductors",
-   "title": "Chip Simulation Software Intern",
-   "location": "San Jose",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8",
-   "age_days": 10,
-   "ats": "ashby"
-  },
-  {
-   "company": "Palantir Technologies",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer, Internship - Connectivity Platform and Product",
-   "location": "Denver, CO",
-   "is_us": true,
-   "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e",
-   "age_days": 10,
-   "ats": "lever"
   },
   {
    "company": "Western Digital",
@@ -1873,83 +1842,6 @@
    "url": "https://jobs.smartrecruiters.com/westerndigital/744000160975819",
    "age_days": 11,
    "ats": "smartrecruiters"
-  },
-  {
-   "company": "Epic Games",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "AI Programmer Intern",
-   "location": "Cary,North Carolina,United States",
-   "is_us": true,
-   "url": "https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004",
-   "age_days": 11,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Point72",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research",
-   "location": "New York, NY",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002",
-   "age_days": 11,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Point72",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "2027 Summer Internship \u2013 Software Engineer",
-   "location": "New York, NY",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002",
-   "age_days": 11,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Point72",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Machine Learning Researcher - Intern",
-   "location": "New York",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
-   "age_days": 11,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Point72",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Micro-Intern: Research Technology Developer (IAP)",
-   "location": "New York",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002",
-   "age_days": 11,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Point72",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Quantitative Developer Intern",
-   "location": "New York",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002",
-   "age_days": 11,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Point72",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Quantitative Software Developer Intern",
-   "location": "New York",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
-   "age_days": 11,
-   "ats": "greenhouse"
   },
   {
    "company": "Lyft",
@@ -2117,6 +2009,28 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Palantir Technologies",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer, Internship - Connectivity Platform and Product",
+   "location": "Denver, CO",
+   "is_us": true,
+   "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e",
+   "age_days": 11,
+   "ats": "lever"
+  },
+  {
+   "company": "Etched",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "Chip Simulation Software Intern",
+   "location": "San Jose",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8",
+   "age_days": 11,
+   "ats": "ashby"
+  },
+  {
    "company": "Skydio",
    "rank": null,
    "sector": "Robotics",
@@ -2172,6 +2086,83 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "AI Programmer Intern",
+   "location": "Cary,North Carolina,United States",
+   "is_us": true,
+   "url": "https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004",
+   "age_days": 12,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Point72",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research",
+   "location": "New York, NY",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002",
+   "age_days": 12,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Point72",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 Summer Internship \u2013 Software Engineer",
+   "location": "New York, NY",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002",
+   "age_days": 12,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Point72",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Machine Learning Researcher - Intern",
+   "location": "New York",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
+   "age_days": 12,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Point72",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Micro-Intern: Research Technology Developer (IAP)",
+   "location": "New York",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002",
+   "age_days": 12,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Point72",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Quantitative Developer Intern",
+   "location": "New York",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002",
+   "age_days": 12,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Point72",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Quantitative Software Developer Intern",
+   "location": "New York",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
+   "age_days": 12,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Cloudflare Zero Trust",
    "rank": null,
    "sector": "Security",
@@ -2216,270 +2207,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Etched",
-   "rank": null,
-   "sector": "Semiconductors",
-   "title": "Infrastructure Engineering & Projects Intern",
-   "location": "San Jose",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b",
-   "age_days": 14,
-   "ats": "ashby"
-  },
-  {
-   "company": "Duolingo",
-   "rank": null,
-   "sector": "Education Technology",
-   "title": "AI Research Intern (PhD)",
-   "location": "New York, NY; Pittsburgh, PA",
-   "is_us": true,
-   "url": "https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Pinterest",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Machine Learning Intern 2027 (Dublin)",
-   "location": "Dublin, IE",
-   "is_us": false,
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8244922",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Pinterest",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Machine Learning Intern 2027 (Toronto)",
-   "location": "Toronto, ON, CA",
-   "is_us": true,
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Pinterest",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Machine Learning Intern 2027 (Zurich)",
-   "location": "Zurich, CH",
-   "is_us": false,
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214757",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Pinterest",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Master's Data Science Internship 2027 (USA)",
-   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
-   "is_us": true,
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Pinterest",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Master's Machine Learning Internship 2027 (USA)",
-   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
-   "is_us": true,
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Pinterest",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Master's University Grad Data Scientist (USA)",
-   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
-   "is_us": true,
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140389",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Pinterest",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Master's University Grad Machine Learning Engineer 2027 (USA)",
-   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
-   "is_us": true,
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140219",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Pinterest",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "PhD Data Science Internship 2027 (USA)",
-   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
-   "is_us": true,
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140169",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Pinterest",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "PhD Machine Learning Internship 2027 (USA)",
-   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
-   "is_us": true,
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140140",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Pinterest",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "PhD University Grad Machine Learning Engineer (USA)",
-   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
-   "is_us": true,
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140363",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Pinterest",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Software Engineering Intern 2027 (Dublin)",
-   "location": "Dublin, IE",
-   "is_us": false,
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138034",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Pinterest",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Software Engineering Intern 2027 (Toronto)",
-   "location": "Toronto, ON, CA",
-   "is_us": true,
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Pinterest",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Software Engineering Intern 2027 (Zurich)",
-   "location": "Zurich, CH",
-   "is_us": false,
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214745",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Pinterest",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Software Engineer Intern 2027 (USA)",
-   "location": "San Francisco, CA, US; Remote, US",
-   "is_us": true,
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Pinterest",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "University Grad Software Engineer 2027 (USA)",
-   "location": "San Francisco, CA, US; Remote, US",
-   "is_us": true,
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
-   "age_days": 14,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Mistral AI",
-   "rank": null,
-   "sector": "Artificial Intelligence",
-   "title": "AI Scientist - (Internship, Masters or Phd)",
-   "location": "Paris",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/mistral.ai/f7245b49-92a0-4111-bba1-343183de7d97",
-   "age_days": 14,
-   "ats": "ashby"
-  },
-  {
-   "company": "Match Group",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Android Engineer Intern",
-   "location": "Los Angeles, California",
-   "is_us": true,
-   "url": "https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d",
-   "age_days": 14,
-   "ats": "lever"
-  },
-  {
-   "company": "Match Group",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Backend Engineer Intern",
-   "location": "Palo Alto, California",
-   "is_us": true,
-   "url": "https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3",
-   "age_days": 14,
-   "ats": "lever"
-  },
-  {
-   "company": "Match Group",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Data Science Internship",
-   "location": "Ghent, Belgium",
-   "is_us": false,
-   "url": "https://jobs.lever.co/matchgroup/72a9642b-a289-4c49-bc9b-53880c1dc870",
-   "age_days": 14,
-   "ats": "lever"
-  },
-  {
-   "company": "Match Group",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Data Scientist Intern",
-   "location": "San Francisco, California",
-   "is_us": true,
-   "url": "https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff",
-   "age_days": 14,
-   "ats": "lever"
-  },
-  {
-   "company": "Match Group",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "iOS Engineer Intern",
-   "location": "Los Angeles, California",
-   "is_us": true,
-   "url": "https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef",
-   "age_days": 14,
-   "ats": "lever"
-  },
-  {
-   "company": "Match Group",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Machine Learning Engineer Intern",
-   "location": "Palo Alto, California",
-   "is_us": true,
-   "url": "https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72",
-   "age_days": 14,
-   "ats": "lever"
-  },
-  {
    "company": "Amazon",
    "rank": 1,
    "sector": "Retailing",
@@ -2502,125 +2229,169 @@
    "ats": "custom"
   },
   {
-   "company": "PayPal Holdings",
-   "rank": 139,
-   "sector": "Business Services",
-   "title": "Machine Learning Engineer PhD Intern - Summer 2027",
-   "location": "San Jose, California, United States of America",
-   "is_us": true,
-   "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern---Summer-2027_R0138579",
-   "age_days": 15,
-   "ats": "workday"
-  },
-  {
-   "company": "PayPal Holdings",
-   "rank": 139,
-   "sector": "Business Services",
-   "title": "Data Scientist Intern - Summer 2027",
-   "location": "San Jose, California, United States of America",
-   "is_us": true,
-   "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582",
-   "age_days": 15,
-   "ats": "workday"
-  },
-  {
-   "company": "PayPal Holdings",
-   "rank": 139,
-   "sector": "Business Services",
-   "title": "Mobile Engineer Intern - Summer 2027",
-   "location": "5 Locations",
-   "is_us": null,
-   "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Mobile-Engineer-Intern---Summer-2027_R0138583",
-   "age_days": 15,
-   "ats": "workday"
-  },
-  {
-   "company": "PayPal Holdings",
-   "rank": 139,
-   "sector": "Business Services",
-   "title": "Software Engineer Intern - Summer 2027",
-   "location": "5 Locations",
-   "is_us": null,
-   "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern---Summer-2027_R0138586",
-   "age_days": 15,
-   "ats": "workday"
-  },
-  {
-   "company": "PayPal Holdings",
-   "rank": 139,
-   "sector": "Business Services",
-   "title": "Machine Learning Engineer Intern - Summer 2027",
-   "location": "San Jose, California, United States of America",
-   "is_us": true,
-   "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-Intern---Summer-2027_R0138581",
-   "age_days": 15,
-   "ats": "workday"
-  },
-  {
-   "company": "xAI",
+   "company": "Pinterest",
    "rank": null,
-   "sector": "Artificial Intelligence",
-   "title": "Spring 2027 Software Engineering Internship/Co-op",
-   "location": "Palo Alto, CA",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/xai/jobs/5252108007",
-   "age_days": 15,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "xAI",
-   "rank": null,
-   "sector": "Artificial Intelligence",
-   "title": "Summer 2027 Software Engineering Internship/Co-op",
-   "location": "Palo Alto, CA",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/xai/jobs/5255111007",
-   "age_days": 15,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Datadog",
-   "rank": null,
-   "sector": "Developer Tools",
-   "title": "Software Engineering Intern",
-   "location": "Paris, France",
+   "sector": "Consumer Internet",
+   "title": "Machine Learning Intern 2027 (Dublin)",
+   "location": "Dublin, IE",
    "is_us": false,
-   "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8244922",
    "age_days": 15,
    "ats": "greenhouse"
   },
   {
-   "company": "Datadog",
+   "company": "Pinterest",
    "rank": null,
-   "sector": "Developer Tools",
-   "title": "Software Engineering Intern",
-   "location": "Madrid, Spain",
-   "is_us": false,
-   "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
-   "age_days": 15,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Palantir Technologies",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer, Internship - Sovereign AI Systems",
-   "location": "London, United Kingdom",
-   "is_us": false,
-   "url": "https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e",
-   "age_days": 15,
-   "ats": "lever"
-  },
-  {
-   "company": "Palantir Technologies",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer, Internship - Sovereign AI Systems",
-   "location": "New York, NY",
+   "sector": "Consumer Internet",
+   "title": "Machine Learning Intern 2027 (Toronto)",
+   "location": "Toronto, ON, CA",
    "is_us": true,
-   "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
    "age_days": 15,
-   "ats": "lever"
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Pinterest",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Machine Learning Intern 2027 (Zurich)",
+   "location": "Zurich, CH",
+   "is_us": false,
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214757",
+   "age_days": 15,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Pinterest",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Master's Data Science Internship 2027 (USA)",
+   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+   "is_us": true,
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097",
+   "age_days": 15,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Pinterest",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Master's Machine Learning Internship 2027 (USA)",
+   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+   "is_us": true,
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
+   "age_days": 15,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Pinterest",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Master's University Grad Data Scientist (USA)",
+   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+   "is_us": true,
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140389",
+   "age_days": 15,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Pinterest",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Master's University Grad Machine Learning Engineer 2027 (USA)",
+   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+   "is_us": true,
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140219",
+   "age_days": 15,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Pinterest",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "PhD Data Science Internship 2027 (USA)",
+   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+   "is_us": true,
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140169",
+   "age_days": 15,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Pinterest",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "PhD Machine Learning Internship 2027 (USA)",
+   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+   "is_us": true,
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140140",
+   "age_days": 15,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Pinterest",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "PhD University Grad Machine Learning Engineer (USA)",
+   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+   "is_us": true,
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140363",
+   "age_days": 15,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Pinterest",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Software Engineering Intern 2027 (Dublin)",
+   "location": "Dublin, IE",
+   "is_us": false,
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138034",
+   "age_days": 15,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Pinterest",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Software Engineering Intern 2027 (Toronto)",
+   "location": "Toronto, ON, CA",
+   "is_us": true,
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039",
+   "age_days": 15,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Pinterest",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Software Engineering Intern 2027 (Zurich)",
+   "location": "Zurich, CH",
+   "is_us": false,
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214745",
+   "age_days": 15,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Pinterest",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Software Engineer Intern 2027 (USA)",
+   "location": "San Francisco, CA, US; Remote, US",
+   "is_us": true,
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
+   "age_days": 15,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Pinterest",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "University Grad Software Engineer 2027 (USA)",
+   "location": "San Francisco, CA, US; Remote, US",
+   "is_us": true,
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
+   "age_days": 15,
+   "ats": "greenhouse"
   },
   {
    "company": "Notion Labs",
@@ -2643,6 +2414,17 @@
    "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947",
    "age_days": 15,
    "ats": "ashby"
+  },
+  {
+   "company": "Duolingo",
+   "rank": null,
+   "sector": "Education Technology",
+   "title": "AI Research Intern (PhD)",
+   "location": "New York, NY; Pittsburgh, PA",
+   "is_us": true,
+   "url": "https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002",
+   "age_days": 15,
+   "ats": "greenhouse"
   },
   {
    "company": "Zoox",
@@ -2711,6 +2493,138 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Mistral AI",
+   "rank": null,
+   "sector": "Artificial Intelligence",
+   "title": "AI Scientist - (Internship, Masters or Phd)",
+   "location": "Paris",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/mistral.ai/f7245b49-92a0-4111-bba1-343183de7d97",
+   "age_days": 15,
+   "ats": "ashby"
+  },
+  {
+   "company": "Etched",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "Infrastructure Engineering & Projects Intern",
+   "location": "San Jose",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b",
+   "age_days": 15,
+   "ats": "ashby"
+  },
+  {
+   "company": "Match Group",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Android Engineer Intern",
+   "location": "Los Angeles, California",
+   "is_us": true,
+   "url": "https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d",
+   "age_days": 15,
+   "ats": "lever"
+  },
+  {
+   "company": "Match Group",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Backend Engineer Intern",
+   "location": "Palo Alto, California",
+   "is_us": true,
+   "url": "https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3",
+   "age_days": 15,
+   "ats": "lever"
+  },
+  {
+   "company": "Match Group",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Data Science Internship",
+   "location": "Ghent, Belgium",
+   "is_us": false,
+   "url": "https://jobs.lever.co/matchgroup/72a9642b-a289-4c49-bc9b-53880c1dc870",
+   "age_days": 15,
+   "ats": "lever"
+  },
+  {
+   "company": "Match Group",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Data Scientist Intern",
+   "location": "San Francisco, California",
+   "is_us": true,
+   "url": "https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff",
+   "age_days": 15,
+   "ats": "lever"
+  },
+  {
+   "company": "Match Group",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "iOS Engineer Intern",
+   "location": "Los Angeles, California",
+   "is_us": true,
+   "url": "https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef",
+   "age_days": 15,
+   "ats": "lever"
+  },
+  {
+   "company": "Match Group",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Machine Learning Engineer Intern",
+   "location": "Palo Alto, California",
+   "is_us": true,
+   "url": "https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72",
+   "age_days": 15,
+   "ats": "lever"
+  },
+  {
+   "company": "Datadog",
+   "rank": null,
+   "sector": "Developer Tools",
+   "title": "Software Engineering Intern",
+   "location": "Madrid, Spain",
+   "is_us": false,
+   "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+   "age_days": 16,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Datadog",
+   "rank": null,
+   "sector": "Developer Tools",
+   "title": "Software Engineering Intern",
+   "location": "Paris, France",
+   "is_us": false,
+   "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+   "age_days": 16,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Palantir Technologies",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer, Internship - Sovereign AI Systems",
+   "location": "London, United Kingdom",
+   "is_us": false,
+   "url": "https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e",
+   "age_days": 16,
+   "ats": "lever"
+  },
+  {
+   "company": "Palantir Technologies",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer, Internship - Sovereign AI Systems",
+   "location": "New York, NY",
+   "is_us": true,
+   "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
+   "age_days": 16,
+   "ats": "lever"
+  },
+  {
    "company": "Apple",
    "rank": 4,
    "sector": "Technology",
@@ -2718,52 +2632,8 @@
    "location": "China",
    "is_us": false,
    "url": "https://jobs.apple.com/en-us/details/200690042/software-engineer-intern-full-stack-ai-agents-shanghai",
-   "age_days": 16,
+   "age_days": 17,
    "ats": "custom"
-  },
-  {
-   "company": "Amgen",
-   "rank": 129,
-   "sector": "Health Care",
-   "title": "Grad Intern \u2013 R&D TSRS Data Sciences Operations & Analytic (Summer 2027)",
-   "location": "United States - Remote",
-   "is_us": true,
-   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585",
-   "age_days": 16,
-   "ats": "workday"
-  },
-  {
-   "company": "Etched",
-   "rank": null,
-   "sector": "Semiconductors",
-   "title": "IA Research Engineer Intern",
-   "location": "San Jose",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440",
-   "age_days": 16,
-   "ats": "ashby"
-  },
-  {
-   "company": "Palantir Technologies",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer, Internship - Connectivity Platform and Product",
-   "location": "New York, NY",
-   "is_us": true,
-   "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743",
-   "age_days": 16,
-   "ats": "lever"
-  },
-  {
-   "company": "Palantir Technologies",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer, Internship - Data Connectors",
-   "location": "New York, NY",
-   "is_us": true,
-   "url": "https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a",
-   "age_days": 16,
-   "ats": "lever"
   },
   {
    "company": "DoorDash",
@@ -2799,26 +2669,26 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Together AI",
+   "company": "Palantir Technologies",
    "rank": null,
-   "sector": "Artificial Intelligence",
-   "title": "Technical Writer Intern, Developer Experience (Summer 2027)",
-   "location": "San Francisco",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5271149007",
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer, Internship - Connectivity Platform and Product",
+   "location": "New York, NY",
+   "is_us": true,
+   "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743",
    "age_days": 17,
-   "ats": "greenhouse"
+   "ats": "lever"
   },
   {
-   "company": "Geneva Trading",
+   "company": "Palantir Technologies",
    "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "C++ Developer (Intern)",
-   "location": "Chicago Office",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242063007",
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer, Internship - Data Connectors",
+   "location": "New York, NY",
+   "is_us": true,
+   "url": "https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a",
    "age_days": 17,
-   "ats": "greenhouse"
+   "ats": "lever"
   },
   {
    "company": "Figma",
@@ -2832,48 +2702,15 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Apple",
-   "rank": 4,
-   "sector": "Technology",
-   "title": "AI Research Intern - Foundation Models & Multimodal Intelligence",
-   "location": "Switzerland",
-   "is_us": false,
-   "url": "https://jobs.apple.com/en-us/details/200692868/ai-research-intern-foundation-models-multimodal-intelligence",
-   "age_days": 18,
-   "ats": "custom"
-  },
-  {
-   "company": "Apple",
-   "rank": 4,
-   "sector": "Technology",
-   "title": "Internship -  Machine Learning Research (recurrent models | generative models |  interpretability)",
-   "location": "Spain",
-   "is_us": false,
-   "url": "https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability",
-   "age_days": 18,
-   "ats": "custom"
-  },
-  {
-   "company": "Apple",
-   "rank": 4,
-   "sector": "Technology",
-   "title": "Generative AI Research Intern - Image-to-Video Diffusion",
-   "location": "China",
-   "is_us": false,
-   "url": "https://jobs.apple.com/en-us/details/200691801/generative-ai-research-intern-image-to-video-diffusion",
-   "age_days": 18,
-   "ats": "custom"
-  },
-  {
-   "company": "Duolingo",
+   "company": "Etched",
    "rank": null,
-   "sector": "Education Technology",
-   "title": "Data Scientist, Intern (PhD)",
-   "location": "New York, NY; Pittsburgh, PA",
-   "is_us": true,
-   "url": "https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002",
-   "age_days": 18,
-   "ats": "greenhouse"
+   "sector": "Semiconductors",
+   "title": "IA Research Engineer Intern",
+   "location": "San Jose",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440",
+   "age_days": 17,
+   "ats": "ashby"
   },
   {
    "company": "Affirm",
@@ -2884,6 +2721,72 @@
    "is_us": true,
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
    "age_days": 18,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Together AI",
+   "rank": null,
+   "sector": "Artificial Intelligence",
+   "title": "Technical Writer Intern, Developer Experience (Summer 2027)",
+   "location": "San Francisco",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5271149007",
+   "age_days": 18,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Geneva Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "C++ Developer (Intern)",
+   "location": "Chicago Office",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242063007",
+   "age_days": 18,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "AI Research Intern - Foundation Models & Multimodal Intelligence",
+   "location": "Switzerland",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200692868/ai-research-intern-foundation-models-multimodal-intelligence",
+   "age_days": 19,
+   "ats": "custom"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Internship -  Machine Learning Research (recurrent models | generative models |  interpretability)",
+   "location": "Spain",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability",
+   "age_days": 19,
+   "ats": "custom"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Generative AI Research Intern - Image-to-Video Diffusion",
+   "location": "China",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200691801/generative-ai-research-intern-image-to-video-diffusion",
+   "age_days": 19,
+   "ats": "custom"
+  },
+  {
+   "company": "Duolingo",
+   "rank": null,
+   "sector": "Education Technology",
+   "title": "Data Scientist, Intern (PhD)",
+   "location": "New York, NY; Pittsburgh, PA",
+   "is_us": true,
+   "url": "https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002",
+   "age_days": 19,
    "ats": "greenhouse"
   },
   {
@@ -2909,94 +2812,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Nintendo of America",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Intern - Software Engineer, Audio (NTD)",
-   "location": "Redmond, WA",
-   "is_us": true,
-   "url": "https://careers.nintendo.com/?gh_jid=4470048009",
-   "age_days": 20,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Nintendo of America",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Intern - Software Engineer, Connectivity (NTD)",
-   "location": "Redmond, WA",
-   "is_us": true,
-   "url": "https://careers.nintendo.com/?gh_jid=4472147009",
-   "age_days": 20,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Nintendo of America",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Intern - Software Engineer, CPU Debugger (NTD)",
-   "location": "Redmond, WA",
-   "is_us": true,
-   "url": "https://careers.nintendo.com/?gh_jid=4471972009",
-   "age_days": 20,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Nintendo of America",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Intern - Software Engineer, CPU Profiler (NTD)",
-   "location": "Redmond, WA",
-   "is_us": true,
-   "url": "https://careers.nintendo.com/?gh_jid=4469762009",
-   "age_days": 20,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Nintendo of America",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Intern - Software Engineer, DevOps (NTD)",
-   "location": "Redmond, WA",
-   "is_us": true,
-   "url": "https://careers.nintendo.com/?gh_jid=4472002009",
-   "age_days": 20,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Nintendo of America",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Intern - Software Engineer, Graphics (NTD)",
-   "location": "Redmond, WA",
-   "is_us": true,
-   "url": "https://careers.nintendo.com/?gh_jid=4473550009",
-   "age_days": 20,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Nintendo of America",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Intern - Software Engineer, Performance Tools (NTD)",
-   "location": "Redmond, WA",
-   "is_us": true,
-   "url": "https://careers.nintendo.com/?gh_jid=4473568009",
-   "age_days": 20,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Nintendo of America",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Intern - Software Engineer, Platform Security (NTD)",
-   "location": "Redmond, WA",
-   "is_us": true,
-   "url": "https://careers.nintendo.com/?gh_jid=4469778009",
-   "age_days": 20,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Pure Storage",
    "rank": null,
    "sector": "Enterprise Hardware",
@@ -3008,57 +2823,90 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Epic Games",
+   "company": "Nintendo of America",
    "rank": null,
    "sector": "Gaming",
-   "title": "Engine Programmer Intern",
-   "location": "Cary,North Carolina,United States",
+   "title": "Intern - Software Engineer, Audio (NTD)",
+   "location": "Redmond, WA",
    "is_us": true,
-   "url": "https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004",
+   "url": "https://careers.nintendo.com/?gh_jid=4470048009",
    "age_days": 21,
    "ats": "greenhouse"
   },
   {
-   "company": "Epic Games",
+   "company": "Nintendo of America",
    "rank": null,
    "sector": "Gaming",
-   "title": "Machine Learning Intern",
-   "location": "Montreal,Quebec,Canada",
-   "is_us": false,
-   "url": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
+   "title": "Intern - Software Engineer, Connectivity (NTD)",
+   "location": "Redmond, WA",
+   "is_us": true,
+   "url": "https://careers.nintendo.com/?gh_jid=4472147009",
    "age_days": 21,
    "ats": "greenhouse"
   },
   {
-   "company": "Epic Games",
+   "company": "Nintendo of America",
    "rank": null,
    "sector": "Gaming",
-   "title": "Machine Learning Intern",
-   "location": "BLANK,BLANK,Multiple Locations",
-   "is_us": false,
-   "url": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004",
+   "title": "Intern - Software Engineer, CPU Debugger (NTD)",
+   "location": "Redmond, WA",
+   "is_us": true,
+   "url": "https://careers.nintendo.com/?gh_jid=4471972009",
    "age_days": 21,
    "ats": "greenhouse"
   },
   {
-   "company": "Epic Games",
+   "company": "Nintendo of America",
    "rank": null,
    "sector": "Gaming",
-   "title": "Machine Learning Intern",
-   "location": "London,England,United Kingdom",
-   "is_us": false,
-   "url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004",
+   "title": "Intern - Software Engineer, CPU Profiler (NTD)",
+   "location": "Redmond, WA",
+   "is_us": true,
+   "url": "https://careers.nintendo.com/?gh_jid=4469762009",
    "age_days": 21,
    "ats": "greenhouse"
   },
   {
-   "company": "Tower Research Capital",
+   "company": "Nintendo of America",
    "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Software Engineer, C++ - 6 Month Internship Opportunity",
-   "location": "Singapore",
-   "is_us": false,
-   "url": "https://www.tower-research.com/open-positions/?gh_jid=8299894",
+   "sector": "Gaming",
+   "title": "Intern - Software Engineer, DevOps (NTD)",
+   "location": "Redmond, WA",
+   "is_us": true,
+   "url": "https://careers.nintendo.com/?gh_jid=4472002009",
+   "age_days": 21,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Nintendo of America",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Intern - Software Engineer, Graphics (NTD)",
+   "location": "Redmond, WA",
+   "is_us": true,
+   "url": "https://careers.nintendo.com/?gh_jid=4473550009",
+   "age_days": 21,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Nintendo of America",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Intern - Software Engineer, Performance Tools (NTD)",
+   "location": "Redmond, WA",
+   "is_us": true,
+   "url": "https://careers.nintendo.com/?gh_jid=4473568009",
+   "age_days": 21,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Nintendo of America",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Intern - Software Engineer, Platform Security (NTD)",
+   "location": "Redmond, WA",
+   "is_us": true,
+   "url": "https://careers.nintendo.com/?gh_jid=4469778009",
    "age_days": 21,
    "ats": "greenhouse"
   },
@@ -3096,46 +2944,57 @@
    "ats": "custom"
   },
   {
-   "company": "Apple",
-   "rank": 4,
-   "sector": "Technology",
-   "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
-   "location": "Germany",
-   "is_us": false,
-   "url": "https://jobs.apple.com/en-us/details/200692236/internship-machine-learning-research-speech-to-speech-translation",
-   "age_days": 22,
-   "ats": "custom"
-  },
-  {
-   "company": "Apple",
-   "rank": 4,
-   "sector": "Technology",
-   "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
-   "location": "United Kingdom",
-   "is_us": false,
-   "url": "https://jobs.apple.com/en-us/details/200690125/internship-machine-learning-research-speech-to-speech-translation",
-   "age_days": 22,
-   "ats": "custom"
-  },
-  {
-   "company": "Apple",
-   "rank": 4,
-   "sector": "Technology",
-   "title": "Subject Matter Expert - Data Science, Intern",
-   "location": "China",
-   "is_us": false,
-   "url": "https://jobs.apple.com/en-us/details/200689651/subject-matter-expert-data-science-intern",
-   "age_days": 22,
-   "ats": "custom"
-  },
-  {
-   "company": "Samsung Semiconductor",
+   "company": "Coinbase",
    "rank": null,
-   "sector": "Semiconductors",
-   "title": "Intern, Systems Software Engineering",
-   "location": "San Jose, California, United States",
+   "sector": "Financial Technology",
+   "title": "Machine Learning Engineer Intern",
+   "location": "Hybrid - San Francisco, CA",
    "is_us": true,
-   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003",
+   "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+   "age_days": 22,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Engine Programmer Intern",
+   "location": "Cary,North Carolina,United States",
+   "is_us": true,
+   "url": "https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004",
+   "age_days": 22,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Machine Learning Intern",
+   "location": "Montreal,Quebec,Canada",
+   "is_us": false,
+   "url": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
+   "age_days": 22,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Machine Learning Intern",
+   "location": "BLANK,BLANK,Multiple Locations",
+   "is_us": false,
+   "url": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004",
+   "age_days": 22,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Epic Games",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Machine Learning Intern",
+   "location": "London,England,United Kingdom",
+   "is_us": false,
+   "url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004",
    "age_days": 22,
    "ats": "greenhouse"
   },
@@ -3173,13 +3032,13 @@
    "ats": "lever"
   },
   {
-   "company": "Coinbase",
+   "company": "Tower Research Capital",
    "rank": null,
-   "sector": "Financial Technology",
-   "title": "Machine Learning Engineer Intern",
-   "location": "Hybrid - San Francisco, CA",
-   "is_us": true,
-   "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+   "sector": "Quantitative Finance",
+   "title": "Software Engineer, C++ - 6 Month Internship Opportunity",
+   "location": "Singapore",
+   "is_us": false,
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=8299894",
    "age_days": 22,
    "ats": "greenhouse"
   },
@@ -3217,58 +3076,47 @@
    "ats": "custom"
   },
   {
-   "company": "Geneva Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Python Developer Intern",
-   "location": "Chicago Office",
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
+   "location": "Germany",
    "is_us": false,
-   "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242196007",
+   "url": "https://jobs.apple.com/en-us/details/200692236/internship-machine-learning-research-speech-to-speech-translation",
    "age_days": 23,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Virtu Financial",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "2027 Internship - Frontend Engineer (UI)",
-   "location": "New York",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
-   "age_days": 23,
-   "ats": "greenhouse"
+   "ats": "custom"
   },
   {
    "company": "Apple",
    "rank": 4,
    "sector": "Technology",
-   "title": "Engineering Intern (AI/ML & Automation) for Hardware - Shanghai",
+   "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
+   "location": "United Kingdom",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200690125/internship-machine-learning-research-speech-to-speech-translation",
+   "age_days": 23,
+   "ats": "custom"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Subject Matter Expert - Data Science, Intern",
    "location": "China",
    "is_us": false,
-   "url": "https://jobs.apple.com/en-us/details/200688974/engineering-intern-ai-ml-automation-for-hardware-shanghai",
-   "age_days": 24,
+   "url": "https://jobs.apple.com/en-us/details/200689651/subject-matter-expert-data-science-intern",
+   "age_days": 23,
    "ats": "custom"
   },
   {
    "company": "Samsung Semiconductor",
    "rank": null,
    "sector": "Semiconductors",
-   "title": "Intern, Power-Thermal Simulation Software Engineer",
+   "title": "Intern, Systems Software Engineering",
    "location": "San Jose, California, United States",
    "is_us": true,
-   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003",
-   "age_days": 24,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Schonfeld",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "2027 AI Forward Deployed Engineer Intern",
-   "location": "Hong Kong, Hong Kong",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8311595",
-   "age_days": 24,
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003",
+   "age_days": 23,
    "ats": "greenhouse"
   },
   {
@@ -3279,6 +3127,28 @@
    "location": "San Francisco, CA \u2022 New York, NY",
    "is_us": true,
    "url": "https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004",
+   "age_days": 24,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Virtu Financial",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 Internship - Frontend Engineer (UI)",
+   "location": "New York",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+   "age_days": 24,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Geneva Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Python Developer Intern",
+   "location": "Chicago Office",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242196007",
    "age_days": 24,
    "ats": "greenhouse"
   },
@@ -3294,26 +3164,15 @@
    "ats": "custom"
   },
   {
-   "company": "SingleStore",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer Intern- Engine-2027",
-   "location": "United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Engineering Intern (AI/ML & Automation) for Hardware - Shanghai",
+   "location": "China",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200688974/engineering-intern-ai-ml-automation-for-hardware-shanghai",
    "age_days": 25,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Schonfeld",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "2027 Data Science Intern",
-   "location": "New York, New York, United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
-   "age_days": 25,
-   "ats": "greenhouse"
+   "ats": "custom"
   },
   {
    "company": "Figma",
@@ -3382,6 +3241,28 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Schonfeld",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 AI Forward Deployed Engineer Intern",
+   "location": "Hong Kong, Hong Kong",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8311595",
+   "age_days": 25,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Samsung Semiconductor",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "Intern, Power-Thermal Simulation Software Engineer",
+   "location": "San Jose, California, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003",
+   "age_days": 25,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Amazon",
    "rank": 1,
    "sector": "Retailing",
@@ -3404,13 +3285,24 @@
    "ats": "custom"
   },
   {
-   "company": "Nuro",
+   "company": "SingleStore",
    "rank": null,
-   "sector": "Automotive",
-   "title": "Software Engineer, AI Platform - Intern",
-   "location": "Mountain View, California (HQ)",
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer Intern- Engine-2027",
+   "location": "United States",
    "is_us": true,
-   "url": "https://nuro.ai/careersitem?gh_jid=7351061",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
+   "age_days": 26,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Schonfeld",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 Data Science Intern",
+   "location": "New York, New York, United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
    "age_days": 26,
    "ats": "greenhouse"
   },
@@ -3424,6 +3316,17 @@
    "url": "https://jobs.ashbyhq.com/skydio/fa88cb47-36f0-4020-95c3-6ac94d59d5d5",
    "age_days": 26,
    "ats": "ashby"
+  },
+  {
+   "company": "Nuro",
+   "rank": null,
+   "sector": "Automotive",
+   "title": "Software Engineer, AI Platform - Intern",
+   "location": "Mountain View, California (HQ)",
+   "is_us": true,
+   "url": "https://nuro.ai/careersitem?gh_jid=7351061",
+   "age_days": 26,
+   "ats": "greenhouse"
   },
   {
    "company": "Dell Technologies",
@@ -3459,28 +3362,6 @@
    "ats": "custom"
   },
   {
-   "company": "Palantir Technologies",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
-   "location": "New York, NY",
-   "is_us": true,
-   "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb",
-   "age_days": 29,
-   "ats": "lever"
-  },
-  {
-   "company": "Twitch",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Undergrad Software Engineering Intern (Grad Year: Winter 2027)",
-   "location": "San Francisco, CA",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/twitch/jobs/8886605002",
-   "age_days": 29,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Figure AI",
    "rank": null,
    "sector": "Robotics",
@@ -3503,70 +3384,26 @@
    "ats": "ashby"
   },
   {
-   "company": "Lennar",
-   "rank": 135,
-   "sector": "Engineering & Construction",
-   "title": "Intern - AI Engineering",
-   "location": "Irving TX (Greenway)",
-   "is_us": false,
-   "url": "https://lennar.wd1.myworkdayjobs.com/Early_Careers/job/Irving-TX-Greenway/Intern---AI-Engineering_R26_0000004288",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "Lennar",
-   "rank": 135,
-   "sector": "Engineering & Construction",
-   "title": "Intern - Security Engineer",
-   "location": "Irving, TX (Job Posting Location)",
-   "is_us": false,
-   "url": "https://lennar.wd1.myworkdayjobs.com/Early_Careers/job/Irving-TX-Job-Posting-Location/Intern---Security-Engineer_R26_0000004446",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "Lennar",
-   "rank": 135,
-   "sector": "Engineering & Construction",
-   "title": "Intern - Software Engineering",
-   "location": "Miami, FL (Job Posting Location)",
-   "is_us": false,
-   "url": "https://lennar.wd1.myworkdayjobs.com/Early_Careers/job/Miami-FL-Job-Posting-Location/Intern---Software-Engineering_R26_0000004291",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "Workday",
-   "rank": 430,
-   "sector": "Technology",
-   "title": "Software Development Engineer Intern",
-   "location": "USA, CA, Pleasanton",
+   "company": "Palantir Technologies",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
+   "location": "New York, NY",
    "is_us": true,
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810",
+   "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb",
    "age_days": 30,
-   "ats": "workday"
+   "ats": "lever"
   },
   {
-   "company": "Workday",
-   "rank": 430,
-   "sector": "Technology",
-   "title": "Machine Learning Engineer Intern",
-   "location": "USA, CA, Pleasanton",
+   "company": "Twitch",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Undergrad Software Engineering Intern (Grad Year: Winter 2027)",
+   "location": "San Francisco, CA",
    "is_us": true,
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8886605002",
    "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "Workday",
-   "rank": 430,
-   "sector": "Technology",
-   "title": "Software Application Development Engineer Intern",
-   "location": "USA, CA, Pleasanton",
-   "is_us": true,
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811",
-   "age_days": 30,
-   "ats": "workday"
+   "ats": "greenhouse"
   },
   {
    "company": "Skydio",
@@ -3587,151 +3424,8 @@
    "location": "Germany",
    "is_us": false,
    "url": "https://jobs.apple.com/en-us/details/200690377/research-scientist-intern-human-centric-generative-ai",
-   "age_days": 31,
-   "ats": "custom"
-  },
-  {
-   "company": "Sigma Computing",
-   "rank": null,
-   "sector": "Analytics",
-   "title": "AI/ML PhD Intern (Summer 2027)",
-   "location": "San Francisco, CA",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003",
-   "age_days": 31,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Sigma Computing",
-   "rank": null,
-   "sector": "Analytics",
-   "title": "AI/ML PhD Intern (Summer 2027)",
-   "location": "New York, New York",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8015269003",
-   "age_days": 31,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Sierra",
-   "rank": null,
-   "sector": "Artificial Intelligence",
-   "title": "Software Engineer Intern, Agent (London 2027)",
-   "location": "London",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/Sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff",
-   "age_days": 31,
-   "ats": "ashby"
-  },
-  {
-   "company": "Apple",
-   "rank": 4,
-   "sector": "Technology",
-   "title": "Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE",
-   "location": "Germany",
-   "is_us": false,
-   "url": "https://jobs.apple.com/en-us/details/200689711/internship-software-engineering-ai-assisted-baseband-debugging-evaluation-wte",
    "age_days": 32,
    "ats": "custom"
-  },
-  {
-   "company": "Apple",
-   "rank": 4,
-   "sector": "Technology",
-   "title": "Modeling Software Intern",
-   "location": "Germany",
-   "is_us": false,
-   "url": "https://jobs.apple.com/en-us/details/200690119/modeling-software-intern",
-   "age_days": 32,
-   "ats": "custom"
-  },
-  {
-   "company": "Patreon",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Software Engineering Intern - Summer 2027",
-   "location": "New York",
-   "is_us": true,
-   "url": "https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c",
-   "age_days": 32,
-   "ats": "ashby"
-  },
-  {
-   "company": "Patreon",
-   "rank": null,
-   "sector": "Consumer Internet",
-   "title": "Software Engineering Intern - Summer 2027",
-   "location": "San Francisco",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587",
-   "age_days": 32,
-   "ats": "ashby"
-  },
-  {
-   "company": "Nintendo of America",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Intern - IT Microsoft 365 Systems Engineer",
-   "location": "Redmond, WA",
-   "is_us": true,
-   "url": "https://careers.nintendo.com/?gh_jid=4417323009",
-   "age_days": 32,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Nintendo of America",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Intern \u2013 IT Platform Engineer",
-   "location": "Redmond, WA",
-   "is_us": true,
-   "url": "https://careers.nintendo.com/?gh_jid=4417311009",
-   "age_days": 32,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Nintendo of America",
-   "rank": null,
-   "sector": "Gaming",
-   "title": "Intern - IT Software Engineer",
-   "location": "Redmond, WA",
-   "is_us": true,
-   "url": "https://careers.nintendo.com/?gh_jid=4421632009",
-   "age_days": 32,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Palantir Technologies",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer, Internship - Query Engines",
-   "location": "London, United Kingdom",
-   "is_us": false,
-   "url": "https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963",
-   "age_days": 32,
-   "ats": "lever"
-  },
-  {
-   "company": "Palantir Technologies",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer, Internship - Query Engines",
-   "location": "New York, NY",
-   "is_us": true,
-   "url": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13",
-   "age_days": 32,
-   "ats": "lever"
-  },
-  {
-   "company": "Skydio",
-   "rank": null,
-   "sector": "Robotics",
-   "title": "Mobile Software Engineer Intern - Summer 2027",
-   "location": "San Mateo, California, United States",
-   "is_us": true,
-   "url": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52",
-   "age_days": 32,
-   "ats": "ashby"
   },
   {
    "company": "Coinbase",
@@ -3745,6 +3439,149 @@
    "ats": "greenhouse"
   },
   {
+   "company": "Sigma Computing",
+   "rank": null,
+   "sector": "Analytics",
+   "title": "AI/ML PhD Intern (Summer 2027)",
+   "location": "San Francisco, CA",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003",
+   "age_days": 32,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Sigma Computing",
+   "rank": null,
+   "sector": "Analytics",
+   "title": "AI/ML PhD Intern (Summer 2027)",
+   "location": "New York, New York",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8015269003",
+   "age_days": 32,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Sierra",
+   "rank": null,
+   "sector": "Artificial Intelligence",
+   "title": "Software Engineer Intern, Agent (London 2027)",
+   "location": "London",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/Sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff",
+   "age_days": 32,
+   "ats": "ashby"
+  },
+  {
+   "company": "Skydio",
+   "rank": null,
+   "sector": "Robotics",
+   "title": "Mobile Software Engineer Intern - Summer 2027",
+   "location": "San Mateo, California, United States",
+   "is_us": true,
+   "url": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52",
+   "age_days": 32,
+   "ats": "ashby"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE",
+   "location": "Germany",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200689711/internship-software-engineering-ai-assisted-baseband-debugging-evaluation-wte",
+   "age_days": 33,
+   "ats": "custom"
+  },
+  {
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "Modeling Software Intern",
+   "location": "Germany",
+   "is_us": false,
+   "url": "https://jobs.apple.com/en-us/details/200690119/modeling-software-intern",
+   "age_days": 33,
+   "ats": "custom"
+  },
+  {
+   "company": "Palantir Technologies",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer, Internship - Query Engines",
+   "location": "London, United Kingdom",
+   "is_us": false,
+   "url": "https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963",
+   "age_days": 33,
+   "ats": "lever"
+  },
+  {
+   "company": "Palantir Technologies",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer, Internship - Query Engines",
+   "location": "New York, NY",
+   "is_us": true,
+   "url": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13",
+   "age_days": 33,
+   "ats": "lever"
+  },
+  {
+   "company": "Patreon",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Software Engineering Intern - Summer 2027",
+   "location": "New York",
+   "is_us": true,
+   "url": "https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c",
+   "age_days": 33,
+   "ats": "ashby"
+  },
+  {
+   "company": "Patreon",
+   "rank": null,
+   "sector": "Consumer Internet",
+   "title": "Software Engineering Intern - Summer 2027",
+   "location": "San Francisco",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587",
+   "age_days": 33,
+   "ats": "ashby"
+  },
+  {
+   "company": "Nintendo of America",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Intern - IT Microsoft 365 Systems Engineer",
+   "location": "Redmond, WA",
+   "is_us": true,
+   "url": "https://careers.nintendo.com/?gh_jid=4417323009",
+   "age_days": 33,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Nintendo of America",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Intern \u2013 IT Platform Engineer",
+   "location": "Redmond, WA",
+   "is_us": true,
+   "url": "https://careers.nintendo.com/?gh_jid=4417311009",
+   "age_days": 33,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Nintendo of America",
+   "rank": null,
+   "sector": "Gaming",
+   "title": "Intern - IT Software Engineer",
+   "location": "Redmond, WA",
+   "is_us": true,
+   "url": "https://careers.nintendo.com/?gh_jid=4421632009",
+   "age_days": 33,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Apple",
    "rank": 4,
    "sector": "Technology",
@@ -3752,7 +3589,7 @@
    "location": "China",
    "is_us": false,
    "url": "https://jobs.apple.com/en-us/details/200688346/wireless-software-ai-ml-engineer-intern-beijing",
-   "age_days": 35,
+   "age_days": 36,
    "ats": "custom"
   },
   {
@@ -3774,17 +3611,6 @@
    "location": "Czechia",
    "is_us": false,
    "url": "https://jobs.apple.com/en-us/details/200688776/intern-full-stack-engineer",
-   "age_days": 37,
-   "ats": "custom"
-  },
-  {
-   "company": "Netflix",
-   "rank": 105,
-   "sector": "Media",
-   "title": "Software Engineer Intern - Summer 2027",
-   "location": "Los Gatos, California, United States of America",
-   "is_us": true,
-   "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
    "age_days": 38,
    "ats": "custom"
   },
@@ -3811,15 +3637,15 @@
    "ats": "custom"
   },
   {
-   "company": "Snowflake",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer Intern AI/ML - Warsaw (2027)",
-   "location": "PL-Warsaw-Lixa C",
-   "is_us": false,
-   "url": "https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215",
+   "company": "Netflix",
+   "rank": 105,
+   "sector": "Media",
+   "title": "Software Engineer Intern - Summer 2027",
+   "location": "Los Gatos, California, United States of America",
+   "is_us": true,
+   "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
    "age_days": 39,
-   "ats": "ashby"
+   "ats": "custom"
   },
   {
    "company": "Skydio",
@@ -3833,15 +3659,15 @@
    "ats": "ashby"
   },
   {
-   "company": "Apple",
-   "rank": 4,
-   "sector": "Technology",
-   "title": "AI & Project Operations Intern \u2013 Managing Director Office, Greater China",
-   "location": "China",
+   "company": "Snowflake",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer Intern AI/ML - Warsaw (2027)",
+   "location": "PL-Warsaw-Lixa C",
    "is_us": false,
-   "url": "https://jobs.apple.com/en-us/details/200682902/ai-project-operations-intern-managing-director-office-greater-china",
-   "age_days": 42,
-   "ats": "custom"
+   "url": "https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215",
+   "age_days": 40,
+   "ats": "ashby"
   },
   {
    "company": "Amazon",
@@ -3866,15 +3692,15 @@
    "ats": "custom"
   },
   {
-   "company": "Semgrep",
-   "rank": null,
-   "sector": "Security",
-   "title": "Software Engineer Intern",
-   "location": "San Francisco Office",
+   "company": "Apple",
+   "rank": 4,
+   "sector": "Technology",
+   "title": "AI & Project Operations Intern \u2013 Managing Director Office, Greater China",
+   "location": "China",
    "is_us": false,
-   "url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987",
+   "url": "https://jobs.apple.com/en-us/details/200682902/ai-project-operations-intern-managing-director-office-greater-china",
    "age_days": 43,
-   "ats": "ashby"
+   "ats": "custom"
   },
   {
    "company": "Amazon",
@@ -3897,6 +3723,17 @@
    "url": "https://job-boards.greenhouse.io/figureai/jobs/4601309006",
    "age_days": 44,
    "ats": "greenhouse"
+  },
+  {
+   "company": "Semgrep",
+   "rank": null,
+   "sector": "Security",
+   "title": "Software Engineer Intern",
+   "location": "San Francisco Office",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987",
+   "age_days": 44,
+   "ats": "ashby"
   },
   {
    "company": "Amazon",
@@ -3943,50 +3780,6 @@
    "ats": "custom"
   },
   {
-   "company": "Sigma Computing",
-   "rank": null,
-   "sector": "Analytics",
-   "title": "Software Engineering Intern (Summer 2027)",
-   "location": "New York, NY",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003",
-   "age_days": 45,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Sigma Computing",
-   "rank": null,
-   "sector": "Analytics",
-   "title": "Software Engineering Intern (Summer 2027)",
-   "location": "San Francisco, CA",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003",
-   "age_days": 45,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Jump Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Campus C++ Software Engineer (Intern)",
-   "location": "Hong Kong; Shanghai",
-   "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027860",
-   "age_days": 45,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Jump Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Campus Python Software Engineer (Intern)",
-   "location": "Hong Kong; Shanghai",
-   "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027923",
-   "age_days": 45,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Amazon",
    "rank": 1,
    "sector": "Retailing",
@@ -3998,6 +3791,50 @@
    "ats": "custom"
   },
   {
+   "company": "Jump Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Campus C++ Software Engineer (Intern)",
+   "location": "Hong Kong; Shanghai",
+   "is_us": false,
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027860",
+   "age_days": 46,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Jump Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Campus Python Software Engineer (Intern)",
+   "location": "Hong Kong; Shanghai",
+   "is_us": false,
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027923",
+   "age_days": 46,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Sigma Computing",
+   "rank": null,
+   "sector": "Analytics",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "location": "New York, NY",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003",
+   "age_days": 46,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Sigma Computing",
+   "rank": null,
+   "sector": "Analytics",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "location": "San Francisco, CA",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003",
+   "age_days": 46,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Amazon",
    "rank": 1,
    "sector": "Retailing",
@@ -4007,17 +3844,6 @@
    "url": "https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands",
    "age_days": 47,
    "ats": "custom"
-  },
-  {
-   "company": "Gemini",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineering Intern (Winter 2027)",
-   "location": "New York, New York",
-   "is_us": true,
-   "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272",
-   "age_days": 49,
-   "ats": "greenhouse"
   },
   {
    "company": "Amazon",
@@ -4064,6 +3890,17 @@
    "ats": "custom"
   },
   {
+   "company": "Gemini",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineering Intern (Winter 2027)",
+   "location": "New York, New York",
+   "is_us": true,
+   "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272",
+   "age_days": 50,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Tower Research Capital",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -4071,17 +3908,6 @@
    "location": "Paris",
    "is_us": false,
    "url": "https://www.tower-research.com/open-positions/?gh_jid=7011493",
-   "age_days": 50,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Schonfeld",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "2027 Quantitative C++ Developer Intern",
-   "location": "Hong Kong, Hong Kong",
-   "is_us": false,
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8238451",
    "age_days": 51,
    "ats": "greenhouse"
   },
@@ -4108,6 +3934,17 @@
    "ats": "custom"
   },
   {
+   "company": "Schonfeld",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "2027 Quantitative C++ Developer Intern",
+   "location": "Hong Kong, Hong Kong",
+   "is_us": false,
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8238451",
+   "age_days": 52,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Apple",
    "rank": 4,
    "sector": "Technology",
@@ -4115,19 +3952,8 @@
    "location": "China",
    "is_us": false,
    "url": "https://jobs.apple.com/en-us/details/200682900/ai-project-operations-intern-managing-director-office-greater-china",
-   "age_days": 52,
+   "age_days": 53,
    "ats": "custom"
-  },
-  {
-   "company": "Hermeus",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring & Summer 2027",
-   "location": "Los Angeles, CA",
-   "is_us": true,
-   "url": "https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd",
-   "age_days": 52,
-   "ats": "lever"
   },
   {
    "company": "Snowflake",
@@ -4137,41 +3963,19 @@
    "location": "DE-Berlin-Trion Building",
    "is_us": false,
    "url": "https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8",
-   "age_days": 52,
+   "age_days": 53,
    "ats": "ashby"
   },
   {
-   "company": "Ramp",
+   "company": "Hermeus",
    "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineering Intern, Frontend",
-   "location": "New York, NY (HQ)",
+   "sector": "Aerospace",
+   "title": "Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring & Summer 2027",
+   "location": "Los Angeles, CA",
    "is_us": true,
-   "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
-   "age_days": 57,
-   "ats": "ashby"
-  },
-  {
-   "company": "Ramp",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineering Intern, Android",
-   "location": "New York, NY (HQ)",
-   "is_us": true,
-   "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
-   "age_days": 57,
-   "ats": "ashby"
-  },
-  {
-   "company": "Ramp",
-   "rank": null,
-   "sector": "Financial Technology",
-   "title": "Software Engineering Intern, iOS",
-   "location": "New York, NY (HQ)",
-   "is_us": true,
-   "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
-   "age_days": 57,
-   "ats": "ashby"
+   "url": "https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd",
+   "age_days": 53,
+   "ats": "lever"
   },
   {
    "company": "Amazon",
@@ -4185,6 +3989,39 @@
    "ats": "custom"
   },
   {
+   "company": "Ramp",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineering Intern, Frontend",
+   "location": "New York, NY (HQ)",
+   "is_us": true,
+   "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+   "age_days": 58,
+   "ats": "ashby"
+  },
+  {
+   "company": "Ramp",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineering Intern, Android",
+   "location": "New York, NY (HQ)",
+   "is_us": true,
+   "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+   "age_days": 58,
+   "ats": "ashby"
+  },
+  {
+   "company": "Ramp",
+   "rank": null,
+   "sector": "Financial Technology",
+   "title": "Software Engineering Intern, iOS",
+   "location": "New York, NY (HQ)",
+   "is_us": true,
+   "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+   "age_days": 58,
+   "ats": "ashby"
+  },
+  {
    "company": "Notion Labs",
    "rank": null,
    "sector": "Productivity Software",
@@ -4194,17 +4031,6 @@
    "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7",
    "age_days": 58,
    "ats": "ashby"
-  },
-  {
-   "company": "SingleStore",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Software Engineer Intern- Helios- 2027",
-   "location": "United States",
-   "is_us": true,
-   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205514",
-   "age_days": 59,
-   "ats": "greenhouse"
   },
   {
    "company": "Amazon",
@@ -4249,6 +4075,17 @@
    "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
    "age_days": 60,
    "ats": "custom"
+  },
+  {
+   "company": "SingleStore",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Software Engineer Intern- Helios- 2027",
+   "location": "United States",
+   "is_us": true,
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205514",
+   "age_days": 60,
+   "ats": "greenhouse"
   },
   {
    "company": "Amazon",
@@ -4317,17 +4154,6 @@
    "ats": "custom"
   },
   {
-   "company": "Tower Research Capital",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Stagiaire en d\u00e9veloppement de logiciels (\u00e9t\u00e9 2027) / Software Developer Intern (Summer 2027)",
-   "location": "Montreal",
-   "is_us": false,
-   "url": "https://www.tower-research.com/open-positions/?gh_jid=8212179",
-   "age_days": 64,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Amazon",
    "rank": 1,
    "sector": "Retailing",
@@ -4337,6 +4163,17 @@
    "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa",
    "age_days": 65,
    "ats": "custom"
+  },
+  {
+   "company": "Tower Research Capital",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Stagiaire en d\u00e9veloppement de logiciels (\u00e9t\u00e9 2027) / Software Developer Intern (Summer 2027)",
+   "location": "Montreal",
+   "is_us": false,
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=8212179",
+   "age_days": 65,
+   "ats": "greenhouse"
   },
   {
    "company": "Amazon",
@@ -4357,7 +4194,7 @@
    "location": "Paris",
    "is_us": false,
    "url": "https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b",
-   "age_days": 67,
+   "age_days": 68,
    "ats": "ashby"
   },
   {
@@ -4379,28 +4216,6 @@
    "location": "Vienna, Austria",
    "is_us": false,
    "url": "https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2",
-   "age_days": 71,
-   "ats": "ashby"
-  },
-  {
-   "company": "Saronic",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "Software Engineer Intern (Summer 2027)",
-   "location": "Austin, TX",
-   "is_us": true,
-   "url": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2",
-   "age_days": 72,
-   "ats": "ashby"
-  },
-  {
-   "company": "Saronic",
-   "rank": null,
-   "sector": "Defense Technology",
-   "title": "Enterprise Technology Intern - AI and Automation (Summer 2027)",
-   "location": "Austin, TX",
-   "is_us": true,
-   "url": "https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1",
    "age_days": 72,
    "ats": "ashby"
   },
@@ -4416,6 +4231,28 @@
    "ats": "custom"
   },
   {
+   "company": "Saronic",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "Software Engineer Intern (Summer 2027)",
+   "location": "Austin, TX",
+   "is_us": true,
+   "url": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2",
+   "age_days": 73,
+   "ats": "ashby"
+  },
+  {
+   "company": "Saronic",
+   "rank": null,
+   "sector": "Defense Technology",
+   "title": "Enterprise Technology Intern - AI and Automation (Summer 2027)",
+   "location": "Austin, TX",
+   "is_us": true,
+   "url": "https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1",
+   "age_days": 73,
+   "ats": "ashby"
+  },
+  {
    "company": "Apple",
    "rank": 4,
    "sector": "Technology",
@@ -4423,7 +4260,7 @@
    "location": "United Kingdom",
    "is_us": false,
    "url": "https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture",
-   "age_days": 73,
+   "age_days": 74,
    "ats": "custom"
   },
   {
@@ -4434,7 +4271,7 @@
    "location": "Singapore",
    "is_us": false,
    "url": "https://jobs.ashbyhq.com/Sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17",
-   "age_days": 74,
+   "age_days": 75,
    "ats": "ashby"
   },
   {
@@ -4449,28 +4286,6 @@
    "ats": "custom"
   },
   {
-   "company": "Hermeus",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Flight Software & GNC Intern - Spring/Summer 2027",
-   "location": "Atlanta, GA",
-   "is_us": true,
-   "url": "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7",
-   "age_days": 78,
-   "ats": "lever"
-  },
-  {
-   "company": "Hermeus",
-   "rank": null,
-   "sector": "Aerospace",
-   "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
-   "location": "Atlanta, GA",
-   "is_us": true,
-   "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796",
-   "age_days": 78,
-   "ats": "lever"
-  },
-  {
    "company": "Jump Trading",
    "rank": null,
    "sector": "Quantitative Finance",
@@ -4478,7 +4293,7 @@
    "location": "Singapore",
    "is_us": false,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027946",
-   "age_days": 78,
+   "age_days": 79,
    "ats": "greenhouse"
   },
   {
@@ -4489,8 +4304,30 @@
    "location": "Singapore",
    "is_us": false,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027955",
-   "age_days": 78,
+   "age_days": 79,
    "ats": "greenhouse"
+  },
+  {
+   "company": "Hermeus",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Flight Software & GNC Intern - Spring/Summer 2027",
+   "location": "Atlanta, GA",
+   "is_us": true,
+   "url": "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7",
+   "age_days": 79,
+   "ats": "lever"
+  },
+  {
+   "company": "Hermeus",
+   "rank": null,
+   "sector": "Aerospace",
+   "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
+   "location": "Atlanta, GA",
+   "is_us": true,
+   "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796",
+   "age_days": 79,
+   "ats": "lever"
   },
   {
    "company": "Five Rings",
@@ -4500,7 +4337,7 @@
    "location": "New York",
    "is_us": true,
    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
-   "age_days": 80,
+   "age_days": 81,
    "ats": "greenhouse"
   },
   {
@@ -4511,7 +4348,7 @@
    "location": "Atlanta, GA",
    "is_us": true,
    "url": "https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b",
-   "age_days": 80,
+   "age_days": 81,
    "ats": "lever"
   },
   {
@@ -4522,7 +4359,7 @@
    "location": "Los Angeles, CA",
    "is_us": true,
    "url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936",
-   "age_days": 80,
+   "age_days": 81,
    "ats": "lever"
   },
   {
@@ -4533,7 +4370,7 @@
    "location": "San Francisco, CA",
    "is_us": true,
    "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e",
-   "age_days": 81,
+   "age_days": 82,
    "ats": "ashby"
   },
   {
@@ -4544,7 +4381,7 @@
    "location": "Hong Kong; Shanghai; Singapore",
    "is_us": false,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027938",
-   "age_days": 84,
+   "age_days": 85,
    "ats": "greenhouse"
   },
   {
@@ -4555,7 +4392,7 @@
    "location": "Austin, TX; New York",
    "is_us": true,
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
-   "age_days": 84,
+   "age_days": 85,
    "ats": "greenhouse"
   },
   {
@@ -4577,7 +4414,7 @@
    "location": "Chicago; New York",
    "is_us": true,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052338",
-   "age_days": 94,
+   "age_days": 95,
    "ats": "greenhouse"
   },
   {
@@ -4588,7 +4425,7 @@
    "location": "Chicago; New York",
    "is_us": true,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052281",
-   "age_days": 94,
+   "age_days": 95,
    "ats": "greenhouse"
   },
   {
@@ -4599,7 +4436,7 @@
    "location": "Chicago; New York",
    "is_us": true,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052351",
-   "age_days": 94,
+   "age_days": 95,
    "ats": "greenhouse"
   },
   {
@@ -4610,7 +4447,7 @@
    "location": "London",
    "is_us": false,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=7976964",
-   "age_days": 94,
+   "age_days": 95,
    "ats": "greenhouse"
   },
   {
@@ -4621,7 +4458,7 @@
    "location": "Singapore",
    "is_us": false,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-   "age_days": 94,
+   "age_days": 95,
    "ats": "greenhouse"
   },
   {
@@ -4632,7 +4469,7 @@
    "location": "Chicago",
    "is_us": false,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
-   "age_days": 94,
+   "age_days": 95,
    "ats": "greenhouse"
   },
   {
@@ -4643,7 +4480,7 @@
    "location": "London; Amsterdam",
    "is_us": false,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-   "age_days": 94,
+   "age_days": 95,
    "ats": "greenhouse"
   },
   {
@@ -4654,7 +4491,7 @@
    "location": "London",
    "is_us": false,
    "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
-   "age_days": 94,
+   "age_days": 95,
    "ats": "greenhouse"
   },
   {
@@ -4665,29 +4502,7 @@
    "location": "Singapore",
    "is_us": false,
    "url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
-   "age_days": 94,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Jump Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Campus Data Engineer (Intern)",
-   "location": "Chicago",
-   "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-   "age_days": 98,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Jump Trading",
-   "rank": null,
-   "sector": "Quantitative Finance",
-   "title": "Campus UI Software Engineer (Intern)",
-   "location": "Chicago",
-   "is_us": false,
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
-   "age_days": 98,
+   "age_days": 95,
    "ats": "greenhouse"
   },
   {
@@ -4702,6 +4517,28 @@
    "ats": "ashby"
   },
   {
+   "company": "Jump Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Campus Data Engineer (Intern)",
+   "location": "Chicago",
+   "is_us": false,
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+   "age_days": 99,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Jump Trading",
+   "rank": null,
+   "sector": "Quantitative Finance",
+   "title": "Campus UI Software Engineer (Intern)",
+   "location": "Chicago",
+   "is_us": false,
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+   "age_days": 99,
+   "ats": "greenhouse"
+  },
+  {
    "company": "Palantir Technologies",
    "rank": null,
    "sector": "Data Infrastructure",
@@ -4709,7 +4546,7 @@
    "location": "Seoul, South Korea",
    "is_us": false,
    "url": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd",
-   "age_days": 102,
+   "age_days": 103,
    "ats": "lever"
   },
   {
@@ -4742,7 +4579,7 @@
    "location": "Singapore",
    "is_us": false,
    "url": "https://job-boards.greenhouse.io/virtu/jobs/5513756002",
-   "age_days": 113,
+   "age_days": 114,
    "ats": "greenhouse"
   },
   {
@@ -4753,7 +4590,7 @@
    "location": "New York",
    "is_us": true,
    "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
-   "age_days": 115,
+   "age_days": 116,
    "ats": "ashby"
   },
   {
@@ -4764,7 +4601,7 @@
    "location": "China",
    "is_us": false,
    "url": "https://jobs.apple.com/en-us/details/200494844/software-engineer-intern-core-os-shanghai",
-   "age_days": 122,
+   "age_days": 123,
    "ats": "custom"
   },
   {
@@ -4775,7 +4612,7 @@
    "location": "Dublin, Ireland",
    "is_us": false,
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8551566002",
-   "age_days": 123,
+   "age_days": 124,
    "ats": "greenhouse"
   },
   {
@@ -4786,19 +4623,8 @@
    "location": "New York, Chicago",
    "is_us": true,
    "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
-   "age_days": 138,
+   "age_days": 139,
    "ats": "greenhouse"
-  },
-  {
-   "company": "Palantir Technologies",
-   "rank": null,
-   "sector": "Data Infrastructure",
-   "title": "Forward Deployed Software Engineer, Internship - Commercial",
-   "location": "Chicago, IL",
-   "is_us": true,
-   "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2",
-   "age_days": 143,
-   "ats": "lever"
   },
   {
    "company": "Perplexity",
@@ -4810,6 +4636,17 @@
    "url": "https://jobs.ashbyhq.com/Perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92",
    "age_days": 143,
    "ats": "ashby"
+  },
+  {
+   "company": "Palantir Technologies",
+   "rank": null,
+   "sector": "Data Infrastructure",
+   "title": "Forward Deployed Software Engineer, Internship - Commercial",
+   "location": "Chicago, IL",
+   "is_us": true,
+   "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2",
+   "age_days": 144,
+   "ats": "lever"
   },
   {
    "company": "Amazon",
@@ -4830,7 +4667,7 @@
    "location": "Chicago, IL",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
-   "age_days": 149,
+   "age_days": 150,
    "ats": "lever"
   },
   {
@@ -4852,7 +4689,7 @@
    "location": "Chicago, Illinois, United States",
    "is_us": true,
    "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007",
-   "age_days": 171,
+   "age_days": 172,
    "ats": "greenhouse"
   },
   {
@@ -4863,7 +4700,7 @@
    "location": "Sydney, Australia",
    "is_us": false,
    "url": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976",
-   "age_days": 175,
+   "age_days": 176,
    "ats": "lever"
   },
   {
@@ -4874,7 +4711,7 @@
    "location": "United States of America",
    "is_us": true,
    "url": "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
-   "age_days": 182,
+   "age_days": 183,
    "ats": "custom"
   },
   {
@@ -4885,7 +4722,7 @@
    "location": "United States of America",
    "is_us": true,
    "url": "https://jobs.apple.com/en-us/details/200664223/machine-learning-and-artificial-intelligence-phd-internships",
-   "age_days": 182,
+   "age_days": 183,
    "ats": "custom"
   },
   {
@@ -4896,7 +4733,7 @@
    "location": "United States of America",
    "is_us": true,
    "url": "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
-   "age_days": 183,
+   "age_days": 184,
    "ats": "custom"
   },
   {
@@ -4907,7 +4744,7 @@
    "location": "United States of America",
    "is_us": true,
    "url": "https://jobs.apple.com/en-us/details/200664323/software-phd-internships",
-   "age_days": 183,
+   "age_days": 184,
    "ats": "custom"
   },
   {
@@ -4918,7 +4755,7 @@
    "location": "United States of America",
    "is_us": true,
    "url": "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
-   "age_days": 183,
+   "age_days": 184,
    "ats": "custom"
   },
   {
@@ -4929,7 +4766,7 @@
    "location": "United States of America",
    "is_us": true,
    "url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships",
-   "age_days": 183,
+   "age_days": 184,
    "ats": "custom"
   },
   {
@@ -4962,7 +4799,7 @@
    "location": "Paris, France",
    "is_us": false,
    "url": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a",
-   "age_days": 198,
+   "age_days": 199,
    "ats": "lever"
   },
   {
@@ -4973,7 +4810,7 @@
    "location": "Washington, D.C.",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019",
-   "age_days": 211,
+   "age_days": 212,
    "ats": "lever"
   },
   {
@@ -4984,7 +4821,7 @@
    "location": "New York, NY (HQ)",
    "is_us": true,
    "url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04",
-   "age_days": 225,
+   "age_days": 226,
    "ats": "ashby"
   },
   {
@@ -5006,7 +4843,7 @@
    "location": "New York, NY",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
-   "age_days": 245,
+   "age_days": 246,
    "ats": "lever"
   },
   {
@@ -5017,7 +4854,7 @@
    "location": "New York, NY",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333",
-   "age_days": 245,
+   "age_days": 246,
    "ats": "lever"
   },
   {
@@ -5028,7 +4865,7 @@
    "location": "New York, NY",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329",
-   "age_days": 245,
+   "age_days": 246,
    "ats": "lever"
   },
   {
@@ -5039,7 +4876,7 @@
    "location": "New York, NY",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f",
-   "age_days": 255,
+   "age_days": 256,
    "ats": "lever"
   },
   {
@@ -5050,7 +4887,7 @@
    "location": "Palo Alto",
    "is_us": false,
    "url": "https://jobs.ashbyhq.com/mistral.ai/7c401bbf-ee63-4fcd-a44a-a16b9b787697",
-   "age_days": 260,
+   "age_days": 261,
    "ats": "ashby"
   },
   {
@@ -5061,7 +4898,7 @@
    "location": "San Jose",
    "is_us": false,
    "url": "https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc",
-   "age_days": 286,
+   "age_days": 287,
    "ats": "ashby"
   },
   {
@@ -5072,7 +4909,7 @@
    "location": "San Jose",
    "is_us": false,
    "url": "https://jobs.ashbyhq.com/Etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a",
-   "age_days": 286,
+   "age_days": 287,
    "ats": "ashby"
   },
   {
@@ -5083,7 +4920,7 @@
    "location": "Singapore, Singapore",
    "is_us": false,
    "url": "https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1",
-   "age_days": 310,
+   "age_days": 311,
    "ats": "lever"
   },
   {
@@ -5105,7 +4942,7 @@
    "location": "Honolulu, HI",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e",
-   "age_days": 344,
+   "age_days": 345,
    "ats": "lever"
   },
   {
@@ -5127,7 +4964,7 @@
    "location": "Palo Alto, CA",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4",
-   "age_days": 458,
+   "age_days": 459,
    "ats": "lever"
   },
   {
@@ -5138,7 +4975,7 @@
    "location": "Washington, D.C.",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86",
-   "age_days": 458,
+   "age_days": 459,
    "ats": "lever"
   },
   {
@@ -5149,7 +4986,7 @@
    "location": "New York, NY",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
-   "age_days": 512,
+   "age_days": 513,
    "ats": "lever"
   },
   {
@@ -5160,7 +4997,7 @@
    "location": "London, United Kingdom",
    "is_us": false,
    "url": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e",
-   "age_days": 512,
+   "age_days": 513,
    "ats": "lever"
   },
   {
@@ -5171,7 +5008,7 @@
    "location": "Seattle, WA",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
-   "age_days": 512,
+   "age_days": 513,
    "ats": "lever"
   },
   {
@@ -5182,7 +5019,7 @@
    "location": "New York, NY",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116",
-   "age_days": 512,
+   "age_days": 513,
    "ats": "lever"
   },
   {
@@ -5193,7 +5030,7 @@
    "location": "Denver, CO",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249",
-   "age_days": 813,
+   "age_days": 814,
    "ats": "lever"
   },
   {
@@ -5204,7 +5041,7 @@
    "location": "New York, NY",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
-   "age_days": 837,
+   "age_days": 838,
    "ats": "lever"
   },
   {
@@ -5215,7 +5052,7 @@
    "location": "Palo Alto, CA",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
-   "age_days": 837,
+   "age_days": 838,
    "ats": "lever"
   },
   {
@@ -5226,7 +5063,7 @@
    "location": "Washington, D.C.",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
-   "age_days": 837,
+   "age_days": 838,
    "ats": "lever"
   },
   {
@@ -5237,7 +5074,7 @@
    "location": "New York, NY",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb",
-   "age_days": 1570,
+   "age_days": 1571,
    "ats": "lever"
   },
   {
@@ -5248,7 +5085,7 @@
    "location": "New York, NY",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f",
-   "age_days": 1604,
+   "age_days": 1605,
    "ats": "lever"
   },
   {
@@ -5259,7 +5096,7 @@
    "location": "New York, NY",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
-   "age_days": 1604,
+   "age_days": 1605,
    "ats": "lever"
   },
   {
@@ -5270,7 +5107,7 @@
    "location": "London, United Kingdom",
    "is_us": false,
    "url": "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf",
-   "age_days": 1968,
+   "age_days": 1969,
    "ats": "lever"
   },
   {
@@ -5281,7 +5118,7 @@
    "location": "Washington, D.C.",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
-   "age_days": 1968,
+   "age_days": 1969,
    "ats": "lever"
   },
   {
@@ -5292,7 +5129,7 @@
    "location": "London, United Kingdom",
    "is_us": false,
    "url": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602",
-   "age_days": 1968,
+   "age_days": 1969,
    "ats": "lever"
   },
   {
@@ -5303,7 +5140,7 @@
    "location": "Washington, D.C.",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
-   "age_days": 1968,
+   "age_days": 1969,
    "ats": "lever"
   },
   {
@@ -5314,7 +5151,7 @@
    "location": "Palo Alto, CA",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
-   "age_days": 1968,
+   "age_days": 1969,
    "ats": "lever"
   },
   {
@@ -5325,7 +5162,7 @@
    "location": "New York, NY",
    "is_us": true,
    "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
-   "age_days": 3922,
+   "age_days": 3923,
    "ats": "lever"
   }
  ]
