@@ -1,21 +1,8 @@
 {
- "generated_utc": "2026-11-22T12:39:25+00:00",
- "companies_queried": 513,
- "companies_failed": [
-  {
-   "company": "MetLife",
-   "error": "'str' object has no attribute 'get'"
-  },
-  {
-   "company": "Anyscale",
-   "error": "'str' object has no attribute 'get'"
-  },
-  {
-   "company": "Cedar",
-   "error": "Expecting value: line 1 column 1 (char 0)"
-  }
- ],
- "count": 480,
+ "generated_utc": "2026-11-22T13:01:49+00:00",
+ "companies_queried": 26,
+ "companies_failed": [],
+ "count": 506,
  "listings": [
   {
    "company": "Roblox",
@@ -1899,6 +1886,17 @@
    "ats": "custom"
   },
   {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern \u2013 Machine Learning Engineer, AV/AI Platform",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
+   "age_days": 12,
+   "ats": "workday"
+  },
+  {
    "company": "Western Digital",
    "rank": 432,
    "sector": "Technology",
@@ -1919,6 +1917,39 @@
    "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e",
    "age_days": 12,
    "ats": "lever"
+  },
+  {
+   "company": "Etched",
+   "rank": null,
+   "sector": "Semiconductors",
+   "title": "Chip Simulation Software Intern",
+   "location": "San Jose",
+   "is_us": false,
+   "url": "https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8",
+   "age_days": 12,
+   "ats": "ashby"
+  },
+  {
+   "company": "Skydio",
+   "rank": null,
+   "sector": "Robotics",
+   "title": "Hardware In Loop (HIL) Software Engineer Intern - Winter 2027",
+   "location": "San Mateo, California, United States",
+   "is_us": true,
+   "url": "https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded",
+   "age_days": 12,
+   "ats": "ashby"
+  },
+  {
+   "company": "Skydio",
+   "rank": null,
+   "sector": "Robotics",
+   "title": "Middleware Software Engineer Intern - Summer 2027",
+   "location": "San Mateo, California, United States",
+   "is_us": true,
+   "url": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03",
+   "age_days": 12,
+   "ats": "ashby"
   },
   {
    "company": "Lyft",
@@ -2086,37 +2117,15 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Etched",
-   "rank": null,
-   "sector": "Semiconductors",
-   "title": "Chip Simulation Software Intern",
-   "location": "San Jose",
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "AI Researcher (AV) Internship (PhD Student)",
+   "location": "Herzliya, Tel Aviv District, Israel",
    "is_us": false,
-   "url": "https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8",
-   "age_days": 12,
-   "ats": "ashby"
-  },
-  {
-   "company": "Skydio",
-   "rank": null,
-   "sector": "Robotics",
-   "title": "Hardware In Loop (HIL) Software Engineer Intern - Winter 2027",
-   "location": "San Mateo, California, United States",
-   "is_us": true,
-   "url": "https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded",
-   "age_days": 12,
-   "ats": "ashby"
-  },
-  {
-   "company": "Skydio",
-   "rank": null,
-   "sector": "Robotics",
-   "title": "Middleware Software Engineer Intern - Summer 2027",
-   "location": "San Mateo, California, United States",
-   "is_us": true,
-   "url": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03",
-   "age_days": 12,
-   "ats": "ashby"
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Herzliya-Tel-Aviv-District-Israel/AI-Researcher--AV--Internship--PhD-Student-_JR-202623638",
+   "age_days": 13,
+   "ats": "workday"
   },
   {
    "company": "Cloudflare",
@@ -3021,6 +3030,17 @@
    "ats": "custom"
   },
   {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern \u2013 Research and Development \u2013 Vehicle Aerodynamics and Machine Learning",
+   "location": "Warren, Michigan, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746",
+   "age_days": 23,
+   "ats": "workday"
+  },
+  {
    "company": "Coinbase",
    "rank": null,
    "sector": "Financial Technology",
@@ -3186,6 +3206,17 @@
    "ats": "custom"
   },
   {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
+   "age_days": 24,
+   "ats": "workday"
+  },
+  {
    "company": "Samsung Semiconductor",
    "rank": null,
    "sector": "Semiconductors",
@@ -3250,6 +3281,28 @@
    "url": "https://jobs.apple.com/en-us/details/200688974/engineering-intern-ai-ml-automation-for-hardware-shanghai",
    "age_days": 26,
    "ats": "custom"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern, Systems Engineer, ASD",
+   "location": "2 Locations",
+   "is_us": null,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Systems-Engineer--ASD_JR-202621989",
+   "age_days": 26,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern \u2013 AI & Hardware Analytics, ADPT",
+   "location": "2 Locations",
+   "is_us": null,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
+   "age_days": 26,
+   "ats": "workday"
   },
   {
    "company": "Figma",
@@ -3362,6 +3415,17 @@
    "ats": "custom"
   },
   {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern, AI/ML Engineer, Mapping (PhD)",
+   "location": "Warren, Michigan, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778",
+   "age_days": 27,
+   "ats": "workday"
+  },
+  {
    "company": "SingleStore",
    "rank": null,
    "sector": "Data Infrastructure",
@@ -3446,6 +3510,215 @@
    "location": "China, Shanghai",
    "is_us": false,
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern---2027_JR2026972",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern \u2013 Machine Learning Intern, Autonomous Vehicles: Software Validation (PhD)",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern \u2013 Machine Learning Intern, Autonomous Vehicles: Software Validation (Master's)",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern - Digital Product: Software Engineering",
+   "location": "5 Locations",
+   "is_us": null,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern- ADAS Software Engineer, ADPT",
+   "location": "2 Locations",
+   "is_us": null,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern,  Data Scaling, Embodied AI",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern, SEAM, Embodied AI (PhD)",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern, SEAM, Embodied AI (Masters)",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern - Digital Product: Embedded and Systems Engineering",
+   "location": "4 Locations",
+   "is_us": null,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern \u2013 AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern \u2013 Autonomous Driving Software Engineer (Bachelor's & Master's)",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern, Onboard Autonomy, Embodied AI (PhD)",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern, AI Research, Embodied AI (PhD)",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern, AI Research, Embodied AI (Masters)",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters)",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern, AI/ML Engineer, Mapping (Masters)",
+   "location": "Warren, Michigan, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
+   "age_days": 30,
+   "ats": "workday"
+  },
+  {
+   "company": "General Motors",
+   "rank": 23,
+   "sector": "Motor Vehicles & Parts",
+   "title": "2027 Summer Intern,  Data Scaling, Embodied AI (Masters)",
+   "location": "Sunnyvale, California, United States of America",
+   "is_us": true,
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540",
    "age_days": 30,
    "ats": "workday"
   },
