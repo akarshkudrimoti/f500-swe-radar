@@ -2,7 +2,7 @@
 
 Software-engineering **internship** postings (Summer 2027 cycle), pulled straight from the applicant tracking systems of the [2026 Fortune 500](https://fortune.com/ranking/fortune500/2026/) plus a curated list of technology companies outside it.
 
-**490 open postings** (264 in the US) across **91 companies** · last refreshed 2026-11-25 14:29:14 UTC
+**483 open postings** (268 in the US) across **90 companies** · last refreshed 2026-11-25 19:15:16 UTC
 
 Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more were identified but their `robots.txt` disallows crawling, so they are listed as links only. 429 are still unresolved — see [Coverage](#coverage).
 
@@ -13,25 +13,30 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | # | Company | Role | Location | Age | |
 |---|---------|------|----------|-----|-|
 | — | **Roblox** | [2027] Data Scientist - PhD Intern | San Mateo, CA, United States | today | [Apply](https://careers.roblox.com/jobs/8242619?gh_jid=8242619) |
+| — | **MongoDB** | 2027 - AI and People Transformation Intern, NYC | New York City | today | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8346138) |
+| — | **MongoDB** | 2027 - Software Engineering Intern, AMER | Austin; New York City; San Francisco | today | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) |
+| — | **SambaNova Systems** | AI Performance Engineer Intern | Austin, Texas, United States; San Jose, California, United States | today | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271183004) |
+| — | **SambaNova Systems** | Cloud Platform Engineer Intern (San Jose) | San Jose, California, United States | today | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271352004) |
+| — | **SambaNova Systems** | Machine Learning Engineer Intern | Austin, Texas, United States; San Jose, California, United States | today | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004) |
+| — | **SambaNova Systems** | ML Infrastructure Engineer Intern | Austin, Texas, United States; San Jose, California, United States | today | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271289004) |
+| — | **Lightmatter** | Firmware Intern – Summer 2027 | Boston, MA | today | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008) |
 | — | **Appian** | Software Engineering Intern | McLean, Virginia | today | [Apply](https://job-boards.greenhouse.io/appian/jobs/8041237) |
+| — | **Varda Space Industries** | Flight Software Internship - Spring 2027 | El Segundo, California, United States | today | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) |
+| — | **Varda Space Industries** | Flight Software Internship - Summer 2027 | El Segundo, California, United States | today | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010159003) |
+| — | **Varda Space Industries** | Site Reliability Internship - Spring 2027 | El Segundo, California, United States | today | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824814003) |
+| — | **Varda Space Industries** | Site Reliability Internship - Summer 2027 | El Segundo, California, United States | today | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8198267003) |
 | 376 | **Oscar Health** | Software Engineering Intern | New York, New York, United States | 1d | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8407472) |
 | — | **Verkada** | Security Software Engineering Intern 2027 | San Mateo, CA United States | 1d | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5213881007) |
 | — | **Bosch** | Internship in AI-Driven Innovation Management | Leinfelden-Echterdingen, de | 1d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163456519) |
-| — | **MongoDB** | 2027 - AI and People Transformation Intern, NYC | New York City | 2d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8346138) |
-| — | **MongoDB** | 2027 - Software Engineering Intern, AMER | Austin; New York City; San Francisco | 2d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) |
 | — | **Affirm** | Software Engineer Intern (Summer 2027) | San Francisco, California, United States | 2d | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003) |
+| — | **Benchling** | Software Engineer, Intern (Summer 2027) | San Francisco, CA | 2d | [Apply](https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099) |
+| — | **PDT Partners** | Summer 2027 Software Engineering Intern | New York, NY | 2d | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
+| — | **Schonfeld** | 2027 Data Science Intern | New York, New York, United States | 2d | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
 | — | **Riot Games** | Machine Learning Engineering Intern (Masters/PhD) - Summer 2027 | Los Angeles, USA | 2d | [Apply](https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771) |
 | — | **Verkada** | Backend Software Engineering Intern 2027 | San Mateo, CA United States | 2d | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5210813007) |
 | — | **Verkada** | Embedded Software Engineering Intern 2027 | San Mateo, CA United States | 2d | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5211595007) |
 | — | **Verkada** | Frontend Software Engineering Intern 2027 | San Mateo, CA United States | 2d | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5210942007) |
 | — | **Verkada** | Mobile Software Engineering Intern 2027 | San Mateo, CA United States | 2d | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5219131007) |
-| — | **Benchling** | Software Engineer, Intern (Summer 2027) | San Francisco, CA | 2d | [Apply](https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099) |
-| — | **PDT Partners** | Summer 2027 Software Engineering Intern | New York, NY | 2d | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
-| — | **Schonfeld** | 2027 Data Science Intern | New York, New York, United States | 2d | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
-| — | **Varda Space Industries** | Flight Software Internship - Spring 2027 | El Segundo, California, United States | 2d | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) |
-| — | **Varda Space Industries** | Flight Software Internship - Summer 2027 | El Segundo, California, United States | 2d | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010159003) |
-| — | **Varda Space Industries** | Site Reliability Internship - Spring 2027 | El Segundo, California, United States | 2d | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824814003) |
-| — | **Varda Space Industries** | Site Reliability Internship - Summer 2027 | El Segundo, California, United States | 2d | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8198267003) |
 | — | **Samsung Semiconductor** | Intern, AI Application Engineer | Folsom, California, United States | 2d | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003) |
 | — | **Samsung Semiconductor** | Intern, AI System Architecture Research Scientist | San Jose, California, United States | 2d | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197305003) |
 | — | **Samsung Semiconductor** | Intern, AI Systems Performance Engineer | San Jose, California, United States | 2d | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003) |
@@ -42,13 +47,15 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Samsung Semiconductor** | Intern, SSD Firmware Development | San Jose, California, United States | 2d | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003) |
 | — | **Samsung Semiconductor** | Intern, SSD Firmware Engineer | San Jose, California, United States | 2d | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003) |
 | — | **Samsung Semiconductor** | Intern, Systems Software Engineering | San Jose, California, United States | 2d | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003) |
+| — | **xAI** | Spring 2027 Software Engineering Internship/Co-op | Palo Alto, CA | 5d | [Apply](https://job-boards.greenhouse.io/xai/jobs/5252108007) |
+| — | **xAI** | Summer 2027 Software Engineering Internship/Co-op | Palo Alto, CA | 5d | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255111007) |
 | — | **Braze** | Intern, Software Engineering | New York City | 5d | [Apply](https://job-boards.greenhouse.io/braze/jobs/8301086) |
 | — | **Lucid Motors** | Intern, ADAS Platform Tools, Summer 2027 | Newark, CA | 5d | [Apply](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) |
 | — | **Lucid Motors** | Intern, AI/ML, Vehicle Infotainment, Summer 2027 | Newark, CA | 5d | [Apply](https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007) |
-| — | **xAI** | Spring 2027 Software Engineering Internship/Co-op | Palo Alto, CA | 5d | [Apply](https://job-boards.greenhouse.io/xai/jobs/5252108007) |
-| — | **xAI** | Summer 2027 Software Engineering Internship/Co-op | Palo Alto, CA | 5d | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255111007) |
 | — | **Bosch** | Internship in Development of an AI-Based Competitive Database and Product Matching Tool | Ulm, de | 5d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162723219) |
 | 329 | **DoorDash** | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | 6d | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
+| — | **Waymo** | 2027 Summer Intern, PhD, Agentic AI | Mountain View, California, United States | 6d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8401116) |
+| — | **Akuna Capital** | Software Engineer Intern - Python, Summer 2027 | Chicago, IL | 6d | [Apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
 | — | **Databricks** | Data Science Intern (2027 Start) | Mountain View, California; San Francisco, California | 6d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) |
 | — | **Databricks** | Software Engineering Intern (2027) | Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada | 6d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
 | — | **Stripe** | Master's Machine Learning Engineer, Intern | San Francisco, New York City, Seattle | 6d | [Apply](https://stripe.com/jobs/search?gh_jid=8333074) |
@@ -61,9 +68,6 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Lucid Motors** | Intern, Motor Control Software Development and Validation Engineer, Summer 2027 | Newark, CA | 6d | [Apply](https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007) |
 | — | **Lucid Motors** | Intern, Software Engineer, SDET, Summer 2027 | Newark, CA | 6d | [Apply](https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007) |
 | — | **Lucid Motors** | Intern, Software QA Engineer, Infotainment, Summer 2027 | Newark, CA | 6d | [Apply](https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007) |
-| — | **Waymo** | 2027 Summer Intern, PhD, Agentic AI | Mountain View, California, United States | 6d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8401116) |
-| — | **Akuna Capital** | Software Engineer Intern - Python, Summer 2027 | Chicago, IL | 6d | [Apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
-| 84 | **HP** | Software and Engineering Intern Roles - Imaging and Print | Corvallis, Oregon, United States of America | 7d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142-1) |
 | 357 | **Airbnb** | Software Engineering Intern (BS/MS) | San Francisco, California | 7d | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
 | — | **Epic Games** | Tools Programmer Intern (Graphics) | Cary,North Carolina,United States | 7d | [Apply](https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004) |
 | — | **Scale AI** | Machine Learning Research Intern (Summer 2027) | New York, NY; San Francisco, CA | 7d | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) |
@@ -82,8 +86,8 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Anduril Industries** | Winter 2027 Research Engineer Co-op | Santa Ana, California, United States | 9d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007) |
 | — | **Anduril Industries** | Winter 2027 Software Engineer Co-op | Quincy, Massachusetts, United States | 9d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007) |
 | — | **Anduril Industries** | Winter 2027 Systems Engineer Co-op | Quincy, Massachusetts, United States | 9d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007) |
-| — | **Lightmatter** | Data & AI Platform, Intern - Summer 2027 | Boston, MA | 9d | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008) |
 | — | **Schonfeld** | 2027 Platform Engineering Intern | New York, New York, United States | 9d | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) |
+| — | **Lightmatter** | Data & AI Platform, Intern - Summer 2027 | Boston, MA | 9d | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008) |
 | 1 | **Amazon** | Data Center Infrastructure Engineer Intern, Summer 2027 - East | Herndon, Virginia, USA | 11d | [Apply](https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east) |
 | 1 | **Amazon** | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast | Umatilla, Oregon, USA | 11d | [Apply](https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast) |
 | — | **Epic Games** | Tools Programmer Intern | Cary,North Carolina,United States | 12d | [Apply](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004) |
@@ -110,16 +114,16 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Waymo** | 2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction | Mountain View, CA, USA | 13d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8237997) |
 | — | **Waymo** | 2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training | Mountain View, California, United States | 13d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8283558) |
 | — | **Waymo** | 2027 Summer Intern, PhD, Planner Machine Learning | San Francisco, California | 13d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8234876) |
-| — | **Zoox** | Data Scientist Intern [Summer 2027] | Foster City, CA | 13d | [Apply](https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db) |
 | — | **Astranis** | Software Engineer Backend Intern (Summer 2027) | San Francisco, CA | 13d | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705214006) |
 | — | **Astranis** | Software Engineer - Enterprise Systems Intern (Summer 2027) | San Francisco, CA | 13d | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705610006) |
-| — | **Lyft** | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) | New York, NY | 15d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) |
-| — | **Lyft** | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) | San Francisco, CA | 15d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) |
-| — | **Lyft** | PhD Machine Learning Software Engineer Intern (Summer 2027) | San Francisco, CA | 15d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
-| — | **Lyft** | Software Engineer Intern, Backend (Summer 2027 - SF) | San Francisco, CA | 15d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) |
+| — | **Zoox** | Data Scientist Intern [Summer 2027] | Foster City, CA | 13d | [Apply](https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db) |
 | — | **Palantir Technologies** | Software Engineer, Internship - Connectivity Platform and Product | Denver, CO | 15d | [Apply](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e) |
 | — | **Skydio** | Hardware In Loop (HIL) Software Engineer Intern - Winter 2027 | San Mateo, California, United States | 15d | [Apply](https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded) |
 | — | **Skydio** | Middleware Software Engineer Intern - Summer 2027 | San Mateo, California, United States | 15d | [Apply](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03) |
+| — | **Lyft** | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) | San Francisco, CA | 15d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) |
+| — | **Lyft** | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) | New York, NY | 15d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) |
+| — | **Lyft** | PhD Machine Learning Software Engineer Intern (Summer 2027) | San Francisco, CA | 15d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
+| — | **Lyft** | Software Engineer Intern, Backend (Summer 2027 - SF) | San Francisco, CA | 15d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) |
 | — | **Epic Games** | AI Programmer Intern | Cary,North Carolina,United States | 16d | [Apply](https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004) |
 | — | **Point72** | 2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research | New York, NY | 16d | [Apply](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002) |
 | — | **Point72** | 2027 Summer Internship – Software Engineer | New York, NY | 16d | [Apply](https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002) |
@@ -128,6 +132,7 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Point72** | Quantitative Software Developer Intern | New York | 16d | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | — | **Faire** | Applied AI/ML Scientist, Intern - Winter 2027 | San Francisco, CA | 16d | [Apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
 | — | **Zoox** | AI Engineering Intern, Operational Safety [Summer 2027] | Foster City, CA | 18d | [Apply](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1) |
+| — | **Duolingo** | AI Research Intern (PhD) | New York, NY; Pittsburgh, PA | 19d | [Apply](https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002) |
 | — | **Pinterest** | Machine Learning Intern 2027 (Toronto) | Toronto, ON, CA | 19d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) |
 | — | **Pinterest** | Master's Data Science Internship 2027 (USA) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US | 19d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) |
 | — | **Pinterest** | Master's Machine Learning Internship 2027 (USA) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US | 19d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) |
@@ -141,7 +146,6 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Pinterest** | University Grad Software Engineer 2027 (USA) | San Francisco, CA, US; Remote, US | 19d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) |
 | — | **Notion Labs** | Software Engineering Intern, Frontend (Summer 2027) | New York, New York | 19d | [Apply](https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413) |
 | — | **Notion Labs** | Software Engineering Intern, iOS (Summer 2027) | New York, New York | 19d | [Apply](https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947) |
-| — | **Duolingo** | AI Research Intern (PhD) | New York, NY; Pittsburgh, PA | 19d | [Apply](https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002) |
 | — | **Zoox** | Data Science Intern [Summer 2027] | Foster City, CA | 19d | [Apply](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97) |
 | — | **Match Group** | Android Engineer Intern | Los Angeles, California | 19d | [Apply](https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d) |
 | — | **Match Group** | Backend Engineer Intern | Palo Alto, California | 19d | [Apply](https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3) |
@@ -155,9 +159,9 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | 329 | **DoorDash** | Machine Learning Intern (Masters) - Summer 2027 | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA | 21d | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) |
 | 329 | **DoorDash** | Machine Learning Intern (PhD) - Summer 2027 | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA | 21d | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
 | 329 | **DoorDash** | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | 21d | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
-| — | **Figma** | PhD Intern, Software Engineer - Interaction Design (2027) | San Francisco, CA • New York, NY | 21d | [Apply](https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004) |
 | — | **Palantir Technologies** | Software Engineer, Internship - Connectivity Platform and Product | New York, NY | 21d | [Apply](https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743) |
 | — | **Palantir Technologies** | Software Engineer, Internship - Data Connectors | New York, NY | 21d | [Apply](https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a) |
+| — | **Figma** | PhD Intern, Software Engineer - Interaction Design (2027) | San Francisco, CA • New York, NY | 21d | [Apply](https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004) |
 | — | **Duolingo** | Data Scientist, Intern (PhD) | New York, NY; Pittsburgh, PA | 23d | [Apply](https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002) |
 | — | **Rocket Lab** | Flight Software Intern Summer 2027 | Littleton, CO | 23d | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989722003) |
 | — | **Pure Storage** | Software Engineer Intern (Summer 2027) | Santa Clara, California | 24d | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8249749) |
@@ -170,8 +174,8 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Nintendo of America** | Intern - Software Engineer, Performance Tools (NTD) | Redmond, WA | 25d | [Apply](https://careers.nintendo.com/?gh_jid=4473568009) |
 | — | **Nintendo of America** | Intern - Software Engineer, Platform Security (NTD) | Redmond, WA | 25d | [Apply](https://careers.nintendo.com/?gh_jid=4469778009) |
 | 1 | **Amazon** | Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027 | Seattle, Washington, USA | 26d | [Apply](https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) |
-| — | **Coinbase** | Machine Learning Engineer Intern | Hybrid - San Francisco, CA | 26d | [Apply](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
 | — | **Epic Games** | Engine Programmer Intern | Cary,North Carolina,United States | 26d | [Apply](https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004) |
+| — | **Coinbase** | Machine Learning Engineer Intern | Hybrid - San Francisco, CA | 26d | [Apply](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
 | — | **Zoox** | PhD Software Engineer Intern, Autonomy Software [Summer 2027] | Foster City, CA | 26d | [Apply](https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877) |
 | — | **Zoox** | Software Engineer Intern, Software Platforms & Product [Summer 2027] | Foster City, CA | 26d | [Apply](https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520) |
 | — | **Zoox** | Software Engineer Intern, Software Systems [Summer 2027] | Foster City, CA | 26d | [Apply](https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20) |
@@ -198,10 +202,10 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Palantir Technologies** | Forward Deployed Software Engineer, Internship - Warp Speed | New York, NY | 1mo | [Apply](https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb) |
 | — | **Twitch** | Undergrad Software Engineering Intern (Grad Year: Winter 2027) | San Francisco, CA | 1mo | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8886605002) |
 | — | **Skydio** | Frontend Software Engineer Intern | San Mateo, California, United States | 1mo | [Apply](https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd) |
-| — | **Coinbase** | Software Engineer Intern | Hybrid - San Francisco, CA | 1mo | [Apply](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) |
 | — | **Sigma Computing** | AI/ML PhD Intern (Summer 2027) | New York, New York | 1mo | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8015269003) |
 | — | **Sigma Computing** | AI/ML PhD Intern (Summer 2027) | San Francisco, CA | 1mo | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003) |
 | — | **Skydio** | Mobile Software Engineer Intern - Summer 2027 | San Mateo, California, United States | 1mo | [Apply](https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52) |
+| — | **Coinbase** | Software Engineer Intern | Hybrid - San Francisco, CA | 1mo | [Apply](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) |
 | — | **Palantir Technologies** | Software Engineer, Internship - Query Engines | New York, NY | 1mo | [Apply](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) |
 | — | **Patreon** | Software Engineering Intern - Summer 2027 | New York | 1mo | [Apply](https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c) |
 | — | **Nintendo of America** | Intern - IT Microsoft 365 Systems Engineer | Redmond, WA | 1mo | [Apply](https://careers.nintendo.com/?gh_jid=4417323009) |
@@ -278,13 +282,19 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Palantir Technologies** | Software Engineer, Internship | Palo Alto, CA | 65mo | [Apply](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) |
 
 <details>
-<summary>International (223) and unstated location (3)</summary>
+<summary>International (212) and unstated location (3)</summary>
 
 ### International
 
 | # | Company | Role | Location | Age | |
 |---|---------|------|----------|-----|-|
 | — | **Roblox** | [Summer 2027 Canada] Software Engineer Intern, Engine | Vancouver, British Columbia, Canada | today | [Apply](https://careers.roblox.com/jobs/8386080?gh_jid=8386080) |
+| — | **MongoDB** | 2027 - Software Engineer Intern, Dublin - 6 Month Internship | Dublin | today | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8258279) |
+| — | **MongoDB** | 2027 - Summer Software Engineer Intern, Dublin | Dublin | today | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8267099) |
+| — | **Pinterest** | Machine Learning Intern 2027 (Dublin) | Dublin, IE | today | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8244922) |
+| — | **Pinterest** | Machine Learning Intern 2027 (Zurich) | Zurich, CH | today | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8214757) |
+| — | **Pinterest** | Software Engineering Intern 2027 (Dublin) | Dublin, IE | today | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138034) |
+| — | **Pinterest** | Software Engineering Intern 2027 (Zurich) | Zurich, CH | today | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8214745) |
 | — | **Zynga** | AI Artist Intern (UI) - Socialpoint | Barcelona, Spain | today | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6269988004) |
 | — | **Formlabs** | Software Engineer Intern (Full stack) | Budapest, Hungary | today | [Apply](https://careers.formlabs.com/job/8416639/apply/?gh_jid=8416639) |
 | — | **Bosch** | Paid Internship in AI Application Team (f/m) | Warszawa, pl | today | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163631520) |
@@ -292,23 +302,14 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | 1 | **Amazon** | Software Development Engineer Intern - 2027, Beijing | Beijing, CHN | 1d | [Apply](https://www.amazon.jobs/en/jobs/10612415/software-development-engineer-intern-2027-beijing) |
 | 1 | **Amazon** | Data Scientist I 6M Intern | Chennai, Tamil Nadu, IND | 1d | [Apply](https://www.amazon.jobs/en/jobs/10443572/data-scientist-i-6m-intern) |
 | 4 | **Apple** | Internship - Machine Learning Research - Speech-to-Speech Translation | Germany | 1d | [Apply](https://jobs.apple.com/en-us/details/200692236/internship-machine-learning-research-speech-to-speech-translation) |
-| 114 | **Salesforce** | Software Engineering Apprentice | Ireland - Dublin | 1d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Software-Engineering-Apprentice_JR369127) |
-| 114 | **Salesforce** | Software Engineering Apprentice | Ireland - Dublin | 1d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Software-Engineering-Apprentice_JR369244) |
-| 114 | **Salesforce** | Software Engineering Apprentice | Ireland - Dublin | 1d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Software-Engineering-Apprentice_JR369230-1) |
-| 114 | **Salesforce** | Software Engineering Apprentice | Ireland - Dublin | 1d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Software-Engineering-Apprentice_JR369472) |
 | — | **Mistral AI** | Applied AI, Forward Deployed Machine Learning Engineer - (Internship) | Paris | 1d | [Apply](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) |
 | — | **Mistral AI** | AI Scientist - Physics Models (Internship, Masters or Phd) | Paris | 1d | [Apply](https://jobs.ashbyhq.com/mistral.ai/36f5f453-92c1-4f55-ac2a-bcfad5ffe2d2) |
 | — | **Mistral AI** | AI Scientist - Agentic Engineering - AI4Engineering - (Internship, Masters or PhD) | Paris | 1d | [Apply](https://jobs.ashbyhq.com/mistral.ai/f2443351-6105-44fb-8024-f31b9ba60d0b) |
 | — | **Bosch** | Academic Internship in Computer Science (f/m/div.) | Braga, pt | 1d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163410519) |
 | 41 | **Dell Technologies** | Data Science Undergraduate Intern | Singapore | 2d | [Apply](https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/D11255) |
-| — | **MongoDB** | 2027 - Software Engineer Intern, Dublin - 6 Month Internship | Dublin | 2d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8258279) |
-| — | **MongoDB** | 2027 - Summer Software Engineer Intern, Dublin | Dublin | 2d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8267099) |
 | — | **Stripe** | Software Engineer, Intern (Summer or Winter) | Dublin | 2d | [Apply](https://stripe.com/jobs/search?gh_jid=8097801) |
 | 4 | **Apple** | Software Engineering Intern, App Intelligence Experience | United Kingdom | 5d | [Apply](https://jobs.apple.com/en-us/details/200696199/software-engineering-intern-app-intelligence-experience) |
 | 333 | **ServiceNow** | Security Software Engineer Intern | Kirkland, us | 5d | [Apply](https://jobs.smartrecruiters.com/servicenow/744000162827365) |
-| — | **Samsara** | Software Engineering Internship - San Francisco | San Francisco - SF9 | 5d | [Apply](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) |
-| — | **SpaceX** | Spring 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 5d | [Apply](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002) |
-| — | **SpaceX** | Summer 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 5d | [Apply](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) |
 | — | **Optiver** | 2027 Shanghai FPGA Developer Summer Internship | Shanghai, China | 5d | [Apply](https://www.optiver.com/join-us/jobs/8644364002/?gh_jid=8644364002) |
 | — | **Optiver** | 2027 Shanghai Machine Learning Engineer Summer Internship | Shanghai, China | 5d | [Apply](https://www.optiver.com/join-us/jobs/8633966002/?gh_jid=8633966002) |
 | — | **Optiver** | 2027 Shanghai Software Developer Summer Internship | Shanghai, China | 5d | [Apply](https://www.optiver.com/join-us/jobs/8623927002/?gh_jid=8623927002) |
@@ -316,7 +317,11 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Optiver** | Software Engineer Internship (2027 Start) | London, England, United Kingdom | 5d | [Apply](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) |
 | — | **Astranis** | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco | 5d | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704569006) |
 | — | **Astranis** | Embedded Software Developer, Network/Payload Intern (Winter 2027) | San Francisco | 5d | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704571006) |
+| — | **Samsara** | Software Engineering Internship - San Francisco | San Francisco - SF9 | 5d | [Apply](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) |
+| — | **SpaceX** | Spring 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 5d | [Apply](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002) |
+| — | **SpaceX** | Summer 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 5d | [Apply](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) |
 | — | **Bosch** | [Internship Program Q1 2027] Embedded Software Intern (C/C++) | Hanoi, vn | 5d | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162666349) |
+| — | **Motional** | Machine Learning Internship, Behaviors Research | Singapore, Central, Singapore | 6d | [Apply](https://motional.com/open-positions/?gh_jid=7600024003#/7600024003) |
 | — | **Databricks** | Software Engineering Intern (2027 Start) - Aarhus | Aarhus, Denmark | 6d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002) |
 | — | **Databricks** | Software Engineering Intern (2027 Start) - Amsterdam | Amsterdam, Netherlands | 6d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002) |
 | — | **Databricks** | Software Engineering Intern (2027 Start) - Belgrade | Belgrade, Serbia | 6d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002) |
@@ -326,23 +331,19 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Stripe** | Master's Machine Learning Engineer, Intern | Toronto | 6d | [Apply](https://stripe.com/jobs/search?gh_jid=8333122) |
 | — | **Stripe** | PhD Data Scientist, Intern | Toronto | 6d | [Apply](https://stripe.com/jobs/search?gh_jid=8194285) |
 | — | **Stripe** | PhD Machine Learning Engineer, Intern | Toronto | 6d | [Apply](https://stripe.com/jobs/search?gh_jid=8328664) |
-| — | **Stripe** | Software Engineer, Intern | Singapore | 6d | [Apply](https://stripe.com/jobs/search?gh_jid=8130883) |
 | — | **Stripe** | Software Engineer, Intern | London | 6d | [Apply](https://stripe.com/jobs/search?gh_jid=8130867) |
-| — | **Stripe** | Software Engineer, Intern | Bengaluru | 6d | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) |
+| — | **Stripe** | Software Engineer, Intern | Singapore | 6d | [Apply](https://stripe.com/jobs/search?gh_jid=8130883) |
 | — | **Stripe** | Software Engineer, Intern | Bucharest | 6d | [Apply](https://stripe.com/jobs/search?gh_jid=8130807) |
 | — | **Stripe** | Software Engineer, Intern (Summer) | Toronto | 6d | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) |
-| — | **Motional** | Machine Learning Internship, Behaviors Research | Singapore, Central, Singapore | 6d | [Apply](https://motional.com/open-positions/?gh_jid=7600024003#/7600024003) |
 | 4 | **Apple** | Software Engineering Intern (Full-Stack & AI Integration) - Shanghai | China | 7d | [Apply](https://jobs.apple.com/en-us/details/200695373/software-engineering-intern-full-stack-ai-integration-shanghai) |
 | 432 | **Western Digital** | Spring 2027 Intern - Software Engineering | Irvine, us | 7d | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000162353069) |
 | — | **Scale AI** | Software Engineering Intern (Summer 2027) | Doha, Qatar | 7d | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) |
-| — | **Tower Research Capital** | Stagiaire en machine learning / Machine Learning Intern | Montreal | 7d | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) |
-| — | **Zynga** | Software Engineer Intern (Two Dots) - Socialpoint Studio | Barcelona, Spain | 7d | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6217991004) |
 | — | **PayPal** | Software Engineer Intern - Backend | Central Singapore, Singapore | 7d | [Apply](https://paypal.wd1.myworkdayjobs.com/jobs/job/Central-Singapore-Singapore/Software-Engineer-Intern---Backend_R0138931) |
 | — | **PayPal** | Full Stack Software Engineer Intern | Central Singapore, Singapore | 7d | [Apply](https://paypal.wd1.myworkdayjobs.com/jobs/job/Central-Singapore-Singapore/Full-Stack-Software-Engineer-Intern_R0138930) |
+| — | **Tower Research Capital** | Stagiaire en machine learning / Machine Learning Intern | Montreal | 7d | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) |
+| — | **Zynga** | Software Engineer Intern (Two Dots) - Socialpoint Studio | Barcelona, Spain | 7d | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6217991004) |
 | 4 | **Apple** | Software Engineering Intern, File Previewing & Editing (Quick Look and Preview) | France | 8d | [Apply](https://jobs.apple.com/en-us/details/200695428/software-engineering-intern-file-previewing-editing-quick-look-and-preview) |
 | 4 | **Apple** | Cellular RF Receiver System Engineer Intern | Austria | 8d | [Apply](https://jobs.apple.com/en-us/details/200695289/cellular-rf-receiver-system-engineer-intern) |
-| 84 | **HP** | Data & AI Intern - Intelligent Operations | Sant Cugat del Valles, Barcelona, Spain | 8d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data---AI-Intern---Intelligent-Operations_UNI4519-1) |
-| 84 | **HP** | Software & AI Product Management Intern | Sant Cugat del Valles, Barcelona, Spain | 8d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Software---AI-Product-Management-Intern_UNI4781-1) |
 | 432 | **Western Digital** | Internship - Software Development (Embedded) | Petaling Jaya, my | 8d | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000161997959) |
 | — | **Point72** | 2027 MI Data Research & AI Intern - APAC | Hong Kong, Singapore, Japan | 8d | [Apply](https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002) |
 | — | **Brex** | Software Engineer, Internship - 2027 | São Paulo, São Paulo, Brazil | 9d | [Apply](https://www.brex.com/careers/8935242002?gh_jid=8935242002) |
@@ -350,17 +351,16 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | 333 | **ServiceNow** | AI Identity Intern | Kirkland, us | 12d | [Apply](https://jobs.smartrecruiters.com/servicenow/744000161594249) |
 | 333 | **ServiceNow** | Security Engineer Intern | Kirkland, us | 12d | [Apply](https://jobs.smartrecruiters.com/servicenow/744000161592679) |
 | — | **Snowflake** | Software Engineer Intern - Zurich (2027) | CH-Zurich-Observe | 12d | [Apply](https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b) |
-| — | **Coinbase** | Software Engineer Intern | Hybrid - Singapore | 12d | [Apply](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) |
 | — | **Strava** | Software Engineering Intern, Server, Comms | Strava SF | 12d | [Apply](https://jobs.ashbyhq.com/Strava/96968b02-dde9-4e0d-b6a8-d2363f550126) |
 | — | **Strava** | Software Engineering Intern, Server, Security | Strava SF | 12d | [Apply](https://jobs.ashbyhq.com/Strava/924afc4f-b490-4716-a308-5e02fe56653b) |
 | — | **Strava** | Software Engineering Intern, Server, User Lifecycle | Strava SF | 12d | [Apply](https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a) |
 | — | **Strava** | Software Engineering Intern, AI/ML Data Products | Strava SF | 12d | [Apply](https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023) |
 | — | **Strava** | Software Engineering Intern, Android, Subscriptions | Strava SF | 12d | [Apply](https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c) |
 | — | **Strava** | Software Engineering Intern, Server, Next Sports | Strava SF | 12d | [Apply](https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9) |
+| — | **Coinbase** | Software Engineer Intern | Hybrid - Singapore | 12d | [Apply](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) |
 | 4 | **Apple** | Internship - Pro Apps Machine Learning Ecosystem Engineer | United Kingdom | 13d | [Apply](https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer) |
 | 4 | **Apple** | Camera Software (Intern) | United Kingdom | 13d | [Apply](https://jobs.apple.com/en-us/details/200694477/camera-software-intern) |
 | 4 | **Apple** | Internship - Software Development Intern - Core OS | Czechia | 13d | [Apply](https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os) |
-| 84 | **HP** | Data Science Intern | Sant Cugat del Valles, Barcelona, Spain | 13d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3930-2) |
 | — | **Waymo** | 2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation) | Warsaw, Poland | 13d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8214729) |
 | — | **Waymo** | 2027 Summer Intern, PhD, Machine Learning, Simulation Realism | London, England, United Kingdom | 13d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8265868) |
 | — | **Astranis** | Environmental Test Engineer Intern (Winter 2027) | San Francisco | 13d | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705652006) |
@@ -376,6 +376,7 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Schonfeld** | 2027 Software Engineering Intern | Hong Kong, Hong Kong | 14d | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8346891) |
 | 4 | **Apple** | RFHW Systems Engineer Intern - Shanghai or Shenzhen | China | 15d | [Apply](https://jobs.apple.com/en-us/details/200694023/rfhw-systems-engineer-intern-shanghai-or-shenzhen) |
 | 432 | **Western Digital** | Summer 2027 Intern - Software Engineering | San Jose, us | 15d | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000160975819) |
+| — | **Etched** | Chip Simulation Software Intern | San Jose | 15d | [Apply](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) |
 | — | **Lyft** | Business Systems Engineer Intern, Finance Technology (Summer 2027) | Toronto, Canada | 15d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002) |
 | — | **Lyft** | Data Engineer Intern (Summer 2027) | Toronto, Canada | 15d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) |
 | — | **Lyft** | Data Science Intern, Algorithms (Summer 2027 - Toronto) | Toronto, Canada | 15d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) |
@@ -387,7 +388,6 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Lyft** | Software Engineer Intern, Fullstack (Summer 2027 - Toronto) | Toronto, Canada | 15d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002) |
 | — | **Lyft** | Software Engineer Intern, Machine Learning (Summer 2027 - Toronto) | Toronto, Canada | 15d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) |
 | — | **Lyft** | Software Engineer Intern, Test Automation (Summer 2027) | Montreal, Canada | 15d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) |
-| — | **Etched** | Chip Simulation Software Intern | San Jose | 15d | [Apply](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) |
 | — | **Cloudflare** | Software Engineer Intern (2027) | In-Office | 16d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197) |
 | — | **Cloudflare** | Software Engineer Intern (2027) - Austin, TX | In-Office | 16d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958) |
 | — | **Cloudflare** | Software Engineer Intern (2027) - London, UK | In-Office | 16d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211) |
@@ -396,24 +396,19 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Cloudflare Zero Trust** | Software Engineer Intern (2027) - London, UK | In-Office | 16d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211) |
 | 1 | **Amazon** | Cloud Hardware Dev Engineer Intern | Hsinchu City, TWN | 19d | [Apply](https://www.amazon.jobs/en/jobs/10598506/cloud-hardware-dev-engineer-intern) |
 | 1 | **Amazon** | Cloud Hardware Dev Engineer Intern | Taipei City, TWN | 19d | [Apply](https://www.amazon.jobs/en/jobs/10598501/cloud-hardware-dev-engineer-intern) |
-| — | **Pinterest** | Machine Learning Intern 2027 (Dublin) | Dublin, IE | 19d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8244922) |
-| — | **Pinterest** | Machine Learning Intern 2027 (Zurich) | Zurich, CH | 19d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8214757) |
-| — | **Pinterest** | Software Engineering Intern 2027 (Dublin) | Dublin, IE | 19d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138034) |
-| — | **Pinterest** | Software Engineering Intern 2027 (Zurich) | Zurich, CH | 19d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8214745) |
 | — | **Mistral AI** | AI Scientist - (Internship, Masters or Phd) | Paris | 19d | [Apply](https://jobs.ashbyhq.com/mistral.ai/f7245b49-92a0-4111-bba1-343183de7d97) |
 | — | **Etched** | Infrastructure Engineering & Projects Intern | San Jose | 19d | [Apply](https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b) |
 | — | **Match Group** | Data Science Internship | Ghent, Belgium | 19d | [Apply](https://jobs.lever.co/matchgroup/72a9642b-a289-4c49-bc9b-53880c1dc870) |
-| — | **Datadog** | Software Engineering Intern | Madrid, Spain | 20d | [Apply](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) |
-| — | **Datadog** | Software Engineering Intern | Paris, France | 20d | [Apply](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186) |
 | — | **Palantir Technologies** | Software Engineer, Internship - Sovereign AI Systems | London, United Kingdom | 20d | [Apply](https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e) |
+| — | **Datadog** | Software Engineering Intern | Paris, France | 20d | [Apply](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186) |
+| — | **Datadog** | Software Engineering Intern | Madrid, Spain | 20d | [Apply](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) |
 | 4 | **Apple** | Software Engineer Intern (Full-Stack & AI Agents) - Shanghai | China | 21d | [Apply](https://jobs.apple.com/en-us/details/200690042/software-engineer-intern-full-stack-ai-agents-shanghai) |
 | — | **Etched** | IA Research Engineer Intern | San Jose | 21d | [Apply](https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440) |
-| — | **Together AI** | Technical Writer Intern, Developer Experience (Summer 2027) | San Francisco | 22d | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) |
 | — | **Geneva Trading** | C++ Developer (Intern) | Chicago Office | 22d | [Apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) |
+| — | **Together AI** | Technical Writer Intern, Developer Experience (Summer 2027) | San Francisco | 22d | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) |
 | 4 | **Apple** | AI Research Intern - Foundation Models & Multimodal Intelligence | Switzerland | 23d | [Apply](https://jobs.apple.com/en-us/details/200692868/ai-research-intern-foundation-models-multimodal-intelligence) |
 | 4 | **Apple** | Internship -  Machine Learning Research (recurrent models \| generative models \|  interpretability) | Spain | 23d | [Apply](https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability) |
 | — | **Rocket Lab** | Supplier Quality Engineer Intern | Auckland, NZ | 23d | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7819101003) |
-| — | **Zebra Technologies** | 2027 (6-months) Internship (Singapore) - Artificial Intelligence | Singapore | 23d | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Artificial-Intelligence_JR103399) |
 | 1 | **Amazon** | Business Developer Intern, Early Careers 2027 | London, England, GBR | 26d | [Apply](https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027) |
 | 1 | **Amazon** | Business Developer Intern, Early Careers 2027 | Munich, Bavaria, DEU | 26d | [Apply](https://www.amazon.jobs/en/jobs/10593299/business-developer-intern-early-careers-2027) |
 | — | **Epic Games** | Machine Learning Intern | Montreal,Quebec,Canada | 26d | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
@@ -427,8 +422,8 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Geneva Trading** | Python Developer Intern | Chicago Office | 28d | [Apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242196007) |
 | 1 | **Amazon** | Software Development Engineer Intern, Amazon University Talent Acquisition | Sao Paulo, Sao Paulo, BRA | 29d | [Apply](https://www.amazon.jobs/en/jobs/10590270/software-development-engineer-intern-amazon-university-talent-acquisition) |
 | 4 | **Apple** | Engineering Intern (AI/ML & Automation) for Hardware - Shanghai | China | 29d | [Apply](https://jobs.apple.com/en-us/details/200688974/engineering-intern-ai-ml-automation-for-hardware-shanghai) |
-| — | **Figma** | Software Engineer Intern (London, United Kingdom) (Summer 2027) | London, England | 29d | [Apply](https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004) |
 | — | **Schonfeld** | 2027 AI Forward Deployed Engineer Intern | Hong Kong, Hong Kong | 29d | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8311595) |
+| — | **Figma** | Software Engineer Intern (London, United Kingdom) (Summer 2027) | London, England | 29d | [Apply](https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004) |
 | 1 | **Amazon** | 2027 Software Dev Engineer Intern (Embedded Systems) - UK | London, England, GBR | 1mo | [Apply](https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk) |
 | 1 | **Amazon** | 2027 Software Dev Engineer Intern (Machine Learning) - UK | London, England, GBR | 1mo | [Apply](https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk) |
 | 1 | **Amazon** | Infrastructure Partner Management Intern, AWS Infrastructure Services | SGP | 1mo | [Apply](https://www.amazon.jobs/en/jobs/10587269/infrastructure-partner-management-intern-aws-infrastructure-services) |
@@ -477,11 +472,9 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Jump Trading** | Campus C++ Software Engineer (Intern) | Singapore | 2mo | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027946) |
 | — | **Jump Trading** | Campus Python Software Engineer (Intern) | Singapore | 2mo | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027955) |
 | — | **Jump Trading** | Campus AI/ML Researcher (Intern) | Hong Kong; Shanghai; Singapore | 2mo | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027938) |
-| — | **Jump Trading** | Campus AI Researcher, PhD/Postdoc (Intern) | London | 3mo | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7976964) |
-| — | **Jump Trading** | Campus Systems Engineer (Intern) | London; Amsterdam | 3mo | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8000323) |
 | — | **Jump Trading** | Campus Systems Engineer (Intern) | Chicago | 3mo | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
 | — | **Jump Trading** | Campus Systems Engineer (Intern) | Singapore | 3mo | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027952) |
-| — | **Jump Trading** | Campus UI Software Engineer (Intern) | London | 3mo | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974943) |
+| — | **Jump Trading** | Campus Systems Engineer (Intern) | London; Amsterdam | 3mo | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8000323) |
 | — | **Tower Research Capital** | Quantitative Developer Intern | Singapore | 3mo | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8138524) |
 | — | **Jump Trading** | Campus Data Engineer (Intern) | Chicago | 3mo | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8002998) |
 | — | **Jump Trading** | Campus UI Software Engineer (Intern) | Chicago | 3mo | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003019) |
