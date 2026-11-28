@@ -1,8 +1,8 @@
 {
- "generated_utc": "2026-11-28T02:53:04+00:00",
- "companies_queried": 40,
+ "generated_utc": "2026-11-28T11:18:12+00:00",
+ "companies_queried": 42,
  "companies_failed": [],
- "count": 501,
+ "count": 473,
  "listings": [
   {
    "company": "Amazon",
@@ -432,28 +432,6 @@
    "url": "https://jobs.apple.com/en-us/details/200692236/internship-machine-learning-research-speech-to-speech-translation",
    "age_days": 3,
    "ats": "custom"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern \u2013 Software Verification Engineer, AV/AI Platform",
-   "location": "Warren, Michigan, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697",
-   "age_days": 3,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern \u2013 Software Engineer, AV/AI Platform",
-   "location": "3 Locations",
-   "is_us": null,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
-   "age_days": 3,
-   "ats": "workday"
   },
   {
    "company": "Jabil",
@@ -1336,17 +1314,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Western Digital",
-   "rank": 432,
-   "sector": "Technology",
-   "title": "Spring 2027 Intern - Software Engineering",
-   "location": "Irvine, us",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/westerndigital/744000162353069",
-   "age_days": 9,
-   "ats": "smartrecruiters"
-  },
-  {
    "company": "Scale AI",
    "rank": null,
    "sector": "Artificial Intelligence",
@@ -1471,10 +1438,10 @@
    "company": "Western Digital",
    "rank": 432,
    "sector": "Technology",
-   "title": "Internship - Software Development (Embedded)",
-   "location": "Petaling Jaya, my",
+   "title": "Spring 2027 Intern - Software Engineering",
+   "location": "Irvine, us",
    "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/westerndigital/744000161997959",
+   "url": "https://jobs.smartrecruiters.com/westerndigital/744000162353069",
    "age_days": 10,
    "ats": "smartrecruiters"
   },
@@ -1499,6 +1466,17 @@
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
    "age_days": 10,
    "ats": "greenhouse"
+  },
+  {
+   "company": "Western Digital",
+   "rank": 432,
+   "sector": "Technology",
+   "title": "Internship - Software Development (Embedded)",
+   "location": "Petaling Jaya, my",
+   "is_us": false,
+   "url": "https://jobs.smartrecruiters.com/westerndigital/744000161997959",
+   "age_days": 11,
+   "ats": "smartrecruiters"
   },
   {
    "company": "Brex",
@@ -2183,28 +2161,6 @@
    "ats": "custom"
   },
   {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern \u2013 Machine Learning Engineer, AV/AI Platform",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
-   "age_days": 17,
-   "ats": "workday"
-  },
-  {
-   "company": "Western Digital",
-   "rank": 432,
-   "sector": "Technology",
-   "title": "Summer 2027 Intern - Software Engineering",
-   "location": "San Jose, us",
-   "is_us": false,
-   "url": "https://jobs.smartrecruiters.com/westerndigital/744000160975819",
-   "age_days": 17,
-   "ats": "smartrecruiters"
-  },
-  {
    "company": "Palantir Technologies",
    "rank": null,
    "sector": "Data Infrastructure",
@@ -2414,15 +2370,15 @@
    "ats": "greenhouse"
   },
   {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "AI Researcher (AV) Internship (PhD Student)",
-   "location": "Herzliya, Tel Aviv District, Israel",
+   "company": "Western Digital",
+   "rank": 432,
+   "sector": "Technology",
+   "title": "Summer 2027 Intern - Software Engineering",
+   "location": "San Jose, us",
    "is_us": false,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Herzliya-Tel-Aviv-District-Israel/AI-Researcher--AV--Internship--PhD-Student-_JR-202623638",
+   "url": "https://jobs.smartrecruiters.com/westerndigital/744000160975819",
    "age_days": 18,
-   "ats": "workday"
+   "ats": "smartrecruiters"
   },
   {
    "company": "Point72",
@@ -2480,72 +2436,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Cloudflare",
-   "rank": null,
-   "sector": "Internet Infrastructure",
-   "title": "Software Engineer Intern (2027)",
-   "location": "In-Office",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-   "age_days": 18,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Cloudflare",
-   "rank": null,
-   "sector": "Internet Infrastructure",
-   "title": "Software Engineer Intern (2027) - Austin, TX",
-   "location": "In-Office",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
-   "age_days": 18,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Cloudflare",
-   "rank": null,
-   "sector": "Internet Infrastructure",
-   "title": "Software Engineer Intern (2027) - London, UK",
-   "location": "In-Office",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-   "age_days": 18,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Cloudflare Zero Trust",
-   "rank": null,
-   "sector": "Security",
-   "title": "Software Engineer Intern (2027)",
-   "location": "In-Office",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-   "age_days": 18,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Cloudflare Zero Trust",
-   "rank": null,
-   "sector": "Security",
-   "title": "Software Engineer Intern (2027) - Austin, TX",
-   "location": "In-Office",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
-   "age_days": 18,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Cloudflare Zero Trust",
-   "rank": null,
-   "sector": "Security",
-   "title": "Software Engineer Intern (2027) - London, UK",
-   "location": "In-Office",
-   "is_us": false,
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-   "age_days": 18,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Faire",
    "rank": null,
    "sector": "Consumer Internet",
@@ -2554,6 +2444,72 @@
    "is_us": true,
    "url": "https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002",
    "age_days": 18,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Cloudflare",
+   "rank": null,
+   "sector": "Internet Infrastructure",
+   "title": "Software Engineer Intern (2027)",
+   "location": "In-Office",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "age_days": 19,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Cloudflare",
+   "rank": null,
+   "sector": "Internet Infrastructure",
+   "title": "Software Engineer Intern (2027) - Austin, TX",
+   "location": "In-Office",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
+   "age_days": 19,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Cloudflare",
+   "rank": null,
+   "sector": "Internet Infrastructure",
+   "title": "Software Engineer Intern (2027) - London, UK",
+   "location": "In-Office",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "age_days": 19,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Cloudflare Zero Trust",
+   "rank": null,
+   "sector": "Security",
+   "title": "Software Engineer Intern (2027)",
+   "location": "In-Office",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+   "age_days": 19,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Cloudflare Zero Trust",
+   "rank": null,
+   "sector": "Security",
+   "title": "Software Engineer Intern (2027) - Austin, TX",
+   "location": "In-Office",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
+   "age_days": 19,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Cloudflare Zero Trust",
+   "rank": null,
+   "sector": "Security",
+   "title": "Software Engineer Intern (2027) - London, UK",
+   "location": "In-Office",
+   "is_us": false,
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+   "age_days": 19,
    "ats": "greenhouse"
   },
   {
@@ -2876,28 +2832,6 @@
    "ats": "lever"
   },
   {
-   "company": "Datadog",
-   "rank": null,
-   "sector": "Developer Tools",
-   "title": "Software Engineering Intern",
-   "location": "Madrid, Spain",
-   "is_us": false,
-   "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
-   "age_days": 22,
-   "ats": "greenhouse"
-  },
-  {
-   "company": "Datadog",
-   "rank": null,
-   "sector": "Developer Tools",
-   "title": "Software Engineering Intern",
-   "location": "Paris, France",
-   "is_us": false,
-   "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
-   "age_days": 22,
-   "ats": "greenhouse"
-  },
-  {
    "company": "Apple",
    "rank": 4,
    "sector": "Technology",
@@ -2949,6 +2883,28 @@
    "location": "San Francisco, CA \u2022 New York, NY",
    "is_us": true,
    "url": "https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004",
+   "age_days": 23,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Datadog",
+   "rank": null,
+   "sector": "Developer Tools",
+   "title": "Software Engineering Intern",
+   "location": "Paris, France",
+   "is_us": false,
+   "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+   "age_days": 23,
+   "ats": "greenhouse"
+  },
+  {
+   "company": "Datadog",
+   "rank": null,
+   "sector": "Developer Tools",
+   "title": "Software Engineering Intern",
+   "location": "Madrid, Spain",
+   "is_us": false,
+   "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
    "age_days": 23,
    "ats": "greenhouse"
   },
@@ -3041,17 +2997,6 @@
    "ats": "greenhouse"
   },
   {
-   "company": "Zebra Technologies",
-   "rank": null,
-   "sector": "Industrial Technology",
-   "title": "2027 (6-months) Internship (Singapore) - Artificial Intelligence",
-   "location": "Singapore",
-   "is_us": false,
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Artificial-Intelligence_JR103399",
-   "age_days": 25,
-   "ats": "workday"
-  },
-  {
    "company": "Pure Storage",
    "rank": null,
    "sector": "Enterprise Hardware",
@@ -3083,6 +3028,17 @@
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819101003",
    "age_days": 26,
    "ats": "greenhouse"
+  },
+  {
+   "company": "Zebra Technologies",
+   "rank": null,
+   "sector": "Industrial Technology",
+   "title": "2027 (6-months) Internship (Singapore) - Artificial Intelligence",
+   "location": "Singapore",
+   "is_us": false,
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Artificial-Intelligence_JR103399",
+   "age_days": 26,
+   "ats": "workday"
   },
   {
    "company": "Nintendo of America",
@@ -3206,17 +3162,6 @@
    "ats": "custom"
   },
   {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern \u2013 Research and Development \u2013 Vehicle Aerodynamics and Machine Learning",
-   "location": "Warren, Michigan, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746",
-   "age_days": 28,
-   "ats": "workday"
-  },
-  {
    "company": "Coinbase",
    "rank": null,
    "sector": "Financial Technology",
@@ -3325,259 +3270,6 @@
    "url": "https://jobs.apple.com/en-us/details/200689651/subject-matter-expert-data-science-intern",
    "age_days": 29,
    "ats": "custom"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
-   "age_days": 29,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern \u2013 Machine Learning Intern, Autonomous Vehicles: Software Validation (PhD)",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern \u2013 Machine Learning Intern, Autonomous Vehicles: Software Validation (Master's)",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern, Systems Engineer, ASD",
-   "location": "2 Locations",
-   "is_us": null,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Systems-Engineer--ASD_JR-202621989",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern - Digital Product: Software Engineering",
-   "location": "5 Locations",
-   "is_us": null,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern \u2013 AI & Hardware Analytics, ADPT",
-   "location": "2 Locations",
-   "is_us": null,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern- ADAS Software Engineer, ADPT",
-   "location": "2 Locations",
-   "is_us": null,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern,  Data Scaling, Embodied AI",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern, SEAM, Embodied AI (PhD)",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern, SEAM, Embodied AI (Masters)",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern - Digital Product: Embedded and Systems Engineering",
-   "location": "4 Locations",
-   "is_us": null,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern \u2013 AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern, AI/ML Engineer, Mapping (PhD)",
-   "location": "Warren, Michigan, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern \u2013 Autonomous Driving Software Engineer (Bachelor's & Master's)",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern, Onboard Autonomy, Embodied AI (PhD)",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern, AI Research, Embodied AI (PhD)",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern, AI Research, Embodied AI (Masters)",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters)",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern, AI/ML Engineer, Mapping (Masters)",
-   "location": "Warren, Michigan, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
-   "age_days": 30,
-   "ats": "workday"
-  },
-  {
-   "company": "General Motors",
-   "rank": 23,
-   "sector": "Motor Vehicles & Parts",
-   "title": "2027 Summer Intern,  Data Scaling, Embodied AI (Masters)",
-   "location": "Sunnyvale, California, United States of America",
-   "is_us": true,
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540",
-   "age_days": 30,
-   "ats": "workday"
   },
   {
    "company": "TD Synnex",
@@ -4918,7 +4610,7 @@
    "location": "Petaling Jaya, my",
    "is_us": false,
    "url": "https://jobs.smartrecruiters.com/westerndigital/744000141840819",
-   "age_days": 113,
+   "age_days": 114,
    "ats": "smartrecruiters"
   },
   {
@@ -4929,7 +4621,7 @@
    "location": "Petaling Jaya, my",
    "is_us": false,
    "url": "https://jobs.smartrecruiters.com/westerndigital/744000141227773",
-   "age_days": 116,
+   "age_days": 117,
    "ats": "smartrecruiters"
   },
   {

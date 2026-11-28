@@ -2,7 +2,7 @@
 
 Software-engineering **internship** postings (Summer 2027 cycle), pulled straight from the applicant tracking systems of the [2026 Fortune 500](https://fortune.com/ranking/fortune500/2026/) plus a curated list of technology companies outside it.
 
-**501 open postings** (282 in the US) across **92 companies** · last refreshed 2026-11-28 02:53:04 UTC
+**473 open postings** (261 in the US) across **91 companies** · last refreshed 2026-11-28 11:18:12 UTC
 
 Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more were identified but their `robots.txt` disallows crawling, so they are listed as links only. 429 are still unresolved — see [Coverage](#coverage).
 
@@ -32,7 +32,6 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Varda Space Industries** | Site Reliability Internship - Summer 2027 | El Segundo, California, United States | 2d | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8198267003) |
 | — | **MongoDB** | 2027 - AI and People Transformation Intern, NYC | New York City | 2d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8346138) |
 | — | **MongoDB** | 2027 - Software Engineering Intern, AMER | Austin; New York City; San Francisco | 2d | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) |
-| 23 | **General Motors** | 2027 Summer Intern – Software Verification Engineer, AV/AI Platform | Warren, Michigan, United States of America | 3d | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697) |
 | 376 | **Oscar Health** | Software Engineering Intern | New York, New York, United States | 3d | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8407472) |
 | — | **Verkada** | Security Software Engineering Intern 2027 | San Mateo, CA United States | 3d | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5213881007) |
 | 151 | **Jabil** | IT Programmer Analyst Intern | Florence, KY | 4d | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/IT-Programmer-Analyst-Intern_J2472386) |
@@ -122,7 +121,6 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Waymo** | 2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction | Mountain View, CA, USA | 16d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8237997) |
 | — | **Waymo** | 2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training | Mountain View, California, United States | 16d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8283558) |
 | — | **Waymo** | 2027 Summer Intern, PhD, Planner Machine Learning | San Francisco, California | 16d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8234876) |
-| 23 | **General Motors** | 2027 Summer Intern – Machine Learning Engineer, AV/AI Platform | Sunnyvale, California, United States of America | 17d | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695) |
 | — | **Palantir Technologies** | Software Engineer, Internship - Connectivity Platform and Product | Denver, CO | 17d | [Apply](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e) |
 | — | **Skydio** | Hardware In Loop (HIL) Software Engineer Intern - Winter 2027 | San Mateo, California, United States | 17d | [Apply](https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded) |
 | — | **Skydio** | Middleware Software Engineer Intern - Summer 2027 | San Mateo, California, United States | 17d | [Apply](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03) |
@@ -176,30 +174,11 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Nintendo of America** | Intern - Software Engineer, Performance Tools (NTD) | Redmond, WA | 27d | [Apply](https://careers.nintendo.com/?gh_jid=4473568009) |
 | — | **Nintendo of America** | Intern - Software Engineer, Platform Security (NTD) | Redmond, WA | 27d | [Apply](https://careers.nintendo.com/?gh_jid=4469778009) |
 | 1 | **Amazon** | Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027 | Seattle, Washington, USA | 28d | [Apply](https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) |
-| 23 | **General Motors** | 2027 Summer Intern – Research and Development – Vehicle Aerodynamics and Machine Learning | Warren, Michigan, United States of America | 28d | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746) |
 | — | **Coinbase** | Machine Learning Engineer Intern | Hybrid - San Francisco, CA | 28d | [Apply](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
 | — | **Zoox** | PhD Software Engineer Intern, Autonomy Software [Summer 2027] | Foster City, CA | 28d | [Apply](https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877) |
 | — | **Zoox** | Software Engineer Intern, Software Platforms & Product [Summer 2027] | Foster City, CA | 28d | [Apply](https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520) |
 | — | **Zoox** | Software Engineer Intern, Software Systems [Summer 2027] | Foster City, CA | 28d | [Apply](https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20) |
 | 1 | **Amazon** | Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast | Austin, Texas, USA | 29d | [Apply](https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast) |
-| 23 | **General Motors** | 2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles | Sunnyvale, California, United States of America | 29d | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439) |
-| 23 | **General Motors** | 2027 Summer Intern – Machine Learning Intern, Autonomous Vehicles: Software Validation (PhD) | Sunnyvale, California, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649) |
-| 23 | **General Motors** | 2027 Summer Intern – Machine Learning Intern, Autonomous Vehicles: Software Validation (Master's) | Sunnyvale, California, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655) |
-| 23 | **General Motors** | 2027 Summer Intern,  Data Scaling, Embodied AI | Sunnyvale, California, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132) |
-| 23 | **General Motors** | 2027 Summer Intern, SEAM, Embodied AI (PhD) | Sunnyvale, California, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143) |
-| 23 | **General Motors** | 2027 Summer Intern, SEAM, Embodied AI (Masters) | Sunnyvale, California, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537) |
-| 23 | **General Motors** | 2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation | Sunnyvale, California, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508) |
-| 23 | **General Motors** | 2027 Summer Intern – AI/ML Engineer, Autonomous Vehicles: Simulation (PhD) | Sunnyvale, California, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511) |
-| 23 | **General Motors** | 2027 Summer Intern, AI/ML Engineer, Mapping (PhD) | Warren, Michigan, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778) |
-| 23 | **General Motors** | 2027 Summer Intern – Autonomous Driving Software Engineer (Bachelor's & Master's) | Sunnyvale, California, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064) |
-| 23 | **General Motors** | 2027 Summer Intern, Onboard Autonomy, Embodied AI (PhD) | Sunnyvale, California, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135) |
-| 23 | **General Motors** | 2027 Summer Intern, AI Research, Embodied AI (PhD) | Sunnyvale, California, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146) |
-| 23 | **General Motors** | 2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure | Sunnyvale, California, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410) |
-| 23 | **General Motors** | 2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles | Sunnyvale, California, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406) |
-| 23 | **General Motors** | 2027 Summer Intern, AI Research, Embodied AI (Masters) | Sunnyvale, California, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535) |
-| 23 | **General Motors** | 2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters) | Sunnyvale, California, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543) |
-| 23 | **General Motors** | 2027 Summer Intern, AI/ML Engineer, Mapping (Masters) | Warren, Michigan, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539) |
-| 23 | **General Motors** | 2027 Summer Intern,  Data Scaling, Embodied AI (Masters) | Sunnyvale, California, United States of America | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540) |
 | — | **Virtu Financial** | 2027 Internship - Frontend Engineer (UI) | New York | 1mo | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
 | — | **Figma** | PhD Intern, Security Engineer (2027) | San Francisco, CA • New York, NY | 1mo | [Apply](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) |
 | — | **Figma** | Data Engineer Intern (2027) | San Francisco, CA • New York, NY | 1mo | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) |
@@ -296,7 +275,7 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Palantir Technologies** | Software Engineer, Internship | Palo Alto, CA | 65mo | [Apply](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) |
 
 <details>
-<summary>International (210) and unstated location (9)</summary>
+<summary>International (209) and unstated location (3)</summary>
 
 ### International
 
@@ -358,15 +337,15 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Stripe** | Software Engineer, Intern (Summer) | Toronto | 8d | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) |
 | — | **Samsara** | Software Engineering Internship - San Francisco | San Francisco - SF9 | 8d | [Apply](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) |
 | 4 | **Apple** | Software Engineering Intern (Full-Stack & AI Integration) - Shanghai | China | 9d | [Apply](https://jobs.apple.com/en-us/details/200695373/software-engineering-intern-full-stack-ai-integration-shanghai) |
-| 432 | **Western Digital** | Spring 2027 Intern - Software Engineering | Irvine, us | 9d | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000162353069) |
 | — | **Scale AI** | Software Engineering Intern (Summer 2027) | Doha, Qatar | 9d | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) |
 | — | **Tower Research Capital** | Stagiaire en machine learning / Machine Learning Intern | Montreal | 9d | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) |
 | — | **Zynga** | Software Engineer Intern (Two Dots) - Socialpoint Studio | Barcelona, Spain | 9d | [Apply](https://job-boards.greenhouse.io/zyngacareers/jobs/6217991004) |
 | 4 | **Apple** | Software Engineering Intern, File Previewing & Editing (Quick Look and Preview) | France | 10d | [Apply](https://jobs.apple.com/en-us/details/200695428/software-engineering-intern-file-previewing-editing-quick-look-and-preview) |
 | 4 | **Apple** | Cellular RF Receiver System Engineer Intern | Austria | 10d | [Apply](https://jobs.apple.com/en-us/details/200695289/cellular-rf-receiver-system-engineer-intern) |
 | 119 | **Visa** | Software Engineer Intern | PL - Warsaw, Poland | 10d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/PL---Warsaw-Poland/Software-Engineer-Intern_REF089675W-1) |
-| 432 | **Western Digital** | Internship - Software Development (Embedded) | Petaling Jaya, my | 10d | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000161997959) |
+| 432 | **Western Digital** | Spring 2027 Intern - Software Engineering | Irvine, us | 10d | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000162353069) |
 | — | **Point72** | 2027 MI Data Research & AI Intern - APAC | Hong Kong, Singapore, Japan | 10d | [Apply](https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002) |
+| 432 | **Western Digital** | Internship - Software Development (Embedded) | Petaling Jaya, my | 11d | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000161997959) |
 | — | **Brex** | Software Engineer, Internship - 2027 | São Paulo, São Paulo, Brazil | 11d | [Apply](https://www.brex.com/careers/8935242002?gh_jid=8935242002) |
 | 244 | **Steel Dynamics** | Software Engineer Intern (Summer 2027) | Toronto | 12d | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c) |
 | — | **Coinbase** | Software Engineer Intern | Hybrid - Singapore | 14d | [Apply](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) |
@@ -389,7 +368,6 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Waymo** | 2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation) | Warsaw, Poland | 16d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8214729) |
 | — | **Waymo** | 2027 Summer Intern, PhD, Machine Learning, Simulation Realism | London, England, United Kingdom | 16d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8265868) |
 | 4 | **Apple** | RFHW Systems Engineer Intern - Shanghai or Shenzhen | China | 17d | [Apply](https://jobs.apple.com/en-us/details/200694023/rfhw-systems-engineer-intern-shanghai-or-shenzhen) |
-| 432 | **Western Digital** | Summer 2027 Intern - Software Engineering | San Jose, us | 17d | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000160975819) |
 | — | **Etched** | Chip Simulation Software Intern | San Jose | 17d | [Apply](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) |
 | — | **Lyft** | Business Systems Engineer Intern, Finance Technology (Summer 2027) | Toronto, Canada | 17d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002) |
 | — | **Lyft** | Data Engineer Intern (Summer 2027) | Toronto, Canada | 17d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) |
@@ -402,13 +380,13 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Lyft** | Software Engineer Intern, Fullstack (Summer 2027 - Toronto) | Toronto, Canada | 17d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002) |
 | — | **Lyft** | Software Engineer Intern, Machine Learning (Summer 2027 - Toronto) | Toronto, Canada | 17d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) |
 | — | **Lyft** | Software Engineer Intern, Test Automation (Summer 2027) | Montreal, Canada | 17d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) |
-| 23 | **General Motors** | AI Researcher (AV) Internship (PhD Student) | Herzliya, Tel Aviv District, Israel | 18d | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Herzliya-Tel-Aviv-District-Israel/AI-Researcher--AV--Internship--PhD-Student-_JR-202623638) |
-| — | **Cloudflare** | Software Engineer Intern (2027) | In-Office | 18d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197) |
-| — | **Cloudflare** | Software Engineer Intern (2027) - Austin, TX | In-Office | 18d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958) |
-| — | **Cloudflare** | Software Engineer Intern (2027) - London, UK | In-Office | 18d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211) |
-| — | **Cloudflare Zero Trust** | Software Engineer Intern (2027) | In-Office | 18d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197) |
-| — | **Cloudflare Zero Trust** | Software Engineer Intern (2027) - Austin, TX | In-Office | 18d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958) |
-| — | **Cloudflare Zero Trust** | Software Engineer Intern (2027) - London, UK | In-Office | 18d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211) |
+| 432 | **Western Digital** | Summer 2027 Intern - Software Engineering | San Jose, us | 18d | [Apply](https://jobs.smartrecruiters.com/westerndigital/744000160975819) |
+| — | **Cloudflare** | Software Engineer Intern (2027) | In-Office | 19d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197) |
+| — | **Cloudflare** | Software Engineer Intern (2027) - Austin, TX | In-Office | 19d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958) |
+| — | **Cloudflare** | Software Engineer Intern (2027) - London, UK | In-Office | 19d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211) |
+| — | **Cloudflare Zero Trust** | Software Engineer Intern (2027) | In-Office | 19d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197) |
+| — | **Cloudflare Zero Trust** | Software Engineer Intern (2027) - Austin, TX | In-Office | 19d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958) |
+| — | **Cloudflare Zero Trust** | Software Engineer Intern (2027) - London, UK | In-Office | 19d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211) |
 | 1 | **Amazon** | Cloud Hardware Dev Engineer Intern | Hsinchu City, TWN | 21d | [Apply](https://www.amazon.jobs/en/jobs/10598506/cloud-hardware-dev-engineer-intern) |
 | 1 | **Amazon** | Cloud Hardware Dev Engineer Intern | Taipei City, TWN | 21d | [Apply](https://www.amazon.jobs/en/jobs/10598501/cloud-hardware-dev-engineer-intern) |
 | 4 | **Apple** | Apple Applied AI & Software Engineering Intern (Finance GBS) - Shanghai | China | 21d | [Apply](https://jobs.apple.com/en-us/details/200691508/apple-applied-ai-software-engineering-intern-finance-gbs-shanghai) |
@@ -416,16 +394,16 @@ Coverage: 513 of 987 companies have a machine-readable feed we query. 45 more we
 | — | **Match Group** | Data Science Internship | Ghent, Belgium | 21d | [Apply](https://jobs.lever.co/matchgroup/72a9642b-a289-4c49-bc9b-53880c1dc870) |
 | — | **Mistral AI** | AI Scientist - (Internship, Masters or Phd) | Paris | 21d | [Apply](https://jobs.ashbyhq.com/mistral.ai/f7245b49-92a0-4111-bba1-343183de7d97) |
 | — | **Palantir Technologies** | Software Engineer, Internship - Sovereign AI Systems | London, United Kingdom | 22d | [Apply](https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e) |
-| — | **Datadog** | Software Engineering Intern | Madrid, Spain | 22d | [Apply](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) |
-| — | **Datadog** | Software Engineering Intern | Paris, France | 22d | [Apply](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186) |
 | 4 | **Apple** | Software Engineer Intern (Full-Stack & AI Agents) - Shanghai | China | 23d | [Apply](https://jobs.apple.com/en-us/details/200690042/software-engineer-intern-full-stack-ai-agents-shanghai) |
 | — | **Etched** | IA Research Engineer Intern | San Jose | 23d | [Apply](https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440) |
+| — | **Datadog** | Software Engineering Intern | Paris, France | 23d | [Apply](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186) |
+| — | **Datadog** | Software Engineering Intern | Madrid, Spain | 23d | [Apply](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) |
 | — | **Together AI** | Technical Writer Intern, Developer Experience (Summer 2027) | San Francisco | 24d | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) |
 | — | **Geneva Trading** | C++ Developer (Intern) | Chicago Office | 24d | [Apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) |
 | 4 | **Apple** | AI Research Intern - Foundation Models & Multimodal Intelligence | Switzerland | 25d | [Apply](https://jobs.apple.com/en-us/details/200692868/ai-research-intern-foundation-models-multimodal-intelligence) |
 | 4 | **Apple** | Internship -  Machine Learning Research (recurrent models \| generative models \|  interpretability) | Spain | 25d | [Apply](https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability) |
-| — | **Zebra Technologies** | 2027 (6-months) Internship (Singapore) - Artificial Intelligence | Singapore | 25d | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Artificial-Intelligence_JR103399) |
 | — | **Rocket Lab** | Supplier Quality Engineer Intern | Auckland, NZ | 26d | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7819101003) |
+| — | **Zebra Technologies** | 2027 (6-months) Internship (Singapore) - Artificial Intelligence | Singapore | 26d | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Artificial-Intelligence_JR103399) |
 | 1 | **Amazon** | Business Developer Intern, Early Careers 2027 | London, England, GBR | 28d | [Apply](https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027) |
 | 1 | **Amazon** | Business Developer Intern, Early Careers 2027 | Munich, Bavaria, DEU | 28d | [Apply](https://www.amazon.jobs/en/jobs/10593299/business-developer-intern-early-careers-2027) |
 | — | **Tower Research Capital** | Software Engineer, C++ - 6 Month Internship Opportunity | Singapore | 28d | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8299894) |
@@ -519,12 +497,6 @@ _Usually a multi-site requisition; open the posting to see where._
 
 | # | Company | Role | Location | Age | |
 |---|---------|------|----------|-----|-|
-| 23 | **General Motors** | 2027 Summer Intern – Software Engineer, AV/AI Platform | 3 Locations | 3d | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696) |
-| 23 | **General Motors** | 2027 Summer Intern, Systems Engineer, ASD | 2 Locations | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Systems-Engineer--ASD_JR-202621989) |
-| 23 | **General Motors** | 2027 Summer Intern - Digital Product: Software Engineering | 5 Locations | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546) |
-| 23 | **General Motors** | 2027 Summer Intern – AI & Hardware Analytics, ADPT | 2 Locations | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) |
-| 23 | **General Motors** | 2027 Summer Intern- ADAS Software Engineer, ADPT | 2 Locations | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820) |
-| 23 | **General Motors** | 2027 Summer Intern - Digital Product: Embedded and Systems Engineering | 4 Locations | 1mo | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513) |
 | 74 | **TD Synnex** | Summer 2027 Internship Program \| Technical, Applied Innovation Track: • Information Technology • Systems and Cloud • Artificial Intelligence | 2 Locations | 1mo | [Apply](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Greenville-SC/Summer-2027-Internship-Program---Technical--Applied-Innovation-Track----Information-Technology---Supply-Chain---Systems-and-Cloud---Artificial-Intelligence_R56571) |
 | — | **SiFive** | Intern - Design Verification Infrastructure Engineer - Platform | 4 Locations | — | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Santa-Clara-California-United-States/Intern---Design-Verification-Infrastructure-Engineer---Platform_R-101291-1) |
 | — | **SiFive** | Intern - Design Verification Infrastructure Engineer - Platform | 4 Locations | — | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Santa-Clara-California-United-States/Intern---Design-Verification-Infrastructure-Engineer---Platform_R-101292) |
